@@ -279,6 +279,26 @@ def _derive_water_type(row) -> str:
     return parts[0]
 
 
+def _load_chinese_names() -> pd.DataFrame:
+    """Load Mandarin Chinese common names from FishBase comnames, decode HTML entities."""
+    import html as html_mod
+    import re
+    path = ROOT / "data" / "raw" / "fishbase" / "comnames.parquet"
+    if not path.exists():
+        return pd.DataFrame(columns=["fishbase_spec_code", "name_zh"])
+    cn = pd.read_parquet(path)
+    cn = cn[cn["Language"] == "Mandarin Chinese"].copy()
+    cn["decoded"] = cn["ComName"].apply(lambda x: html_mod.unescape(str(x)) if pd.notna(x) else "")
+    # Keep only entries with actual CJK characters
+    cn["has_cjk"] = cn["decoded"].apply(lambda x: bool(re.search(r"[\u4e00-\u9fff]", x)))
+    cn = cn[cn["has_cjk"]]
+    cn["fishbase_spec_code"] = pd.to_numeric(cn["SpecCode"], errors="coerce")
+    cn = cn.dropna(subset=["fishbase_spec_code"])
+    cn["fishbase_spec_code"] = cn["fishbase_spec_code"].astype(int)
+    cn = cn.drop_duplicates(subset=["fishbase_spec_code"], keep="first")
+    return cn[["fishbase_spec_code", "decoded"]].rename(columns={"decoded": "name_zh"})
+
+
 def enrich_with_fishbase(occurrences: pd.DataFrame, fishbase_species: pd.DataFrame) -> pd.DataFrame:
     """Left-join FishBase metadata onto occurrences by scientific name."""
     fb = fishbase_species.copy()
@@ -294,6 +314,8 @@ def enrich_with_fishbase(occurrences: pd.DataFrame, fishbase_species: pd.DataFra
         "SpecCode": "fishbase_spec_code",
         "Vulnerability": "vulnerability",
         "DepthRangeDeep": "depth_max",
+        "Length": "max_length_cm",
+        "Weight": "max_weight_kg",
     })
     fb["thumb"] = fb["PicPreferredName"].apply(
         lambda x: f"tn_{x}" if pd.notna(x) else None
@@ -301,12 +323,23 @@ def enrich_with_fishbase(occurrences: pd.DataFrame, fishbase_species: pd.DataFra
     fb["water_type"] = fb.apply(_derive_water_type, axis=1)
 
     keep_cols = ["scientific_name", "common_name", "fishbase_spec_code", "thumb",
-                 "vulnerability", "depth_max", "water_type"]
+                 "vulnerability", "depth_max", "water_type", "max_length_cm", "max_weight_kg"]
     fb = fb[keep_cols].drop_duplicates(subset=["scientific_name"], keep="first")
 
     result = occurrences.merge(fb, on="scientific_name", how="left")
     # Fill common name from scientific name if no FishBase match
     result["common_name"] = result["common_name"].fillna(result["scientific_name"])
+
+    # Chinese names
+    zh_names = _load_chinese_names()
+    if len(zh_names) > 0:
+        result["fishbase_spec_code"] = pd.to_numeric(result["fishbase_spec_code"], errors="coerce")
+        result = result.merge(zh_names, on="fishbase_spec_code", how="left")
+        zh_count = result["name_zh"].notna().sum()
+        print(f"  Chinese names matched: {zh_count:,} points ({result['name_zh'].notna().mean()*100:.0f}%)")
+    else:
+        result["name_zh"] = None
+
     return result
 
 
@@ -383,10 +416,14 @@ def generate_species_details(df: pd.DataFrame, output_dir: Path):
     detail_df = df.drop_duplicates(subset=["id"], keep="first")
     count = 0
     for _, row in detail_df.iterrows():
+        name_zh = row.get("name_zh")
+        if pd.isna(name_zh):
+            name_zh = None
+
         detail = {
             "id": str(row["id"]),
             "name": row.get("name") or row.get("scientific_name", ""),
-            "nameZh": row.get("name_zh"),
+            "nameZh": name_zh,
             "scientificName": row.get("scientific_name", ""),
             "family": row.get("family"),
             "description": row.get("description"),
@@ -398,6 +435,8 @@ def generate_species_details(df: pd.DataFrame, output_dir: Path):
             "metadata": {
                 "habitat": row.get("water_type"),
                 "depth": f"0-{int(row['depth_max'])} m" if pd.notna(row.get("depth_max")) else None,
+                "maxLength": f"{int(row['max_length_cm'])} cm" if pd.notna(row.get("max_length_cm")) else None,
+                "maxWeight": f"{row['max_weight_kg']:.1f} kg" if pd.notna(row.get("max_weight_kg")) else None,
                 "rarity": {1: "Common", 2: "Uncommon", 3: "Rare", 4: "Legendary"}.get(row.get("rarity")),
                 "vulnerability": row.get("vulnerability"),
             },
@@ -534,6 +573,8 @@ def run_process():
     enriched["bodyGroup"] = enriched["body_group"]
     enriched["bodyType"] = enriched["body_type"]
     enriched["rarity"] = enriched.get("rarity", 1)  # default Common
+    # Size in cm (numeric, for sorting cluster representatives)
+    enriched["size"] = pd.to_numeric(enriched.get("max_length_cm"), errors="coerce").fillna(0).astype(int)
 
     # 8. Load sprite manifest and resolve sprites
     print("Resolving sprites...")
@@ -552,9 +593,9 @@ def run_process():
         enriched,
         OUTPUT_DIR,
         filter_agg_keys=["waterType", "bodyGroup"],
-        top_items_fields=["id", "name", "thumb", "sprite", "group"],
+        top_items_fields=["id", "name", "nameZh", "thumb", "sprite", "group", "size"],
         point_fields=["id", "lat", "lng", "name", "nameZh", "thumb", "sprite",
-                       "group", "rarity", "waterType", "precision"],
+                       "group", "rarity", "waterType", "size", "precision"],
         group_distribution_key="group",
     )
     print(f"  Tiles: {tile_stats}")
