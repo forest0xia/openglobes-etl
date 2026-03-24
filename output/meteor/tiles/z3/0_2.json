@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 0, "y": 2, "clusters": [{"lat": 62.1, "lng": -147.77, "count": 6, "topItems": [{"id": "393", "name": "Aggie Creek", "thumb": ""}, {"id": "5351", "name": "Chilkoot", "thumb": ""}, {"id": "5396", "name": "Cold Bay", "thumb": ""}], "filterAggs": {"fall": {"Found": 6}, "massRange": {"10-100kg": 3, "100g-1kg": 2, "1-10kg": 1, "<100g": 0, ">100kg": 0}}}]}

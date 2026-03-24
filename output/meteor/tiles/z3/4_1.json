@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 4, "y": 1, "clusters": [{"lat": 68.2, "lng": 25.18, "count": 3, "topItems": [{"id": "10103", "name": "Finmarken", "thumb": ""}, {"id": "16873", "name": "Muonionalusta", "thumb": ""}, {"id": "23110", "name": "Salla", "thumb": ""}], "filterAggs": {"fall": {"Found": 3}, "massRange": {"1-10kg": 1, "10-100kg": 1, ">100kg": 1, "<100g": 0, "100g-1kg": 0}}}]}

@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 2, "y": 5, "clusters": [{"lat": -44.16, "lng": -68.1, "count": 7, "topItems": [{"id": "24140", "name": "Uzcudun", "thumb": ""}, {"id": "5263", "name": "Caperr", "thumb": ""}, {"id": "7817", "name": "El Sampal", "thumb": ""}], "filterAggs": {"fall": {"Found": 6, "Fell": 1}, "massRange": {"10-100kg": 3, ">100kg": 3, "1-10kg": 1, "<100g": 0, "100g-1kg": 0}}}]}

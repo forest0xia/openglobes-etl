@@ -1,0 +1,1 @@
+{"zoom": 2, "x": 2, "y": 2, "clusters": [{"lat": -6.89, "lng": 32.7, "count": 323, "topItems": [{"id": "5023", "name": "Benoni", "thumb": ""}, {"id": "5338", "name": "Chela", "thumb": ""}, {"id": "5355", "name": "Chisenga", "thumb": ""}], "filterAggs": {"fall": {"Found": 273, "Fell": 50}, "massRange": {"<100g": 220, "100g-1kg": 36, "1-10kg": 31, "10-100kg": 22, ">100kg": 11}}}]}

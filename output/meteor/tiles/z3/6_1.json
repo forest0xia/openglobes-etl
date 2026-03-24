@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 6, "y": 1, "clusters": [{"lat": 68.0, "lng": 128.3, "count": 1, "topItems": [{"id": "30405", "name": "Zhigansk", "thumb": ""}], "filterAggs": {"fall": {"Found": 1}, "massRange": {">100kg": 1, "<100g": 0, "100g-1kg": 0, "1-10kg": 0, "10-100kg": 0}}}]}

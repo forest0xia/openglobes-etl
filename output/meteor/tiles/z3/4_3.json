@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 4, "y": 3, "clusters": [{"lat": 27.16, "lng": 12.72, "count": 2236, "topItems": [{"id": "424", "name": "Aïr", "thumb": ""}, {"id": "426", "name": "Akaba", "thumb": ""}, {"id": "432", "name": "Akwanga", "thumb": ""}], "filterAggs": {"fall": {"Found": 2141, "Fell": 95}, "massRange": {"100g-1kg": 1299, "<100g": 485, "1-10kg": 374, "10-100kg": 64, ">100kg": 10}}}]}

@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 7, "y": 5, "clusters": [{"lat": -43.0, "lng": 164.5, "count": 7, "topItems": [{"id": "5077", "name": "Blue Tier", "thumb": ""}, {"id": "5294", "name": "Castray River", "thumb": ""}, {"id": "7748", "name": "Dunganville", "thumb": ""}], "filterAggs": {"fall": {"Found": 7}, "massRange": {"1-10kg": 4, "10-100kg": 2, "<100g": 1, "100g-1kg": 0, ">100kg": 0}}}]}

@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 7, "y": 3, "clusters": [{"lat": 36.73, "lng": 138.5, "count": 36, "topItems": [{"id": "2313", "name": "Aomori", "thumb": ""}, {"id": "10914", "name": "Gifu", "thumb": ""}, {"id": "11468", "name": "Hachi-oji", "thumb": ""}], "filterAggs": {"fall": {"Fell": 27, "Found": 9}, "massRange": {"100g-1kg": 17, "1-10kg": 7, "10-100kg": 6, "<100g": 4, ">100kg": 2}}}]}

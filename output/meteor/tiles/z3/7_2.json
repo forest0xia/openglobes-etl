@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 7, "y": 2, "clusters": [{"lat": 61.79, "lng": 150.41, "count": 12, "topItems": [{"id": "17960", "name": "Numakai", "thumb": ""}, {"id": "18019", "name": "Omolon", "thumb": ""}, {"id": "5168", "name": "Burgavli", "thumb": ""}], "filterAggs": {"fall": {"Found": 10, "Fell": 2}, "massRange": {"10-100kg": 4, "100g-1kg": 3, "1-10kg": 2, ">100kg": 2, "<100g": 1}}}]}

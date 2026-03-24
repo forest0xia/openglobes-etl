@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 2, "y": 2, "clusters": [{"lat": 43.49, "lng": -79.69, "count": 67, "topItems": [{"id": "2276", "name": "Allegan", "thumb": ""}, {"id": "2295", "name": "Andover", "thumb": ""}, {"id": "5026", "name": "Benton", "thumb": ""}], "filterAggs": {"fall": {"Found": 40, "Fell": 27}, "massRange": {"1-10kg": 23, "10-100kg": 18, "100g-1kg": 16, "<100g": 7, ">100kg": 3}}}]}

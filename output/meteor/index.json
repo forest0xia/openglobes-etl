@@ -1,0 +1,40 @@
+{
+  "globeId": "meteor",
+  "version": "1.0.0",
+  "totalItems": 32187,
+  "lastUpdated": "2026-03-19",
+  "tileZoomRange": [
+    0,
+    7
+  ],
+  "filters": [
+    {
+      "key": "fall",
+      "label": "Discovery",
+      "type": "chips",
+      "options": [
+        "Fell",
+        "Found"
+      ]
+    },
+    {
+      "key": "massRange",
+      "label": "Mass",
+      "type": "chips",
+      "options": [
+        "<100g",
+        "100g-1kg",
+        "1-10kg",
+        "10-100kg",
+        ">100kg"
+      ]
+    }
+  ],
+  "attribution": [
+    {
+      "name": "NASA",
+      "license": "Public Domain",
+      "url": "https://data.nasa.gov"
+    }
+  ]
+}

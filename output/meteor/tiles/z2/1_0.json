@@ -1,0 +1,1 @@
+{"zoom": 2, "x": 1, "y": 0, "clusters": [{"lat": 76.68, "lng": -51.65, "count": 4, "topItems": [{"id": "5262", "name": "Cape York", "thumb": ""}, {"id": "10018", "name": "Ella Island", "thumb": ""}, {"id": "22790", "name": "Ryder Gletcher", "thumb": ""}], "filterAggs": {"fall": {"Found": 4}, "massRange": {"1-10kg": 2, "10-100kg": 1, ">100kg": 1, "<100g": 0, "100g-1kg": 0}}}]}

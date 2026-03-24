@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 2, "y": 1, "clusters": [{"lat": 76.33, "lng": -66.24, "count": 2, "topItems": [{"id": "5262", "name": "Cape York", "thumb": ""}, {"id": "23977", "name": "Thule", "thumb": ""}], "filterAggs": {"fall": {"Found": 2}, "massRange": {"10-100kg": 1, ">100kg": 1, "<100g": 0, "100g-1kg": 0, "1-10kg": 0}}}]}

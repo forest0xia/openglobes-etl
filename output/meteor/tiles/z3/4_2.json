@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 4, "y": 2, "clusters": [{"lat": 51.15, "lng": 16.6, "count": 452, "topItems": [{"id": "1", "name": "Aachen", "thumb": ""}, {"id": "2", "name": "Aarhus", "thumb": ""}, {"id": "392", "name": "Agen", "thumb": ""}], "filterAggs": {"fall": {"Fell": 278, "Found": 174}, "massRange": {"1-10kg": 156, "10-100kg": 80, "100g-1kg": 79, "<100g": 35, ">100kg": 24}}}]}

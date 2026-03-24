@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 1, "y": 2, "clusters": [{"lat": 45.99, "lng": -105.21, "count": 151, "topItems": [{"id": "6", "name": "Abee", "thumb": ""}, {"id": "4974", "name": "Bath", "thumb": ""}, {"id": "4986", "name": "Beaver Creek", "thumb": ""}], "filterAggs": {"fall": {"Found": 124, "Fell": 27}, "massRange": {"1-10kg": 57, "10-100kg": 51, "100g-1kg": 17, ">100kg": 14, "<100g": 12}}}]}

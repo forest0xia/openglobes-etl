@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 7, "y": 1, "clusters": [{"lat": 68.44, "lng": 164.47, "count": 6, "topItems": [{"id": "472", "name": "Aliskerovo", "thumb": ""}, {"id": "2312", "name": "Anyujskij", "thumb": ""}, {"id": "5046", "name": "Bilibino", "thumb": ""}], "filterAggs": {"fall": {"Found": 6}, "massRange": {"1-10kg": 3, "10-100kg": 2, ">100kg": 1, "<100g": 0, "100g-1kg": 0}}}]}

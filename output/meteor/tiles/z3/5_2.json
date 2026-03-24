@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 5, "y": 2, "clusters": [{"lat": 52.45, "lng": 65.66, "count": 82, "topItems": [{"id": "4947", "name": "Barnaul", "thumb": ""}, {"id": "5112", "name": "Boriskino", "thumb": ""}, {"id": "5140", "name": "Brient", "thumb": ""}], "filterAggs": {"fall": {"Found": 49, "Fell": 33}, "massRange": {"1-10kg": 32, "10-100kg": 20, "100g-1kg": 14, ">100kg": 13, "<100g": 2}}}]}
