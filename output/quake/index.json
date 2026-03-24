@@ -1,0 +1,39 @@
+{
+  "globeId": "quake",
+  "version": "1.0.0",
+  "totalItems": 14431,
+  "lastUpdated": "2026-03-19",
+  "tileZoomRange": [
+    0,
+    7
+  ],
+  "filters": [
+    {
+      "key": "magRange",
+      "label": "Magnitude",
+      "type": "chips",
+      "options": [
+        "6.0-6.4",
+        "6.5-6.9",
+        "7.0-7.4",
+        "7.5-7.9",
+        "8.0+"
+      ]
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "type": "range",
+      "min": 0,
+      "max": 700,
+      "unit": "km"
+    }
+  ],
+  "attribution": [
+    {
+      "name": "USGS",
+      "license": "Public Domain",
+      "url": "https://earthquake.usgs.gov"
+    }
+  ]
+}
