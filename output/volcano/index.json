@@ -1,0 +1,54 @@
+{
+  "globeId": "volcano",
+  "version": "1.0.0",
+  "totalItems": 1222,
+  "lastUpdated": "2026-03-19",
+  "tileZoomRange": [
+    0,
+    7
+  ],
+  "filters": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "chips",
+      "options": [
+        "",
+        "Caldera",
+        "Caldera(s)",
+        "Complex",
+        "Compound",
+        "Cone",
+        "Crater rows",
+        "Explosion crater(s)",
+        "Fissure vent",
+        "Fissure vent(s)",
+        "Lava cone",
+        "Lava cone(es)",
+        "Lava dome",
+        "Lava dome(s)",
+        "Maar",
+        "Maar(s)",
+        "Pyroclastic cone",
+        "Pyroclastic cone(s)",
+        "Shield",
+        "Shield(pyroclastic)",
+        "Shield(s)",
+        "Stratovolcano",
+        "Stratovolcano(es)",
+        "Stratovolcano?",
+        "Tuff cone",
+        "Tuff cone(s)",
+        "Tuff ring(s)",
+        "Volcanic field"
+      ]
+    }
+  ],
+  "attribution": [
+    {
+      "name": "Smithsonian GVP",
+      "license": "CC-BY-NC",
+      "url": "https://volcano.si.edu"
+    }
+  ]
+}
