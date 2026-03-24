@@ -1,0 +1,1 @@
+{"zoom": 3, "x": 0, "y": 5, "clusters": [{"lat": -43.75, "lng": -176.67, "count": 8, "topItems": [{"id": "560948", "name": "Theropoda", "thumb": ""}, {"id": "560950", "name": "Dinosauria", "thumb": ""}, {"id": "560952", "name": "Coelurosauria", "thumb": ""}], "filterAggs": {"era": {"Cretaceous": 8}, "type": {"Theropod": 4, "Marine Reptile": 2, "Other": 2}}}]}

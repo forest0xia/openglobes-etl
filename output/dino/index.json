@@ -1,0 +1,77 @@
+{
+  "globeId": "dino",
+  "version": "1.0.0",
+  "totalItems": 22930,
+  "lastUpdated": "2026-03-19",
+  "tileZoomRange": [
+    0,
+    7
+  ],
+  "filters": [
+    {
+      "key": "era",
+      "label": "Era",
+      "type": "chips",
+      "options": [
+        "Triassic",
+        "Jurassic",
+        "Cretaceous"
+      ]
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "chips",
+      "options": [
+        "Theropod",
+        "Sauropod",
+        "Ornithischian",
+        "Marine Reptile",
+        "Pterosaur",
+        "Other"
+      ]
+    },
+    {
+      "key": "early_age",
+      "label": "Age (Ma)",
+      "type": "range",
+      "min": 0,
+      "max": 252,
+      "unit": "Ma"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "chips",
+      "options": [
+        "US",
+        "CA",
+        "CN",
+        "ES",
+        "MN",
+        "AR",
+        "UK",
+        "FR",
+        "BR",
+        "AU",
+        "MX",
+        "PT",
+        "MA",
+        "UZ",
+        "KR",
+        "IN",
+        "TZ",
+        "RO",
+        "ZA",
+        "DE"
+      ]
+    }
+  ],
+  "attribution": [
+    {
+      "name": "Paleobiology Database",
+      "license": "CC-BY 4.0",
+      "url": "https://paleobiodb.org"
+    }
+  ]
+}

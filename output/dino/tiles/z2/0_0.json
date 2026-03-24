@@ -1,0 +1,1 @@
+{"zoom": 2, "x": 0, "y": 0, "clusters": [{"lat": 70.2, "lng": -140.98, "count": 60, "topItems": [{"id": "373401", "name": "Dinosauria", "thumb": ""}, {"id": "382613", "name": "Hesperornis", "thumb": ""}, {"id": "382951", "name": "Hesperornis", "thumb": ""}], "filterAggs": {"era": {"Cretaceous": 60}, "type": {"Theropod": 39, "Ornithischian": 19, "Marine Reptile": 2}}}]}
