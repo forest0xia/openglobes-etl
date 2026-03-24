@@ -1,0 +1,1702 @@
+{
+  "version": "1.0.0",
+  "glowDefaults": {
+    "color": "#00E5FF",
+    "blur": "4px",
+    "note": "Apply via CSS filter: drop-shadow(0 0 {blur} {color})"
+  },
+  "bodyTypes": [
+    "fusiform",
+    "flat",
+    "elongated",
+    "deep-bodied",
+    "seahorse",
+    "globular",
+    "cetacean",
+    "crustacean",
+    "cephalopod",
+    "jellyfish"
+  ],
+  "sprites": {
+    "acanthurus_albimento": {
+      "file": "sp-acanthurus_albimento.png",
+      "name": "Acanthurus albimento",
+      "scientificName": "Acanthurus albimento",
+      "group": "surgeonfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "actiniidae": {
+      "file": "sp-actiniidae.png",
+      "name": "Actiniidae",
+      "scientificName": "Actiniidae",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "african_lungfish": {
+      "file": "sp-african_lungfish.png",
+      "name": "African lungfish",
+      "scientificName": "African lungfish",
+      "group": "lungfish",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "american_lobster": {
+      "file": "sp-american_lobster.png",
+      "name": "American lobster",
+      "scientificName": "American lobster",
+      "group": "crab_lobster",
+      "bodyType": "crustacean",
+      "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "anarchias": {
+      "file": "sp-anarchias.png",
+      "name": "Anarchias",
+      "scientificName": "Anarchias",
+      "group": "moray",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "anchoviella_juruasanga": {
+      "file": "sp-anchoviella_juruasanga.png",
+      "name": "Anchoviella juruasanga",
+      "scientificName": "Anchoviella juruasanga",
+      "group": "anchovy",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "antarctic_krill": {
+      "file": "sp-antarctic_krill.png",
+      "name": "Antarctic krill",
+      "scientificName": "Antarctic krill",
+      "group": "shrimp",
+      "bodyType": "crustacean",
+      "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "arctogadus": {
+      "file": "sp-arctogadus.png",
+      "name": "Arctogadus",
+      "scientificName": "Arctogadus",
+      "group": "cod",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "astyanax": {
+      "file": "sp-astyanax.png",
+      "name": "Astyanax",
+      "scientificName": "Astyanax",
+      "group": "piranha",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "atlantic_cod": {
+      "file": "sp-atlantic_cod.png",
+      "name": "Atlantic cod",
+      "scientificName": "Atlantic cod",
+      "group": "cod",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "atlantic_hagfish": {
+      "file": "sp-atlantic_hagfish.png",
+      "name": "Atlantic hagfish",
+      "scientificName": "Atlantic hagfish",
+      "group": "hagfish",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "atlantic_halibut": {
+      "file": "sp-atlantic_halibut.png",
+      "name": "Atlantic halibut",
+      "scientificName": "Atlantic halibut",
+      "group": "flatfish",
+      "bodyType": "flat",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "atlantic_herring": {
+      "file": "sp-atlantic_herring.png",
+      "name": "Atlantic herring",
+      "scientificName": "Atlantic herring",
+      "group": "herring",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "atlantic_salmon": {
+      "file": "sp-atlantic_salmon.png",
+      "name": "Atlantic salmon",
+      "scientificName": "Atlantic salmon",
+      "group": "salmon_trout",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "atlantic_sturgeon": {
+      "file": "sp-atlantic_sturgeon.png",
+      "name": "Atlantic sturgeon",
+      "scientificName": "Atlantic sturgeon",
+      "group": "sturgeon",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "balistidae": {
+      "file": "sp-balistidae.png",
+      "name": "Balistidae",
+      "scientificName": "Balistidae",
+      "group": "triggerfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "banded_sea_krait": {
+      "file": "sp-banded_sea_krait.png",
+      "name": "Banded sea krait",
+      "scientificName": "Banded sea krait",
+      "group": "sea_snake",
+      "bodyType": "elongated",
+      "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "barrel_sponge": {
+      "file": "sp-barrel_sponge.png",
+      "name": "Barrel sponge",
+      "scientificName": "Barrel sponge",
+      "group": "sponge",
+      "bodyType": "globular",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "bathydorus_echinus": {
+      "file": "sp-bathydorus_echinus.png",
+      "name": "Bathydorus echinus",
+      "scientificName": "Bathydorus echinus",
+      "group": "sponge",
+      "bodyType": "globular",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "beluga_sturgeon": {
+      "file": "sp-beluga_sturgeon.png",
+      "name": "Beluga sturgeon",
+      "scientificName": "Beluga sturgeon",
+      "group": "sturgeon",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "blue_catfish": {
+      "file": "sp-blue_catfish.png",
+      "name": "Blue catfish",
+      "scientificName": "Blue catfish",
+      "group": "catfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "blue_crab": {
+      "file": "sp-blue_crab.png",
+      "name": "Blue crab",
+      "scientificName": "Blue crab",
+      "group": "crab_lobster",
+      "bodyType": "crustacean",
+      "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "blue_marlin": {
+      "file": "sp-blue_marlin.png",
+      "name": "Blue marlin",
+      "scientificName": "Blue marlin",
+      "group": "swordfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "blue_mussel": {
+      "file": "sp-blue_mussel.png",
+      "name": "Blue mussel",
+      "scientificName": "Blue mussel",
+      "group": "clam_mussel",
+      "bodyType": "flat",
+      "bodyGroup": "mollusk",
+      "license": "generated"
+    },
+    "blue_tang": {
+      "file": "sp-blue_tang.png",
+      "name": "Blue tang",
+      "scientificName": "Blue tang",
+      "group": "surgeonfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "blue_whale": {
+      "file": "sp-blue_whale.png",
+      "name": "Blue whale",
+      "scientificName": "Blue whale",
+      "group": "whale",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "bluefin_tuna": {
+      "file": "sp-bluefin_tuna.png",
+      "name": "Bluefin tuna",
+      "scientificName": "Bluefin tuna",
+      "group": "tuna_mackerel",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "bottlenose_dolphin": {
+      "file": "sp-bottlenose_dolphin.png",
+      "name": "Bottlenose dolphin",
+      "scientificName": "Bottlenose dolphin",
+      "group": "dolphin",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "box_jellyfish": {
+      "file": "sp-box_jellyfish.png",
+      "name": "Box jellyfish",
+      "scientificName": "Box jellyfish",
+      "group": "jellyfish",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "brain_coral": {
+      "file": "sp-brain_coral.png",
+      "name": "Brain coral",
+      "scientificName": "Brain coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "bubble_tip_anemone": {
+      "file": "sp-bubble_tip_anemone.png",
+      "name": "Bubble tip anemone",
+      "scientificName": "Bubble tip anemone",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "cerianthidae": {
+      "file": "sp-cerianthidae.png",
+      "name": "Cerianthidae",
+      "scientificName": "Cerianthidae",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "chaetodon": {
+      "file": "sp-chaetodon.png",
+      "name": "Chaetodon",
+      "scientificName": "Chaetodon",
+      "group": "butterflyfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "channel_catfish": {
+      "file": "sp-channel_catfish.png",
+      "name": "Channel catfish",
+      "scientificName": "Channel catfish",
+      "group": "catfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "chelidoperca_santosi": {
+      "file": "sp-chelidoperca_santosi.png",
+      "name": "Chelidoperca santosi",
+      "scientificName": "Chelidoperca santosi",
+      "group": "grouper",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "chinook_salmon": {
+      "file": "sp-chinook_salmon.png",
+      "name": "Chinook salmon",
+      "scientificName": "Chinook salmon",
+      "group": "salmon_trout",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "chrysiptera_caesifrons": {
+      "file": "sp-chrysiptera_caesifrons.png",
+      "name": "Chrysiptera caesifrons",
+      "scientificName": "Chrysiptera caesifrons",
+      "group": "clownfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "cleaner_wrasse": {
+      "file": "sp-cleaner_wrasse.png",
+      "name": "Cleaner wrasse",
+      "scientificName": "Cleaner wrasse",
+      "group": "wrasse",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "clown_triggerfish": {
+      "file": "sp-clown_triggerfish.png",
+      "name": "Clown triggerfish",
+      "scientificName": "Clown triggerfish",
+      "group": "triggerfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "common_dolphin": {
+      "file": "sp-common_dolphin.png",
+      "name": "Common dolphin",
+      "scientificName": "Common dolphin",
+      "group": "dolphin",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "copperband_butterflyfish": {
+      "file": "sp-copperband_butterflyfish.png",
+      "name": "Copperband butterflyfish",
+      "scientificName": "Copperband butterflyfish",
+      "group": "butterflyfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "coptodon_louka": {
+      "file": "sp-coptodon_louka.png",
+      "name": "Coptodon louka",
+      "scientificName": "Coptodon louka",
+      "group": "cichlid",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "coptodon_rendalli": {
+      "file": "sp-coptodon_rendalli.png",
+      "name": "Coptodon rendalli",
+      "scientificName": "Coptodon rendalli",
+      "group": "cichlid",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "cosmocampus_coccineus": {
+      "file": "sp-cosmocampus_coccineus.png",
+      "name": "Cosmocampus coccineus",
+      "scientificName": "Cosmocampus coccineus",
+      "group": "seahorse",
+      "bodyType": "seahorse",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "cowrie_shell": {
+      "file": "sp-cowrie_shell.png",
+      "name": "Cowrie shell",
+      "scientificName": "Cowrie shell",
+      "group": "sea_snail",
+      "bodyType": "globular",
+      "bodyGroup": "mollusk",
+      "license": "generated"
+    },
+    "deep_sea_anglerfish": {
+      "file": "sp-deep_sea_anglerfish.png",
+      "name": "Deep sea anglerfish",
+      "scientificName": "Deep sea anglerfish",
+      "group": "anglerfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "dicentrarchus": {
+      "file": "sp-dicentrarchus.png",
+      "name": "Dicentrarchus",
+      "scientificName": "Dicentrarchus",
+      "group": "bass",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "doryrhamphus_malus": {
+      "file": "sp-doryrhamphus_malus.png",
+      "name": "Doryrhamphus malus",
+      "scientificName": "Doryrhamphus malus",
+      "group": "seahorse",
+      "bodyType": "seahorse",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "electric_eel": {
+      "file": "sp-electric_eel.png",
+      "name": "Electric eel",
+      "scientificName": "Electric eel",
+      "group": "eel",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "elephant_seal": {
+      "file": "sp-elephant_seal.png",
+      "name": "Elephant seal",
+      "scientificName": "Elephant seal",
+      "group": "seal",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "elkhorn_coral": {
+      "file": "sp-elkhorn_coral.png",
+      "name": "Elkhorn coral",
+      "scientificName": "Elkhorn coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "enteromius": {
+      "file": "sp-enteromius.png",
+      "name": "Enteromius",
+      "scientificName": "Enteromius",
+      "group": "carp_minnow",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "european_anchovy": {
+      "file": "sp-european_anchovy.png",
+      "name": "European anchovy",
+      "scientificName": "European anchovy",
+      "group": "anchovy",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "european_barracuda": {
+      "file": "sp-european_barracuda.png",
+      "name": "European barracuda",
+      "scientificName": "European barracuda",
+      "group": "barracuda",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "european_eel": {
+      "file": "sp-european_eel.png",
+      "name": "European eel",
+      "scientificName": "European eel",
+      "group": "eel",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "european_plaice": {
+      "file": "sp-european_plaice.png",
+      "name": "European plaice",
+      "scientificName": "European plaice",
+      "group": "flatfish",
+      "bodyType": "flat",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "european_sea_bass": {
+      "file": "sp-european_sea_bass.png",
+      "name": "European sea bass",
+      "scientificName": "European sea bass",
+      "group": "bass",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "european_sprat": {
+      "file": "sp-european_sprat.png",
+      "name": "European sprat",
+      "scientificName": "European sprat",
+      "group": "herring",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "eviota_bipunctata": {
+      "file": "sp-eviota_bipunctata.png",
+      "name": "Eviota bipunctata",
+      "scientificName": "Eviota bipunctata",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "eviota_erdmanni": {
+      "file": "sp-eviota_erdmanni.png",
+      "name": "Eviota erdmanni",
+      "scientificName": "Eviota erdmanni",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "eviota_maculibotella": {
+      "file": "sp-eviota_maculibotella.png",
+      "name": "Eviota maculibotella",
+      "scientificName": "Eviota maculibotella",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "eviota_singula": {
+      "file": "sp-eviota_singula.png",
+      "name": "Eviota singula",
+      "scientificName": "Eviota singula",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "fahaka_pufferfish": {
+      "file": "sp-fahaka_pufferfish.png",
+      "name": "Fahaka pufferfish",
+      "scientificName": "Fahaka pufferfish",
+      "group": "pufferfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "fan_coral": {
+      "file": "sp-fan_coral.png",
+      "name": "Fan coral",
+      "scientificName": "Fan coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "fire_coral": {
+      "file": "sp-fire_coral.png",
+      "name": "Fire coral",
+      "scientificName": "Fire coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "flying_fish": {
+      "file": "sp-flying_fish.png",
+      "name": "Flying fish",
+      "scientificName": "Flying fish",
+      "group": "flying_fish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "gadidae": {
+      "file": "sp-gadidae.png",
+      "name": "Gadidae",
+      "scientificName": "Gadidae",
+      "group": "cod",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "garden_eel": {
+      "file": "sp-garden_eel.png",
+      "name": "Garden eel",
+      "scientificName": "Garden eel",
+      "group": "eel",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "giant_clam": {
+      "file": "sp-giant_clam.png",
+      "name": "Giant clam",
+      "scientificName": "Giant clam",
+      "group": "clam_mussel",
+      "bodyType": "flat",
+      "bodyGroup": "mollusk",
+      "license": "generated"
+    },
+    "giant_pacific_octopus": {
+      "file": "sp-giant_pacific_octopus.png",
+      "name": "Giant Pacific octopus",
+      "scientificName": "Giant Pacific octopus",
+      "group": "octopus_squid",
+      "bodyType": "cephalopod",
+      "bodyGroup": "cephalopod",
+      "license": "generated"
+    },
+    "giant_river_otter": {
+      "file": "sp-giant_river_otter.png",
+      "name": "Giant river otter",
+      "scientificName": "Giant river otter",
+      "group": "sea_otter",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "giant_squid": {
+      "file": "sp-giant_squid.png",
+      "name": "Giant squid",
+      "scientificName": "Giant squid",
+      "group": "octopus_squid",
+      "bodyType": "cephalopod",
+      "bodyGroup": "cephalopod",
+      "license": "generated"
+    },
+    "goliath_grouper": {
+      "file": "sp-goliath_grouper.png",
+      "name": "Goliath grouper",
+      "scientificName": "Goliath grouper",
+      "group": "grouper",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "great_barracuda": {
+      "file": "sp-great_barracuda.png",
+      "name": "Great barracuda",
+      "scientificName": "Great barracuda",
+      "group": "barracuda",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "great_white_shark": {
+      "file": "sp-great_white_shark.png",
+      "name": "Great white shark",
+      "scientificName": "Great white shark",
+      "group": "shark",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "green_moray_eel": {
+      "file": "sp-green_moray_eel.png",
+      "name": "Green moray eel",
+      "scientificName": "Green moray eel",
+      "group": "moray",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "green_sea_turtle": {
+      "file": "sp-green_sea_turtle.png",
+      "name": "Green sea turtle",
+      "scientificName": "Green sea turtle",
+      "group": "sea_turtle",
+      "bodyType": "flat",
+      "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "hammerhead_shark": {
+      "file": "sp-hammerhead_shark.png",
+      "name": "Hammerhead shark",
+      "scientificName": "Hammerhead shark",
+      "group": "shark",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "harbor_seal": {
+      "file": "sp-harbor_seal.png",
+      "name": "Harbor seal",
+      "scientificName": "Harbor seal",
+      "group": "seal",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "hawksbill_sea_turtle": {
+      "file": "sp-hawksbill_sea_turtle.png",
+      "name": "Hawksbill sea turtle",
+      "scientificName": "Hawksbill sea turtle",
+      "group": "sea_turtle",
+      "bodyType": "flat",
+      "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "helcogramma_ascensionis": {
+      "file": "sp-helcogramma_ascensionis.png",
+      "name": "Helcogramma ascensionis",
+      "scientificName": "Helcogramma ascensionis",
+      "group": "blenny",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "himantolophus_rostratus": {
+      "file": "sp-himantolophus_rostratus.png",
+      "name": "Himantolophus rostratus",
+      "scientificName": "Himantolophus rostratus",
+      "group": "anglerfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "himantura_australis": {
+      "file": "sp-himantura_australis.png",
+      "name": "Himantura australis",
+      "scientificName": "Himantura australis",
+      "group": "ray",
+      "bodyType": "flat",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "hirundichthys_rufipinnis": {
+      "file": "sp-hirundichthys_rufipinnis.png",
+      "name": "Hirundichthys rufipinnis",
+      "scientificName": "Hirundichthys rufipinnis",
+      "group": "flying_fish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "hirundichthys_volador": {
+      "file": "sp-hirundichthys_volador.png",
+      "name": "Hirundichthys volador",
+      "scientificName": "Hirundichthys volador",
+      "group": "flying_fish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "holacanthus": {
+      "file": "sp-holacanthus.png",
+      "name": "Holacanthus",
+      "scientificName": "Holacanthus",
+      "group": "angelfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "holacanthus_bermudensis": {
+      "file": "sp-holacanthus_bermudensis.png",
+      "name": "Holacanthus bermudensis",
+      "scientificName": "Holacanthus bermudensis",
+      "group": "angelfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "humpback_whale": {
+      "file": "sp-humpback_whale.png",
+      "name": "Humpback whale",
+      "scientificName": "Humpback whale",
+      "group": "whale",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "istiophorus": {
+      "file": "sp-istiophorus.png",
+      "name": "Istiophorus",
+      "scientificName": "Istiophorus",
+      "group": "swordfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "king_crab": {
+      "file": "sp-king_crab.png",
+      "name": "King crab",
+      "scientificName": "King crab",
+      "group": "crab_lobster",
+      "bodyType": "crustacean",
+      "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "king_mackerel": {
+      "file": "sp-king_mackerel.png",
+      "name": "King mackerel",
+      "scientificName": "King mackerel",
+      "group": "tuna_mackerel",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "laubuka_laubuca": {
+      "file": "sp-laubuka_laubuca.png",
+      "name": "Laubuka laubuca",
+      "scientificName": "Laubuka laubuca",
+      "group": "carp_minnow",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "leptachirus_kikori": {
+      "file": "sp-leptachirus_kikori.png",
+      "name": "Leptachirus kikori",
+      "scientificName": "Leptachirus kikori",
+      "group": "flatfish",
+      "bodyType": "flat",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "lions_mane_jellyfish": {
+      "file": "sp-lions_mane_jellyfish.png",
+      "name": "Lions mane jellyfish",
+      "scientificName": "Lions mane jellyfish",
+      "group": "jellyfish",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "liopropoma_santi": {
+      "file": "sp-liopropoma_santi.png",
+      "name": "Liopropoma santi",
+      "scientificName": "Liopropoma santi",
+      "group": "grouper",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "loggerhead_sea_turtle": {
+      "file": "sp-loggerhead_sea_turtle.png",
+      "name": "Loggerhead sea turtle",
+      "scientificName": "Loggerhead sea turtle",
+      "group": "sea_turtle",
+      "bodyType": "flat",
+      "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "magnificent_sea_anemone": {
+      "file": "sp-magnificent_sea_anemone.png",
+      "name": "Magnificent sea anemone",
+      "scientificName": "Magnificent sea anemone",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "mantis_shrimp": {
+      "file": "sp-mantis_shrimp.png",
+      "name": "Mantis shrimp",
+      "scientificName": "Mantis shrimp",
+      "group": "shrimp",
+      "bodyType": "crustacean",
+      "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "melanocetus_polyactis": {
+      "file": "sp-melanocetus_polyactis.png",
+      "name": "Melanocetus polyactis",
+      "scientificName": "Melanocetus polyactis",
+      "group": "anglerfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "microlipophrys_canevae": {
+      "file": "sp-microlipophrys_canevae.png",
+      "name": "Microlipophrys canevae",
+      "scientificName": "Microlipophrys canevae",
+      "group": "blenny",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "mushroom_coral": {
+      "file": "sp-mushroom_coral.png",
+      "name": "Mushroom coral",
+      "scientificName": "Mushroom coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "mutton_snapper": {
+      "file": "sp-mutton_snapper.png",
+      "name": "Mutton snapper",
+      "scientificName": "Mutton snapper",
+      "group": "snapper",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "muusoctopus_abruptus": {
+      "file": "sp-muusoctopus_abruptus.png",
+      "name": "Muusoctopus abruptus",
+      "scientificName": "Muusoctopus abruptus",
+      "group": "octopus_squid",
+      "bodyType": "cephalopod",
+      "bodyGroup": "cephalopod",
+      "license": "generated"
+    },
+    "muusoctopus_berryi": {
+      "file": "sp-muusoctopus_berryi.png",
+      "name": "Muusoctopus berryi",
+      "scientificName": "Muusoctopus berryi",
+      "group": "octopus_squid",
+      "bodyType": "cephalopod",
+      "bodyGroup": "cephalopod",
+      "license": "generated"
+    },
+    "muusoctopus_leioderma": {
+      "file": "sp-muusoctopus_leioderma.png",
+      "name": "Muusoctopus leioderma",
+      "scientificName": "Muusoctopus leioderma",
+      "group": "octopus_squid",
+      "bodyType": "cephalopod",
+      "bodyGroup": "cephalopod",
+      "license": "generated"
+    },
+    "myxinidae": {
+      "file": "sp-myxinidae.png",
+      "name": "Myxinidae",
+      "scientificName": "Myxinidae",
+      "group": "hagfish",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "napoleon_wrasse": {
+      "file": "sp-napoleon_wrasse.png",
+      "name": "Napoleon wrasse",
+      "scientificName": "Napoleon wrasse",
+      "group": "wrasse",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "nautilus": {
+      "file": "sp-nautilus.png",
+      "name": "Nautilus",
+      "scientificName": "Nautilus",
+      "group": "octopus_squid",
+      "bodyType": "cephalopod",
+      "bodyGroup": "cephalopod",
+      "license": "generated"
+    },
+    "neon_goby": {
+      "file": "sp-neon_goby.png",
+      "name": "Neon goby",
+      "scientificName": "Neon goby",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "neon_tetra": {
+      "file": "sp-neon_tetra.png",
+      "name": "Neon tetra",
+      "scientificName": "Neon tetra",
+      "group": "piranha",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "novaculops_halsteadi": {
+      "file": "sp-novaculops_halsteadi.png",
+      "name": "Novaculops halsteadi",
+      "scientificName": "Novaculops halsteadi",
+      "group": "wrasse",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "nudibranch_sea_slug": {
+      "file": "sp-nudibranch_sea_slug.png",
+      "name": "Nudibranch sea slug",
+      "scientificName": "Nudibranch sea slug",
+      "group": "sea_snail",
+      "bodyType": "globular",
+      "bodyGroup": "mollusk",
+      "license": "generated"
+    },
+    "ocean_sunfish_mola_mola": {
+      "file": "sp-ocean_sunfish_mola_mola.png",
+      "name": "Ocean sunfish mola mola",
+      "scientificName": "Ocean sunfish mola mola",
+      "group": "sunfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "olive_sea_snake": {
+      "file": "sp-olive_sea_snake.png",
+      "name": "Olive sea snake",
+      "scientificName": "Olive sea snake",
+      "group": "sea_snake",
+      "bodyType": "elongated",
+      "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "orca_killer_whale": {
+      "file": "sp-orca_killer_whale.png",
+      "name": "Orca killer whale",
+      "scientificName": "Orca killer whale",
+      "group": "dolphin",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "oscar_fish_cichlid": {
+      "file": "sp-oscar_fish_cichlid.png",
+      "name": "Oscar fish cichlid",
+      "scientificName": "Oscar fish cichlid",
+      "group": "cichlid",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pacific_cod": {
+      "file": "sp-pacific_cod.png",
+      "name": "Pacific cod",
+      "scientificName": "Pacific cod",
+      "group": "cod",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pacific_hagfish": {
+      "file": "sp-pacific_hagfish.png",
+      "name": "Pacific hagfish",
+      "scientificName": "Pacific hagfish",
+      "group": "hagfish",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pacific_lamprey": {
+      "file": "sp-pacific_lamprey.png",
+      "name": "Pacific lamprey",
+      "scientificName": "Pacific lamprey",
+      "group": "lamprey",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pacific_oyster": {
+      "file": "sp-pacific_oyster.png",
+      "name": "Pacific oyster",
+      "scientificName": "Pacific oyster",
+      "group": "clam_mussel",
+      "bodyType": "flat",
+      "bodyGroup": "mollusk",
+      "license": "generated"
+    },
+    "pacific_sardine": {
+      "file": "sp-pacific_sardine.png",
+      "name": "Pacific sardine",
+      "scientificName": "Pacific sardine",
+      "group": "herring",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "parascorpaena_moultoni": {
+      "file": "sp-parascorpaena_moultoni.png",
+      "name": "Parascorpaena moultoni",
+      "scientificName": "Parascorpaena moultoni",
+      "group": "scorpionfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "peruvian_anchovy": {
+      "file": "sp-peruvian_anchovy.png",
+      "name": "Peruvian anchovy",
+      "scientificName": "Peruvian anchovy",
+      "group": "anchovy",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pillar_coral": {
+      "file": "sp-pillar_coral.png",
+      "name": "Pillar coral",
+      "scientificName": "Pillar coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "pomacanthidae": {
+      "file": "sp-pomacanthidae.png",
+      "name": "Pomacanthidae",
+      "scientificName": "Pomacanthidae",
+      "group": "angelfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pomacentrus_albiaxillaris": {
+      "file": "sp-pomacentrus_albiaxillaris.png",
+      "name": "Pomacentrus albiaxillaris",
+      "scientificName": "Pomacentrus albiaxillaris",
+      "group": "clownfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "porcupinefish": {
+      "file": "sp-porcupinefish.png",
+      "name": "Porcupinefish",
+      "scientificName": "Porcupinefish",
+      "group": "pufferfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "portuguese_man_o_war": {
+      "file": "sp-portuguese_man_o_war.png",
+      "name": "Portuguese man o war",
+      "scientificName": "Portuguese man o war",
+      "group": "jellyfish",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "pseudopristella": {
+      "file": "sp-pseudopristella.png",
+      "name": "Pseudopristella",
+      "scientificName": "Pseudopristella",
+      "group": "piranha",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pteroidichthys_noronhai": {
+      "file": "sp-pteroidichthys_noronhai.png",
+      "name": "Pteroidichthys noronhai",
+      "scientificName": "Pteroidichthys noronhai",
+      "group": "scorpionfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "queen_conch": {
+      "file": "sp-queen_conch.png",
+      "name": "Queen conch",
+      "scientificName": "Queen conch",
+      "group": "sea_snail",
+      "bodyType": "globular",
+      "bodyGroup": "mollusk",
+      "license": "generated"
+    },
+    "queen_triggerfish": {
+      "file": "sp-queen_triggerfish.png",
+      "name": "Queen triggerfish",
+      "scientificName": "Queen triggerfish",
+      "group": "triggerfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "rainbow_parrotfish": {
+      "file": "sp-rainbow_parrotfish.png",
+      "name": "Rainbow parrotfish",
+      "scientificName": "Rainbow parrotfish",
+      "group": "parrotfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "rainbow_trout": {
+      "file": "sp-rainbow_trout.png",
+      "name": "Rainbow trout",
+      "scientificName": "Rainbow trout",
+      "group": "salmon_trout",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "red_bellied_piranha": {
+      "file": "sp-red_bellied_piranha.png",
+      "name": "Red bellied piranha",
+      "scientificName": "Red bellied piranha",
+      "group": "piranha",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "red_lionfish": {
+      "file": "sp-red_lionfish.png",
+      "name": "Red lionfish",
+      "scientificName": "Red lionfish",
+      "group": "scorpionfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "red_snapper": {
+      "file": "sp-red_snapper.png",
+      "name": "Red snapper",
+      "scientificName": "Red snapper",
+      "group": "snapper",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "river_lamprey": {
+      "file": "sp-river_lamprey.png",
+      "name": "River lamprey",
+      "scientificName": "River lamprey",
+      "group": "lamprey",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "river_otter": {
+      "file": "sp-river_otter.png",
+      "name": "River otter",
+      "scientificName": "River otter",
+      "group": "sea_otter",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "roa_rumsfeldi": {
+      "file": "sp-roa_rumsfeldi.png",
+      "name": "Roa rumsfeldi",
+      "scientificName": "Roa rumsfeldi",
+      "group": "butterflyfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "saurogobio_gymnocheilus": {
+      "file": "sp-saurogobio_gymnocheilus.png",
+      "name": "Saurogobio gymnocheilus",
+      "scientificName": "Saurogobio gymnocheilus",
+      "group": "carp_minnow",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "scaridae": {
+      "file": "sp-scaridae.png",
+      "name": "Scaridae",
+      "scientificName": "Scaridae",
+      "group": "parrotfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "sea_anemone": {
+      "file": "sp-sea_anemone.png",
+      "name": "Sea anemone",
+      "scientificName": "Sea anemone",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "sea_cucumber": {
+      "file": "sp-sea_cucumber.png",
+      "name": "Sea cucumber",
+      "scientificName": "Sea cucumber",
+      "group": "starfish",
+      "bodyType": "flat",
+      "bodyGroup": "echinoderm",
+      "license": "generated"
+    },
+    "sea_lamprey": {
+      "file": "sp-sea_lamprey.png",
+      "name": "Sea lamprey",
+      "scientificName": "Sea lamprey",
+      "group": "lamprey",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "sea_otter": {
+      "file": "sp-sea_otter.png",
+      "name": "Sea otter",
+      "scientificName": "Sea otter",
+      "group": "sea_otter",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "sea_urchin": {
+      "file": "sp-sea_urchin.png",
+      "name": "Sea urchin",
+      "scientificName": "Sea urchin",
+      "group": "starfish",
+      "bodyType": "flat",
+      "bodyGroup": "echinoderm",
+      "license": "generated"
+    },
+    "seahorse": {
+      "file": "sp-seahorse.png",
+      "name": "Seahorse",
+      "scientificName": "Seahorse",
+      "group": "seahorse",
+      "bodyType": "seahorse",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "serrasalmus_humeralis": {
+      "file": "sp-serrasalmus_humeralis.png",
+      "name": "Serrasalmus humeralis",
+      "scientificName": "Serrasalmus humeralis",
+      "group": "piranha",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "sharptail_sunfish": {
+      "file": "sp-sharptail_sunfish.png",
+      "name": "Sharptail sunfish",
+      "scientificName": "Sharptail sunfish",
+      "group": "sunfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "slender_sunfish": {
+      "file": "sp-slender_sunfish.png",
+      "name": "Slender sunfish",
+      "scientificName": "Slender sunfish",
+      "group": "sunfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "sparisoma": {
+      "file": "sp-sparisoma.png",
+      "name": "Sparisoma",
+      "scientificName": "Sparisoma",
+      "group": "parrotfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "sperm_whale": {
+      "file": "sp-sperm_whale.png",
+      "name": "Sperm whale",
+      "scientificName": "Sperm whale",
+      "group": "whale",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "sphyraena": {
+      "file": "sp-sphyraena.png",
+      "name": "Sphyraena",
+      "scientificName": "Sphyraena",
+      "group": "barracuda",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "spotted_moray_eel": {
+      "file": "sp-spotted_moray_eel.png",
+      "name": "Spotted moray eel",
+      "scientificName": "Spotted moray eel",
+      "group": "moray",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "spotted_pufferfish": {
+      "file": "sp-spotted_pufferfish.png",
+      "name": "Spotted pufferfish",
+      "scientificName": "Spotted pufferfish",
+      "group": "pufferfish",
+      "bodyType": "globular",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "squalus_bahiensis": {
+      "file": "sp-squalus_bahiensis.png",
+      "name": "Squalus bahiensis",
+      "scientificName": "Squalus bahiensis",
+      "group": "shark",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "staghorn_coral": {
+      "file": "sp-staghorn_coral.png",
+      "name": "Staghorn coral",
+      "scientificName": "Staghorn coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "star_coral": {
+      "file": "sp-star_coral.png",
+      "name": "Star coral",
+      "scientificName": "Star coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "starfish": {
+      "file": "sp-starfish.png",
+      "name": "Starfish",
+      "scientificName": "Starfish",
+      "group": "starfish",
+      "bodyType": "flat",
+      "bodyGroup": "echinoderm",
+      "license": "generated"
+    },
+    "stegastes_xanthurus": {
+      "file": "sp-stegastes_xanthurus.png",
+      "name": "Stegastes xanthurus",
+      "scientificName": "Stegastes xanthurus",
+      "group": "clownfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "stellate_sturgeon": {
+      "file": "sp-stellate_sturgeon.png",
+      "name": "Stellate sturgeon",
+      "scientificName": "Stellate sturgeon",
+      "group": "sturgeon",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "striped_bass": {
+      "file": "sp-striped_bass.png",
+      "name": "Striped bass",
+      "scientificName": "Striped bass",
+      "group": "bass",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "striped_blenny": {
+      "file": "sp-striped_blenny.png",
+      "name": "Striped blenny",
+      "scientificName": "Striped blenny",
+      "group": "blenny",
+      "bodyType": "elongated",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "swordfish": {
+      "file": "sp-swordfish.png",
+      "name": "Swordfish",
+      "scientificName": "Swordfish",
+      "group": "swordfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "table_coral": {
+      "file": "sp-table_coral.png",
+      "name": "Table coral",
+      "scientificName": "Table coral",
+      "group": "coral",
+      "bodyType": "jellyfish",
+      "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "tetronarce_cowleyi": {
+      "file": "sp-tetronarce_cowleyi.png",
+      "name": "Tetronarce cowleyi",
+      "scientificName": "Tetronarce cowleyi",
+      "group": "ray",
+      "bodyType": "flat",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "tiger_prawn": {
+      "file": "sp-tiger_prawn.png",
+      "name": "Tiger prawn",
+      "scientificName": "Tiger prawn",
+      "group": "shrimp",
+      "bodyType": "crustacean",
+      "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "trimma_burridgeae": {
+      "file": "sp-trimma_burridgeae.png",
+      "name": "Trimma burridgeae",
+      "scientificName": "Trimma burridgeae",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "trimma_corerefum": {
+      "file": "sp-trimma_corerefum.png",
+      "name": "Trimma corerefum",
+      "scientificName": "Trimma corerefum",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "tube_sponge": {
+      "file": "sp-tube_sponge.png",
+      "name": "Tube sponge",
+      "scientificName": "Tube sponge",
+      "group": "sponge",
+      "bodyType": "globular",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "urogymnus_acanthobothrium": {
+      "file": "sp-urogymnus_acanthobothrium.png",
+      "name": "Urogymnus acanthobothrium",
+      "scientificName": "Urogymnus acanthobothrium",
+      "group": "ray",
+      "bodyType": "flat",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "walrus": {
+      "file": "sp-walrus.png",
+      "name": "Walrus",
+      "scientificName": "Walrus",
+      "group": "seal",
+      "bodyType": "cetacean",
+      "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "wels_catfish": {
+      "file": "sp-wels_catfish.png",
+      "name": "Wels catfish",
+      "scientificName": "Wels catfish",
+      "group": "catfish",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "yellow_bellied_sea_snake": {
+      "file": "sp-yellow_bellied_sea_snake.png",
+      "name": "Yellow bellied sea snake",
+      "scientificName": "Yellow bellied sea snake",
+      "group": "sea_snake",
+      "bodyType": "elongated",
+      "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "yellow_tang": {
+      "file": "sp-yellow_tang.png",
+      "name": "Yellow tang",
+      "scientificName": "Yellow tang",
+      "group": "surgeonfish",
+      "bodyType": "deep-bodied",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "yellow_watchman_goby": {
+      "file": "sp-yellow_watchman_goby.png",
+      "name": "Yellow watchman goby",
+      "scientificName": "Yellow watchman goby",
+      "group": "goby",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "yellowfin_tuna": {
+      "file": "sp-yellowfin_tuna.png",
+      "name": "Yellowfin tuna",
+      "scientificName": "Yellowfin tuna",
+      "group": "tuna_mackerel",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "yellowtail_snapper": {
+      "file": "sp-yellowtail_snapper.png",
+      "name": "Yellowtail snapper",
+      "scientificName": "Yellowtail snapper",
+      "group": "snapper",
+      "bodyType": "fusiform",
+      "bodyGroup": "fish",
+      "license": "generated"
+    }
+  },
+  "groupFallbacks": {
+    "surgeonfish": "sp-acanthurus_albimento.png",
+    "coral": "sp-actiniidae.png",
+    "lungfish": "sp-african_lungfish.png",
+    "crab_lobster": "sp-american_lobster.png",
+    "moray": "sp-anarchias.png",
+    "anchovy": "sp-anchoviella_juruasanga.png",
+    "shrimp": "sp-antarctic_krill.png",
+    "cod": "sp-arctogadus.png",
+    "piranha": "sp-astyanax.png",
+    "hagfish": "sp-atlantic_hagfish.png",
+    "flatfish": "sp-atlantic_halibut.png",
+    "herring": "sp-atlantic_herring.png",
+    "salmon_trout": "sp-atlantic_salmon.png",
+    "sturgeon": "sp-atlantic_sturgeon.png",
+    "triggerfish": "sp-balistidae.png",
+    "sea_snake": "sp-banded_sea_krait.png",
+    "sponge": "sp-barrel_sponge.png",
+    "catfish": "sp-blue_catfish.png",
+    "swordfish": "sp-blue_marlin.png",
+    "clam_mussel": "sp-blue_mussel.png",
+    "whale": "sp-blue_whale.png",
+    "tuna_mackerel": "sp-bluefin_tuna.png",
+    "dolphin": "sp-bottlenose_dolphin.png",
+    "jellyfish": "sp-box_jellyfish.png",
+    "butterflyfish": "sp-chaetodon.png",
+    "grouper": "sp-chelidoperca_santosi.png",
+    "clownfish": "sp-chrysiptera_caesifrons.png",
+    "wrasse": "sp-cleaner_wrasse.png",
+    "cichlid": "sp-coptodon_louka.png",
+    "seahorse": "sp-cosmocampus_coccineus.png",
+    "sea_snail": "sp-cowrie_shell.png",
+    "anglerfish": "sp-deep_sea_anglerfish.png",
+    "bass": "sp-dicentrarchus.png",
+    "eel": "sp-electric_eel.png",
+    "seal": "sp-elephant_seal.png",
+    "carp_minnow": "sp-enteromius.png",
+    "barracuda": "sp-european_barracuda.png",
+    "goby": "sp-eviota_bipunctata.png",
+    "pufferfish": "sp-fahaka_pufferfish.png",
+    "flying_fish": "sp-flying_fish.png",
+    "octopus_squid": "sp-giant_pacific_octopus.png",
+    "sea_otter": "sp-giant_river_otter.png",
+    "shark": "sp-great_white_shark.png",
+    "sea_turtle": "sp-green_sea_turtle.png",
+    "blenny": "sp-helcogramma_ascensionis.png",
+    "ray": "sp-himantura_australis.png",
+    "angelfish": "sp-holacanthus.png",
+    "snapper": "sp-mutton_snapper.png",
+    "sunfish": "sp-ocean_sunfish_mola_mola.png",
+    "lamprey": "sp-pacific_lamprey.png",
+    "scorpionfish": "sp-parascorpaena_moultoni.png",
+    "parrotfish": "sp-rainbow_parrotfish.png",
+    "starfish": "sp-sea_cucumber.png"
+  },
+  "bodyTypeFallbacks": {
+    "deep-bodied": "sp-acanthurus_albimento.png",
+    "jellyfish": "sp-actiniidae.png",
+    "elongated": "sp-african_lungfish.png",
+    "crustacean": "sp-american_lobster.png",
+    "fusiform": "sp-anchoviella_juruasanga.png",
+    "flat": "sp-atlantic_halibut.png",
+    "globular": "sp-barrel_sponge.png",
+    "cetacean": "sp-blue_whale.png",
+    "seahorse": "sp-cosmocampus_coccineus.png",
+    "cephalopod": "sp-giant_pacific_octopus.png"
+  },
+  "totalSprites": 242,
+  "note": "Fallback chain: sprites[speciesId] -> groupFallbacks[group] -> bodyTypeFallbacks[bodyType]. Resolved at ETL time."
+}
