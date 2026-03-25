@@ -2,6 +2,8 @@
 import json
 from pathlib import Path
 
+from scripts.aquatic_groups import classify_group, classify_body_type
+
 ROOT = Path(__file__).resolve().parent.parent
 CURATION_DIR = ROOT / "curation" / "aquatic"
 OUTPUT_DIR = ROOT / "output" / "aquatic"
@@ -24,12 +26,14 @@ def load_sprite_manifest() -> dict:
     return json.loads(MANIFEST_PATH.read_text())
 
 
-def resolve_sprite(species: dict, manifest: dict) -> str:
-    """Resolve sprite filename for a curated species."""
+def resolve_sprite(species: dict, manifest: dict, taxonomy: dict) -> str:
+    """Resolve sprite filename for a curated species using taxonomy classification."""
     sprites = manifest.get("sprites", {})
+    group_fb = manifest.get("groupFallbacks", {})
+    bt_fb = manifest.get("bodyTypeFallbacks", {})
     sci_name = species.get("name", "").strip().lower()
 
-    # 1. Exact scientific name match
+    # 1. Exact scientific name match in manifest
     for entry in sprites.values():
         if (entry.get("scientificName") or "").strip().lower() == sci_name:
             return entry["file"]
@@ -41,12 +45,50 @@ def resolve_sprite(species: dict, manifest: dict) -> str:
             if (entry.get("scientificName") or "").strip().lower() == genus:
                 return entry["file"]
 
-    # 3. Group fallback (derive group from crosswalk if possible)
-    group_fb = manifest.get("groupFallbacks", {})
-    # We don't have group on the curated species yet, so fall back to body type
-    bt_fb = manifest.get("bodyTypeFallbacks", {})
+    # 3. Classify into group using taxonomy, then use group fallback
+    group = classify_group(
+        class_name=taxonomy.get("class", ""),
+        order=taxonomy.get("order", ""),
+        family=taxonomy.get("family", ""),
+        phylum=taxonomy.get("phylum", ""),
+    )
+    if group in group_fb:
+        return group_fb[group]
 
-    return group_fb.get("other", bt_fb.get("fusiform", "sp-atlantic_cod.png"))
+    # 4. Body type fallback
+    body_type = classify_body_type(group)
+    if body_type in bt_fb:
+        return bt_fb[body_type]
+
+    return bt_fb.get("fusiform", "sp-atlantic_cod.png")
+
+
+def load_taxonomy_from_obis() -> dict:
+    """Build scientific_name -> {family, order, class, phylum} from OBIS parquet."""
+    obis_path = ROOT / "data" / "raw" / "aquatic" / "obis_occurrences.parquet"
+    if not obis_path.exists():
+        return {}
+    try:
+        import duckdb
+        df = duckdb.sql(f"""
+            SELECT DISTINCT scientific_name, family, "order", class, phylum
+            FROM read_parquet('{obis_path}')
+            WHERE scientific_name IS NOT NULL
+        """).df()
+        lookup = {}
+        for _, row in df.iterrows():
+            sn = str(row["scientific_name"]).strip().lower()
+            if sn:
+                lookup[sn] = {
+                    "family": str(row.get("family", "") or ""),
+                    "order": str(row.get("order", "") or ""),
+                    "class": str(row.get("class", "") or ""),
+                    "phylum": str(row.get("phylum", "") or ""),
+                }
+        return lookup
+    except Exception as e:
+        print(f"  WARNING: Could not load OBIS taxonomy: {e}")
+        return {}
 
 
 def merge():
@@ -56,14 +98,19 @@ def merge():
     crosswalk = load_crosswalk()
     manifest = load_sprite_manifest()
 
+    print("Loading taxonomy from OBIS...")
+    taxonomy_lookup = load_taxonomy_from_obis()
+    print(f"  {len(taxonomy_lookup)} species with taxonomy")
+
     final = []
     for species in selected:
         aphia_id = species.get("aphiaId")
+        sci_name = species.get("name", "")
         entry = {
             # Curation fields
             "aphiaId": aphia_id,
             "tier": species.get("tier"),
-            "name": species.get("name"),
+            "name": sci_name,
             "nameZh": species.get("nameZh"),
             "tagline": species.get("tagline"),
             "viewingSpots": species.get("viewingSpots", []),
@@ -73,15 +120,26 @@ def merge():
         # ETL enrichment from crosswalk
         if aphia_id and aphia_id in crosswalk:
             cw = crosswalk[aphia_id]
-            entry["scientificName"] = cw.get("scientificName", species.get("name"))
+            entry["scientificName"] = cw.get("scientificName", sci_name)
             fb_code = cw.get("fishbaseSpecCode")
             if fb_code and fb_code == fb_code:  # not NaN
                 entry["fishbaseSpecCode"] = int(fb_code)
         else:
-            entry["scientificName"] = species.get("name")
+            entry["scientificName"] = sci_name
 
-        # Sprite resolution
-        entry["sprite"] = resolve_sprite(species, manifest)
+        # Taxonomy lookup and group classification
+        taxonomy = taxonomy_lookup.get(sci_name.strip().lower(), {})
+        group = classify_group(
+            class_name=taxonomy.get("class", ""),
+            order=taxonomy.get("order", ""),
+            family=taxonomy.get("family", ""),
+            phylum=taxonomy.get("phylum", ""),
+        )
+        entry["group"] = group
+        entry["bodyType"] = classify_body_type(group)
+
+        # Sprite resolution using taxonomy
+        entry["sprite"] = resolve_sprite(species, manifest, taxonomy)
 
         final.append(entry)
 

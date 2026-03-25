@@ -84,7 +84,9 @@
       "scale": "massive"
     },
     "scientificName": "Balaenoptera musculus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "whale",
+    "bodyType": "cetacean",
+    "sprite": "sp-blue_whale.png"
   },
   {
     "aphiaId": 137092,
@@ -170,7 +172,9 @@
       "scale": "massive"
     },
     "scientificName": "Megaptera novaeangliae",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "whale",
+    "bodyType": "cetacean",
+    "sprite": "sp-blue_whale.png"
   },
   {
     "aphiaId": 137102,
@@ -257,7 +261,9 @@
       "scale": "massive"
     },
     "scientificName": "Orcinus orca",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "dolphin",
+    "bodyType": "cetacean",
+    "sprite": "sp-bottlenose_dolphin.png"
   },
   {
     "aphiaId": 105838,
@@ -334,7 +340,9 @@
     },
     "scientificName": "Carcharodon carcharias",
     "fishbaseSpecCode": 751,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 105847,
@@ -431,7 +439,9 @@
     },
     "scientificName": "Rhincodon typus",
     "fishbaseSpecCode": 2081,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 137206,
@@ -528,7 +538,9 @@
       "scale": "medium"
     },
     "scientificName": "Chelonia mydas",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_turtle",
+    "bodyType": "flat",
+    "sprite": "sp-green_sea_turtle.png"
   },
   {
     "aphiaId": 278400,
@@ -607,7 +619,9 @@
     },
     "scientificName": "Amphiprion ocellaris",
     "fishbaseSpecCode": 6509,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "clownfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-chrysiptera_caesifrons.png"
   },
   {
     "aphiaId": 137111,
@@ -695,7 +709,9 @@
       "scale": "large"
     },
     "scientificName": "Tursiops truncatus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "dolphin",
+    "bodyType": "cetacean",
+    "sprite": "sp-bottlenose_dolphin.png"
   },
   {
     "aphiaId": 140605,
@@ -761,7 +777,9 @@
       "scale": "medium"
     },
     "scientificName": "Octopus vulgaris",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 137119,
@@ -838,7 +856,9 @@
       "scale": "massive"
     },
     "scientificName": "Physeter macrocephalus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "whale",
+    "bodyType": "cetacean",
+    "sprite": "sp-blue_whale.png"
   },
   {
     "aphiaId": 137209,
@@ -903,7 +923,9 @@
       "scale": "large"
     },
     "scientificName": "Dermochelys coriacea",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_turtle",
+    "bodyType": "flat",
+    "sprite": "sp-green_sea_turtle.png"
   },
   {
     "aphiaId": 137115,
@@ -968,6 +990,8 @@
       "scale": "large"
     },
     "scientificName": "Delphinapterus leucas",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -1033,6 +1057,8 @@
       "scale": "large"
     },
     "scientificName": "Monodon monoceros",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -1110,7 +1136,9 @@
       "scale": "large"
     },
     "scientificName": "Dugong dugon",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_otter",
+    "bodyType": "cetacean",
+    "sprite": "sp-giant_river_otter.png"
   },
   {
     "aphiaId": 242598,
@@ -1176,7 +1204,9 @@
       "scale": "medium"
     },
     "scientificName": "Enhydra lutris",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_otter",
+    "bodyType": "cetacean",
+    "sprite": "sp-giant_river_otter.png"
   },
   {
     "aphiaId": 1026118,
@@ -1253,7 +1283,9 @@
     },
     "scientificName": "Mobula birostris",
     "fishbaseSpecCode": 2061,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 105817,
@@ -1321,7 +1353,9 @@
     },
     "scientificName": "Sphyrna mokarran",
     "fishbaseSpecCode": 914,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 105799,
@@ -1389,7 +1423,9 @@
     },
     "scientificName": "Galeocerdo cuvier",
     "fishbaseSpecCode": 886,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 105792,
@@ -1457,7 +1493,9 @@
     },
     "scientificName": "Carcharhinus leucas",
     "fishbaseSpecCode": 873,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 105837,
@@ -1533,7 +1571,9 @@
     },
     "scientificName": "Cetorhinus maximus",
     "fishbaseSpecCode": 90,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 137207,
@@ -1601,7 +1641,9 @@
       "scale": "medium"
     },
     "scientificName": "Eretmochelys imbricata",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_turtle",
+    "bodyType": "flat",
+    "sprite": "sp-green_sea_turtle.png"
   },
   {
     "aphiaId": 137205,
@@ -1666,7 +1708,9 @@
       "scale": "medium"
     },
     "scientificName": "Caretta caretta",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_turtle",
+    "bodyType": "flat",
+    "sprite": "sp-green_sea_turtle.png"
   },
   {
     "aphiaId": 225773,
@@ -1731,6 +1775,8 @@
       "scale": "medium"
     },
     "scientificName": "Aptenodytes forsteri",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -1797,7 +1843,9 @@
       "scale": "massive"
     },
     "scientificName": "Eschrichtius robustus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "whale",
+    "bodyType": "cetacean",
+    "sprite": "sp-blue_whale.png"
   },
   {
     "aphiaId": 137091,
@@ -1864,7 +1912,9 @@
       "scale": "massive"
     },
     "scientificName": "Balaenoptera physalus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "whale",
+    "bodyType": "cetacean",
+    "sprite": "sp-blue_whale.png"
   },
   {
     "aphiaId": 219676,
@@ -1943,7 +1993,9 @@
     },
     "scientificName": "Paracanthurus hepatus",
     "fishbaseSpecCode": 6017,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "surgeonfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-acanthurus_albimento.png"
   },
   {
     "aphiaId": 212237,
@@ -2011,7 +2063,9 @@
     },
     "scientificName": "Hippocampus kuda",
     "fishbaseSpecCode": 5955,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seahorse",
+    "bodyType": "seahorse",
+    "sprite": "sp-cosmocampus_coccineus.png"
   },
   {
     "aphiaId": 127405,
@@ -2079,7 +2133,9 @@
     },
     "scientificName": "Mola mola",
     "fishbaseSpecCode": 1732,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sunfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-ocean_sunfish_mola_mola.png"
   },
   {
     "aphiaId": 159559,
@@ -2147,7 +2203,9 @@
     },
     "scientificName": "Pterois volitans",
     "fishbaseSpecCode": 5195,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "scorpionfish",
+    "bodyType": "globular",
+    "sprite": "sp-parascorpaena_moultoni.png"
   },
   {
     "aphiaId": 127029,
@@ -2213,7 +2271,9 @@
     },
     "scientificName": "Thunnus thynnus",
     "fishbaseSpecCode": 147,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "tuna_mackerel",
+    "bodyType": "fusiform",
+    "sprite": "sp-bluefin_tuna.png"
   },
   {
     "aphiaId": 127094,
@@ -2280,7 +2340,9 @@
     },
     "scientificName": "Xiphias gladius",
     "fishbaseSpecCode": 226,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "swordfish",
+    "bodyType": "fusiform",
+    "sprite": "sp-blue_marlin.png"
   },
   {
     "aphiaId": 105849,
@@ -2346,7 +2408,9 @@
     },
     "scientificName": "Pristis pristis",
     "fishbaseSpecCode": 8940,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 218224,
@@ -2415,7 +2479,9 @@
     },
     "scientificName": "Epinephelus lanceolatus",
     "fishbaseSpecCode": 6468,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "grouper",
+    "bodyType": "fusiform",
+    "sprite": "sp-chelidoperca_santosi.png"
   },
   {
     "aphiaId": 218945,
@@ -2495,7 +2561,9 @@
     },
     "scientificName": "Cheilinus undulatus",
     "fishbaseSpecCode": 5604,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "wrasse",
+    "bodyType": "fusiform",
+    "sprite": "sp-cleaner_wrasse.png"
   },
   {
     "aphiaId": 220001,
@@ -2565,7 +2633,9 @@
     },
     "scientificName": "Pomacanthus imperator",
     "fishbaseSpecCode": 6504,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "angelfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-holacanthus.png"
   },
   {
     "aphiaId": 159509,
@@ -2630,7 +2700,9 @@
       "scale": "large"
     },
     "scientificName": "Trichechus manatus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_otter",
+    "bodyType": "cetacean",
+    "sprite": "sp-giant_river_otter.png"
   },
   {
     "aphiaId": 217426,
@@ -2699,7 +2771,9 @@
     },
     "scientificName": "Aetobatus narinari",
     "fishbaseSpecCode": 1250,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 220083,
@@ -2768,6 +2842,8 @@
     },
     "scientificName": "Zanclus cornutus",
     "fishbaseSpecCode": 5950,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -2836,6 +2912,8 @@
     },
     "scientificName": "Sphyraena barracuda",
     "fishbaseSpecCode": 1235,
+    "group": "barracuda",
+    "bodyType": "fusiform",
     "sprite": "sp-sphyraena.png"
   },
   {
@@ -2901,7 +2979,9 @@
       "scale": "massive"
     },
     "scientificName": "Balaena mysticetus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "whale",
+    "bodyType": "cetacean",
+    "sprite": "sp-blue_whale.png"
   },
   {
     "aphiaId": 137077,
@@ -2966,7 +3046,9 @@
       "scale": "large"
     },
     "scientificName": "Odobenus rosmarus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seal",
+    "bodyType": "cetacean",
+    "sprite": "sp-elephant_seal.png"
   },
   {
     "aphiaId": 137084,
@@ -3032,7 +3114,9 @@
       "scale": "medium"
     },
     "scientificName": "Phoca vitulina",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seal",
+    "bodyType": "cetacean",
+    "sprite": "sp-elephant_seal.png"
   },
   {
     "aphiaId": 158812,
@@ -3099,6 +3183,8 @@
     },
     "scientificName": "Istiophorus platypterus",
     "fishbaseSpecCode": 77,
+    "group": "swordfish",
+    "bodyType": "fusiform",
     "sprite": "sp-istiophorus.png"
   },
   {
@@ -3185,7 +3271,9 @@
       "scale": "medium"
     },
     "scientificName": "Stenella longirostris",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "dolphin",
+    "bodyType": "cetacean",
+    "sprite": "sp-bottlenose_dolphin.png"
   },
   {
     "aphiaId": 137094,
@@ -3251,7 +3339,9 @@
       "scale": "medium"
     },
     "scientificName": "Delphinus delphis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "dolphin",
+    "bodyType": "cetacean",
+    "sprite": "sp-bottlenose_dolphin.png"
   },
   {
     "aphiaId": 220226,
@@ -3315,7 +3405,9 @@
       "scale": "medium"
     },
     "scientificName": "Sousa chinensis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "dolphin",
+    "bodyType": "cetacean",
+    "sprite": "sp-bottlenose_dolphin.png"
   },
   {
     "aphiaId": 231413,
@@ -3380,7 +3472,9 @@
       "scale": "massive"
     },
     "scientificName": "Mirounga leonina",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seal",
+    "bodyType": "cetacean",
+    "sprite": "sp-elephant_seal.png"
   },
   {
     "aphiaId": 236217,
@@ -3427,7 +3521,9 @@
       "scale": "tiny"
     },
     "scientificName": "Euphausia superba",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shrimp",
+    "bodyType": "crustacean",
+    "sprite": "sp-antarctic_krill.png"
   },
   {
     "aphiaId": 126417,
@@ -3476,7 +3572,9 @@
     },
     "scientificName": "Clupea harengus",
     "fishbaseSpecCode": 24,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "herring",
+    "bodyType": "fusiform",
+    "sprite": "sp-atlantic_herring.png"
   },
   {
     "aphiaId": 272287,
@@ -3523,6 +3621,8 @@
     },
     "scientificName": "Engraulis ringens",
     "fishbaseSpecCode": 4,
+    "group": "anchovy",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -3581,7 +3681,9 @@
     },
     "scientificName": "Gadus morhua",
     "fishbaseSpecCode": 69,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "cod",
+    "bodyType": "fusiform",
+    "sprite": "sp-arctogadus.png"
   },
   {
     "aphiaId": 127186,
@@ -3639,7 +3741,9 @@
     },
     "scientificName": "Salmo salar",
     "fishbaseSpecCode": 236,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "salmon_trout",
+    "bodyType": "fusiform",
+    "sprite": "sp-atlantic_salmon.png"
   },
   {
     "aphiaId": 158075,
@@ -3686,7 +3790,9 @@
     },
     "scientificName": "Oncorhynchus tshawytscha",
     "fishbaseSpecCode": 244,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "salmon_trout",
+    "bodyType": "fusiform",
+    "sprite": "sp-atlantic_salmon.png"
   },
   {
     "aphiaId": 207023,
@@ -3745,7 +3851,9 @@
       "scale": "small"
     },
     "scientificName": "Acropora millepora",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
   },
   {
     "aphiaId": 206953,
@@ -3793,7 +3901,9 @@
       "scale": "small"
     },
     "scientificName": "Pocillopora damicornis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
   },
   {
     "aphiaId": 207225,
@@ -3841,7 +3951,9 @@
       "scale": "medium"
     },
     "scientificName": "Porites lobata",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
   },
   {
     "aphiaId": 212811,
@@ -3901,7 +4013,9 @@
     },
     "scientificName": "Chromis viridis",
     "fishbaseSpecCode": 5679,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "clownfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-chrysiptera_caesifrons.png"
   },
   {
     "aphiaId": 278402,
@@ -3949,7 +4063,9 @@
     },
     "scientificName": "Amphiprion percula",
     "fishbaseSpecCode": 9209,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "clownfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-chrysiptera_caesifrons.png"
   },
   {
     "aphiaId": 219014,
@@ -4009,7 +4125,9 @@
     },
     "scientificName": "Labroides dimidiatus",
     "fishbaseSpecCode": 5459,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "wrasse",
+    "bodyType": "fusiform",
+    "sprite": "sp-cleaner_wrasse.png"
   },
   {
     "aphiaId": 213289,
@@ -4058,7 +4176,9 @@
       "scale": "medium"
     },
     "scientificName": "Acanthaster planci",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "starfish",
+    "bodyType": "flat",
+    "sprite": "sp-sea_cucumber.png"
   },
   {
     "aphiaId": 207610,
@@ -4107,7 +4227,9 @@
       "scale": "small"
     },
     "scientificName": "Linckia laevigata",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "starfish",
+    "bodyType": "flat",
+    "sprite": "sp-sea_cucumber.png"
   },
   {
     "aphiaId": 207670,
@@ -4165,7 +4287,9 @@
       "scale": "medium"
     },
     "scientificName": "Tridacna gigas",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "clam_mussel",
+    "bodyType": "flat",
+    "sprite": "sp-blue_mussel.png"
   },
   {
     "aphiaId": 382891,
@@ -4211,7 +4335,9 @@
       "scale": "small"
     },
     "scientificName": "Panulirus argus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 156134,
@@ -4257,7 +4383,9 @@
       "scale": "medium"
     },
     "scientificName": "Homarus americanus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 107379,
@@ -4303,7 +4431,9 @@
       "scale": "small"
     },
     "scientificName": "Callinectes sapidus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 233889,
@@ -4350,7 +4480,9 @@
       "scale": "medium"
     },
     "scientificName": "Paralithodes camtschaticus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 210378,
@@ -4396,7 +4528,9 @@
       "scale": "small"
     },
     "scientificName": "Penaeus monodon",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 232231,
@@ -4453,6 +4587,8 @@
       "scale": "massive"
     },
     "scientificName": "Macrocystis pyrifera",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -4501,7 +4637,9 @@
       "scale": "small"
     },
     "scientificName": "Strongylocentrotus purpuratus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "starfish",
+    "bodyType": "flat",
+    "sprite": "sp-sea_cucumber.png"
   },
   {
     "aphiaId": 126281,
@@ -4548,7 +4686,9 @@
     },
     "scientificName": "Anguilla anguilla",
     "fishbaseSpecCode": 35,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "eel",
+    "bodyType": "elongated",
+    "sprite": "sp-electric_eel.png"
   },
   {
     "aphiaId": 127138,
@@ -4597,7 +4737,9 @@
     },
     "scientificName": "Hippoglossus hippoglossus",
     "fishbaseSpecCode": 1371,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "flatfish",
+    "bodyType": "flat",
+    "sprite": "sp-atlantic_halibut.png"
   },
   {
     "aphiaId": 126421,
@@ -4645,6 +4787,8 @@
     },
     "scientificName": "Sardina pilchardus",
     "fishbaseSpecCode": 1350,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -4691,7 +4835,9 @@
       "scale": "small"
     },
     "scientificName": "Aurelia aurita",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "jellyfish",
+    "bodyType": "jellyfish",
+    "sprite": "sp-box_jellyfish.png"
   },
   {
     "aphiaId": 135301,
@@ -4737,7 +4883,9 @@
       "scale": "large"
     },
     "scientificName": "Cyanea capillata",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "jellyfish",
+    "bodyType": "jellyfish",
+    "sprite": "sp-box_jellyfish.png"
   },
   {
     "aphiaId": 135479,
@@ -4783,6 +4931,8 @@
       "scale": "medium"
     },
     "scientificName": "Physalia physalis",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -4829,7 +4979,9 @@
       "scale": "small"
     },
     "scientificName": "Sepia officinalis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 342291,
@@ -4876,7 +5028,9 @@
       "scale": "medium"
     },
     "scientificName": "Dosidicus gigas",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 140271,
@@ -4922,7 +5076,9 @@
       "scale": "small"
     },
     "scientificName": "Loligo vulgaris",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 137117,
@@ -4968,7 +5124,9 @@
       "scale": "medium"
     },
     "scientificName": "Phocoena phocoena",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "dolphin",
+    "bodyType": "cetacean",
+    "sprite": "sp-bottlenose_dolphin.png"
   },
   {
     "aphiaId": 137080,
@@ -5015,7 +5173,9 @@
       "scale": "large"
     },
     "scientificName": "Halichoerus grypus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seal",
+    "bodyType": "cetacean",
+    "sprite": "sp-elephant_seal.png"
   },
   {
     "aphiaId": 231404,
@@ -5062,7 +5222,9 @@
       "scale": "medium"
     },
     "scientificName": "Arctocephalus gazella",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seal",
+    "bodyType": "cetacean",
+    "sprite": "sp-elephant_seal.png"
   },
   {
     "aphiaId": 195932,
@@ -5109,7 +5271,9 @@
       "scale": "large"
     },
     "scientificName": "Leptonychotes weddellii",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seal",
+    "bodyType": "cetacean",
+    "sprite": "sp-elephant_seal.png"
   },
   {
     "aphiaId": 159019,
@@ -5155,7 +5319,9 @@
       "scale": "medium"
     },
     "scientificName": "Pagophilus groenlandicus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seal",
+    "bodyType": "cetacean",
+    "sprite": "sp-elephant_seal.png"
   },
   {
     "aphiaId": 234836,
@@ -5203,6 +5369,8 @@
     },
     "scientificName": "Dissostichus mawsoni",
     "fishbaseSpecCode": 7039,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -5251,6 +5419,8 @@
     },
     "scientificName": "Notothenia coriiceps",
     "fishbaseSpecCode": 4702,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -5307,6 +5477,8 @@
       "scale": "medium"
     },
     "scientificName": "Riftia pachyptila",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -5354,7 +5526,9 @@
       "scale": "tiny"
     },
     "scientificName": "Rimicaris exoculata",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 336171,
@@ -5400,6 +5574,8 @@
       "scale": "tiny"
     },
     "scientificName": "Alvinella pompejana",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -5446,7 +5622,9 @@
       "scale": "small"
     },
     "scientificName": "Magallana gigas",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "clam_mussel",
+    "bodyType": "flat",
+    "sprite": "sp-blue_mussel.png"
   },
   {
     "aphiaId": 140480,
@@ -5492,7 +5670,9 @@
       "scale": "tiny"
     },
     "scientificName": "Mytilus edulis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "clam_mussel",
+    "bodyType": "flat",
+    "sprite": "sp-blue_mussel.png"
   },
   {
     "aphiaId": 150514,
@@ -5538,6 +5718,8 @@
       "scale": "medium"
     },
     "scientificName": "Limulus polyphemus",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -5587,7 +5769,9 @@
     },
     "scientificName": "Diodon hystrix",
     "fishbaseSpecCode": 1022,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "pufferfish",
+    "bodyType": "globular",
+    "sprite": "sp-fahaka_pufferfish.png"
   },
   {
     "aphiaId": 159795,
@@ -5634,7 +5818,9 @@
     },
     "scientificName": "Lutjanus campechanus",
     "fishbaseSpecCode": 1423,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "snapper",
+    "bodyType": "fusiform",
+    "sprite": "sp-mutton_snapper.png"
   },
   {
     "aphiaId": 159353,
@@ -5682,7 +5868,9 @@
     },
     "scientificName": "Epinephelus itajara",
     "fishbaseSpecCode": 16,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "grouper",
+    "bodyType": "fusiform",
+    "sprite": "sp-chelidoperca_santosi.png"
   },
   {
     "aphiaId": 276064,
@@ -5729,7 +5917,9 @@
     },
     "scientificName": "Scarus vetula",
     "fishbaseSpecCode": 1157,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "parrotfish",
+    "bodyType": "fusiform",
+    "sprite": "sp-rainbow_parrotfish.png"
   },
   {
     "aphiaId": 158583,
@@ -5776,7 +5966,9 @@
     },
     "scientificName": "Gymnothorax funebris",
     "fishbaseSpecCode": 7546,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "moray",
+    "bodyType": "elongated",
+    "sprite": "sp-anarchias.png"
   },
   {
     "aphiaId": 105846,
@@ -5824,7 +6016,9 @@
     },
     "scientificName": "Ginglymostoma cirratum",
     "fishbaseSpecCode": 2532,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 281931,
@@ -5872,7 +6066,9 @@
     },
     "scientificName": "Orectolobus maculatus",
     "fishbaseSpecCode": 758,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 313100,
@@ -5920,7 +6116,9 @@
       "scale": "large"
     },
     "scientificName": "Stegostoma tigrinum",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 218174,
@@ -5969,7 +6167,9 @@
     },
     "scientificName": "Cephalopholis argus",
     "fishbaseSpecCode": 6396,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "grouper",
+    "bodyType": "fusiform",
+    "sprite": "sp-chelidoperca_santosi.png"
   },
   {
     "aphiaId": 127397,
@@ -6016,7 +6216,9 @@
     },
     "scientificName": "Balistes vetula",
     "fishbaseSpecCode": 19,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "triggerfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-balistidae.png"
   },
   {
     "aphiaId": 273780,
@@ -6063,6 +6265,8 @@
     },
     "scientificName": "Sparisoma viride",
     "fishbaseSpecCode": 1161,
+    "group": "parrotfish",
+    "bodyType": "fusiform",
     "sprite": "sp-sparisoma.png"
   },
   {
@@ -6113,7 +6317,9 @@
     },
     "scientificName": "Thalassoma lunare",
     "fishbaseSpecCode": 5645,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "wrasse",
+    "bodyType": "fusiform",
+    "sprite": "sp-cleaner_wrasse.png"
   },
   {
     "aphiaId": 211773,
@@ -6162,7 +6368,9 @@
     },
     "scientificName": "Pygoplites diacanthus",
     "fishbaseSpecCode": 6572,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "angelfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-holacanthus.png"
   },
   {
     "aphiaId": 219683,
@@ -6209,7 +6417,9 @@
     },
     "scientificName": "Zebrasoma flavescens",
     "fishbaseSpecCode": 6018,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "surgeonfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-acanthurus_albimento.png"
   },
   {
     "aphiaId": 219628,
@@ -6258,7 +6468,9 @@
     },
     "scientificName": "Acanthurus leucosternon",
     "fishbaseSpecCode": 1257,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "surgeonfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-acanthurus_albimento.png"
   },
   {
     "aphiaId": 219890,
@@ -6307,7 +6519,9 @@
     },
     "scientificName": "Rhinecanthus aculeatus",
     "fishbaseSpecCode": 5839,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "triggerfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-balistidae.png"
   },
   {
     "aphiaId": 402161,
@@ -6355,7 +6569,9 @@
     },
     "scientificName": "Centropyge loriculus",
     "fishbaseSpecCode": 7814,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "angelfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-holacanthus.png"
   },
   {
     "aphiaId": 275187,
@@ -6404,7 +6620,9 @@
     },
     "scientificName": "Hippocampus bargibanti",
     "fishbaseSpecCode": 53790,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seahorse",
+    "bodyType": "seahorse",
+    "sprite": "sp-cosmocampus_coccineus.png"
   },
   {
     "aphiaId": 280408,
@@ -6452,6 +6670,8 @@
     },
     "scientificName": "Cottocomephorus grewingkii",
     "fishbaseSpecCode": 4495,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6499,6 +6719,8 @@
       "scale": "massive"
     },
     "scientificName": "Arapaima gigas",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6546,6 +6768,8 @@
       "scale": "medium"
     },
     "scientificName": "Electrophorus electricus",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6593,6 +6817,8 @@
       "scale": "small"
     },
     "scientificName": "Pygocentrus nattereri",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6640,6 +6866,8 @@
       "scale": "medium"
     },
     "scientificName": "Osteoglossum bicirrhosum",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6687,6 +6915,8 @@
       "scale": "medium"
     },
     "scientificName": "Potamotrygon motoro",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6734,6 +6964,8 @@
       "scale": "small"
     },
     "scientificName": "Symphysodon discus",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6781,7 +7013,9 @@
     },
     "scientificName": "Oreochromis niloticus",
     "fishbaseSpecCode": 2,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "cichlid",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-coptodon_louka.png"
   },
   {
     "aphiaId": null,
@@ -6827,6 +7061,8 @@
       "scale": "large"
     },
     "scientificName": "Lates niloticus",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6873,6 +7109,8 @@
       "scale": "medium"
     },
     "scientificName": "Protopterus annectens",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6920,6 +7158,8 @@
       "scale": "medium"
     },
     "scientificName": "Cichla temensis",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -6969,7 +7209,9 @@
     },
     "scientificName": "Corythoichthys intestinalis",
     "fishbaseSpecCode": 5961,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seahorse",
+    "bodyType": "seahorse",
+    "sprite": "sp-cosmocampus_coccineus.png"
   },
   {
     "aphiaId": 127387,
@@ -7016,7 +7258,9 @@
     },
     "scientificName": "Syngnathus acus",
     "fishbaseSpecCode": 1770,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seahorse",
+    "bodyType": "seahorse",
+    "sprite": "sp-cosmocampus_coccineus.png"
   },
   {
     "aphiaId": 1042871,
@@ -7075,7 +7319,9 @@
     },
     "scientificName": "Mobula alfredi",
     "fishbaseSpecCode": 65179,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 220293,
@@ -7121,7 +7367,9 @@
       "scale": "medium"
     },
     "scientificName": "Lepidochelys olivacea",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_turtle",
+    "bodyType": "flat",
+    "sprite": "sp-green_sea_turtle.png"
   },
   {
     "aphiaId": 254983,
@@ -7179,7 +7427,9 @@
       "scale": "medium"
     },
     "scientificName": "Tursiops aduncus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "dolphin",
+    "bodyType": "cetacean",
+    "sprite": "sp-bottlenose_dolphin.png"
   },
   {
     "aphiaId": 141887,
@@ -7217,7 +7467,9 @@
       "scale": "small"
     },
     "scientificName": "Vampyroteuthis infernalis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 138293,
@@ -7254,7 +7506,9 @@
       "scale": "small"
     },
     "scientificName": "Grimpoteuthis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 281482,
@@ -7293,6 +7547,8 @@
     },
     "scientificName": "Macropinna microstoma",
     "fishbaseSpecCode": 2704,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7331,6 +7587,8 @@
     },
     "scientificName": "Psychrolutes marcidus",
     "fishbaseSpecCode": 14347,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7378,6 +7636,8 @@
     },
     "scientificName": "Regalecus glesne",
     "fishbaseSpecCode": 3267,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7424,7 +7684,9 @@
       "scale": "massive"
     },
     "scientificName": "Architeuthis dux",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 140022,
@@ -7470,7 +7732,9 @@
       "scale": "tiny"
     },
     "scientificName": "Glaucus atlanticus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_snail",
+    "bodyType": "globular",
+    "sprite": "sp-cowrie_shell.png"
   },
   {
     "aphiaId": 282254,
@@ -7517,7 +7781,9 @@
     },
     "scientificName": "Phyllopteryx taeniolatus",
     "fishbaseSpecCode": 14267,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seahorse",
+    "bodyType": "seahorse",
+    "sprite": "sp-cosmocampus_coccineus.png"
   },
   {
     "aphiaId": 282248,
@@ -7564,7 +7830,9 @@
     },
     "scientificName": "Phycodurus eques",
     "fishbaseSpecCode": 15908,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seahorse",
+    "bodyType": "seahorse",
+    "sprite": "sp-cosmocampus_coccineus.png"
   },
   {
     "aphiaId": 342333,
@@ -7612,7 +7880,9 @@
       "scale": "tiny"
     },
     "scientificName": "Hapalochlaena lunulata",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 273264,
@@ -7660,6 +7930,8 @@
     },
     "scientificName": "Synchiropus splendidus",
     "fishbaseSpecCode": 12644,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7698,6 +7970,8 @@
     },
     "scientificName": "Idiacanthus atlanticus",
     "fishbaseSpecCode": 6970,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7736,7 +8010,9 @@
     },
     "scientificName": "Melanocetus johnsonii",
     "fishbaseSpecCode": 2292,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "anglerfish",
+    "bodyType": "globular",
+    "sprite": "sp-deep_sea_anglerfish.png"
   },
   {
     "aphiaId": 126393,
@@ -7774,6 +8050,8 @@
     },
     "scientificName": "Anoplogaster cornuta",
     "fishbaseSpecCode": 2308,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7812,6 +8090,8 @@
     },
     "scientificName": "Chauliodus sloani",
     "fishbaseSpecCode": 1786,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7850,6 +8130,8 @@
     },
     "scientificName": "Eurypharynx pelecanoides",
     "fishbaseSpecCode": 4526,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7888,7 +8170,9 @@
     },
     "scientificName": "Himantolophus groenlandicus",
     "fishbaseSpecCode": 3099,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "anglerfish",
+    "bodyType": "globular",
+    "sprite": "sp-deep_sea_anglerfish.png"
   },
   {
     "aphiaId": 126733,
@@ -7926,6 +8210,8 @@
     },
     "scientificName": "Opisthoproctus soleatus",
     "fishbaseSpecCode": 7397,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -7972,7 +8258,9 @@
       "scale": "medium"
     },
     "scientificName": "Laticauda colubrina",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_snake",
+    "bodyType": "elongated",
+    "sprite": "sp-banded_sea_krait.png"
   },
   {
     "aphiaId": 1476906,
@@ -8009,7 +8297,9 @@
       "scale": "small"
     },
     "scientificName": "Hydrophis platurus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_snake",
+    "bodyType": "elongated",
+    "sprite": "sp-banded_sea_krait.png"
   },
   {
     "aphiaId": 527322,
@@ -8057,7 +8347,9 @@
       "scale": "tiny"
     },
     "scientificName": "Nembrotha kubaryana",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_snail",
+    "bodyType": "globular",
+    "sprite": "sp-cowrie_shell.png"
   },
   {
     "aphiaId": 558198,
@@ -8095,7 +8387,9 @@
       "scale": "tiny"
     },
     "scientificName": "Chromodoris lochi",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_snail",
+    "bodyType": "globular",
+    "sprite": "sp-cowrie_shell.png"
   },
   {
     "aphiaId": 256755,
@@ -8132,7 +8426,9 @@
       "scale": "tiny"
     },
     "scientificName": "Cymothoa exigua",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 216384,
@@ -8179,6 +8475,8 @@
       "scale": "small"
     },
     "scientificName": "Nautilus pompilius",
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
     "sprite": "sp-nautilus.png"
   },
   {
@@ -8226,6 +8524,8 @@
     },
     "scientificName": "Latimeria chalumnae",
     "fishbaseSpecCode": 2063,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -8273,7 +8573,9 @@
       "scale": "medium"
     },
     "scientificName": "Chrysaora fuscescens",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "jellyfish",
+    "bodyType": "jellyfish",
+    "sprite": "sp-box_jellyfish.png"
   },
   {
     "aphiaId": 151801,
@@ -8310,6 +8612,8 @@
       "scale": "tiny"
     },
     "scientificName": "Turritopsis dohrnii",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -8358,7 +8662,9 @@
       "scale": "small"
     },
     "scientificName": "Odontodactylus scyllarus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 217850,
@@ -8406,7 +8712,9 @@
     },
     "scientificName": "Antennarius maculatus",
     "fishbaseSpecCode": 9259,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "anglerfish",
+    "bodyType": "globular",
+    "sprite": "sp-deep_sea_anglerfish.png"
   },
   {
     "aphiaId": 218087,
@@ -8444,7 +8752,9 @@
     },
     "scientificName": "Rhinopias frondosa",
     "fishbaseSpecCode": 5823,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "scorpionfish",
+    "bodyType": "globular",
+    "sprite": "sp-parascorpaena_moultoni.png"
   },
   {
     "aphiaId": 215627,
@@ -8493,6 +8803,8 @@
     },
     "scientificName": "Synanceia verrucosa",
     "fishbaseSpecCode": 5825,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -8543,7 +8855,9 @@
     },
     "scientificName": "Taeniura lymma",
     "fishbaseSpecCode": 5399,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 276442,
@@ -8581,6 +8895,8 @@
     },
     "scientificName": "Opistognathus aurifrons",
     "fishbaseSpecCode": 3684,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -8628,7 +8944,9 @@
       "scale": "small"
     },
     "scientificName": "Dendronephthya",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
   },
   {
     "aphiaId": 137250,
@@ -8665,6 +8983,8 @@
       "scale": "medium"
     },
     "scientificName": "Pyrosoma atlanticum",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -8703,7 +9023,9 @@
     },
     "scientificName": "Glaucostegus granulatus",
     "fishbaseSpecCode": 8731,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 282352,
@@ -8741,7 +9063,9 @@
     },
     "scientificName": "Pristiophorus cirratus",
     "fishbaseSpecCode": 721,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 126534,
@@ -8779,7 +9103,9 @@
     },
     "scientificName": "Caulophryne jordani",
     "fishbaseSpecCode": 23253,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "anglerfish",
+    "bodyType": "globular",
+    "sprite": "sp-deep_sea_anglerfish.png"
   },
   {
     "aphiaId": 159181,
@@ -8817,7 +9143,9 @@
     },
     "scientificName": "Linophryne arborifera",
     "fishbaseSpecCode": 17013,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "anglerfish",
+    "bodyType": "globular",
+    "sprite": "sp-deep_sea_anglerfish.png"
   },
   {
     "aphiaId": 105824,
@@ -8855,6 +9183,8 @@
     },
     "scientificName": "Chimaera monstrosa",
     "fishbaseSpecCode": 2503,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -8905,6 +9235,8 @@
     },
     "scientificName": "Oxymonacanthus longirostris",
     "fishbaseSpecCode": 6559,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -8954,7 +9286,9 @@
     },
     "scientificName": "Forcipiger flavissimus",
     "fishbaseSpecCode": 5584,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "butterflyfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-chaetodon.png"
   },
   {
     "aphiaId": 213527,
@@ -8991,7 +9325,9 @@
       "scale": "tiny"
     },
     "scientificName": "Pteraeolidia ianthina",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "sea_snail",
+    "bodyType": "globular",
+    "sprite": "sp-cowrie_shell.png"
   },
   {
     "aphiaId": 421713,
@@ -9028,7 +9364,9 @@
       "scale": "tiny"
     },
     "scientificName": "Periclimenes yucatanicus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 107534,
@@ -9074,7 +9412,9 @@
       "scale": "tiny"
     },
     "scientificName": "Thor amboinensis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 514833,
@@ -9112,7 +9452,9 @@
       "scale": "tiny"
     },
     "scientificName": "Alpheus bellulus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 278326,
@@ -9161,7 +9503,9 @@
     },
     "scientificName": "Cryptocentrus cinctus",
     "fishbaseSpecCode": 7208,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "goby",
+    "bodyType": "fusiform",
+    "sprite": "sp-eviota_bipunctata.png"
   },
   {
     "aphiaId": 278394,
@@ -9208,7 +9552,9 @@
     },
     "scientificName": "Amphiprion frenatus",
     "fishbaseSpecCode": 6522,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "clownfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-chrysiptera_caesifrons.png"
   },
   {
     "aphiaId": 217976,
@@ -9256,6 +9602,8 @@
     },
     "scientificName": "Solenostomus paradoxus",
     "fishbaseSpecCode": 7312,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -9294,6 +9642,8 @@
     },
     "scientificName": "Pegasus volitans",
     "fishbaseSpecCode": 4609,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -9350,7 +9700,9 @@
       "scale": "medium"
     },
     "scientificName": "Bathynomus giganteus",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 341442,
@@ -9387,7 +9739,9 @@
       "scale": "large"
     },
     "scientificName": "Magnapinna",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 105851,
@@ -9425,7 +9779,9 @@
     },
     "scientificName": "Dasyatis pastinaca",
     "fishbaseSpecCode": 2060,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 271684,
@@ -9463,7 +9819,9 @@
     },
     "scientificName": "Torpedo marmorata",
     "fishbaseSpecCode": 5132,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "ray",
+    "bodyType": "flat",
+    "sprite": "sp-himantura_australis.png"
   },
   {
     "aphiaId": 217925,
@@ -9512,6 +9870,8 @@
     },
     "scientificName": "Myripristis murdjan",
     "fishbaseSpecCode": 5408,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -9550,7 +9910,9 @@
       "scale": "small"
     },
     "scientificName": "Xenia",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
   },
   {
     "aphiaId": 137214,
@@ -9587,6 +9949,8 @@
       "scale": "tiny"
     },
     "scientificName": "Salpida",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -9635,7 +9999,9 @@
     },
     "scientificName": "Heterodontus francisci",
     "fishbaseSpecCode": 739,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": null,
@@ -9673,6 +10039,8 @@
       "scale": "small"
     },
     "scientificName": "Pterophyllum scalare",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -9711,6 +10079,8 @@
       "scale": "small"
     },
     "scientificName": "Comephorus baicalensis",
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -9749,7 +10119,9 @@
     },
     "scientificName": "Chilomycterus reticulatus",
     "fishbaseSpecCode": 10206,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "pufferfish",
+    "bodyType": "globular",
+    "sprite": "sp-fahaka_pufferfish.png"
   },
   {
     "aphiaId": 275193,
@@ -9788,7 +10160,9 @@
     },
     "scientificName": "Hippocampus denise",
     "fishbaseSpecCode": 60329,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "seahorse",
+    "bodyType": "seahorse",
+    "sprite": "sp-cosmocampus_coccineus.png"
   },
   {
     "aphiaId": 137087,
@@ -9855,7 +10229,9 @@
       "scale": "large"
     },
     "scientificName": "Balaenoptera acutorostrata",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "whale",
+    "bodyType": "cetacean",
+    "sprite": "sp-blue_whale.png"
   },
   {
     "aphiaId": 105801,
@@ -9922,7 +10298,9 @@
     },
     "scientificName": "Prionace glauca",
     "fishbaseSpecCode": 898,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 105842,
@@ -9987,7 +10365,9 @@
     },
     "scientificName": "Mitsukurina owstoni",
     "fishbaseSpecCode": 5910,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 218758,
@@ -10036,7 +10416,9 @@
     },
     "scientificName": "Chelmon rostratus",
     "fishbaseSpecCode": 5483,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "butterflyfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-chaetodon.png"
   },
   {
     "aphiaId": 219611,
@@ -10086,6 +10468,8 @@
     },
     "scientificName": "Nemateleotris magnifica",
     "fishbaseSpecCode": 6629,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -10124,7 +10508,9 @@
     },
     "scientificName": "Chlamydoselachus anguineus",
     "fishbaseSpecCode": 635,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "shark",
+    "bodyType": "fusiform",
+    "sprite": "sp-great_white_shark.png"
   },
   {
     "aphiaId": 126522,
@@ -10162,6 +10548,8 @@
     },
     "scientificName": "Lampris guttatus",
     "fishbaseSpecCode": 1072,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -10199,7 +10587,9 @@
       "scale": "tiny"
     },
     "scientificName": "Phronima sedentaria",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "crab_lobster",
+    "bodyType": "crustacean",
+    "sprite": "sp-american_lobster.png"
   },
   {
     "aphiaId": 141548,
@@ -10236,7 +10626,9 @@
       "scale": "tiny"
     },
     "scientificName": "Spirula spirula",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   },
   {
     "aphiaId": 218710,
@@ -10285,6 +10677,8 @@
     },
     "scientificName": "Platax teira",
     "fishbaseSpecCode": 5739,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -10335,7 +10729,9 @@
     },
     "scientificName": "Heniochus acuminatus",
     "fishbaseSpecCode": 5588,
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "butterflyfish",
+    "bodyType": "deep-bodied",
+    "sprite": "sp-chaetodon.png"
   },
   {
     "aphiaId": 127232,
@@ -10373,6 +10769,8 @@
     },
     "scientificName": "Dactylopterus volitans",
     "fishbaseSpecCode": 1021,
+    "group": "other",
+    "bodyType": "fusiform",
     "sprite": "sp-anchoviella_juruasanga.png"
   },
   {
@@ -10411,6 +10809,8 @@
       "scale": "small"
     },
     "scientificName": "Histioteuthis",
-    "sprite": "sp-anchoviella_juruasanga.png"
+    "group": "octopus_squid",
+    "bodyType": "cephalopod",
+    "sprite": "sp-giant_pacific_octopus.png"
   }
 ]
