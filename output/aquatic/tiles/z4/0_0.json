@@ -1,1 +1,0 @@
-{"zoom": 4, "x": 0, "y": 0, "clusters": [{"lat": 87.1, "lng": -165.75, "count": 2, "topItems": [{"id": "126433", "name": "Polar cod", "nameZh": "北鳕", "thumb": "tn_Bosai_u0.jpg", "sprite": "sp-arctogadus.png", "group": "cod", "size": 40}], "filterAggs": {"waterType": {"Brackish": 2}, "bodyGroup": {"fish": 2}}, "groupDistribution": [{"group": "cod", "count": 2}]}]}

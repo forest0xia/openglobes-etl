@@ -1,1 +1,0 @@
-{"zoom": 5, "x": 24, "y": 9, "clusters": [{"lat": 60.0, "lng": 100.0, "count": 1, "topItems": [{"id": "154316", "name": "Gudgeon", "nameZh": "德涅斯特鮈", "thumb": "tn_Gogob_u9.jpg", "sprite": "sp-enteromius.png", "group": "carp_minnow", "size": 21}], "filterAggs": {"waterType": {"Brackish": 1}, "bodyGroup": {"fish": 1}}, "groupDistribution": [{"group": "carp_minnow", "count": 1}]}]}

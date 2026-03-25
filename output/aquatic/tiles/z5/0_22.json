@@ -1,1 +1,0 @@
-{"zoom": 5, "x": 0, "y": 22, "clusters": [{"lat": -58.39, "lng": -170.0, "count": 3, "topItems": [{"id": "126436", "name": "Atlantic cod", "nameZh": "大西洋鳕", "thumb": "tn_Gamor_u3.jpg", "sprite": "sp-arctogadus.png", "group": "cod", "size": 200}], "filterAggs": {"waterType": {"Brackish": 3}, "bodyGroup": {"fish": 3}}, "groupDistribution": [{"group": "cod", "count": 3}]}]}

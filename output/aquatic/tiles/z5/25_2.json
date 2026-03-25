@@ -1,1 +1,0 @@
-{"zoom": 5, "x": 25, "y": 2, "clusters": [{"lat": 82.34, "lng": 103.84, "count": 1, "topItems": [{"id": "154298", "name": "Goldfish", "nameZh": "布氏鲫", "thumb": "tn_Caaurau1.jpg", "sprite": "sp-enteromius.png", "group": "carp_minnow", "size": 48}], "filterAggs": {"waterType": {"Brackish": 1}, "bodyGroup": {"fish": 1}}, "groupDistribution": [{"group": "carp_minnow", "count": 1}]}]}

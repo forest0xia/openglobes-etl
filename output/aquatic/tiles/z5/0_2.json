@@ -1,1 +1,0 @@
-{"zoom": 5, "x": 0, "y": 2, "clusters": [{"lat": 82.25, "lng": -172.73, "count": 1, "topItems": [{"id": "126432", "name": "Arctic cod", "nameZh": "鲍氏极鳕", "thumb": "tn_Arbor_u1.jpg", "sprite": "sp-arctogadus.png", "group": "cod", "size": 32}], "filterAggs": {"waterType": {"Saltwater": 1}, "bodyGroup": {"fish": 1}}, "groupDistribution": [{"group": "cod", "count": 1}]}]}
