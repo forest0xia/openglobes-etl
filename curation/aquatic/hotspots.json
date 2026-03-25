@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "id": "great_barrier_reef",
+    "name": { "en": "Great Barrier Reef", "zh": "大堡礁" },
+    "country": "AU",
+    "lat": -18.29,
+    "lng": 147.70,
+    "type": "coral_reef",
+    "minSpeciesCount": 5
+  },
+  {
+    "id": "palau",
+    "name": { "en": "Palau", "zh": "帕劳" },
+    "country": "PW",
+    "lat": 7.35,
+    "lng": 134.47,
+    "type": "coral_reef",
+    "minSpeciesCount": 4
+  },
+  {
+    "id": "galapagos",
+    "name": { "en": "Galápagos Islands", "zh": "加拉帕戈斯群岛" },
+    "country": "EC",
+    "lat": -0.95,
+    "lng": -90.97,
+    "type": "open_ocean",
+    "minSpeciesCount": 5
+  },
+  {
+    "id": "maldives",
+    "name": { "en": "Maldives", "zh": "马尔代夫" },
+    "country": "MV",
+    "lat": 3.20,
+    "lng": 73.22,
+    "type": "coral_reef",
+    "minSpeciesCount": 4
+  },
+  {
+    "id": "raja_ampat",
+    "name": { "en": "Raja Ampat", "zh": "拉贾安帕" },
+    "country": "ID",
+    "lat": -1.05,
+    "lng": 130.51,
+    "type": "coral_reef",
+    "minSpeciesCount": 5
+  },
+  {
+    "id": "monterey_bay",
+    "name": { "en": "Monterey Bay", "zh": "蒙特雷湾" },
+    "country": "US",
+    "lat": 36.80,
+    "lng": -121.90,
+    "type": "kelp_forest",
+    "minSpeciesCount": 4
+  },
+  {
+    "id": "tonga",
+    "name": { "en": "Tonga", "zh": "汤加" },
+    "country": "TO",
+    "lat": -20.42,
+    "lng": -175.20,
+    "type": "open_ocean",
+    "minSpeciesCount": 2
+  },
+  {
+    "id": "husavik_iceland",
+    "name": { "en": "Húsavík, Iceland", "zh": "冰岛胡萨维克" },
+    "country": "IS",
+    "lat": 66.05,
+    "lng": -17.34,
+    "type": "polar",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "lofoten_norway",
+    "name": { "en": "Lofoten, Norway", "zh": "挪威罗弗敦" },
+    "country": "NO",
+    "lat": 68.25,
+    "lng": 14.57,
+    "type": "polar",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "south_africa_sardine_run",
+    "name": { "en": "South Africa Wild Coast", "zh": "南非狂野海岸" },
+    "country": "ZA",
+    "lat": -31.63,
+    "lng": 29.53,
+    "type": "open_ocean",
+    "minSpeciesCount": 4
+  },
+  {
+    "id": "red_sea_egypt",
+    "name": { "en": "Red Sea, Egypt", "zh": "红海（埃及）" },
+    "country": "EG",
+    "lat": 27.19,
+    "lng": 33.83,
+    "type": "coral_reef",
+    "minSpeciesCount": 4
+  },
+  {
+    "id": "cocos_island",
+    "name": { "en": "Cocos Island", "zh": "科科斯岛" },
+    "country": "CR",
+    "lat": 5.53,
+    "lng": -87.06,
+    "type": "open_ocean",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "antarctica_ross_sea",
+    "name": { "en": "Antarctica (Ross Sea)", "zh": "南极罗斯海" },
+    "country": "AQ",
+    "lat": -77.50,
+    "lng": 170.00,
+    "type": "polar",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "lake_baikal",
+    "name": { "en": "Lake Baikal", "zh": "贝加尔湖" },
+    "country": "RU",
+    "lat": 53.50,
+    "lng": 108.00,
+    "type": "freshwater",
+    "minSpeciesCount": 2
+  },
+  {
+    "id": "amazon_river",
+    "name": { "en": "Amazon River", "zh": "亚马逊河" },
+    "country": "BR",
+    "lat": -3.12,
+    "lng": -60.02,
+    "type": "freshwater",
+    "minSpeciesCount": 4
+  },
+  {
+    "id": "tubbataha_philippines",
+    "name": { "en": "Tubbataha Reef, Philippines", "zh": "菲律宾图巴塔哈" },
+    "country": "PH",
+    "lat": 8.93,
+    "lng": 119.90,
+    "type": "coral_reef",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "baja_california",
+    "name": { "en": "Baja California", "zh": "下加利福尼亚" },
+    "country": "MX",
+    "lat": 24.14,
+    "lng": -109.99,
+    "type": "open_ocean",
+    "minSpeciesCount": 4
+  },
+  {
+    "id": "sipadan_malaysia",
+    "name": { "en": "Sipadan, Malaysia", "zh": "马来西亚仙本那" },
+    "country": "MY",
+    "lat": 4.12,
+    "lng": 118.63,
+    "type": "coral_reef",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "azores",
+    "name": { "en": "Azores", "zh": "亚速尔群岛" },
+    "country": "PT",
+    "lat": 37.74,
+    "lng": -25.67,
+    "type": "open_ocean",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "channel_islands",
+    "name": { "en": "Channel Islands, California", "zh": "海峡群岛" },
+    "country": "US",
+    "lat": 34.01,
+    "lng": -119.42,
+    "type": "kelp_forest",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "deep_sea_mid_atlantic",
+    "name": { "en": "Mid-Atlantic Ridge (Hydrothermal Vents)", "zh": "大西洋中脊热泉" },
+    "country": null,
+    "lat": 37.17,
+    "lng": -32.17,
+    "type": "deep_sea",
+    "minSpeciesCount": 2
+  },
+  {
+    "id": "svalbard",
+    "name": { "en": "Svalbard, Arctic", "zh": "斯瓦尔巴德" },
+    "country": "NO",
+    "lat": 78.23,
+    "lng": 15.65,
+    "type": "polar",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "florida_everglades",
+    "name": { "en": "Florida Everglades", "zh": "佛罗里达大沼泽" },
+    "country": "US",
+    "lat": 25.29,
+    "lng": -80.90,
+    "type": "mangrove",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "shark_bay_australia",
+    "name": { "en": "Shark Bay, Australia", "zh": "鲨鱼湾" },
+    "country": "AU",
+    "lat": -25.97,
+    "lng": 113.56,
+    "type": "seagrass",
+    "minSpeciesCount": 3
+  },
+  {
+    "id": "mirissa_sri_lanka",
+    "name": { "en": "Mirissa, Sri Lanka", "zh": "斯里兰卡美蕊沙" },
+    "country": "LK",
+    "lat": 5.95,
+    "lng": 80.45,
+    "type": "open_ocean",
+    "minSpeciesCount": 3
+  }
+]

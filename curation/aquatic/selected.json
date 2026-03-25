@@ -1,1 +1,3215 @@
-[]
+[
+  {
+    "aphiaId": 137090,
+    "name": "Balaenoptera musculus",
+    "tier": "star",
+    "nameZh": "蓝鲸",
+    "tagline": {
+      "en": "The largest animal ever to live on Earth",
+      "zh": "地球上有史以来最大的动物"
+    },
+    "viewingSpots": ["Monterey Bay", "Iceland", "Sri Lanka"],
+    "display": {
+      "color": "#4A90D9",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 137092,
+    "name": "Megaptera novaeangliae",
+    "tier": "star",
+    "nameZh": "座头鲸",
+    "tagline": {
+      "en": "Sings haunting songs that travel thousands of miles",
+      "zh": "歌声能传播数千英里的歌唱家"
+    },
+    "viewingSpots": ["Tonga", "Hawaii", "Norway", "Antarctica"],
+    "display": {
+      "color": "#2C3E50",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 137102,
+    "name": "Orcinus orca",
+    "tier": "star",
+    "nameZh": "虎鲸",
+    "tagline": {
+      "en": "Apex predator with complex culture passed across generations",
+      "zh": "拥有代际传承文化的顶级掠食者"
+    },
+    "viewingSpots": ["Norway", "Iceland", "Monterey Bay", "Antarctica"],
+    "display": {
+      "color": "#1A1A2E",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 105838,
+    "name": "Carcharodon carcharias",
+    "tier": "star",
+    "nameZh": "大白鲨",
+    "tagline": {
+      "en": "The ocean's most iconic predator with electroreception",
+      "zh": "拥有电感应能力的海洋最具标志性掠食者"
+    },
+    "viewingSpots": ["South Africa", "Guadalupe Island", "Monterey Bay"],
+    "display": {
+      "color": "#6B7B8D",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105847,
+    "name": "Rhincodon typus",
+    "tier": "star",
+    "nameZh": "鲸鲨",
+    "tagline": {
+      "en": "The world's largest fish — gentle filter-feeder",
+      "zh": "世界上最大的鱼——温柔的滤食者"
+    },
+    "viewingSpots": ["Maldives", "Galapagos", "Ningaloo Reef", "Philippines"],
+    "display": {
+      "color": "#2E4057",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 137206,
+    "name": "Chelonia mydas",
+    "tier": "star",
+    "nameZh": "绿海龟",
+    "tagline": {
+      "en": "Navigates thousands of miles to nest on its birth beach",
+      "zh": "跋涉数千英里回到出生地的海滩产卵"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Galapagos", "Hawaii", "Red Sea"],
+    "display": {
+      "color": "#4A7C59",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 278400,
+    "name": "Amphiprion ocellaris",
+    "tier": "star",
+    "nameZh": "公子小丑鱼",
+    "tagline": {
+      "en": "Lives safely among the stinging tentacles of sea anemones",
+      "zh": "安然栖息在海葵的刺触手之间"
+    },
+    "viewingSpots": ["Raja Ampat", "Great Barrier Reef", "Maldives"],
+    "display": {
+      "color": "#FF6B35",
+      "animation": "darting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 137111,
+    "name": "Tursiops truncatus",
+    "tier": "star",
+    "nameZh": "宽吻海豚",
+    "tagline": {
+      "en": "Highly intelligent social mammals that call each other by name",
+      "zh": "高度智慧的社会性哺乳动物，能以名字互相呼唤"
+    },
+    "viewingSpots": ["Monterey Bay", "Red Sea", "Galapagos"],
+    "display": {
+      "color": "#7B8FA1",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 140605,
+    "name": "Octopus vulgaris",
+    "tier": "star",
+    "nameZh": "普通章鱼",
+    "tagline": {
+      "en": "Three hearts, blue blood, and nine brains",
+      "zh": "三颗心脏、蓝色血液和九个大脑"
+    },
+    "viewingSpots": ["Mediterranean", "Red Sea", "Azores"],
+    "display": {
+      "color": "#8B4513",
+      "animation": "hovering",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 137119,
+    "name": "Physeter macrocephalus",
+    "tier": "star",
+    "nameZh": "抹香鲸",
+    "tagline": {
+      "en": "Dives 3 km deep to battle giant squid in the abyss",
+      "zh": "能潜入3公里深处与巨型鱿鱼搏斗"
+    },
+    "viewingSpots": ["Azores", "Dominica", "Norway", "Kaikoura"],
+    "display": {
+      "color": "#3D3D3D",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 137209,
+    "name": "Dermochelys coriacea",
+    "tier": "star",
+    "nameZh": "棱皮龟",
+    "tagline": {
+      "en": "The largest living turtle — crosses entire oceans",
+      "zh": "现存最大的海龟——横渡整个大洋"
+    },
+    "viewingSpots": ["Trinidad", "Costa Rica", "Indonesia"],
+    "display": {
+      "color": "#1C2833",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 137115,
+    "name": "Delphinapterus leucas",
+    "tier": "star",
+    "nameZh": "白鲸",
+    "tagline": {
+      "en": "The 'canary of the sea' — most vocal of all whales",
+      "zh": "\"海洋金丝雀\"——所有鲸类中最善鸣叫的"
+    },
+    "viewingSpots": ["Arctic", "Hudson Bay", "St. Lawrence Estuary"],
+    "display": {
+      "color": "#F0F0F0",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 137116,
+    "name": "Monodon monoceros",
+    "tier": "star",
+    "nameZh": "独角鲸",
+    "tagline": {
+      "en": "The 'unicorn of the sea' with a spiraling ivory tusk",
+      "zh": "拥有螺旋象牙角的\"海洋独角兽\""
+    },
+    "viewingSpots": ["Arctic", "Greenland", "Baffin Bay"],
+    "display": {
+      "color": "#7F8C8D",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 220227,
+    "name": "Dugong dugon",
+    "tier": "star",
+    "nameZh": "儒艮",
+    "tagline": {
+      "en": "The gentle 'sea cow' that inspired mermaid legends",
+      "zh": "启发美人鱼传说的温柔\"海牛\""
+    },
+    "viewingSpots": ["Red Sea", "Great Barrier Reef", "Palau"],
+    "display": {
+      "color": "#A0826D",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 242598,
+    "name": "Enhydra lutris",
+    "tier": "star",
+    "nameZh": "海獭",
+    "tagline": {
+      "en": "Uses rocks as tools and holds hands while sleeping",
+      "zh": "会用石头当工具，睡觉时手牵手"
+    },
+    "viewingSpots": ["Monterey Bay", "Alaska", "British Columbia"],
+    "display": {
+      "color": "#5D4037",
+      "animation": "hovering",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 1026118,
+    "name": "Mobula birostris",
+    "tier": "star",
+    "nameZh": "巨型蝠鲼",
+    "tagline": {
+      "en": "Wingspan up to 7 meters — the ocean's largest ray",
+      "zh": "翼展可达7米——海洋中最大的鳐鱼"
+    },
+    "viewingSpots": ["Maldives", "Raja Ampat", "Cocos Island", "Ecuador"],
+    "display": {
+      "color": "#1A1A2E",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 105817,
+    "name": "Sphyrna mokarran",
+    "tier": "star",
+    "nameZh": "大锤头鲨",
+    "tagline": {
+      "en": "Hammer-shaped head gives 360-degree binocular vision",
+      "zh": "锤状头部提供360度双目视觉"
+    },
+    "viewingSpots": ["Galapagos", "Cocos Island", "Bimini"],
+    "display": {
+      "color": "#6E7B7B",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105799,
+    "name": "Galeocerdo cuvier",
+    "tier": "star",
+    "nameZh": "虎鲨",
+    "tagline": {
+      "en": "Eats anything — nicknamed the garbage can of the sea",
+      "zh": "什么都吃——被称为海洋垃圾桶"
+    },
+    "viewingSpots": ["South Africa", "Hawaii", "Galapagos"],
+    "display": {
+      "color": "#5D6D7E",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105792,
+    "name": "Carcharhinus leucas",
+    "tier": "star",
+    "nameZh": "公牛鲨",
+    "tagline": {
+      "en": "The only shark that thrives in freshwater rivers",
+      "zh": "唯一能在淡水河流中繁衍的鲨鱼"
+    },
+    "viewingSpots": ["Florida", "South Africa", "Fiji"],
+    "display": {
+      "color": "#808B96",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105837,
+    "name": "Cetorhinus maximus",
+    "tier": "star",
+    "nameZh": "姥鲨",
+    "tagline": {
+      "en": "The second-largest fish — cruises with mouth agape",
+      "zh": "世界第二大鱼——张着大嘴巡游"
+    },
+    "viewingSpots": ["Scotland", "Ireland", "Norway", "Iceland"],
+    "display": {
+      "color": "#4A4A4A",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 137207,
+    "name": "Eretmochelys imbricata",
+    "tier": "star",
+    "nameZh": "玳瑁",
+    "tagline": {
+      "en": "Critically endangered — its beak-like mouth eats sponges on reefs",
+      "zh": "极度濒危——鹰嘴般的嘴在珊瑚礁上啃食海绵"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Great Barrier Reef"],
+    "display": {
+      "color": "#B8860B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 137205,
+    "name": "Caretta caretta",
+    "tier": "star",
+    "nameZh": "蠵龟",
+    "tagline": {
+      "en": "Migrates across the entire Pacific Ocean as a hatchling",
+      "zh": "幼时就横越整个太平洋"
+    },
+    "viewingSpots": ["Greece", "Florida", "Japan"],
+    "display": {
+      "color": "#A0522D",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 225773,
+    "name": "Aptenodytes forsteri",
+    "tier": "star",
+    "nameZh": "帝企鹅",
+    "tagline": {
+      "en": "Survives Antarctic winter — dives deeper than any other bird",
+      "zh": "能在南极冬季存活——比其他所有鸟类潜得更深"
+    },
+    "viewingSpots": ["Antarctica"],
+    "display": {
+      "color": "#2C3E50",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 137112,
+    "name": "Eschrichtius robustus",
+    "tier": "star",
+    "nameZh": "灰鲸",
+    "tagline": {
+      "en": "Makes the longest migration of any mammal — 20,000 km round trip",
+      "zh": "进行哺乳动物中最远的迁徙——往返2万公里"
+    },
+    "viewingSpots": ["Baja California", "Alaska"],
+    "display": {
+      "color": "#6C7A7A",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 137091,
+    "name": "Balaenoptera physalus",
+    "tier": "star",
+    "nameZh": "长须鲸",
+    "tagline": {
+      "en": "Second-largest animal alive — asymmetrically colored jaw",
+      "zh": "现存第二大动物——下颚颜色左右不对称"
+    },
+    "viewingSpots": ["Iceland", "Azores", "Mediterranean"],
+    "display": {
+      "color": "#4B5D67",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 219676,
+    "name": "Paracanthurus hepatus",
+    "tier": "star",
+    "nameZh": "蓝刀鲷",
+    "tagline": {
+      "en": "The real 'Dory' — vibrant royal blue with a yellow tail",
+      "zh": "真正的\"多莉\"——亮丽的宝蓝色配黄色尾巴"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Palau", "Raja Ampat"],
+    "display": {
+      "color": "#1E90FF",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 212237,
+    "name": "Hippocampus kuda",
+    "tier": "star",
+    "nameZh": "库达海马",
+    "tagline": {
+      "en": "Males get pregnant and give birth to live young",
+      "zh": "雄性怀孕并产下活的幼仔"
+    },
+    "viewingSpots": ["Indonesia", "Philippines", "Red Sea"],
+    "display": {
+      "color": "#DAA520",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 127405,
+    "name": "Mola mola",
+    "tier": "star",
+    "nameZh": "翻车鱼",
+    "tagline": {
+      "en": "The heaviest bony fish — a two-ton pancake that sunbathes at the surface",
+      "zh": "最重的硬骨鱼——两吨重的煎饼在水面晒太阳"
+    },
+    "viewingSpots": ["Galapagos", "Bali", "Monterey Bay"],
+    "display": {
+      "color": "#A4B0BD",
+      "animation": "drifting",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 159559,
+    "name": "Pterois volitans",
+    "tier": "star",
+    "nameZh": "红色狮子鱼",
+    "tagline": {
+      "en": "Spectacular venomous beauty — a devastating invasive species",
+      "zh": "华丽有毒的美丽生物——毁灭性的入侵物种"
+    },
+    "viewingSpots": ["Red Sea", "Caribbean", "Raja Ampat"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 127029,
+    "name": "Thunnus thynnus",
+    "tier": "star",
+    "nameZh": "大西洋蓝鳍金枪鱼",
+    "tagline": {
+      "en": "Warm-blooded torpedo — a single fish can sell for millions",
+      "zh": "温血鱼雷——一条鱼可以卖到数百万"
+    },
+    "viewingSpots": ["Mediterranean", "Gulf of Maine", "Japan"],
+    "display": {
+      "color": "#283747",
+      "animation": "schooling",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 127094,
+    "name": "Xiphias gladius",
+    "tier": "star",
+    "nameZh": "剑鱼",
+    "tagline": {
+      "en": "Slashes through schools of fish at 100 km/h with its sword-like bill",
+      "zh": "以100公里时速挥舞剑状吻部冲入鱼群"
+    },
+    "viewingSpots": ["Atlantic", "Mediterranean"],
+    "display": {
+      "color": "#34495E",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105849,
+    "name": "Pristis pristis",
+    "tier": "star",
+    "nameZh": "大齿锯鳐",
+    "tagline": {
+      "en": "Critically endangered — slashes prey with a saw-studded snout",
+      "zh": "极度濒危——用布满锯齿的吻部击杀猎物"
+    },
+    "viewingSpots": ["Northern Australia", "West Africa"],
+    "display": {
+      "color": "#7D6608",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 218224,
+    "name": "Epinephelus lanceolatus",
+    "tier": "star",
+    "nameZh": "鞍带石斑鱼",
+    "tagline": {
+      "en": "The largest reef fish — grows big enough to swallow a small shark",
+      "zh": "最大的珊瑚礁鱼——大到可以吞下小型鲨鱼"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Red Sea", "Maldives"],
+    "display": {
+      "color": "#5D6D7E",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 218945,
+    "name": "Cheilinus undulatus",
+    "tier": "star",
+    "nameZh": "苏眉鱼",
+    "tagline": {
+      "en": "The majestic Napoleon wrasse — king of the coral reef",
+      "zh": "雄伟的拿破仑隆头鱼——珊瑚礁之王"
+    },
+    "viewingSpots": ["Palau", "Raja Ampat", "Red Sea", "Great Barrier Reef"],
+    "display": {
+      "color": "#2E86C1",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 220001,
+    "name": "Pomacanthus imperator",
+    "tier": "star",
+    "nameZh": "皇帝神仙鱼",
+    "tagline": {
+      "en": "Juveniles and adults look like completely different species",
+      "zh": "幼鱼和成鱼看起来像完全不同的物种"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Raja Ampat"],
+    "display": {
+      "color": "#1F618D",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 159509,
+    "name": "Trichechus manatus",
+    "tier": "star",
+    "nameZh": "美洲海牛",
+    "tagline": {
+      "en": "Gentle giant that grazes on seagrass like an underwater cow",
+      "zh": "像水下的牛一样温柔地啃食海草"
+    },
+    "viewingSpots": ["Florida", "Belize", "Caribbean"],
+    "display": {
+      "color": "#8B7D6B",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 217426,
+    "name": "Aetobatus narinari",
+    "tier": "star",
+    "nameZh": "花点鹰鳐",
+    "tagline": {
+      "en": "Spotted eagle ray — leaps fully out of the water when excited",
+      "zh": "花点鹰鳐——兴奋时会完全跃出水面"
+    },
+    "viewingSpots": ["Galapagos", "Maldives", "Red Sea"],
+    "display": {
+      "color": "#2C3E50",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 220083,
+    "name": "Zanclus cornutus",
+    "tier": "star",
+    "nameZh": "镰鱼",
+    "tagline": {
+      "en": "The real 'Gill' from Finding Nemo — the Moorish idol",
+      "zh": "《海底总动员》中\"吉哥\"的原型——镰鱼"
+    },
+    "viewingSpots": ["Hawaii", "Maldives", "Red Sea"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 345843,
+    "name": "Sphyraena barracuda",
+    "tier": "star",
+    "nameZh": "大梭鱼",
+    "tagline": {
+      "en": "Silver lightning bolt that strikes with terrifying speed",
+      "zh": "银色闪电——以惊人速度发起攻击"
+    },
+    "viewingSpots": ["Caribbean", "Red Sea", "Palau"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 137086,
+    "name": "Balaena mysticetus",
+    "tier": "star",
+    "nameZh": "弓头鲸",
+    "tagline": {
+      "en": "Lives over 200 years — the longest-lived mammal on Earth",
+      "zh": "寿命超过200年——地球上最长寿的哺乳动物"
+    },
+    "viewingSpots": ["Arctic", "Alaska"],
+    "display": {
+      "color": "#1B2631",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 137077,
+    "name": "Odobenus rosmarus",
+    "tier": "star",
+    "nameZh": "海象",
+    "tagline": {
+      "en": "Tusked giant of the Arctic — can weigh over 1,500 kg",
+      "zh": "北极的长牙巨兽——体重可超过1500公斤"
+    },
+    "viewingSpots": ["Svalbard", "Arctic", "Alaska"],
+    "display": {
+      "color": "#8B6914",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 137084,
+    "name": "Phoca vitulina",
+    "tier": "star",
+    "nameZh": "斑海豹",
+    "tagline": {
+      "en": "The curious 'puppy of the sea' found in harbors worldwide",
+      "zh": "\"海中小狗\"——好奇心旺盛，遍布全球港口"
+    },
+    "viewingSpots": ["Iceland", "Scotland", "Monterey Bay"],
+    "display": {
+      "color": "#7B7D7D",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 158812,
+    "name": "Istiophorus platypterus",
+    "tier": "star",
+    "nameZh": "旗鱼",
+    "tagline": {
+      "en": "The fastest fish in the ocean — clocked at 110 km/h",
+      "zh": "海洋中速度最快的鱼——时速达110公里"
+    },
+    "viewingSpots": ["Cocos Island", "Mexico", "Indian Ocean"],
+    "display": {
+      "color": "#1A5276",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 137109,
+    "name": "Stenella longirostris",
+    "tier": "star",
+    "nameZh": "飞旋海豚",
+    "tagline": {
+      "en": "Spins up to 7 times in a single leap out of the water",
+      "zh": "一次跃出水面能旋转多达7圈"
+    },
+    "viewingSpots": ["Hawaii", "Maldives", "Red Sea"],
+    "display": {
+      "color": "#566573",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 137094,
+    "name": "Delphinus delphis",
+    "tier": "star",
+    "nameZh": "短吻真海豚",
+    "tagline": {
+      "en": "Gathers in superpods of over 10,000 individuals",
+      "zh": "聚集成超过一万只的超级群"
+    },
+    "viewingSpots": ["Azores", "South Africa", "Mediterranean"],
+    "display": {
+      "color": "#5B6D7E",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 220226,
+    "name": "Sousa chinensis",
+    "tier": "star",
+    "nameZh": "中华白海豚",
+    "tagline": {
+      "en": "Turns pink with age — Hong Kong's beloved mascot",
+      "zh": "随年龄变粉——香港的吉祥物"
+    },
+    "viewingSpots": ["Hong Kong", "Pearl River Delta"],
+    "display": {
+      "color": "#F5B7B1",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 231413,
+    "name": "Mirounga leonina",
+    "tier": "star",
+    "nameZh": "南象海豹",
+    "tagline": {
+      "en": "Males weigh 4 tonnes — the largest seal and deepest-diving pinniped",
+      "zh": "雄性体重4吨——最大的海豹和潜水最深的鳍足类"
+    },
+    "viewingSpots": ["Antarctica", "South Georgia", "Patagonia"],
+    "display": {
+      "color": "#6B5B4B",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+
+  {
+    "aphiaId": 236217,
+    "name": "Euphausia superba",
+    "tier": "ecosystem",
+    "nameZh": "南极磷虾",
+    "tagline": {
+      "en": "Biomass exceeds all humans combined — keystone of Antarctic food web",
+      "zh": "总生物量超过全人类——南极食物网的基石"
+    },
+    "viewingSpots": ["Antarctica"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "schooling",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 126417,
+    "name": "Clupea harengus",
+    "tier": "ecosystem",
+    "nameZh": "大西洋鲱鱼",
+    "tagline": {
+      "en": "Forms shimmering bait balls that feed entire ocean ecosystems",
+      "zh": "形成闪亮的饵球，养活整个海洋生态系统"
+    },
+    "viewingSpots": ["Norway", "North Sea", "Iceland"],
+    "display": {
+      "color": "#B0C4DE",
+      "animation": "schooling",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 272287,
+    "name": "Engraulis ringens",
+    "tier": "ecosystem",
+    "nameZh": "秘鲁鳀鱼",
+    "tagline": {
+      "en": "The most caught fish on Earth — drives the Humboldt Current ecosystem",
+      "zh": "地球上捕获量最大的鱼——驱动洪堡海流生态系统"
+    },
+    "viewingSpots": ["Peru", "Chile"],
+    "display": {
+      "color": "#7FB3D8",
+      "animation": "schooling",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 126436,
+    "name": "Gadus morhua",
+    "tier": "ecosystem",
+    "nameZh": "大西洋鳕鱼",
+    "tagline": {
+      "en": "The fish that shaped human history — fueled the Age of Exploration",
+      "zh": "改变人类历史的鱼——推动了大航海时代"
+    },
+    "viewingSpots": ["Norway", "Iceland", "Newfoundland"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 127186,
+    "name": "Salmo salar",
+    "tier": "ecosystem",
+    "nameZh": "大西洋鲑鱼",
+    "tagline": {
+      "en": "Returns from the ocean to the exact stream where it was born",
+      "zh": "从海洋返回出生时的那条溪流"
+    },
+    "viewingSpots": ["Norway", "Scotland", "Iceland"],
+    "display": {
+      "color": "#E88E5A",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 158075,
+    "name": "Oncorhynchus tshawytscha",
+    "tier": "ecosystem",
+    "nameZh": "大鳞大马哈鱼",
+    "tagline": {
+      "en": "The king salmon — largest of the Pacific salmon species",
+      "zh": "帝王鲑——太平洋鲑鱼中体型最大的"
+    },
+    "viewingSpots": ["Alaska", "Pacific Northwest"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 207023,
+    "name": "Acropora millepora",
+    "tier": "ecosystem",
+    "nameZh": "千孔鹿角珊瑚",
+    "tagline": {
+      "en": "Reef architect — builds the structures that house thousands of species",
+      "zh": "珊瑚礁建筑师——构建容纳数千物种的结构"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Red Sea", "Maldives"],
+    "display": {
+      "color": "#E8A87C",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 206953,
+    "name": "Pocillopora damicornis",
+    "tier": "ecosystem",
+    "nameZh": "鹿角珊瑚",
+    "tagline": {
+      "en": "The 'weed' of coral reefs — first to colonize, first to bleach",
+      "zh": "珊瑚礁的\"杂草\"——最先殖民，也最先白化"
+    },
+    "viewingSpots": ["Pacific", "Indian Ocean"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 207225,
+    "name": "Porites lobata",
+    "tier": "ecosystem",
+    "nameZh": "团块滨珊瑚",
+    "tagline": {
+      "en": "Massive boulder corals that can live for 1,000 years",
+      "zh": "巨大的团块珊瑚，寿命可达1000年"
+    },
+    "viewingSpots": ["Hawaii", "Great Barrier Reef"],
+    "display": {
+      "color": "#BDB76B",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 212811,
+    "name": "Chromis viridis",
+    "tier": "ecosystem",
+    "nameZh": "蓝绿光鳃鱼",
+    "tagline": {
+      "en": "Shimmering clouds above coral heads — the heartbeat of the reef",
+      "zh": "珊瑚头顶闪烁的云彩——珊瑚礁的心跳"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Great Barrier Reef"],
+    "display": {
+      "color": "#48C9B0",
+      "animation": "schooling",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 278402,
+    "name": "Amphiprion percula",
+    "tier": "ecosystem",
+    "nameZh": "眼斑双锯鱼",
+    "tagline": {
+      "en": "The original clownfish — fiercely territorial despite its tiny size",
+      "zh": "最初的小丑鱼——体型虽小，领地意识极强"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Papua New Guinea"],
+    "display": {
+      "color": "#FF8C00",
+      "animation": "darting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 219014,
+    "name": "Labroides dimidiatus",
+    "tier": "ecosystem",
+    "nameZh": "裂唇鱼",
+    "tagline": {
+      "en": "The reef's dentist — cleans parasites from fish that line up patiently",
+      "zh": "珊瑚礁的牙医——鱼类排队等它清理寄生虫"
+    },
+    "viewingSpots": ["Red Sea", "Great Barrier Reef", "Maldives"],
+    "display": {
+      "color": "#5DADE2",
+      "animation": "darting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 213289,
+    "name": "Acanthaster planci",
+    "tier": "ecosystem",
+    "nameZh": "棘冠海星",
+    "tagline": {
+      "en": "Coral-eating starfish whose outbreaks devastate entire reefs",
+      "zh": "食珊瑚海星——大爆发时摧毁整片珊瑚礁"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Pacific"],
+    "display": {
+      "color": "#8B008B",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 207610,
+    "name": "Linckia laevigata",
+    "tier": "ecosystem",
+    "nameZh": "蓝指海星",
+    "tagline": {
+      "en": "Electric blue starfish that can regrow its entire body from one arm",
+      "zh": "电光蓝海星——一只腕足就能再生整个身体"
+    },
+    "viewingSpots": ["Raja Ampat", "Great Barrier Reef", "Palau"],
+    "display": {
+      "color": "#2980B9",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 207670,
+    "name": "Tridacna gigas",
+    "tier": "ecosystem",
+    "nameZh": "大砗磲",
+    "tagline": {
+      "en": "The largest living bivalve — weighs over 200 kg and lives 100+ years",
+      "zh": "现存最大的双壳贝——重超200公斤，寿命逾百年"
+    },
+    "viewingSpots": ["Palau", "Great Barrier Reef", "Raja Ampat"],
+    "display": {
+      "color": "#2471A3",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 382891,
+    "name": "Panulirus argus",
+    "tier": "ecosystem",
+    "nameZh": "加勒比龙虾",
+    "tagline": {
+      "en": "Marches in single-file lines across the ocean floor during migration",
+      "zh": "迁徙时在海底排成单列行进"
+    },
+    "viewingSpots": ["Caribbean", "Florida"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 156134,
+    "name": "Homarus americanus",
+    "tier": "ecosystem",
+    "nameZh": "美洲龙虾",
+    "tagline": {
+      "en": "Biologically immortal — never stops growing throughout its life",
+      "zh": "生物学上不死——一生都在不断生长"
+    },
+    "viewingSpots": ["Maine", "Nova Scotia", "New England"],
+    "display": {
+      "color": "#922B21",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 107379,
+    "name": "Callinectes sapidus",
+    "tier": "ecosystem",
+    "nameZh": "美味优游蟹",
+    "tagline": {
+      "en": "The blue crab — backbone of Chesapeake Bay's ecosystem and economy",
+      "zh": "蓝蟹——切萨皮克湾生态系统和经济的支柱"
+    },
+    "viewingSpots": ["Chesapeake Bay", "Gulf of Mexico"],
+    "display": {
+      "color": "#2E86C1",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 233889,
+    "name": "Paralithodes camtschaticus",
+    "tier": "ecosystem",
+    "nameZh": "堪察加帝王蟹",
+    "tagline": {
+      "en": "Armored giant of Arctic seas — leg span over 1.5 meters",
+      "zh": "北极海域的装甲巨兽——腿展超过1.5米"
+    },
+    "viewingSpots": ["Alaska", "Norway", "Bering Sea"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 210378,
+    "name": "Penaeus monodon",
+    "tier": "ecosystem",
+    "nameZh": "斑节对虾",
+    "tagline": {
+      "en": "The black tiger prawn — most farmed crustacean on Earth",
+      "zh": "黑虎虾——地球上养殖最多的甲壳类"
+    },
+    "viewingSpots": ["Indo-Pacific", "Southeast Asia"],
+    "display": {
+      "color": "#1A5276",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 232231,
+    "name": "Macrocystis pyrifera",
+    "tier": "ecosystem",
+    "nameZh": "巨藻",
+    "tagline": {
+      "en": "Grows 60 cm per day — creates underwater forests taller than trees",
+      "zh": "每天生长60厘米——创造比树还高的水下森林"
+    },
+    "viewingSpots": ["Monterey Bay", "Tasmania", "Patagonia"],
+    "display": {
+      "color": "#1E8449",
+      "animation": "drifting",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 240747,
+    "name": "Strongylocentrotus purpuratus",
+    "tier": "ecosystem",
+    "nameZh": "紫色海胆",
+    "tagline": {
+      "en": "Kelp forest nemesis — overgrazing turns forests into urchin barrens",
+      "zh": "海藻林克星——过度啃食使森林变成荒芜之地"
+    },
+    "viewingSpots": ["Monterey Bay", "Pacific Coast"],
+    "display": {
+      "color": "#6C3483",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 126281,
+    "name": "Anguilla anguilla",
+    "tier": "ecosystem",
+    "nameZh": "欧洲鳗鲡",
+    "tagline": {
+      "en": "Born in the Sargasso Sea — nobody has ever seen them mate",
+      "zh": "出生在马尾藻海——从未有人见过它们交配"
+    },
+    "viewingSpots": ["Sargasso Sea", "European rivers"],
+    "display": {
+      "color": "#4A4A2E",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 127138,
+    "name": "Hippoglossus hippoglossus",
+    "tier": "ecosystem",
+    "nameZh": "大西洋大比目鱼",
+    "tagline": {
+      "en": "The largest flatfish — can exceed 2 meters and 300 kg",
+      "zh": "最大的比目鱼——可超过2米、300公斤"
+    },
+    "viewingSpots": ["Iceland", "Norway", "North Atlantic"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 126421,
+    "name": "Sardina pilchardus",
+    "tier": "ecosystem",
+    "nameZh": "沙丁鱼",
+    "tagline": {
+      "en": "Sardine run in South Africa — billions create one of nature's greatest spectacles",
+      "zh": "南非沙丁鱼大迁徙——数十亿条创造自然最壮观景象"
+    },
+    "viewingSpots": ["South Africa", "Mediterranean", "Portugal"],
+    "display": {
+      "color": "#A9CCE3",
+      "animation": "schooling",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 135306,
+    "name": "Aurelia aurita",
+    "tier": "ecosystem",
+    "nameZh": "海月水母",
+    "tagline": {
+      "en": "Ethereal moon jellyfish — drifting through every ocean on Earth",
+      "zh": "飘渺的月亮水母——漂浮在地球的每个海洋"
+    },
+    "viewingSpots": ["Global"],
+    "display": {
+      "color": "#D7BDE2",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 135301,
+    "name": "Cyanea capillata",
+    "tier": "ecosystem",
+    "nameZh": "狮鬃水母",
+    "tagline": {
+      "en": "Tentacles stretch over 30 meters — longer than a blue whale",
+      "zh": "触手超过30米——比蓝鲸还长"
+    },
+    "viewingSpots": ["North Atlantic", "Arctic", "North Pacific"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "drifting",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 135479,
+    "name": "Physalia physalis",
+    "tier": "ecosystem",
+    "nameZh": "僧帽水母",
+    "tagline": {
+      "en": "Not one animal but a colony — sails the surface with a gas-filled float",
+      "zh": "不是一个动物而是群体——用充气浮囊在水面航行"
+    },
+    "viewingSpots": ["Atlantic", "Pacific", "Indian Ocean"],
+    "display": {
+      "color": "#8E44AD",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 141444,
+    "name": "Sepia officinalis",
+    "tier": "ecosystem",
+    "nameZh": "欧洲乌贼",
+    "tagline": {
+      "en": "Masters of disguise — change color, texture and shape in milliseconds",
+      "zh": "伪装大师——毫秒内改变颜色、纹理和形状"
+    },
+    "viewingSpots": ["Mediterranean", "English Channel"],
+    "display": {
+      "color": "#8B7355",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 342291,
+    "name": "Dosidicus gigas",
+    "tier": "ecosystem",
+    "nameZh": "茎柔鱼",
+    "tagline": {
+      "en": "Humboldt squid — hunts in packs and flashes red when aggressive",
+      "zh": "洪堡鱿鱼——成群猎食，攻击时闪烁红色"
+    },
+    "viewingSpots": ["Gulf of California", "Peru", "Chile"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 140271,
+    "name": "Loligo vulgaris",
+    "tier": "ecosystem",
+    "nameZh": "欧洲枪乌贼",
+    "tagline": {
+      "en": "Jet-propelled hunter of the open ocean with excellent vision",
+      "zh": "喷射推进的远洋猎手，视觉极佳"
+    },
+    "viewingSpots": ["Mediterranean", "Atlantic"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "schooling",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 137117,
+    "name": "Phocoena phocoena",
+    "tier": "ecosystem",
+    "nameZh": "普通鼠海豚",
+    "tagline": {
+      "en": "One of the smallest cetaceans — shy harbor dweller",
+      "zh": "最小的鲸类之一——害羞的港湾居民"
+    },
+    "viewingSpots": ["North Sea", "Baltic", "Pacific Northwest"],
+    "display": {
+      "color": "#5D6D7E",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 137080,
+    "name": "Halichoerus grypus",
+    "tier": "ecosystem",
+    "nameZh": "灰海豹",
+    "tagline": {
+      "en": "The 'old man of the sea' — dominant seal of the North Atlantic",
+      "zh": "\"海中老人\"——北大西洋的霸主海豹"
+    },
+    "viewingSpots": ["Scotland", "Iceland", "Nova Scotia"],
+    "display": {
+      "color": "#6B6B6B",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 231404,
+    "name": "Arctocephalus gazella",
+    "tier": "ecosystem",
+    "nameZh": "南极毛皮海豹",
+    "tagline": {
+      "en": "Survives on krill — population indicator for Antarctic ecosystem health",
+      "zh": "以磷虾为生——南极生态系统健康的指标"
+    },
+    "viewingSpots": ["Antarctica", "South Georgia"],
+    "display": {
+      "color": "#4A3728",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 195932,
+    "name": "Leptonychotes weddellii",
+    "tier": "ecosystem",
+    "nameZh": "威德尔海豹",
+    "tagline": {
+      "en": "Lives further south than any mammal — chews through ice to breathe",
+      "zh": "生活在比任何哺乳动物更南的地方——咬穿冰层呼吸"
+    },
+    "viewingSpots": ["Antarctica"],
+    "display": {
+      "color": "#4D5656",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 159019,
+    "name": "Pagophilus groenlandicus",
+    "tier": "ecosystem",
+    "nameZh": "格陵兰海豹",
+    "tagline": {
+      "en": "Fluffy white pups on Arctic ice — symbol of wildlife conservation",
+      "zh": "北极冰面上毛茸茸的白色幼崽——野生动物保护的象征"
+    },
+    "viewingSpots": ["Arctic", "Greenland", "Canada"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 234836,
+    "name": "Dissostichus mawsoni",
+    "tier": "ecosystem",
+    "nameZh": "南极犬牙鱼",
+    "tagline": {
+      "en": "Antarctic toothfish — antifreeze proteins keep its blood liquid below 0 degrees",
+      "zh": "南极犬牙鱼——防冻蛋白使血液在零下仍保持液态"
+    },
+    "viewingSpots": ["Antarctica"],
+    "display": {
+      "color": "#566573",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 234679,
+    "name": "Notothenia coriiceps",
+    "tier": "ecosystem",
+    "nameZh": "厚皮南极鱼",
+    "tagline": {
+      "en": "Antarctic icefish relative — evolved in waters colder than a refrigerator",
+      "zh": "南极冰鱼近亲——在比冰箱更冷的水中进化"
+    },
+    "viewingSpots": ["Antarctica"],
+    "display": {
+      "color": "#7B8A8B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 266010,
+    "name": "Riftia pachyptila",
+    "tier": "ecosystem",
+    "nameZh": "管虫",
+    "tagline": {
+      "en": "Giant tube worm — thrives at volcanic vents without sunlight or a mouth",
+      "zh": "巨型管虫——在火山热泉中无需阳光和嘴巴即可繁衍"
+    },
+    "viewingSpots": ["East Pacific Rise", "Deep sea vents"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 107542,
+    "name": "Rimicaris exoculata",
+    "tier": "ecosystem",
+    "nameZh": "深海热泉虾",
+    "tagline": {
+      "en": "Eyeless shrimp that swarms around superheated deep-sea vents",
+      "zh": "无眼虾——成群聚集在超高温深海热泉周围"
+    },
+    "viewingSpots": ["Mid-Atlantic Ridge"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 336171,
+    "name": "Alvinella pompejana",
+    "tier": "ecosystem",
+    "nameZh": "庞贝蠕虫",
+    "tagline": {
+      "en": "Survives 80 degrees C — the most heat-tolerant animal on Earth",
+      "zh": "能承受80度——地球上最耐高温的动物"
+    },
+    "viewingSpots": ["East Pacific Rise"],
+    "display": {
+      "color": "#D35400",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 836033,
+    "name": "Magallana gigas",
+    "tier": "ecosystem",
+    "nameZh": "太平洋牡蛎",
+    "tagline": {
+      "en": "A single oyster filters 200 liters of water per day",
+      "zh": "一只牡蛎每天过滤200升水"
+    },
+    "viewingSpots": ["Pacific", "Europe", "Global"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 140480,
+    "name": "Mytilus edulis",
+    "tier": "ecosystem",
+    "nameZh": "紫贻贝",
+    "tagline": {
+      "en": "Glues itself to rocks with the strongest biological adhesive known",
+      "zh": "用已知最强的生物粘合剂将自己粘在岩石上"
+    },
+    "viewingSpots": ["North Atlantic", "Global"],
+    "display": {
+      "color": "#1C2833",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 150514,
+    "name": "Limulus polyphemus",
+    "tier": "ecosystem",
+    "nameZh": "美洲鲎",
+    "tagline": {
+      "en": "Living fossil unchanged for 450 million years — its blue blood saves human lives",
+      "zh": "4.5亿年未变的活化石——蓝色血液拯救人类生命"
+    },
+    "viewingSpots": ["Delaware Bay", "US Atlantic Coast"],
+    "display": {
+      "color": "#5D4E37",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 127403,
+    "name": "Diodon hystrix",
+    "tier": "ecosystem",
+    "nameZh": "刺鲀",
+    "tagline": {
+      "en": "Inflates into a spine-covered ball to deter predators",
+      "zh": "膨胀成布满刺的球体来吓退捕食者"
+    },
+    "viewingSpots": ["Caribbean", "Red Sea", "Pacific"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 159795,
+    "name": "Lutjanus campechanus",
+    "tier": "ecosystem",
+    "nameZh": "红笛鲷",
+    "tagline": {
+      "en": "Iconic reef fish — forms massive spawning aggregations",
+      "zh": "标志性珊瑚礁鱼——形成大规模产卵聚集"
+    },
+    "viewingSpots": ["Gulf of Mexico", "Caribbean"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 159353,
+    "name": "Epinephelus itajara",
+    "tier": "ecosystem",
+    "nameZh": "伊氏石斑鱼",
+    "tagline": {
+      "en": "Goliath grouper — produces a booming sound to defend its territory",
+      "zh": "歌利亚石斑鱼——发出轰鸣声保卫领地"
+    },
+    "viewingSpots": ["Florida", "Caribbean", "Brazil"],
+    "display": {
+      "color": "#5D6D7E",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 276064,
+    "name": "Scarus vetula",
+    "tier": "ecosystem",
+    "nameZh": "女王鹦哥鱼",
+    "tagline": {
+      "en": "Bites coral and poops sand — creates tropical beaches grain by grain",
+      "zh": "咬珊瑚拉白沙——一粒粒创造热带沙滩"
+    },
+    "viewingSpots": ["Caribbean", "Bermuda"],
+    "display": {
+      "color": "#1ABC9C",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 158583,
+    "name": "Gymnothorax funebris",
+    "tier": "ecosystem",
+    "nameZh": "绿海鳗",
+    "tagline": {
+      "en": "Has a second set of jaws in its throat — like the Alien movie",
+      "zh": "喉咙里有第二副颌——就像《异形》电影"
+    },
+    "viewingSpots": ["Caribbean", "Florida"],
+    "display": {
+      "color": "#1E8449",
+      "animation": "hovering",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 105846,
+    "name": "Ginglymostoma cirratum",
+    "tier": "ecosystem",
+    "nameZh": "铰口鲨",
+    "tagline": {
+      "en": "The docile nurse shark — rests in piles on the reef floor",
+      "zh": "温顺的护士鲨——在礁底堆叠休息"
+    },
+    "viewingSpots": ["Caribbean", "Red Sea"],
+    "display": {
+      "color": "#8B7355",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 281931,
+    "name": "Orectolobus maculatus",
+    "tier": "ecosystem",
+    "nameZh": "斑纹须鲨",
+    "tagline": {
+      "en": "The wobbegong — a flat, tasseled ambush predator of Australian reefs",
+      "zh": "毯鲨——澳大利亚珊瑚礁上扁平的流苏伏击者"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Sydney"],
+    "display": {
+      "color": "#8B7D6B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 313100,
+    "name": "Stegostoma tigrinum",
+    "tier": "ecosystem",
+    "nameZh": "豹纹鲨",
+    "tagline": {
+      "en": "Elegant leopard shark — changes from striped juvenile to spotted adult",
+      "zh": "优雅的豹纹鲨——从条纹幼鱼变为斑点成鱼"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Thailand", "Maldives"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 218174,
+    "name": "Cephalopholis argus",
+    "tier": "ecosystem",
+    "nameZh": "驼背鲈",
+    "tagline": {
+      "en": "The peacock grouper — electric blue spots on a fiery orange body",
+      "zh": "孔雀石斑鱼——火红身体上点缀电蓝色斑点"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Hawaii"],
+    "display": {
+      "color": "#D35400",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 127397,
+    "name": "Balistes vetula",
+    "tier": "ecosystem",
+    "nameZh": "女王鳞鲀",
+    "tagline": {
+      "en": "Queen triggerfish — locks itself into crevices with a dorsal spine",
+      "zh": "女王鳞鲀——用背棘将自己锁在缝隙中"
+    },
+    "viewingSpots": ["Caribbean", "Bermuda"],
+    "display": {
+      "color": "#2E86C1",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 273780,
+    "name": "Sparisoma viride",
+    "tier": "ecosystem",
+    "nameZh": "绿鹦哥鱼",
+    "tagline": {
+      "en": "Sleeps in a mucus cocoon to hide its scent from nocturnal predators",
+      "zh": "睡在黏液茧中，向夜间捕食者隐藏气味"
+    },
+    "viewingSpots": ["Caribbean"],
+    "display": {
+      "color": "#27AE60",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 212209,
+    "name": "Thalassoma lunare",
+    "tier": "ecosystem",
+    "nameZh": "月亮锦鱼",
+    "tagline": {
+      "en": "Neon rainbow wrasse — the busiest fish on the reef",
+      "zh": "霓虹彩虹隆头鱼——珊瑚礁上最忙碌的鱼"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Great Barrier Reef"],
+    "display": {
+      "color": "#2ECC71",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 211773,
+    "name": "Pygoplites diacanthus",
+    "tier": "ecosystem",
+    "nameZh": "甲尻鱼",
+    "tagline": {
+      "en": "Regal angelfish — striped in royal blue, white, and orange",
+      "zh": "皇家神仙鱼——蓝、白、橙条纹"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Indonesia"],
+    "display": {
+      "color": "#2E86C1",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 219683,
+    "name": "Zebrasoma flavescens",
+    "tier": "ecosystem",
+    "nameZh": "黄三角倒吊",
+    "tagline": {
+      "en": "Brilliant yellow tang — most popular aquarium fish in the world",
+      "zh": "亮丽的黄刺尾鲷——世界上最受欢迎的观赏鱼"
+    },
+    "viewingSpots": ["Hawaii"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 219628,
+    "name": "Acanthurus leucosternon",
+    "tier": "ecosystem",
+    "nameZh": "粉蓝吊",
+    "tagline": {
+      "en": "Powder blue surgeonfish — a territorial gem of Indian Ocean reefs",
+      "zh": "粉蓝刺尾鲷——印度洋珊瑚礁的领地宝石"
+    },
+    "viewingSpots": ["Maldives", "Red Sea"],
+    "display": {
+      "color": "#5DADE2",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 219890,
+    "name": "Rhinecanthus aculeatus",
+    "tier": "ecosystem",
+    "nameZh": "毕加索鳞鲀",
+    "tagline": {
+      "en": "Picasso triggerfish — named after the artist for its abstract markings",
+      "zh": "毕加索鳞鲀——因抽象花纹以画家命名"
+    },
+    "viewingSpots": ["Red Sea", "Hawaii", "Maldives"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 402161,
+    "name": "Centropyge loriculus",
+    "tier": "ecosystem",
+    "nameZh": "火焰神仙鱼",
+    "tagline": {
+      "en": "The flame angelfish — a blazing jewel of Pacific reefs",
+      "zh": "火焰神仙鱼——太平洋珊瑚礁的燃烧宝石"
+    },
+    "viewingSpots": ["Marshall Islands", "Hawaii", "Palau"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "darting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 275187,
+    "name": "Hippocampus bargibanti",
+    "tier": "ecosystem",
+    "nameZh": "豆丁海马",
+    "tagline": {
+      "en": "Smaller than a fingernail — perfectly camouflaged on sea fans",
+      "zh": "比指甲还小——在海扇上完美伪装"
+    },
+    "viewingSpots": ["Raja Ampat", "Indonesia", "Philippines"],
+    "display": {
+      "color": "#E88E5A",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 280408,
+    "name": "Cottocomephorus grewingkii",
+    "tier": "ecosystem",
+    "nameZh": "贝加尔湖杜父鱼",
+    "tagline": {
+      "en": "Endemic to Lake Baikal — evolved in the world's deepest lake",
+      "zh": "贝加尔湖特有种——在世界最深湖泊中进化"
+    },
+    "viewingSpots": ["Lake Baikal"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Arapaima gigas",
+    "tier": "ecosystem",
+    "nameZh": "巨骨舌鱼",
+    "tagline": {
+      "en": "Largest freshwater fish — must surface to breathe air",
+      "zh": "最大的淡水鱼——必须浮出水面呼吸空气"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon"],
+    "display": {
+      "color": "#2C3E50",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Electrophorus electricus",
+    "tier": "ecosystem",
+    "nameZh": "电鳗",
+    "tagline": {
+      "en": "Generates 860-volt shocks — enough to stun a horse",
+      "zh": "产生860伏电击——足以击晕一匹马"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon"],
+    "display": {
+      "color": "#2C3E50",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Pygocentrus nattereri",
+    "tier": "ecosystem",
+    "nameZh": "红腹食人鱼",
+    "tagline": {
+      "en": "Infamous for feeding frenzies — actually a timid schooling fish",
+      "zh": "以疯狂进食闻名——实际上是胆小的群居鱼"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "schooling",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Osteoglossum bicirrhosum",
+    "tier": "ecosystem",
+    "nameZh": "银龙鱼",
+    "tagline": {
+      "en": "Leaps out of the water to snatch insects and birds from branches",
+      "zh": "跃出水面从树枝上抢食昆虫和鸟类"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Potamotrygon motoro",
+    "tier": "ecosystem",
+    "nameZh": "圆斑淡水魟",
+    "tagline": {
+      "en": "Beautiful spotted freshwater stingray of the Amazon basin",
+      "zh": "亚马逊流域美丽的斑点淡水魟"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon"],
+    "display": {
+      "color": "#8B6914",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Symphysodon discus",
+    "tier": "ecosystem",
+    "nameZh": "铁饼鱼",
+    "tagline": {
+      "en": "The 'king of the aquarium' — feeds its fry from body mucus",
+      "zh": "\"水族之王\"——用体表黏液喂养幼鱼"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon"],
+    "display": {
+      "color": "#2E86C1",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 293639,
+    "name": "Oreochromis niloticus",
+    "tier": "ecosystem",
+    "nameZh": "尼罗罗非鱼",
+    "tagline": {
+      "en": "Most farmed fish on Earth — feeds hundreds of millions",
+      "zh": "地球上养殖最多的鱼——养活数亿人"
+    },
+    "viewingSpots": ["Lake Victoria", "Nile", "Global"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Lates niloticus",
+    "tier": "ecosystem",
+    "nameZh": "尼罗尖吻鲈",
+    "tagline": {
+      "en": "Nile perch — an invasive giant that transformed Lake Victoria's ecosystem",
+      "zh": "尼罗河鲈——改变维多利亚湖生态的入侵巨鱼"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Lake Victoria"],
+    "display": {
+      "color": "#6B7B8D",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Protopterus annectens",
+    "tier": "ecosystem",
+    "nameZh": "非洲肺鱼",
+    "tagline": {
+      "en": "Survives drought by burrowing into mud and breathing air for years",
+      "zh": "通过钻入泥中呼吸空气度过数年干旱"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["West Africa", "Central Africa"],
+    "display": {
+      "color": "#5D4E37",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Cichla temensis",
+    "tier": "ecosystem",
+    "nameZh": "皇帝孔雀鲈",
+    "tagline": {
+      "en": "The speckled peacock bass — apex predator of Amazonian rivers",
+      "zh": "皇帝孔雀鲈——亚马逊河流的顶级掠食者"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon", "Rio Negro"],
+    "display": {
+      "color": "#2E7D32",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 217995,
+    "name": "Corythoichthys intestinalis",
+    "tier": "ecosystem",
+    "nameZh": "网纹海龙",
+    "tagline": {
+      "en": "Scribbled pipefish — male carries eggs in a brood pouch like seahorses",
+      "zh": "涂鸦海龙——雄性像海马一样用育儿袋孵蛋"
+    },
+    "viewingSpots": ["Indo-Pacific", "Red Sea"],
+    "display": {
+      "color": "#A0826D",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 127387,
+    "name": "Syngnathus acus",
+    "tier": "ecosystem",
+    "nameZh": "大海龙",
+    "tagline": {
+      "en": "Greater pipefish — master of camouflage in seagrass beds",
+      "zh": "大海龙——海草床的伪装大师"
+    },
+    "viewingSpots": ["Mediterranean", "Atlantic"],
+    "display": {
+      "color": "#7D8B5E",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 1042871,
+    "name": "Mobula alfredi",
+    "tier": "ecosystem",
+    "nameZh": "阿氏前口蝠鲼",
+    "tagline": {
+      "en": "Reef manta ray — each one has unique belly markings like fingerprints",
+      "zh": "礁蝠鲼——每一只的腹部花纹都像指纹般独特"
+    },
+    "viewingSpots": ["Maldives", "Great Barrier Reef", "Raja Ampat"],
+    "display": {
+      "color": "#1A1A2E",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 220293,
+    "name": "Lepidochelys olivacea",
+    "tier": "ecosystem",
+    "nameZh": "太平洋丽龟",
+    "tagline": {
+      "en": "Arrives in mass nesting events called 'arribadas' — thousands at once",
+      "zh": "成千上万同时上岸集体产卵——壮观的\"抵达\""
+    },
+    "viewingSpots": ["Costa Rica", "India", "Mexico"],
+    "display": {
+      "color": "#6B8E23",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 254983,
+    "name": "Tursiops aduncus",
+    "tier": "ecosystem",
+    "nameZh": "印太瓶鼻海豚",
+    "tagline": {
+      "en": "Uses sponges as tools to dig for food — culture passed mother to daughter",
+      "zh": "用海绵当工具觅食——母女传承的文化"
+    },
+    "viewingSpots": ["Red Sea", "Australia", "South Africa"],
+    "display": {
+      "color": "#7B8FA1",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+
+  {
+    "aphiaId": 141887,
+    "name": "Vampyroteuthis infernalis",
+    "tier": "surprise",
+    "nameZh": "吸血鬼乌贼",
+    "tagline": {
+      "en": "Literally 'vampire squid from hell' — turns inside out when threatened",
+      "zh": "字面意思\"来自地狱的吸血鬼鱿鱼\"——受威胁时把身体翻过来"
+    },
+    "viewingSpots": ["Deep ocean", "Monterey Canyon"],
+    "display": {
+      "color": "#4A0E0E",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 138293,
+    "name": "Grimpoteuthis",
+    "tier": "surprise",
+    "nameZh": "小飞象章鱼",
+    "tagline": {
+      "en": "The 'Dumbo octopus' — flaps ear-like fins 4,000 m below the surface",
+      "zh": "\"小飞象章鱼\"——在水下4000米用耳朵般的鳍游泳"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#E8A0BF",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 281482,
+    "name": "Macropinna microstoma",
+    "tier": "surprise",
+    "nameZh": "大鳍后肛鱼",
+    "tagline": {
+      "en": "Has a transparent head — you can see its brain through its skull",
+      "zh": "拥有透明头部——你可以透过头骨看到它的大脑"
+    },
+    "viewingSpots": ["Monterey Canyon", "Deep Pacific"],
+    "display": {
+      "color": "#1ABC9C",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 274674,
+    "name": "Psychrolutes marcidus",
+    "tier": "surprise",
+    "nameZh": "水滴鱼",
+    "tagline": {
+      "en": "Voted 'world's ugliest animal' — actually looks normal at depth",
+      "zh": "被选为\"世界上最丑的动物\"——在深海其实长相正常"
+    },
+    "viewingSpots": ["Australia", "Tasmania", "Deep ocean"],
+    "display": {
+      "color": "#D5A6BD",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 126525,
+    "name": "Regalecus glesne",
+    "tier": "surprise",
+    "nameZh": "皇带鱼",
+    "tagline": {
+      "en": "The longest bony fish — up to 11 meters — inspired sea serpent legends",
+      "zh": "最长的硬骨鱼——长达11米——海蛇传说的灵感来源"
+    },
+    "viewingSpots": ["Global deep ocean"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "drifting",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 342218,
+    "name": "Architeuthis dux",
+    "tier": "surprise",
+    "nameZh": "大王乌贼",
+    "tagline": {
+      "en": "Giant squid — eyes the size of dinner plates to see in the abyss",
+      "zh": "大王乌贼——眼睛像餐盘大小，在深渊中观察"
+    },
+    "viewingSpots": ["Deep ocean", "New Zealand"],
+    "display": {
+      "color": "#922B21",
+      "animation": "slow_cruise",
+      "scale": "massive"
+    }
+  },
+  {
+    "aphiaId": 140022,
+    "name": "Glaucus atlanticus",
+    "tier": "surprise",
+    "nameZh": "大西洋海神海蛞蝓",
+    "tagline": {
+      "en": "The 'blue dragon' — eats venomous jellyfish and steals their stingers",
+      "zh": "\"蓝龙\"——吃有毒水母并偷走它们的刺细胞"
+    },
+    "viewingSpots": ["Atlantic", "Pacific"],
+    "display": {
+      "color": "#2E86C1",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 282254,
+    "name": "Phyllopteryx taeniolatus",
+    "tier": "surprise",
+    "nameZh": "叶海龙",
+    "tagline": {
+      "en": "Weedy seadragon — looks like a piece of kelp come to life",
+      "zh": "叶海龙——看起来像一片活过来的海藻"
+    },
+    "viewingSpots": ["Southern Australia"],
+    "display": {
+      "color": "#E67E22",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 282248,
+    "name": "Phycodurus eques",
+    "tier": "surprise",
+    "nameZh": "草海龙",
+    "tagline": {
+      "en": "Leafy seadragon — the most ornate fish in the sea, festooned with frills",
+      "zh": "草海龙——海洋中最华丽的鱼，装饰着褶边"
+    },
+    "viewingSpots": ["South Australia"],
+    "display": {
+      "color": "#8B6914",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 342333,
+    "name": "Hapalochlaena lunulata",
+    "tier": "surprise",
+    "nameZh": "蓝环章鱼",
+    "tagline": {
+      "en": "Golf-ball-sized but carries enough venom to kill 26 adults",
+      "zh": "只有高尔夫球大小，毒素却能杀死26个成年人"
+    },
+    "viewingSpots": ["Australia", "Indonesia", "Philippines"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 273264,
+    "name": "Synchiropus splendidus",
+    "tier": "surprise",
+    "nameZh": "花斑连鳍",
+    "tagline": {
+      "en": "The mandarinfish — psychedelic patterns with no scales, only toxic slime",
+      "zh": "七彩麒麟——迷幻花纹无鳞片，只有有毒黏液"
+    },
+    "viewingSpots": ["Palau", "Philippines", "Indonesia"],
+    "display": {
+      "color": "#E67E22",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 217616,
+    "name": "Idiacanthus atlanticus",
+    "tier": "surprise",
+    "nameZh": "黑柔骨鱼",
+    "tagline": {
+      "en": "Black dragonfish — females have fangs and a bioluminescent barbel",
+      "zh": "黑柔骨鱼——雌鱼有獠牙和发光的触须"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#0D0D0D",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 126556,
+    "name": "Melanocetus johnsonii",
+    "tier": "surprise",
+    "nameZh": "约翰黑角鮟鱇",
+    "tagline": {
+      "en": "Deep-sea anglerfish — male fuses permanently to the female's body",
+      "zh": "深海鮟鱇——雄鱼永久融入雌鱼体内"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#1A1A1A",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 126393,
+    "name": "Anoplogaster cornuta",
+    "tier": "surprise",
+    "nameZh": "角高体金眼鲷",
+    "tagline": {
+      "en": "Fangtooth — has the largest teeth relative to body size of any fish",
+      "zh": "尖牙鱼——牙齿与身体的比例是所有鱼类中最大的"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#1C1C1C",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 127338,
+    "name": "Chauliodus sloani",
+    "tier": "surprise",
+    "nameZh": "斯隆蝰鱼",
+    "tagline": {
+      "en": "Viperfish — needle-like fangs so long it cannot close its mouth",
+      "zh": "蝰鱼——针状獠牙太长以至于无法闭嘴"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#1A1A2E",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 127165,
+    "name": "Eurypharynx pelecanoides",
+    "tier": "surprise",
+    "nameZh": "宽咽鱼",
+    "tagline": {
+      "en": "Pelican eel — mouth opens wider than its entire body",
+      "zh": "鹈鹕鳗——嘴能张得比整个身体还大"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#0D0D0D",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 126545,
+    "name": "Himantolophus groenlandicus",
+    "tier": "surprise",
+    "nameZh": "格陵兰鞭冠鮟鱇",
+    "tagline": {
+      "en": "Footballfish — a nightmarish anglerfish occasionally washed ashore",
+      "zh": "足球鱼——偶尔被冲上海岸的噩梦鮟鱇"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#2C2C2C",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 126733,
+    "name": "Opisthoproctus soleatus",
+    "tier": "surprise",
+    "nameZh": "后肛鱼",
+    "tagline": {
+      "en": "Barreleye with tubular eyes that look straight up through its head",
+      "zh": "管眼鱼——管状眼睛直接向上透过头部观察"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#5DADE2",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 344083,
+    "name": "Laticauda colubrina",
+    "tier": "surprise",
+    "nameZh": "阔带青斑海蛇",
+    "tagline": {
+      "en": "Banded sea krait — 10x more venomous than a cobra but incredibly docile",
+      "zh": "阔带青斑海蛇——毒性是眼镜蛇的10倍但极其温顺"
+    },
+    "viewingSpots": ["Philippines", "Indonesia", "Fiji"],
+    "display": {
+      "color": "#2C3E50",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 1476906,
+    "name": "Hydrophis platurus",
+    "tier": "surprise",
+    "nameZh": "黄腹海蛇",
+    "tagline": {
+      "en": "Most widespread snake on Earth — found across the entire Pacific",
+      "zh": "地球上分布最广的蛇——遍布整个太平洋"
+    },
+    "viewingSpots": ["Pacific", "Indian Ocean"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 527322,
+    "name": "Nembrotha kubaryana",
+    "tier": "surprise",
+    "nameZh": "库巴里海蛞蝓",
+    "tagline": {
+      "en": "Neon-green-and-black nudibranch — toxic and proud of it",
+      "zh": "霓虹绿黑色海蛞蝓——有毒且引以为傲"
+    },
+    "viewingSpots": ["Indonesia", "Philippines", "Raja Ampat"],
+    "display": {
+      "color": "#2ECC71",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 558198,
+    "name": "Chromodoris lochi",
+    "tier": "surprise",
+    "nameZh": "洛氏多彩海蛞蝓",
+    "tagline": {
+      "en": "A living jewel — translucent blue body with black and gold trim",
+      "zh": "活宝石——半透明蓝色身体配黑金镶边"
+    },
+    "viewingSpots": ["Raja Ampat", "Philippines"],
+    "display": {
+      "color": "#5DADE2",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 256755,
+    "name": "Cymothoa exigua",
+    "tier": "surprise",
+    "nameZh": "缩头鱼虱",
+    "tagline": {
+      "en": "The tongue-eating louse — replaces a fish's tongue and lives in its mouth",
+      "zh": "食舌虱——替换鱼的舌头并住在它嘴里"
+    },
+    "viewingSpots": ["Pacific", "Atlantic"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 216384,
+    "name": "Nautilus pompilius",
+    "tier": "surprise",
+    "nameZh": "鹦鹉螺",
+    "tagline": {
+      "en": "Living fossil unchanged for 500 million years — shell is a mathematical spiral",
+      "zh": "5亿年未变的活化石——壳是数学的对数螺旋"
+    },
+    "viewingSpots": ["Palau", "Philippines", "New Caledonia"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 217438,
+    "name": "Latimeria chalumnae",
+    "tier": "surprise",
+    "nameZh": "腔棘鱼",
+    "tagline": {
+      "en": "Thought extinct for 65 million years — rediscovered alive in 1938",
+      "zh": "被认为灭绝6500万年——1938年被重新发现"
+    },
+    "viewingSpots": ["Comoros Islands", "South Africa"],
+    "display": {
+      "color": "#2E4057",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 287206,
+    "name": "Chrysaora fuscescens",
+    "tier": "surprise",
+    "nameZh": "太平洋海荨麻",
+    "tagline": {
+      "en": "Pacific sea nettle — trailing 5-meter golden tentacles like a living lantern",
+      "zh": "太平洋海荨麻——拖着5米金色触手如活灯笼"
+    },
+    "viewingSpots": ["Monterey Bay", "Pacific Coast"],
+    "display": {
+      "color": "#E67E22",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 151801,
+    "name": "Turritopsis dohrnii",
+    "tier": "surprise",
+    "nameZh": "灯塔水母",
+    "tagline": {
+      "en": "The immortal jellyfish — can reverse aging and revert to its juvenile form",
+      "zh": "不死水母——能逆转衰老回到幼年形态"
+    },
+    "viewingSpots": ["Mediterranean", "Global"],
+    "display": {
+      "color": "#E8DAEF",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 220297,
+    "name": "Odontodactylus scyllarus",
+    "tier": "surprise",
+    "nameZh": "雀尾螳螂虾",
+    "tagline": {
+      "en": "Punches at the speed of a bullet — sees 16 types of color receptors vs our 3",
+      "zh": "以子弹速度出拳——拥有16种色觉感受器，人类只有3种"
+    },
+    "viewingSpots": ["Indonesia", "Great Barrier Reef", "Red Sea"],
+    "display": {
+      "color": "#2ECC71",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 217850,
+    "name": "Antennarius maculatus",
+    "tier": "surprise",
+    "nameZh": "斑纹躄鱼",
+    "tagline": {
+      "en": "Warty frogfish — uses a built-in fishing rod to lure prey to its mouth",
+      "zh": "疣状躄鱼——用自带的\"钓鱼竿\"将猎物引到嘴边"
+    },
+    "viewingSpots": ["Indonesia", "Philippines", "Maldives"],
+    "display": {
+      "color": "#F39C12",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 218087,
+    "name": "Rhinopias frondosa",
+    "tier": "surprise",
+    "nameZh": "前鳍吻鲉",
+    "tagline": {
+      "en": "Weedy scorpionfish — a psychedelic ambush predator worth thousands to divers",
+      "zh": "前鳍吻鲉——迷幻伏击者，潜水员梦寐以求的拍摄对象"
+    },
+    "viewingSpots": ["Indonesia", "Papua New Guinea"],
+    "display": {
+      "color": "#8E44AD",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 215627,
+    "name": "Synanceia verrucosa",
+    "tier": "surprise",
+    "nameZh": "玫瑰毒鲉",
+    "tagline": {
+      "en": "Stonefish — the most venomous fish, perfectly disguised as a rock",
+      "zh": "石鱼——最毒的鱼，完美伪装成一块石头"
+    },
+    "viewingSpots": ["Indo-Pacific", "Red Sea", "Australia"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 217422,
+    "name": "Taeniura lymma",
+    "tier": "surprise",
+    "nameZh": "蓝点魟",
+    "tagline": {
+      "en": "Blue-spotted ribbontail ray — electric blue polka dots on golden skin",
+      "zh": "蓝点魟——金色皮肤上的电蓝色波尔卡圆点"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Great Barrier Reef"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 276442,
+    "name": "Opistognathus aurifrons",
+    "tier": "surprise",
+    "nameZh": "黄头颚鱼",
+    "tagline": {
+      "en": "Yellowhead jawfish — male incubates eggs in its mouth for weeks",
+      "zh": "黄头颚鱼——雄鱼在嘴中孵卵数周"
+    },
+    "viewingSpots": ["Caribbean"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 206503,
+    "name": "Dendronephthya",
+    "tier": "surprise",
+    "nameZh": "树珊瑚",
+    "tagline": {
+      "en": "Carnation coral — cannot photosynthesize, feeds on plankton passing by",
+      "zh": "康乃馨珊瑚——不能光合作用，靠捕食路过的浮游生物"
+    },
+    "viewingSpots": ["Red Sea", "Indonesia", "Philippines"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 137250,
+    "name": "Pyrosoma atlanticum",
+    "tier": "surprise",
+    "nameZh": "火体虫",
+    "tagline": {
+      "en": "A hollow tube of light made of thousands of cloned animals",
+      "zh": "由数千个克隆体组成的空心发光管"
+    },
+    "viewingSpots": ["Open ocean", "Deep sea"],
+    "display": {
+      "color": "#3498DB",
+      "animation": "drifting",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 280873,
+    "name": "Glaucostegus granulatus",
+    "tier": "surprise",
+    "nameZh": "颗粒犁头鳐",
+    "tagline": {
+      "en": "Sharkray — half shark, half ray, fully bizarre",
+      "zh": "鲨鳐——半鲨半鳐，完全奇异"
+    },
+    "viewingSpots": ["Indo-Pacific"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 282352,
+    "name": "Pristiophorus cirratus",
+    "tier": "surprise",
+    "nameZh": "须锯鲨",
+    "tagline": {
+      "en": "Sawshark — uses its saw-like snout to stun fish hiding in sand",
+      "zh": "锯鲨——用锯状吻部击晕藏在沙中的鱼"
+    },
+    "viewingSpots": ["Southern Australia"],
+    "display": {
+      "color": "#8B7D6B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 126534,
+    "name": "Caulophryne jordani",
+    "tier": "surprise",
+    "nameZh": "约旦氏角鮟鱇",
+    "tagline": {
+      "en": "Fanfin anglerfish — covered in sensory filaments that detect the slightest motion",
+      "zh": "扇鳍鮟鱇——浑身感觉丝能探测最微小的动作"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#1A1A1A",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 159181,
+    "name": "Linophryne arborifera",
+    "tier": "surprise",
+    "nameZh": "树状线鮟鱇",
+    "tagline": {
+      "en": "Netdevil — bioluminescent chin barbel branches like a glowing tree",
+      "zh": "网鬼——下颌须像发光的树一样分支"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#0D0D0D",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 105824,
+    "name": "Chimaera monstrosa",
+    "tier": "surprise",
+    "nameZh": "欧洲银鲛",
+    "tagline": {
+      "en": "Rabbitfish — a living fossil with a venomous dorsal spine and ghostly eyes",
+      "zh": "银鲛——有毒背棘和幽灵般眼睛的活化石"
+    },
+    "viewingSpots": ["North Atlantic", "Mediterranean"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 220063,
+    "name": "Oxymonacanthus longirostris",
+    "tier": "surprise",
+    "nameZh": "尖嘴单角鲀",
+    "tagline": {
+      "en": "Orange-spotted filefish — feeds exclusively on coral polyps one at a time",
+      "zh": "尖嘴单角鲀——一次只吃一个珊瑚虫"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Red Sea", "Maldives"],
+    "display": {
+      "color": "#3498DB",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 218760,
+    "name": "Forcipiger flavissimus",
+    "tier": "surprise",
+    "nameZh": "黄镊口鱼",
+    "tagline": {
+      "en": "Long-nose butterflyfish — uses tweezers-like snout to extract prey from crevices",
+      "zh": "长嘴蝴蝶鱼——用镊子般的嘴从缝隙中取出猎物"
+    },
+    "viewingSpots": ["Hawaii", "Red Sea", "Maldives"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 213527,
+    "name": "Pteraeolidia ianthina",
+    "tier": "surprise",
+    "nameZh": "紫翼海蛞蝓",
+    "tagline": {
+      "en": "Farms algae inside its own body — a solar-powered sea slug",
+      "zh": "在体内培养藻类——太阳能驱动的海蛞蝓"
+    },
+    "viewingSpots": ["Indo-Pacific", "Japan"],
+    "display": {
+      "color": "#8E44AD",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 421713,
+    "name": "Periclimenes yucatanicus",
+    "tier": "surprise",
+    "nameZh": "尤卡坦岩虾",
+    "tagline": {
+      "en": "Spotted cleaner shrimp — dances to attract fish clients for cleaning",
+      "zh": "斑点清洁虾——跳舞吸引鱼类客户来清洁"
+    },
+    "viewingSpots": ["Caribbean"],
+    "display": {
+      "color": "#E8DAEF",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 107534,
+    "name": "Thor amboinensis",
+    "tier": "surprise",
+    "nameZh": "安波虾",
+    "tagline": {
+      "en": "Sexy shrimp — does a constant tail-wagging dance on sea anemones",
+      "zh": "性感虾——在海葵上不停地摇尾跳舞"
+    },
+    "viewingSpots": ["Indo-Pacific", "Caribbean"],
+    "display": {
+      "color": "#E67E22",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 514833,
+    "name": "Alpheus bellulus",
+    "tier": "surprise",
+    "nameZh": "美丽鼓虾",
+    "tagline": {
+      "en": "Tiger pistol shrimp — snap creates a sonic boom hotter than the sun's surface",
+      "zh": "虎纹枪虾——弹指产生比太阳表面更热的音爆"
+    },
+    "viewingSpots": ["Indo-Pacific"],
+    "display": {
+      "color": "#F39C12",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 278326,
+    "name": "Cryptocentrus cinctus",
+    "tier": "surprise",
+    "nameZh": "黄鳍虾虎鱼",
+    "tagline": {
+      "en": "Lives with a pistol shrimp partner — the shrimp digs, the goby keeps watch",
+      "zh": "与枪虾搭档——虾负责挖洞，虾虎鱼负责放哨"
+    },
+    "viewingSpots": ["Indo-Pacific", "Red Sea"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 278394,
+    "name": "Amphiprion frenatus",
+    "tier": "surprise",
+    "nameZh": "白条双锯鱼",
+    "tagline": {
+      "en": "Tomato clownfish — born male, the dominant fish becomes female",
+      "zh": "番茄小丑鱼——生来为雄性，主导个体变为雌性"
+    },
+    "viewingSpots": ["Philippines", "Indonesia", "Japan"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "darting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 217976,
+    "name": "Solenostomus paradoxus",
+    "tier": "surprise",
+    "nameZh": "美丽剃刀鱼",
+    "tagline": {
+      "en": "Ornate ghost pipefish — vanishes among crinoid feather stars",
+      "zh": "华丽剃刀鱼——在海百合的羽状臂中消失无踪"
+    },
+    "viewingSpots": ["Indonesia", "Philippines", "Maldives"],
+    "display": {
+      "color": "#C39BD3",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 218163,
+    "name": "Pegasus volitans",
+    "tier": "surprise",
+    "nameZh": "飞海蛾鱼",
+    "tagline": {
+      "en": "Seamoth — armored body and wing-like fins, walks on the sea floor",
+      "zh": "海蛾鱼——装甲身体和翼状鳍，在海底行走"
+    },
+    "viewingSpots": ["Indo-Pacific"],
+    "display": {
+      "color": "#8B7D6B",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 259252,
+    "name": "Bathynomus giganteus",
+    "tier": "surprise",
+    "nameZh": "大王具足虫",
+    "tagline": {
+      "en": "Giant isopod — a deep-sea roly-poly the size of a football",
+      "zh": "大王具足虫——足球大小的深海鼠妇"
+    },
+    "viewingSpots": ["Gulf of Mexico", "Deep ocean"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 341442,
+    "name": "Magnapinna",
+    "tier": "surprise",
+    "nameZh": "大鳍鱿鱼",
+    "tagline": {
+      "en": "Bigfin squid — elbow tentacles dangle like alien marionette strings in the abyss",
+      "zh": "大鳍鱿鱼——弯曲触手在深渊中垂挂如外星木偶线"
+    },
+    "viewingSpots": ["Deep ocean"],
+    "display": {
+      "color": "#E8DAEF",
+      "animation": "drifting",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105851,
+    "name": "Dasyatis pastinaca",
+    "tier": "surprise",
+    "nameZh": "普通魟",
+    "tagline": {
+      "en": "Common stingray — buries itself in sand with only its eyes above",
+      "zh": "普通魟——把自己埋在沙里只露出眼睛"
+    },
+    "viewingSpots": ["Mediterranean", "Atlantic"],
+    "display": {
+      "color": "#8B7D6B",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 271684,
+    "name": "Torpedo marmorata",
+    "tier": "surprise",
+    "nameZh": "大理石电鳐",
+    "tagline": {
+      "en": "Marbled electric ray — stuns prey with 200-volt shocks",
+      "zh": "大理石电鳐——用200伏电击击晕猎物"
+    },
+    "viewingSpots": ["Mediterranean", "Atlantic"],
+    "display": {
+      "color": "#7D6544",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 217925,
+    "name": "Myripristis murdjan",
+    "tier": "surprise",
+    "nameZh": "赤鳍锯鳞鱼",
+    "tagline": {
+      "en": "Soldierfish — enormous eyes adapted for hunting in pitch darkness",
+      "zh": "金鳞鱼——巨大的眼睛适应在漆黑中捕猎"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Indo-Pacific"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "schooling",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 204396,
+    "name": "Xenia",
+    "tier": "surprise",
+    "nameZh": "脉冲珊瑚",
+    "tagline": {
+      "en": "Pulsing coral — rhythmically opens and closes like a beating heart",
+      "zh": "脉动珊瑚——有节奏地开合如跳动的心脏"
+    },
+    "viewingSpots": ["Red Sea", "Indo-Pacific"],
+    "display": {
+      "color": "#D7BDE2",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 137214,
+    "name": "Salpida",
+    "tier": "surprise",
+    "nameZh": "樽海鞘",
+    "tagline": {
+      "en": "Salps — barrel-shaped jet engines that clone themselves into chains",
+      "zh": "樽海鞘——桶状喷气引擎，克隆自己连成链"
+    },
+    "viewingSpots": ["Open ocean", "Global"],
+    "display": {
+      "color": "#AED6F1",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 276694,
+    "name": "Heterodontus francisci",
+    "tier": "surprise",
+    "nameZh": "加州异齿鲨",
+    "tagline": {
+      "en": "Horn shark — lays corkscrew-shaped eggs wedged into rock crevices",
+      "zh": "角鲨——产下螺旋形卵塞入岩缝"
+    },
+    "viewingSpots": ["California", "Pacific Coast"],
+    "display": {
+      "color": "#8B7355",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Pterophyllum scalare",
+    "tier": "surprise",
+    "nameZh": "神仙鱼",
+    "tagline": {
+      "en": "Freshwater angelfish — tall, elegant, and one of the most kept aquarium fish",
+      "zh": "淡水神仙鱼——高挑优雅，最受欢迎的观赏鱼之一"
+    },
+    "_comment": "Freshwater species not in WoRMS crosswalk",
+    "viewingSpots": ["Amazon"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": null,
+    "name": "Comephorus baicalensis",
+    "tier": "surprise",
+    "nameZh": "贝加尔湖油鱼",
+    "tagline": {
+      "en": "Transparent Baikal oilfish — so fatty it melts in the sun after death",
+      "zh": "透明的贝加尔湖油鱼——油脂含量高到死后在阳光下会融化"
+    },
+    "_comment": "Lake Baikal endemic, not in WoRMS crosswalk",
+    "viewingSpots": ["Lake Baikal"],
+    "display": {
+      "color": "#E8DAEF",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 219964,
+    "name": "Chilomycterus reticulatus",
+    "tier": "surprise",
+    "nameZh": "网纹刺鲀",
+    "tagline": {
+      "en": "Burrfish — permanently inflated spiny ball with big puppy-dog eyes",
+      "zh": "刺鲀——永远膨起的刺球配上大大的狗狗眼"
+    },
+    "viewingSpots": ["Caribbean", "Pacific"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "hovering",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 275193,
+    "name": "Hippocampus denise",
+    "tier": "surprise",
+    "nameZh": "丹尼斯豆丁海马",
+    "tagline": {
+      "en": "One of the world's smallest fish — lives on a single gorgonian coral",
+      "zh": "世界上最小的鱼之一——生活在一株柳珊瑚上"
+    },
+    "viewingSpots": ["Raja Ampat", "Indonesia"],
+    "display": {
+      "color": "#F5B041",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 137087,
+    "name": "Balaenoptera acutorostrata",
+    "tier": "star",
+    "nameZh": "小须鲸",
+    "tagline": {
+      "en": "The smallest baleen whale — curious and playful around boats",
+      "zh": "最小的须鲸——对船只充满好奇且爱嬉戏"
+    },
+    "viewingSpots": ["Iceland", "Norway", "Great Barrier Reef"],
+    "display": {
+      "color": "#34495E",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105801,
+    "name": "Prionace glauca",
+    "tier": "star",
+    "nameZh": "大青鲨",
+    "tagline": {
+      "en": "The most widespread shark — electric blue skin fades after death",
+      "zh": "分布最广的鲨鱼——电蓝色皮肤在死后褪色"
+    },
+    "viewingSpots": ["Azores", "South Africa", "Open ocean"],
+    "display": {
+      "color": "#2E86C1",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 105842,
+    "name": "Mitsukurina owstoni",
+    "tier": "star",
+    "nameZh": "欧氏剑吻鲨",
+    "tagline": {
+      "en": "Goblin shark — shoots its jaw forward to snatch prey like a slingshot",
+      "zh": "哥布林鲨——像弹弓一样弹射下颌抓取猎物"
+    },
+    "viewingSpots": ["Deep ocean", "Japan"],
+    "display": {
+      "color": "#E8A0BF",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 218758,
+    "name": "Chelmon rostratus",
+    "tier": "ecosystem",
+    "nameZh": "长吻蝴蝶鱼",
+    "tagline": {
+      "en": "Copperband butterflyfish — delicate beak probes crevices for worms",
+      "zh": "铜带蝴蝶鱼——纤细的喙探入缝隙寻找蠕虫"
+    },
+    "viewingSpots": ["Great Barrier Reef", "Indonesia", "Red Sea"],
+    "display": {
+      "color": "#E67E22",
+      "animation": "darting",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 219611,
+    "name": "Nemateleotris magnifica",
+    "tier": "ecosystem",
+    "nameZh": "华丽线塘鳢",
+    "tagline": {
+      "en": "Fire dartfish — hovers above its burrow with a flicking dorsal flag",
+      "zh": "华丽线塘鳢——在洞口上方悬停，背鳍如旗飘扬"
+    },
+    "viewingSpots": ["Maldives", "Red Sea", "Indo-Pacific"],
+    "display": {
+      "color": "#FF6B35",
+      "animation": "hovering",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 105831,
+    "name": "Chlamydoselachus anguineus",
+    "tier": "surprise",
+    "nameZh": "皱鳃鲨",
+    "tagline": {
+      "en": "Frilled shark — a 'living fossil' that looks like a deep-sea serpent",
+      "zh": "皱鳃鲨——看起来像深海蛇的\"活化石\""
+    },
+    "viewingSpots": ["Deep ocean", "Japan"],
+    "display": {
+      "color": "#4A4A4A",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 126522,
+    "name": "Lampris guttatus",
+    "tier": "surprise",
+    "nameZh": "斑点月鱼",
+    "tagline": {
+      "en": "Opah — the only known fully warm-blooded fish, like a disco ball of the deep",
+      "zh": "月鱼——唯一已知的完全温血鱼类，如深海迪斯科球"
+    },
+    "viewingSpots": ["Open ocean", "Hawaii"],
+    "display": {
+      "color": "#E74C3C",
+      "animation": "slow_cruise",
+      "scale": "large"
+    }
+  },
+  {
+    "aphiaId": 103272,
+    "name": "Phronima sedentaria",
+    "tier": "surprise",
+    "nameZh": "冥虫",
+    "tagline": {
+      "en": "Pram bug — hollows out a salp and rides it like a glass barrel through the abyss",
+      "zh": "冥虫——掏空樽海鞘，乘坐如玻璃桶穿越深渊"
+    },
+    "viewingSpots": ["Deep ocean", "Global"],
+    "display": {
+      "color": "#AED6F1",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 141548,
+    "name": "Spirula spirula",
+    "tier": "surprise",
+    "nameZh": "旋壳乌贼",
+    "tagline": {
+      "en": "Ram's horn squid — has an internal coiled shell and a glowing tail light",
+      "zh": "旋壳乌贼——拥有内部螺旋壳和发光的尾灯"
+    },
+    "viewingSpots": ["Deep ocean", "Atlantic"],
+    "display": {
+      "color": "#D4A574",
+      "animation": "drifting",
+      "scale": "tiny"
+    }
+  },
+  {
+    "aphiaId": 218710,
+    "name": "Platax teira",
+    "tier": "surprise",
+    "nameZh": "尖翅燕鱼",
+    "tagline": {
+      "en": "Longfin batfish — juveniles mimic dead leaves drifting on the surface",
+      "zh": "尖翅燕鱼——幼鱼模仿漂浮在水面的枯叶"
+    },
+    "viewingSpots": ["Maldives", "Red Sea", "Indonesia"],
+    "display": {
+      "color": "#BDC3C7",
+      "animation": "slow_cruise",
+      "scale": "medium"
+    }
+  },
+  {
+    "aphiaId": 218765,
+    "name": "Heniochus acuminatus",
+    "tier": "surprise",
+    "nameZh": "马夫鱼",
+    "tagline": {
+      "en": "Pennant coralfish — a trailing white dorsal banner like a medieval knight's flag",
+      "zh": "马夫鱼——拖曳的白色背鳍如中世纪骑士旗帜"
+    },
+    "viewingSpots": ["Red Sea", "Maldives", "Great Barrier Reef"],
+    "display": {
+      "color": "#F4D03F",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 127232,
+    "name": "Dactylopterus volitans",
+    "tier": "surprise",
+    "nameZh": "飞角鱼",
+    "tagline": {
+      "en": "Flying gurnard — spreads enormous pectoral fins like underwater wings",
+      "zh": "飞角鱼——展开巨大胸鳍如水下翅膀"
+    },
+    "viewingSpots": ["Caribbean", "Mediterranean"],
+    "display": {
+      "color": "#8E44AD",
+      "animation": "slow_cruise",
+      "scale": "small"
+    }
+  },
+  {
+    "aphiaId": 138074,
+    "name": "Histioteuthis",
+    "tier": "surprise",
+    "nameZh": "草莓鱿鱼",
+    "tagline": {
+      "en": "Strawberry squid — one giant eye looks up, one tiny eye looks down",
+      "zh": "草莓鱿鱼——一只大眼朝上看，一只小眼朝下看"
+    },
+    "viewingSpots": ["Deep ocean", "Monterey Canyon"],
+    "display": {
+      "color": "#C0392B",
+      "animation": "drifting",
+      "scale": "small"
+    }
+  }
+]
