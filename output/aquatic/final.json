@@ -10812,5 +10812,618 @@
     "group": "octopus_squid",
     "bodyType": "cephalopod",
     "sprite": "sp-giant_pacific_octopus.png"
+  },
+  {
+    "aphiaId": 289826,
+    "tier": "ecosystem",
+    "name": "Diploria labyrinthiformis",
+    "nameZh": "迷宫脑珊瑚",
+    "tagline": {
+      "en": "A living maze — the brain coral's grooves shelter tiny creatures",
+      "zh": "活的迷宫——脑珊瑚的沟壑庇护着微小生物"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "great_barrier_reef",
+        "name": "Great Barrier Reef",
+        "country": "AU",
+        "lat": -18.29,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "red_sea_egypt",
+        "name": "Red Sea, Egypt",
+        "country": "EG",
+        "lat": 27.19,
+        "lng": 33.83,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Bonaire",
+        "country": "BQ",
+        "lat": 12.15,
+        "lng": -68.27,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#8B7355",
+      "animation": "hovering",
+      "scale": "medium"
+    },
+    "scientificName": "Diploria labyrinthiformis",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 207350,
+    "tier": "surprise",
+    "name": "Fungia fungites",
+    "nameZh": "蘑菇珊瑚",
+    "tagline": {
+      "en": "A free-living coral that can walk across the seafloor",
+      "zh": "能在海底行走的自由珊瑚"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "raja_ampat",
+        "name": "Raja Ampat",
+        "country": "ID",
+        "lat": -1.05,
+        "lng": 130.51,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "maldives",
+        "name": "Maldives",
+        "country": "MV",
+        "lat": 3.2,
+        "lng": 73.22,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#C4A882",
+      "animation": "hovering",
+      "scale": "small"
+    },
+    "scientificName": "Fungia fungites",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 290045,
+    "tier": "ecosystem",
+    "name": "Gorgonia ventalina",
+    "nameZh": "紫海扇",
+    "tagline": {
+      "en": "Elegant fan-shaped coral that sways with the current",
+      "zh": "随洋流摇曳的优雅扇形珊瑚"
+    },
+    "viewingSpots": [
+      {
+        "name": "Cozumel",
+        "country": "MX",
+        "lat": 20.43,
+        "lng": -86.92,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.32,
+        "lng": -87.53,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "red_sea_egypt",
+        "name": "Red Sea",
+        "country": "EG",
+        "lat": 27.19,
+        "lng": 33.83,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#9B59B6",
+      "animation": "drifting",
+      "scale": "medium"
+    },
+    "scientificName": "Gorgonia ventalina",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 210726,
+    "tier": "surprise",
+    "name": "Millepora alcicornis",
+    "nameZh": "火珊瑚",
+    "tagline": {
+      "en": "Not a true coral — its sting burns like fire",
+      "zh": "不是真正的珊瑚——它的刺痛如火烧"
+    },
+    "viewingSpots": [
+      {
+        "name": "Cozumel",
+        "country": "MX",
+        "lat": 20.43,
+        "lng": -86.92,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "great_barrier_reef",
+        "name": "Great Barrier Reef",
+        "country": "AU",
+        "lat": -18.29,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#DAA520",
+      "animation": "hovering",
+      "scale": "medium"
+    },
+    "scientificName": "Millepora alcicornis",
+    "group": "other",
+    "bodyType": "fusiform",
+    "sprite": "sp-anchoviella_juruasanga.png"
+  },
+  {
+    "aphiaId": 207498,
+    "tier": "surprise",
+    "name": "Plerogyra sinuosa",
+    "nameZh": "气泡珊瑚",
+    "tagline": {
+      "en": "Inflates grape-like bubbles to capture sunlight",
+      "zh": "膨胀出葡萄般的气泡来捕获阳光"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "raja_ampat",
+        "name": "Raja Ampat",
+        "country": "ID",
+        "lat": -1.05,
+        "lng": 130.51,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "palau",
+        "name": "Palau",
+        "country": "PW",
+        "lat": 7.35,
+        "lng": 134.47,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#E8D5B7",
+      "animation": "hovering",
+      "scale": "small"
+    },
+    "scientificName": "Plerogyra sinuosa",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 207409,
+    "tier": "surprise",
+    "name": "Tubipora musica",
+    "nameZh": "管风琴珊瑚",
+    "tagline": {
+      "en": "Its red skeleton resembles the pipes of an organ",
+      "zh": "红色骨骼如同管风琴的琴管"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "great_barrier_reef",
+        "name": "Great Barrier Reef",
+        "country": "AU",
+        "lat": -18.29,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "maldives",
+        "name": "Maldives",
+        "country": "MV",
+        "lat": 3.2,
+        "lng": 73.22,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#DC143C",
+      "animation": "hovering",
+      "scale": "small"
+    },
+    "scientificName": "Tubipora musica",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 210725,
+    "tier": "ecosystem",
+    "name": "Heliopora coerulea",
+    "nameZh": "蓝珊瑚",
+    "tagline": {
+      "en": "The only living coral with a permanent blue skeleton",
+      "zh": "唯一拥有永久蓝色骨骼的活珊瑚"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "palau",
+        "name": "Palau",
+        "country": "PW",
+        "lat": 7.35,
+        "lng": 134.47,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "raja_ampat",
+        "name": "Raja Ampat",
+        "country": "ID",
+        "lat": -1.05,
+        "lng": 130.51,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Okinawa",
+        "country": "JP",
+        "lat": 26.34,
+        "lng": 127.77,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#4169E1",
+      "animation": "hovering",
+      "scale": "medium"
+    },
+    "scientificName": "Heliopora coerulea",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 103309,
+    "tier": "ecosystem",
+    "name": "Antipathes dichotoma",
+    "nameZh": "黑珊瑚",
+    "tagline": {
+      "en": "Slow-growing deep-water coral prized for centuries — now protected",
+      "zh": "生长缓慢的深水珊瑚，曾被珍视数世纪——如今受保护"
+    },
+    "viewingSpots": [
+      {
+        "name": "Hawaii",
+        "country": "US",
+        "lat": 19.9,
+        "lng": -155.6,
+        "season": "year-round",
+        "reliability": "medium",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "red_sea_egypt",
+        "name": "Red Sea",
+        "country": "EG",
+        "lat": 27.19,
+        "lng": 33.83,
+        "season": "year-round",
+        "reliability": "medium",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#1C1C1C",
+      "animation": "hovering",
+      "scale": "medium"
+    },
+    "scientificName": "Antipathes dichotoma",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 125416,
+    "tier": "surprise",
+    "name": "Corallium rubrum",
+    "nameZh": "红珊瑚",
+    "tagline": {
+      "en": "The precious gem of the deep — Mediterranean's living treasure",
+      "zh": "深海的珍贵宝石——地中海的活宝藏"
+    },
+    "viewingSpots": [
+      {
+        "name": "Sardinia",
+        "country": "IT",
+        "lat": 39.23,
+        "lng": 9.12,
+        "season": "year-round",
+        "reliability": "medium",
+        "activity": "diving"
+      },
+      {
+        "name": "Corsica",
+        "country": "FR",
+        "lat": 42.15,
+        "lng": 9.09,
+        "season": "year-round",
+        "reliability": "medium",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#CC0000",
+      "animation": "hovering",
+      "scale": "small"
+    },
+    "scientificName": "Corallium rubrum",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 288227,
+    "tier": "star",
+    "name": "Acropora palmata",
+    "nameZh": "鹿角珊瑚",
+    "tagline": {
+      "en": "The architect of Caribbean reefs — critically endangered icon",
+      "zh": "加勒比珊瑚礁的建筑师——极度濒危的标志物种"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.32,
+        "lng": -87.53,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Bonaire",
+        "country": "BQ",
+        "lat": 12.15,
+        "lng": -68.27,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Curaçao",
+        "country": "CW",
+        "lat": 12.17,
+        "lng": -68.98,
+        "season": "year-round",
+        "reliability": "medium",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#C19A6B",
+      "animation": "hovering",
+      "scale": "large"
+    },
+    "scientificName": "Acropora palmata",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 205483,
+    "tier": "ecosystem",
+    "name": "Sarcophyton",
+    "nameZh": "皮革珊瑚",
+    "tagline": {
+      "en": "Soft, leathery coral that dominates Indo-Pacific reef flats",
+      "zh": "柔软的皮革珊瑚，主宰着印太地区的礁坪"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "great_barrier_reef",
+        "name": "Great Barrier Reef",
+        "country": "AU",
+        "lat": -18.29,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "sipadan_malaysia",
+        "name": "Sipadan",
+        "country": "MY",
+        "lat": 4.12,
+        "lng": 118.63,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#8FBC8F",
+      "animation": "hovering",
+      "scale": "medium"
+    },
+    "scientificName": "Sarcophyton",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 205476,
+    "tier": "surprise",
+    "name": "Goniopora",
+    "nameZh": "花形珊瑚",
+    "tagline": {
+      "en": "Hundreds of tiny polyps bloom like an underwater flower garden",
+      "zh": "数百个小珊瑚虫如水下花园般绽放"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "raja_ampat",
+        "name": "Raja Ampat",
+        "country": "ID",
+        "lat": -1.05,
+        "lng": 130.51,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "maldives",
+        "name": "Maldives",
+        "country": "MV",
+        "lat": 3.2,
+        "lng": 73.22,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#90EE90",
+      "animation": "hovering",
+      "scale": "small"
+    },
+    "scientificName": "Goniopora",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 207392,
+    "tier": "ecosystem",
+    "name": "Lobophyllia hemprichii",
+    "nameZh": "叶片脑珊瑚",
+    "tagline": {
+      "en": "Fleshy lobed brain coral that fluoresces under UV light",
+      "zh": "在紫外线下发出荧光的肉质脑珊瑚"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "great_barrier_reef",
+        "name": "Great Barrier Reef",
+        "country": "AU",
+        "lat": -18.29,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "red_sea_egypt",
+        "name": "Red Sea",
+        "country": "EG",
+        "lat": 27.19,
+        "lng": 33.83,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "sipadan_malaysia",
+        "name": "Sipadan",
+        "country": "MY",
+        "lat": 4.12,
+        "lng": 118.63,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#D2691E",
+      "animation": "hovering",
+      "scale": "medium"
+    },
+    "scientificName": "Lobophyllia hemprichii",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
+  },
+  {
+    "aphiaId": 207507,
+    "tier": "surprise",
+    "name": "Turbinaria reniformis",
+    "nameZh": "叶片珊瑚",
+    "tagline": {
+      "en": "Yellow scroll-like plates stack into dramatic underwater pagodas",
+      "zh": "黄色卷轴状板片堆叠成壮观的水下宝塔"
+    },
+    "viewingSpots": [
+      {
+        "hotspotId": "raja_ampat",
+        "name": "Raja Ampat",
+        "country": "ID",
+        "lat": -1.05,
+        "lng": 130.51,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "hotspotId": "palau",
+        "name": "Palau",
+        "country": "PW",
+        "lat": 7.35,
+        "lng": 134.47,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ],
+    "display": {
+      "color": "#DAA520",
+      "animation": "hovering",
+      "scale": "medium"
+    },
+    "scientificName": "Turbinaria reniformis",
+    "group": "coral",
+    "bodyType": "jellyfish",
+    "sprite": "sp-actiniidae.png"
   }
 ]

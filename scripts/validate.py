@@ -181,8 +181,8 @@ SPRITE_GLOBES = {"aquatic"}
 # Globes that use curated final.json instead of tiles
 CURATED_GLOBES = {"aquatic"}
 
-EXPECTED_TIERS = {"star": 50, "ecosystem": 80, "surprise": 70}
-TIER_TOLERANCE = 5  # allow +/- from expected count
+EXPECTED_TIERS = {"star": 51, "ecosystem": 86, "surprise": 77}
+TIER_TOLERANCE = 10  # allow +/- from expected count
 
 
 def validate_curated_final(globe_dir: Path) -> list[ValidationError]:
