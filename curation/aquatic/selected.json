@@ -403,6 +403,16 @@
         "season": "Oct-Feb",
         "reliability": "seasonal",
         "activity": "snorkeling"
+      },
+      {
+        "hotspotId": "shark_bay_australia",
+        "name": "Shark Bay, Australia",
+        "country": "AU",
+        "lat": -25.97,
+        "lng": 113.56,
+        "season": "Mar-Jul",
+        "reliability": "seasonal",
+        "activity": "snorkeling"
       }
     ],
     "display": {
@@ -478,6 +488,26 @@
         "season": "Jul-Oct",
         "reliability": "seasonal",
         "activity": "shore"
+      },
+      {
+        "hotspotId": "tonga",
+        "name": "Tonga",
+        "country": "TO",
+        "lat": -20.42,
+        "lng": -175.2,
+        "season": "year-round",
+        "reliability": "medium",
+        "activity": "snorkeling"
+      },
+      {
+        "hotspotId": "shark_bay_australia",
+        "name": "Shark Bay, Australia",
+        "country": "AU",
+        "lat": -25.97,
+        "lng": 113.56,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "snorkeling"
       }
     ],
     "display": {
@@ -628,6 +658,16 @@
         "lat": 24.55,
         "lng": -81.8,
         "season": "year-round",
+        "reliability": "high",
+        "activity": "whale_watching"
+      },
+      {
+        "hotspotId": "mirissa_sri_lanka",
+        "name": "Mirissa, Sri Lanka",
+        "country": "LK",
+        "lat": 5.95,
+        "lng": 80.45,
+        "season": "Nov-Apr",
         "reliability": "high",
         "activity": "whale_watching"
       }
@@ -3009,6 +3049,26 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
+      },
+      {
+        "hotspotId": "tonga",
+        "name": "Tonga",
+        "country": "TO",
+        "lat": -20.42,
+        "lng": -175.2,
+        "season": "year-round",
+        "reliability": "medium",
+        "activity": "snorkeling"
+      },
+      {
+        "hotspotId": "mirissa_sri_lanka",
+        "name": "Mirissa, Sri Lanka",
+        "country": "LK",
+        "lat": 5.95,
+        "lng": 80.45,
+        "season": "Nov-Apr",
+        "reliability": "high",
+        "activity": "whale_watching"
       }
     ],
     "display": {
@@ -5023,6 +5083,16 @@
         "lng": -77.03,
         "season": "year-round",
         "reliability": "high",
+        "activity": "aquarium"
+      },
+      {
+        "hotspotId": "deep_sea_mid_atlantic",
+        "name": "Mid-Atlantic Ridge",
+        "country": null,
+        "lat": 37.17,
+        "lng": -32.17,
+        "season": "year-round",
+        "reliability": "low",
         "activity": "aquarium"
       }
     ],
@@ -8833,6 +8903,16 @@
         "lng": 136.84,
         "season": "year-round",
         "reliability": "high",
+        "activity": "aquarium"
+      },
+      {
+        "hotspotId": "deep_sea_mid_atlantic",
+        "name": "Mid-Atlantic Ridge",
+        "country": null,
+        "lat": 37.17,
+        "lng": -32.17,
+        "season": "year-round",
+        "reliability": "low",
         "activity": "aquarium"
       }
     ],

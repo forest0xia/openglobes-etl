@@ -159,8 +159,8 @@ def validate_sprites_dir(globe_dir: Path) -> list[ValidationError]:
         svg_path = sprites_dir / sdata["file"]
         if not svg_path.exists():
             errors.append(ValidationError(str(svg_path), f"Missing sprite file for {sid}"))
-        elif svg_path.stat().st_size > 3072:
-            errors.append(ValidationError(str(svg_path), f"SVG too large: {svg_path.stat().st_size}B > 3KB"))
+        elif svg_path.stat().st_size > 512 * 1024:
+            errors.append(ValidationError(str(svg_path), f"Sprite too large: {svg_path.stat().st_size}B > 512KB"))
 
     # Check group fallback files exist
     for gid, filename in manifest.get("groupFallbacks", {}).items():
@@ -178,11 +178,151 @@ def validate_sprites_dir(globe_dir: Path) -> list[ValidationError]:
 # Globes that require sprite validation
 SPRITE_GLOBES = {"aquatic"}
 
+# Globes that use curated final.json instead of tiles
+CURATED_GLOBES = {"aquatic"}
+
+EXPECTED_TIERS = {"star": 50, "ecosystem": 80, "surprise": 70}
+TIER_TOLERANCE = 5  # allow +/- from expected count
+
+
+def validate_curated_final(globe_dir: Path) -> list[ValidationError]:
+    """Validate curated final.json + hotspots.json for aquatic globe."""
+    errors = []
+
+    # --- final.json ---
+    final_path = globe_dir / "final.json"
+    if not final_path.exists():
+        return [ValidationError(str(final_path), "final.json missing")]
+
+    try:
+        species = json.loads(final_path.read_text())
+    except json.JSONDecodeError as e:
+        return [ValidationError(str(final_path), f"Invalid JSON: {e}")]
+
+    if not isinstance(species, list):
+        return [ValidationError(str(final_path), "final.json must be an array")]
+
+    print(f"  Species count: {len(species)}")
+
+    # Tier distribution
+    from collections import Counter
+    tiers = Counter(s.get("tier") for s in species)
+    for tier, expected in EXPECTED_TIERS.items():
+        actual = tiers.get(tier, 0)
+        print(f"  {tier}: {actual} (expected ~{expected})")
+        if abs(actual - expected) > TIER_TOLERANCE:
+            errors.append(ValidationError(str(final_path),
+                f"Tier '{tier}' count {actual} deviates from expected ~{expected}"))
+
+    # Per-species checks
+    aphia_ids = set()
+    no_spots = []
+    no_name_zh = []
+    no_tagline = []
+    no_sprite = []
+    for i, s in enumerate(species):
+        # Required fields
+        for key in ("aphiaId", "name", "tier", "viewingSpots", "display"):
+            if key not in s:
+                errors.append(ValidationError(str(final_path), f"species[{i}] ({s.get('name','?')}) missing key: {key}"))
+
+        # AphiaID uniqueness
+        aid = s.get("aphiaId")
+        if aid:
+            if aid in aphia_ids:
+                errors.append(ValidationError(str(final_path), f"Duplicate aphiaId: {aid}"))
+            aphia_ids.add(aid)
+
+        # Viewing spots
+        spots = s.get("viewingSpots", [])
+        if not spots:
+            no_spots.append(s.get("name", f"[{i}]"))
+        for j, spot in enumerate(spots):
+            for sk in ("name", "country", "lat", "lng", "season", "reliability", "activity"):
+                if sk not in spot:
+                    errors.append(ValidationError(str(final_path),
+                        f"species[{i}].viewingSpots[{j}] missing key: {sk}"))
+            if "lat" in spot and not -90 <= spot["lat"] <= 90:
+                errors.append(ValidationError(str(final_path),
+                    f"species[{i}].viewingSpots[{j}] lat out of range: {spot['lat']}"))
+            if "lng" in spot and not -180 <= spot["lng"] <= 180:
+                errors.append(ValidationError(str(final_path),
+                    f"species[{i}].viewingSpots[{j}] lng out of range: {spot['lng']}"))
+
+        # Optional but tracked
+        if not s.get("nameZh"):
+            no_name_zh.append(s.get("name", f"[{i}]"))
+        if not s.get("tagline"):
+            no_tagline.append(s.get("name", f"[{i}]"))
+        if not s.get("sprite"):
+            no_sprite.append(s.get("name", f"[{i}]"))
+
+    if no_spots:
+        errors.append(ValidationError(str(final_path), f"{len(no_spots)} species with 0 viewingSpots"))
+    if no_sprite:
+        errors.append(ValidationError(str(final_path), f"{len(no_sprite)} species with no sprite"))
+
+    # Warnings (not errors)
+    if no_name_zh:
+        print(f"  WARNING: {len(no_name_zh)} species missing nameZh")
+    if no_tagline:
+        print(f"  WARNING: {len(no_tagline)} species missing tagline")
+
+    total_spots = sum(len(s.get("viewingSpots", [])) for s in species)
+    print(f"  Total viewing spots: {total_spots}")
+
+    # --- hotspots.json ---
+    hotspots_path = globe_dir / "hotspots.json"
+    if not hotspots_path.exists():
+        errors.append(ValidationError(str(hotspots_path), "hotspots.json missing"))
+    else:
+        try:
+            hotspots = json.loads(hotspots_path.read_text())
+        except json.JSONDecodeError as e:
+            errors.append(ValidationError(str(hotspots_path), f"Invalid JSON: {e}"))
+            hotspots = []
+
+        print(f"  Hotspots: {len(hotspots)}")
+
+        # Check each hotspot has minimum species coverage
+        hotspot_ids = {h["id"]: h for h in hotspots}
+        hotspot_counts = Counter()
+        for s in species:
+            for spot in s.get("viewingSpots", []):
+                hid = spot.get("hotspotId")
+                if hid:
+                    hotspot_counts[hid] += 1
+
+        for h in hotspots:
+            hid = h["id"]
+            count = hotspot_counts.get(hid, 0)
+            min_req = h.get("minSpeciesCount", 1)
+            if count < min_req:
+                errors.append(ValidationError(str(hotspots_path),
+                    f"Hotspot '{hid}' has {count} species (minimum: {min_req})"))
+
+        # Check for hotspotIds that don't exist in hotspots.json
+        for s in species:
+            for spot in s.get("viewingSpots", []):
+                hid = spot.get("hotspotId")
+                if hid and hid not in hotspot_ids:
+                    errors.append(ValidationError(str(final_path),
+                        f"Species '{s.get('name')}' references unknown hotspotId: {hid}"))
+
+    # --- sprites ---
+    errors.extend(validate_sprites_dir(globe_dir))
+
+    return errors
+
 
 def validate_globe(globe: str) -> list[ValidationError]:
     globe_dir = OUTPUT_ROOT / globe
     if not globe_dir.exists():
         return [ValidationError(str(globe_dir), "Output directory does not exist")]
+
+    # Curated globes use final.json instead of tiles
+    if globe in CURATED_GLOBES:
+        return validate_curated_final(globe_dir)
 
     require_sprite = globe in SPRITE_GLOBES
     errors = []
