@@ -1,4 +1,4 @@
-"""Tests for scripts/validate.py — sprite validation, groupDistribution, and sprite dir integrity."""
+"""Tests for scripts/validate.py — sprite validation, groupDistribution, sprite dir, and curated model."""
 
 import json
 from pathlib import Path
@@ -8,6 +8,7 @@ from scripts.validate import (
     validate_cluster_tile,
     validate_detail,
     validate_sprites_dir,
+    validate_curated_final,
 )
 
 
@@ -309,3 +310,108 @@ def test_existing_detail_validation_still_works(tmp_path):
     p.write_text(json.dumps(detail))
     errors = validate_detail(p)
     assert len(errors) == 0
+
+
+# ---------------------------------------------------------------------------
+# Curated final.json validation (aquatic globe)
+# ---------------------------------------------------------------------------
+
+
+def _make_curated_species(aphia_id, name, tier="star", spots=None):
+    """Helper to build a minimal valid curated species entry."""
+    if spots is None:
+        spots = [{
+            "name": "Test Reef", "country": "US", "lat": 25.0, "lng": -80.0,
+            "season": "year-round", "reliability": "high", "activity": "diving",
+        }]
+    return {
+        "aphiaId": aphia_id,
+        "name": name,
+        "tier": tier,
+        "viewingSpots": spots,
+        "display": {"scale": 1.0},
+        "sprite": f"sp-{aphia_id}.png",
+    }
+
+
+def _write_curated_output(tmp_path, species_list, hotspots=None):
+    """Write final.json, hotspots.json, and a minimal sprites dir."""
+    globe_dir = tmp_path / "aquatic"
+    globe_dir.mkdir(parents=True, exist_ok=True)
+    (globe_dir / "final.json").write_text(json.dumps(species_list))
+    if hotspots is None:
+        hotspots = []
+    (globe_dir / "hotspots.json").write_text(json.dumps(hotspots))
+    # Minimal sprites dir with manifest
+    sprites_dir = globe_dir / "sprites"
+    sprites_dir.mkdir()
+    manifest = {"sprites": {}, "groupFallbacks": {}, "bodyTypeFallbacks": {}}
+    (sprites_dir / "manifest.json").write_text(json.dumps(manifest))
+    return globe_dir
+
+
+def test_curated_final_valid(tmp_path):
+    """A valid curated final.json should produce no errors (beyond tier count deviations)."""
+    species = []
+    for i in range(50):
+        species.append(_make_curated_species(i, f"Star {i}", "star"))
+    for i in range(50, 130):
+        species.append(_make_curated_species(i, f"Eco {i}", "ecosystem"))
+    for i in range(130, 200):
+        species.append(_make_curated_species(i, f"Surprise {i}", "surprise"))
+    globe_dir = _write_curated_output(tmp_path, species)
+    errors = validate_curated_final(globe_dir)
+    assert len(errors) == 0, f"Unexpected errors: {errors}"
+
+
+def test_curated_final_missing_required_fields(tmp_path):
+    """Species missing required fields should produce errors."""
+    species = [{"name": "Incomplete"}]  # missing aphiaId, tier, viewingSpots, display
+    globe_dir = _write_curated_output(tmp_path, species)
+    errors = validate_curated_final(globe_dir)
+    error_msgs = [str(e) for e in errors]
+    assert any("aphiaId" in m for m in error_msgs)
+    assert any("tier" in m for m in error_msgs)
+    assert any("display" in m for m in error_msgs)
+
+
+def test_curated_final_duplicate_aphia_id(tmp_path):
+    """Duplicate aphiaIds should produce an error."""
+    species = [
+        _make_curated_species(100, "Species A"),
+        _make_curated_species(100, "Species B"),
+    ]
+    globe_dir = _write_curated_output(tmp_path, species)
+    errors = validate_curated_final(globe_dir)
+    assert any("Duplicate aphiaId" in str(e) for e in errors)
+
+
+def test_curated_final_spot_lat_out_of_range(tmp_path):
+    """Viewing spots with lat > 90 should error."""
+    bad_spot = [{
+        "name": "Bad Spot", "country": "US", "lat": 95.0, "lng": 0.0,
+        "season": "year-round", "reliability": "high", "activity": "diving",
+    }]
+    species = [_make_curated_species(1, "Test", spots=bad_spot)]
+    globe_dir = _write_curated_output(tmp_path, species)
+    errors = validate_curated_final(globe_dir)
+    assert any("lat out of range" in str(e) for e in errors)
+
+
+def test_curated_final_missing_final_json(tmp_path):
+    """Missing final.json should produce an error."""
+    globe_dir = tmp_path / "aquatic"
+    globe_dir.mkdir(parents=True)
+    errors = validate_curated_final(globe_dir)
+    assert any("final.json missing" in str(e) for e in errors)
+
+
+def test_curated_final_missing_hotspots_json(tmp_path):
+    """Missing hotspots.json should produce an error."""
+    species = [_make_curated_species(1, "Test")]
+    globe_dir = tmp_path / "aquatic"
+    globe_dir.mkdir(parents=True)
+    (globe_dir / "final.json").write_text(json.dumps(species))
+    # No hotspots.json, no sprites dir
+    errors = validate_curated_final(globe_dir)
+    assert any("hotspots.json missing" in str(e) for e in errors)

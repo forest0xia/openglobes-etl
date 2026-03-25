@@ -1,8 +1,10 @@
 # Data Contracts — Output Schema for All Globes
 
-All tile files must conform to these schemas. Validated by `scripts/validate.py`.
+All output files must conform to these schemas. Validated by `scripts/validate.py`.
 
 ## Directory structure per globe
+
+### Standard globes (dino, quake, meteor, volcano)
 ```
 output/{globe}/
 ├── tiles/
@@ -18,26 +20,109 @@ output/{globe}/
 └── index.json               # Master index
 ```
 
-### Aquatic globe directory structure
+### Aquatic globe (curated model)
 
-The aquatic globe extends the standard layout with a `sprites/` directory:
+The aquatic globe uses a curated 200-species model with `final.json` instead of tiles:
 
 ```
 output/aquatic/
-├── tiles/
-│   ├── z0-z3/{x}_{y}.json          # Cluster tiles with swarm data
-│   └── z4-z7/{x}_{y}.json          # Point tiles with sprite refs
-├── species/
-│   └── {id}.json                    # Detail files with sprite/group/bodyType
+├── final.json                       # 200 curated species with viewing spots
+├── hotspots.json                    # 25 hotspot locations
 ├── sprites/
 │   ├── manifest.json                # Full sprite index + fallback chain
 │   ├── sp-{speciesId}.png           # 179 curated species images
 │   ├── grp-{group}.png             # group fallbacks
 │   └── fb-{bodyType}.png           # body-type fallbacks
-├── index.json                       # Master index with expanded filters
-├── search_index.json                # ~50 groups
 └── migration_routes.json            # Marine migration routes
 ```
+
+## Aquatic: final.json (curated model)
+
+Array of 200 curated species, each with viewing spots and metadata.
+
+```json
+[
+  {
+    "aphiaId": 137090,
+    "tier": "star",
+    "name": "Balaenoptera musculus",
+    "nameZh": "蓝鲸",
+    "scientificName": "Balaenoptera musculus",
+    "tagline": {
+      "en": "The largest animal ever to live on Earth",
+      "zh": "地球上有史以来最大的动物"
+    },
+    "sprite": "sp-blue_whale.png",
+    "display": { "scale": 1.2, "animation": "swim" },
+    "viewingSpots": [
+      {
+        "hotspotId": "monterey_bay",
+        "name": "Monterey Bay",
+        "country": "US",
+        "lat": 36.8,
+        "lng": -121.9,
+        "season": "Jul-Oct",
+        "reliability": "high",
+        "activity": "whale_watching"
+      }
+    ]
+  }
+]
+```
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `aphiaId` | number | Yes | WoRMS AphiaID, unique per species |
+| `tier` | string | Yes | One of: "star", "ecosystem", "surprise" |
+| `name` | string | Yes | Scientific name |
+| `nameZh` | string | No | Chinese common name |
+| `scientificName` | string | Yes | Scientific name (from crosswalk or curation) |
+| `tagline` | object | No | `{en, zh}` short description |
+| `sprite` | string | Yes | Pre-resolved sprite filename |
+| `display` | object | Yes | Frontend display hints (scale, animation) |
+| `viewingSpots` | array | Yes | Real-world locations to see this species |
+| `viewingSpots[].hotspotId` | string | No | Reference to hotspots.json |
+| `viewingSpots[].name` | string | Yes | Location name |
+| `viewingSpots[].country` | string | Yes | ISO 3166-1 alpha-2 country code |
+| `viewingSpots[].lat` | number | Yes | Latitude (-90 to 90) |
+| `viewingSpots[].lng` | number | Yes | Longitude (-180 to 180) |
+| `viewingSpots[].season` | string | Yes | Best season (e.g., "Jul-Oct", "year-round") |
+| `viewingSpots[].reliability` | string | Yes | "high", "medium", or "low" |
+| `viewingSpots[].activity` | string | Yes | Activity type (e.g., "diving", "whale_watching") |
+
+## Aquatic: hotspots.json
+
+Array of 25 hotspot locations referenced by `viewingSpots[].hotspotId`.
+
+```json
+[
+  {
+    "id": "great_barrier_reef",
+    "name": { "en": "Great Barrier Reef", "zh": "大堡礁" },
+    "country": "AU",
+    "lat": -18.29,
+    "lng": 147.70,
+    "type": "coral_reef",
+    "minSpeciesCount": 5
+  }
+]
+```
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `id` | string | Yes | Unique hotspot ID, referenced by viewingSpots |
+| `name` | object | Yes | `{en, zh}` display name |
+| `country` | string | Yes | ISO 3166-1 alpha-2 country code |
+| `lat` | number | Yes | Latitude (-90 to 90) |
+| `lng` | number | Yes | Longitude (-180 to 180) |
+| `type` | string | Yes | Location type (e.g., "coral_reef", "open_ocean", "kelp_forest") |
+| `minSpeciesCount` | number | Yes | Minimum species expected at this hotspot |
+
+---
+
+## Tile-based schemas (dino, quake, meteor, volcano)
+
+The following schemas apply to tile-based globes. The aquatic globe no longer uses tiles — see final.json and hotspots.json above.
 
 ## Cluster tile (z0-z3)
 Max file size: 5KB
@@ -62,7 +147,9 @@ Max file size: 5KB
 }
 ```
 
-### Aquatic cluster tile (z0-z5)
+### Aquatic cluster tile (DEPRECATED — aquatic now uses final.json)
+
+> **Note**: The aquatic globe no longer uses tile-based output. These schemas are retained for reference only.
 
 Clusters span z0-z5 for the aquatic globe. Tiles at z4-z5 contain both `clusters` and `points` arrays (overlap zone).
 
@@ -132,7 +219,9 @@ Max file size: 30KB. Max 200 points per tile.
 Note: point objects include enough fields for filtering client-side.
 Theme-specific fields (rarity, era, magnitude, etc.) vary by globe.
 
-### Aquatic point tile (z4+)
+### Aquatic point tile (DEPRECATED — aquatic now uses final.json)
+
+> **Note**: The aquatic globe no longer uses tile-based output. These schemas are retained for reference only.
 
 Each point gains `sprite` and `group` fields alongside existing fields.
 
@@ -195,7 +284,9 @@ Max file size: 3KB (text only, images are URLs)
 }
 ```
 
-### Aquatic detail file
+### Aquatic detail file (DEPRECATED — aquatic now uses final.json)
+
+> **Note**: The aquatic globe no longer generates per-species detail files. These schemas are retained for reference only.
 
 All existing fields are retained. New fields added for the sprite system and taxonomic classification:
 
@@ -302,7 +393,7 @@ Note: `nameZh` is available for fish (from FishBase). For non-fish taxa it will 
 species sprite (500) -> group fallback (~50) -> body-type fallback (~10)
 ```
 
-ETL pre-resolves the chain so every `sprite` field on every point and topItem is a valid filename. The frontend never walks the chain.
+Merge-time pre-resolves the chain so every `sprite` field on every species in final.json is a valid filename. The frontend never walks the chain.
 
 ## Sprite format spec
 
@@ -319,22 +410,22 @@ Naming convention:
 - `sp-{speciesId}.png` — curated species (179 files)
 - `sp-{commonName}.png` — replacement sprites with common names
 
-## Master index
+## Master index (tile-based globes only)
+
+Used by tile-based globes (dino, quake, meteor, volcano). The aquatic globe does not use index.json.
+
 ```json
 {
-  "globeId": "aquatic",
+  "globeId": "dino",
   "version": "1.0.0",
-  "totalItems": 35000,
+  "totalItems": 22930,
   "lastUpdated": "2026-03-19",
   "tileZoomRange": [0, 7],
   "filters": [
-    {"key": "waterType", "label": "Water Type", "type": "chips", "options": ["Freshwater", "Saltwater", "Brackish"]},
-    {"key": "depth", "label": "Depth", "type": "range", "min": 0, "max": 8000, "unit": "m"},
-    {"key": "rarity", "label": "Rarity", "type": "chips", "options": ["Common", "Uncommon", "Rare", "Legendary"]}
+    {"key": "era", "label": "Era", "type": "chips", "options": ["Triassic", "Jurassic", "Cretaceous"]}
   ],
   "attribution": [
-    {"name": "FishBase", "license": "CC-BY-NC 4.0", "url": "https://www.fishbase.se"},
-    {"name": "GBIF", "license": "CC0/CC-BY 4.0", "url": "https://www.gbif.org"}
+    {"name": "PBDB", "license": "CC-BY 4.0", "url": "https://paleobiodb.org"}
   ]
 }
 ```

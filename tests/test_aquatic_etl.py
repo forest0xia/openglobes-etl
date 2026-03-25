@@ -229,27 +229,3 @@ def test_apply_classifications():
     assert result.iloc[2]["body_group"] == "cnidarian"
 
 
-import json
-from scripts.aquatic_etl import generate_species_details
-
-def test_generate_species_detail_has_sprite(tmp_path):
-    df = pd.DataFrame({
-        "id": ["123", "123"],
-        "lat": [47.6, 48.0],
-        "lng": [-122.3, -122.5],
-        "name": ["Orca", "Orca"],
-        "scientific_name": ["Orcinus orca", "Orcinus orca"],
-        "group": ["dolphin", "dolphin"],
-        "body_type": ["cetacean", "cetacean"],
-        "body_group": ["mammal", "mammal"],
-        "sprite": ["sp-123.svg", "sp-123.svg"],
-        "thumb": [None, None],
-        "water_type": ["Saltwater", "Saltwater"],
-        "rarity": [3, 3],
-    })
-    generate_species_details(df, tmp_path)
-    detail = json.loads((tmp_path / "species" / "123.json").read_text())
-    assert detail["sprite"] == "sp-123.svg"
-    assert detail["group"] == "dolphin"
-    assert detail["bodyType"] == "cetacean"
-    assert detail["bodyGroup"] == "mammal"

@@ -1,14 +1,18 @@
 # scripts/aquatic_etl.py
-"""Aquatic globe ETL — OBIS + GBIF occurrences, FishBase metadata, sprite integration."""
+"""Aquatic globe ETL — downloads OBIS/GBIF occurrences and FishBase metadata.
+
+This script generates INTERMEDIATE data (crosswalk, enriched metadata) that is
+consumed by scripts/merge_curated.py, NOT final output. The aquatic globe uses
+a curated 200-species model; see curation/aquatic/selected.json and
+scripts/merge_curated.py for the final pipeline.
+"""
 import os
-import subprocess
 import sys
 import json
 import argparse
 import time
 import zipfile
 from pathlib import Path
-from datetime import date
 
 import requests
 
@@ -177,7 +181,6 @@ def download_gbif():
 import math
 import numpy as np
 
-from scripts.tile_splitter import lat_lng_to_tile
 
 
 def _vectorized_tile_xy(lat: pd.Series, lng: pd.Series, zoom: int):
@@ -348,8 +351,6 @@ def enrich_with_fishbase(occurrences: pd.DataFrame, fishbase_species: pd.DataFra
 # ---------------------------------------------------------------------------
 
 from scripts.aquatic_groups import classify_group, classify_body_type, classify_body_group
-from scripts.tile_splitter import split_tiles
-from scripts.build_sprite_manifest import resolve_sprite, build_sprite_indices
 
 
 def apply_classifications(df: pd.DataFrame) -> pd.DataFrame:
@@ -368,143 +369,13 @@ def apply_classifications(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-# ---------------------------------------------------------------------------
-# Task 10: Tile + Species + Index Generation
-# ---------------------------------------------------------------------------
-
-
-def resolve_sprites_on_df(df: pd.DataFrame, manifest: dict) -> pd.DataFrame:
-    """Add pre-resolved sprite filename to every row using vectorized lookups."""
-    df = df.copy()
-    idx = build_sprite_indices(manifest)
-
-    # 1. Try exact scientific name match
-    sci_col = df["scientific_name"].str.strip().str.lower() if "scientific_name" in df.columns else pd.Series("", index=df.index)
-    df["sprite"] = sci_col.map(idx["sci_name"])
-
-    # 2. Try genus-level match for unresolved
-    missing = df["sprite"].isna()
-    if missing.any():
-        genus = sci_col[missing].str.split().str[0]
-        df.loc[missing, "sprite"] = genus.map(idx["sci_name"])
-
-    # 3. Group fallback for remaining
-    missing = df["sprite"].isna()
-    if missing.any():
-        group_col = df.loc[missing, "group"] if "group" in df.columns else pd.Series("other", index=df.loc[missing].index)
-        df.loc[missing, "sprite"] = group_col.map(idx["group"])
-
-    # 4. Body type fallback for remaining
-    missing = df["sprite"].isna()
-    if missing.any():
-        bt_col = df.loc[missing, "body_type"] if "body_type" in df.columns else pd.Series("fusiform", index=df.loc[missing].index)
-        df.loc[missing, "sprite"] = bt_col.map(idx["body_type"])
-
-    # 5. Ultimate fallback
-    df["sprite"] = df["sprite"].fillna(idx["default"])
-
-    resolved_exact = (~sci_col.map(idx["sci_name"]).isna()).sum()
-    print(f"  Sprite resolution: {resolved_exact} exact, {len(df) - df['sprite'].isna().sum()} total resolved out of {len(df)}")
-    return df
-
-
-def generate_species_details(df: pd.DataFrame, output_dir: Path):
-    """Generate one JSON detail file per unique species."""
-    species_dir = output_dir / "species"
-    species_dir.mkdir(parents=True, exist_ok=True)
-
-    detail_df = df.drop_duplicates(subset=["id"], keep="first")
-    count = 0
-    for _, row in detail_df.iterrows():
-        name_zh = row.get("name_zh")
-        if pd.isna(name_zh):
-            name_zh = None
-
-        detail = {
-            "id": str(row["id"]),
-            "name": row.get("name") or row.get("scientific_name", ""),
-            "nameZh": name_zh,
-            "scientificName": row.get("scientific_name", ""),
-            "family": row.get("family"),
-            "description": row.get("description"),
-            "descriptionZh": row.get("description_zh"),
-            "sprite": row.get("sprite"),
-            "group": row.get("group"),
-            "bodyType": row.get("body_type"),
-            "bodyGroup": row.get("body_group"),
-            "metadata": {
-                "habitat": row.get("water_type"),
-                "depth": f"0-{int(row['depth_max'])} m" if pd.notna(row.get("depth_max")) else None,
-                "maxLength": f"{int(row['max_length_cm'])} cm" if pd.notna(row.get("max_length_cm")) else None,
-                "maxWeight": f"{row['max_weight_kg']:.1f} kg" if pd.notna(row.get("max_weight_kg")) else None,
-                "rarity": {1: "Common", 2: "Uncommon", 3: "Rare", 4: "Legendary"}.get(row.get("rarity")),
-                "vulnerability": row.get("vulnerability"),
-            },
-            "images": [],
-            "links": [],
-            "attribution": "OBIS, GBIF, FishBase (CC-BY-NC)",
-        }
-        # Add FishBase image if available
-        thumb = row.get("thumb")
-        if pd.notna(thumb) and thumb:
-            pic_name = thumb.replace("tn_", "")
-            detail["images"].append({
-                "thumbnail": f"https://www.fishbase.se/images/thumbnails/jpg/{thumb}",
-                "image": f"https://www.fishbase.se/images/species/{pic_name}",
-            })
-
-        # Strip None values from metadata
-        detail["metadata"] = {k: v for k, v in detail["metadata"].items() if v is not None}
-
-        out_path = species_dir / f"{row['id']}.json"
-        out_path.write_text(json.dumps(detail, ensure_ascii=False), encoding="utf-8")
-        count += 1
-
-    print(f"  Generated {count} species detail files")
-
-
-def generate_index(df: pd.DataFrame, output_dir: Path):
-    """Generate index.json for the aquatic globe."""
-    index = {
-        "globeId": "aquatic",
-        "version": "1.0.0",
-        "totalItems": len(df),
-        "lastUpdated": date.today().isoformat(),
-        "tileZoomRange": [0, 7],
-        "filters": [
-            {
-                "key": "waterType",
-                "label": "Water Type",
-                "type": "chips",
-                "options": sorted(df["water_type"].dropna().unique().tolist()),
-            },
-            {
-                "key": "bodyGroup",
-                "label": "Animal Type",
-                "type": "chips",
-                "options": sorted(df["body_group"].dropna().unique().tolist()),
-            },
-            {
-                "key": "rarity",
-                "label": "Rarity",
-                "type": "chips",
-                "options": ["Common", "Uncommon", "Rare", "Legendary"],
-            },
-        ],
-        "attribution": [
-            {"name": "OBIS", "license": "CC-BY 4.0", "url": "https://obis.org"},
-            {"name": "GBIF", "license": "CC0/CC-BY 4.0", "url": "https://www.gbif.org"},
-            {"name": "FishBase", "license": "CC-BY-NC 4.0", "url": "https://www.fishbase.se"},
-        ],
-    }
-    out = output_dir / "index.json"
-    out.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"  Index written: {index['totalItems']} total items")
-
-
 def run_process():
-    """Run the full processing pipeline (assumes downloads are done)."""
-    print("=== Aquatic ETL: Processing ===")
+    """Build intermediate crosswalk + metadata from raw downloads.
+
+    This does NOT produce final output. Run scripts/merge_curated.py after
+    this to merge curation data with the crosswalk into output/aquatic/final.json.
+    """
+    print("=== Aquatic ETL: Processing (intermediate data for merge_curated.py) ===")
 
     # 1. Load OBIS (already filtered + deduped to z7 tiles by download_obis)
     print("Loading OBIS data...")
@@ -565,56 +436,14 @@ def run_process():
     print("Applying taxonomy classifications...")
     enriched = apply_classifications(enriched)
 
-    # 7. Prepare DataFrame for tiling — rename to camelCase for output JSON
-    enriched["id"] = enriched["aphia_id"].astype(str)
-    enriched["name"] = enriched["common_name"]
-    enriched["nameZh"] = enriched.get("name_zh")
-    enriched["waterType"] = enriched.get("water_type", "Unknown")
-    enriched["bodyGroup"] = enriched["body_group"]
-    enriched["bodyType"] = enriched["body_type"]
-    enriched["rarity"] = enriched.get("rarity", 1)  # default Common
-    # Size in cm (numeric, for sorting cluster representatives)
-    enriched["size"] = pd.to_numeric(enriched.get("max_length_cm"), errors="coerce").fillna(0).astype(int)
-
-    # 8. Load sprite manifest and resolve sprites
-    print("Resolving sprites...")
-    manifest_path = OUTPUT_DIR / "sprites" / "manifest.json"
-    if manifest_path.exists():
-        manifest = json.loads(manifest_path.read_text())
-        enriched = resolve_sprites_on_df(enriched, manifest)
-    else:
-        print("  WARNING: No sprite manifest found, using sp-atlantic_cod.png for all")
-        enriched["sprite"] = "sp-atlantic_cod.png"
-
-    # 9. Generate tiles
-    print("Generating tiles...")
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    tile_stats = split_tiles(
-        enriched,
-        OUTPUT_DIR,
-        filter_agg_keys=["waterType", "bodyGroup"],
-        top_items_fields=["id", "name", "nameZh", "thumb", "sprite", "group", "size"],
-        point_fields=["id", "lat", "lng", "name", "nameZh", "thumb", "sprite",
-                       "group", "rarity", "waterType", "size", "precision"],
-        group_distribution_key="group",
-    )
-    print(f"  Tiles: {tile_stats}")
-
-    # 10. Generate species details
-    print("Generating species details...")
-    generate_species_details(enriched, OUTPUT_DIR)
-
-    # 11. Generate index
-    print("Generating index...")
-    generate_index(enriched, OUTPUT_DIR)
-
-    # 12. Save crosswalk
+    # 7. Save crosswalk (consumed by merge_curated.py)
     print("Saving ID crosswalk...")
     crosswalk = build_id_crosswalk(enriched)
     crosswalk_path = RAW_DIR / "id_crosswalk.json"
     crosswalk_path.write_text(json.dumps(crosswalk, ensure_ascii=False, indent=2))
 
-    print("=== Done ===")
+    print(f"  Crosswalk: {len(crosswalk)} species")
+    print("=== Done — run 'python -m scripts.merge_curated' to produce final output ===")
 
 
 def main():

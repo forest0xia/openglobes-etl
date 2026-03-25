@@ -2,7 +2,7 @@
 
 ## What is this?
 Data pipeline for OpenGlobes (openglobes.com) — a series of 3D globe visualizations.
-This repo downloads bulk datasets and processes them into static JSON tile files.
+This repo downloads bulk datasets and processes them into static JSON files for 3D globe visualizations.
 Output is consumed by globe frontend repos (openglobes-aquatic, openglobes-dino, etc.).
 
 ## CRITICAL RULE: BULK DOWNLOADS ONLY
@@ -15,6 +15,7 @@ Total API calls across all globes should be ~10. Rate limiting is a non-issue.
 | Globe | Source | Method | Rate Limit |
 |-------|--------|--------|------------|
 | Aquatic (metadata) | FishBase | `duckdb.read_parquet('https://fishbase.ropensci.org/fishbase/species.parquet')` | None — one HTTP GET for entire DB |
+| Aquatic (occurrences) | OBIS | S3 Parquet export from `s3://obis-products/` | None — public bucket |
 | Dino | PBDB | `paleobiodb.org/data1.2/occs/list.csv?base_name=Dinosauria&show=coords&limit=all` | None — 1 GET |
 | Volcano | Smithsonian GVP | Download Excel from volcano.si.edu | Manual download |
 | Quake | USGS | `earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1900-01-01&minmagnitude=6` | None — public |
@@ -22,22 +23,29 @@ Total API calls across all globes should be ~10. Rate limiting is a non-issue.
 | Shipwreck | NOAA AWOIS | Bulk CSV download | None — public domain |
 | Bird | GBIF (includes eBird) | Async Download API: 1 POST → wait → download ZIP | 1 request |
 | Satellite | CelesTrak | Bulk TLE file, updated daily | None |
-| Aquatic | OBIS | S3 Parquet export from `s3://obis-products/` (`aws s3 cp --no-sign-request`) | None — public bucket |
-| Aquatic | GBIF | Async Download API: 1 POST → wait → download ZIP | 1 request |
-| Aquatic | FishBase | Same parquet reads as above | None |
 
 ## Workflow per globe
+
+### Standard (dino, quake, meteor, volcano)
 1. Download raw data → save to `data/raw/{globe}/` → commit (never re-download)
 2. Clean: remove records without coordinates, deduplicate
-3. Enrich: join tables where needed (e.g., FishBase species + ecology + comnames)
+3. Enrich: join tables where needed
 4. Split into spatial tiles using `scripts/tile_splitter.py`
 5. Generate per-item detail JSON files
 6. Generate master index.json with filter facets
 7. Validate with `scripts/validate.py`
 
+### Aquatic (curated 200-species model)
+1. `scripts/aquatic_etl.py` downloads OBIS/FishBase → builds crosswalk + metadata (intermediate data, not final output)
+2. `curation/aquatic/selected.json` — 200 hand-curated species with viewing spots
+3. `curation/aquatic/hotspots.json` — 25 diving/viewing hotspot locations
+4. `scripts/merge_curated.py` merges curation data + ETL crosswalk → `output/aquatic/final.json` + `output/aquatic/hotspots.json`
+5. `scripts/validate.py aquatic` validates the curated output
+
 ## Output format
 See docs/DATA_CONTRACTS.md for exact schemas.
-Output goes to: `output/{globe}/tiles/`, `output/{globe}/species/`, `output/{globe}/index.json`
+- Standard globes: `output/{globe}/tiles/`, `output/{globe}/species/`, `output/{globe}/index.json`
+- Aquatic: `output/aquatic/final.json`, `output/aquatic/hotspots.json`, `output/aquatic/sprites/`
 
 ## How globe repos consume output
 Each globe repo (openglobes-aquatic, openglobes-dino, etc.) references this data:
