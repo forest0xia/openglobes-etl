@@ -86,7 +86,7 @@
     "scientificName": "Balaenoptera musculus",
     "group": "whale",
     "bodyType": "cetacean",
-    "sprite": "sp-blue_whale.png"
+    "sprite": "sp-balaenoptera_musculus.png"
   },
   {
     "aphiaId": 137092,
@@ -4837,7 +4837,7 @@
     "scientificName": "Aurelia aurita",
     "group": "jellyfish",
     "bodyType": "jellyfish",
-    "sprite": "sp-box_jellyfish.png"
+    "sprite": "sp-aurelia_aurita.png"
   },
   {
     "aphiaId": 135301,
@@ -4885,7 +4885,7 @@
     "scientificName": "Cyanea capillata",
     "group": "jellyfish",
     "bodyType": "jellyfish",
-    "sprite": "sp-box_jellyfish.png"
+    "sprite": "sp-cyanea_capillata.png"
   },
   {
     "aphiaId": 135479,
@@ -11424,6 +11424,6 @@
     "scientificName": "Turbinaria reniformis",
     "group": "coral",
     "bodyType": "jellyfish",
-    "sprite": "sp-actiniidae.png"
+    "sprite": "sp-turbinaria_reniformis.png"
   }
 ]

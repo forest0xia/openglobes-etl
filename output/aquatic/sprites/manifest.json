@@ -315,6 +315,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "aurelia_aurita": {
+      "file": "sp-aurelia_aurita.png",
+      "name": "Aurelia Aurita",
+      "scientificName": "Aurelia Aurita",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "balaena_mysticetus": {
       "file": "sp-balaena_mysticetus.png",
       "name": "Balaena Mysticetus",
@@ -328,6 +337,15 @@
       "file": "sp-balaenoptera_acutorostrata.png",
       "name": "Balaenoptera Acutorostrata",
       "scientificName": "Balaenoptera Acutorostrata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "balaenoptera_musculus": {
+      "file": "sp-balaenoptera_musculus.png",
+      "name": "Balaenoptera Musculus",
+      "scientificName": "Balaenoptera Musculus",
       "group": "other",
       "bodyType": "fusiform",
       "bodyGroup": "other",
@@ -850,6 +868,15 @@
       "file": "sp-cryptocentrus_cinctus.png",
       "name": "Cryptocentrus Cinctus",
       "scientificName": "Cryptocentrus Cinctus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "cyanea_capillata": {
+      "file": "sp-cyanea_capillata.png",
+      "name": "Cyanea Capillata",
+      "scientificName": "Cyanea Capillata",
       "group": "other",
       "bodyType": "fusiform",
       "bodyGroup": "other",
@@ -3339,6 +3366,15 @@
       "bodyGroup": "other",
       "license": "generated"
     },
+    "turbinaria_reniformis": {
+      "file": "sp-turbinaria_reniformis.png",
+      "name": "Turbinaria Reniformis",
+      "scientificName": "Turbinaria Reniformis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "turritopsis_dohrnii": {
       "file": "sp-turritopsis_dohrnii.png",
       "name": "Turritopsis Dohrnii",
@@ -3552,6 +3588,6 @@
     "seahorse": "sp-cosmocampus_coccineus.png",
     "cephalopod": "sp-giant_pacific_octopus.png"
   },
-  "totalSprites": 449,
+  "totalSprites": 453,
   "note": "Fallback chain: sprites[speciesId] -> groupFallbacks[group] -> bodyTypeFallbacks[bodyType]. Resolved at ETL time."
 }
