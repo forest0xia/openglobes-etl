@@ -1692,6 +1692,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "istiophorus_platypterus": {
+      "file": "sp-istiophorus_platypterus.png",
+      "name": "Istiophorus Platypterus",
+      "scientificName": "Istiophorus Platypterus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "king_crab": {
       "file": "sp-king_crab.png",
       "name": "King crab",
@@ -2113,6 +2122,15 @@
       "group": "octopus_squid",
       "bodyType": "cephalopod",
       "bodyGroup": "cephalopod",
+      "license": "generated"
+    },
+    "nautilus_pompilius": {
+      "file": "sp-nautilus_pompilius.png",
+      "name": "Nautilus Pompilius",
+      "scientificName": "Nautilus Pompilius",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "nemateleotris_magnifica": {
@@ -3042,6 +3060,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "sparisoma_viride": {
+      "file": "sp-sparisoma_viride.png",
+      "name": "Sparisoma Viride",
+      "scientificName": "Sparisoma Viride",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "sperm_whale": {
       "file": "sp-sperm_whale.png",
       "name": "Sperm whale",
@@ -3058,6 +3085,15 @@
       "group": "barracuda",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "sphyraena_barracuda": {
+      "file": "sp-sphyraena_barracuda.png",
+      "name": "Sphyraena Barracuda",
+      "scientificName": "Sphyraena Barracuda",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "sphyrna_mokarran": {
@@ -3588,6 +3624,6 @@
     "seahorse": "sp-cosmocampus_coccineus.png",
     "cephalopod": "sp-giant_pacific_octopus.png"
   },
-  "totalSprites": 453,
+  "totalSprites": 457,
   "note": "Fallback chain: sprites[speciesId] -> groupFallbacks[group] -> bodyTypeFallbacks[bodyType]. Resolved at ETL time."
 }

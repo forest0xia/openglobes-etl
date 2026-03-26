@@ -2914,7 +2914,7 @@
     "fishbaseSpecCode": 1235,
     "group": "barracuda",
     "bodyType": "fusiform",
-    "sprite": "sp-sphyraena.png"
+    "sprite": "sp-sphyraena_barracuda.png"
   },
   {
     "aphiaId": 137086,
@@ -3185,7 +3185,7 @@
     "fishbaseSpecCode": 77,
     "group": "swordfish",
     "bodyType": "fusiform",
-    "sprite": "sp-istiophorus.png"
+    "sprite": "sp-istiophorus_platypterus.png"
   },
   {
     "aphiaId": 137109,
@@ -6267,7 +6267,7 @@
     "fishbaseSpecCode": 1161,
     "group": "parrotfish",
     "bodyType": "fusiform",
-    "sprite": "sp-sparisoma.png"
+    "sprite": "sp-sparisoma_viride.png"
   },
   {
     "aphiaId": 212209,
@@ -8477,7 +8477,7 @@
     "scientificName": "Nautilus pompilius",
     "group": "octopus_squid",
     "bodyType": "cephalopod",
-    "sprite": "sp-nautilus.png"
+    "sprite": "sp-nautilus_pompilius.png"
   },
   {
     "aphiaId": 217438,
