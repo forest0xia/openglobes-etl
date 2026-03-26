@@ -18,6 +18,15 @@
     "jellyfish"
   ],
   "sprites": {
+    "acanthaster_planci": {
+      "file": "sp-acanthaster_planci.png",
+      "name": "Acanthaster Planci",
+      "scientificName": "Acanthaster Planci",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "acanthurus_albimento": {
       "file": "sp-acanthurus_albimento.png",
       "name": "Acanthurus albimento",
@@ -25,6 +34,33 @@
       "group": "surgeonfish",
       "bodyType": "deep-bodied",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "acanthurus_leucosternon": {
+      "file": "sp-acanthurus_leucosternon.png",
+      "name": "Acanthurus Leucosternon",
+      "scientificName": "Acanthurus Leucosternon",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "acropora_millepora": {
+      "file": "sp-acropora_millepora.png",
+      "name": "Acropora Millepora",
+      "scientificName": "Acropora Millepora",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "acropora_palmata": {
+      "file": "sp-acropora_palmata.png",
+      "name": "Acropora Palmata",
+      "scientificName": "Acropora Palmata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "actiniidae": {
@@ -36,6 +72,15 @@
       "bodyGroup": "cnidarian",
       "license": "generated"
     },
+    "aetobatus_narinari": {
+      "file": "sp-aetobatus_narinari.png",
+      "name": "Aetobatus Narinari",
+      "scientificName": "Aetobatus Narinari",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "african_lungfish": {
       "file": "sp-african_lungfish.png",
       "name": "African lungfish",
@@ -45,6 +90,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "alpheus_bellulus": {
+      "file": "sp-alpheus_bellulus.png",
+      "name": "Alpheus Bellulus",
+      "scientificName": "Alpheus Bellulus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "alvinella_pompejana": {
+      "file": "sp-alvinella_pompejana.png",
+      "name": "Alvinella Pompejana",
+      "scientificName": "Alvinella Pompejana",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "american_lobster": {
       "file": "sp-american_lobster.png",
       "name": "American lobster",
@@ -52,6 +115,33 @@
       "group": "crab_lobster",
       "bodyType": "crustacean",
       "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "amphiprion_frenatus": {
+      "file": "sp-amphiprion_frenatus.png",
+      "name": "Amphiprion Frenatus",
+      "scientificName": "Amphiprion Frenatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "amphiprion_ocellaris": {
+      "file": "sp-amphiprion_ocellaris.png",
+      "name": "Amphiprion Ocellaris",
+      "scientificName": "Amphiprion Ocellaris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "amphiprion_percula": {
+      "file": "sp-amphiprion_percula.png",
+      "name": "Amphiprion Percula",
+      "scientificName": "Amphiprion Percula",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "anarchias": {
@@ -72,6 +162,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "anguilla_anguilla": {
+      "file": "sp-anguilla_anguilla.png",
+      "name": "Anguilla Anguilla",
+      "scientificName": "Anguilla Anguilla",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "anoplogaster_cornuta": {
+      "file": "sp-anoplogaster_cornuta.png",
+      "name": "Anoplogaster Cornuta",
+      "scientificName": "Anoplogaster Cornuta",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "antarctic_krill": {
       "file": "sp-antarctic_krill.png",
       "name": "Antarctic krill",
@@ -79,6 +187,60 @@
       "group": "shrimp",
       "bodyType": "crustacean",
       "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "antennarius_maculatus": {
+      "file": "sp-antennarius_maculatus.png",
+      "name": "Antennarius Maculatus",
+      "scientificName": "Antennarius Maculatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "antipathes_dichotoma": {
+      "file": "sp-antipathes_dichotoma.png",
+      "name": "Antipathes Dichotoma",
+      "scientificName": "Antipathes Dichotoma",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "aptenodytes_forsteri": {
+      "file": "sp-aptenodytes_forsteri.png",
+      "name": "Aptenodytes Forsteri",
+      "scientificName": "Aptenodytes Forsteri",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "arapaima_gigas": {
+      "file": "sp-arapaima_gigas.png",
+      "name": "Arapaima Gigas",
+      "scientificName": "Arapaima Gigas",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "architeuthis_dux": {
+      "file": "sp-architeuthis_dux.png",
+      "name": "Architeuthis Dux",
+      "scientificName": "Architeuthis Dux",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "arctocephalus_gazella": {
+      "file": "sp-arctocephalus_gazella.png",
+      "name": "Arctocephalus Gazella",
+      "scientificName": "Arctocephalus Gazella",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "arctogadus": {
@@ -153,6 +315,42 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "balaena_mysticetus": {
+      "file": "sp-balaena_mysticetus.png",
+      "name": "Balaena Mysticetus",
+      "scientificName": "Balaena Mysticetus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "balaenoptera_acutorostrata": {
+      "file": "sp-balaenoptera_acutorostrata.png",
+      "name": "Balaenoptera Acutorostrata",
+      "scientificName": "Balaenoptera Acutorostrata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "balaenoptera_physalus": {
+      "file": "sp-balaenoptera_physalus.png",
+      "name": "Balaenoptera Physalus",
+      "scientificName": "Balaenoptera Physalus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "balistes_vetula": {
+      "file": "sp-balistes_vetula.png",
+      "name": "Balistes Vetula",
+      "scientificName": "Balistes Vetula",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "balistidae": {
       "file": "sp-balistidae.png",
       "name": "Balistidae",
@@ -186,6 +384,15 @@
       "scientificName": "Bathydorus echinus",
       "group": "sponge",
       "bodyType": "globular",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "bathynomus_giganteus": {
+      "file": "sp-bathynomus_giganteus.png",
+      "name": "Bathynomus Giganteus",
+      "scientificName": "Bathynomus Giganteus",
+      "group": "other",
+      "bodyType": "fusiform",
       "bodyGroup": "other",
       "license": "generated"
     },
@@ -297,6 +504,69 @@
       "bodyGroup": "cnidarian",
       "license": "generated"
     },
+    "callinectes_sapidus": {
+      "file": "sp-callinectes_sapidus.png",
+      "name": "Callinectes Sapidus",
+      "scientificName": "Callinectes Sapidus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "carcharhinus_leucas": {
+      "file": "sp-carcharhinus_leucas.png",
+      "name": "Carcharhinus Leucas",
+      "scientificName": "Carcharhinus Leucas",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "carcharodon_carcharias": {
+      "file": "sp-carcharodon_carcharias.png",
+      "name": "Carcharodon Carcharias",
+      "scientificName": "Carcharodon Carcharias",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "caretta_caretta": {
+      "file": "sp-caretta_caretta.png",
+      "name": "Caretta Caretta",
+      "scientificName": "Caretta Caretta",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "caulophryne_jordani": {
+      "file": "sp-caulophryne_jordani.png",
+      "name": "Caulophryne Jordani",
+      "scientificName": "Caulophryne Jordani",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "centropyge_loriculus": {
+      "file": "sp-centropyge_loriculus.png",
+      "name": "Centropyge Loriculus",
+      "scientificName": "Centropyge Loriculus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "cephalopholis_argus": {
+      "file": "sp-cephalopholis_argus.png",
+      "name": "Cephalopholis Argus",
+      "scientificName": "Cephalopholis Argus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "cerianthidae": {
       "file": "sp-cerianthidae.png",
       "name": "Cerianthidae",
@@ -304,6 +574,15 @@
       "group": "coral",
       "bodyType": "jellyfish",
       "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "cetorhinus_maximus": {
+      "file": "sp-cetorhinus_maximus.png",
+      "name": "Cetorhinus Maximus",
+      "scientificName": "Cetorhinus Maximus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "chaetodon": {
@@ -324,6 +603,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "chauliodus_sloani": {
+      "file": "sp-chauliodus_sloani.png",
+      "name": "Chauliodus Sloani",
+      "scientificName": "Chauliodus Sloani",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "cheilinus_undulatus": {
+      "file": "sp-cheilinus_undulatus.png",
+      "name": "Cheilinus Undulatus",
+      "scientificName": "Cheilinus Undulatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "chelidoperca_santosi": {
       "file": "sp-chelidoperca_santosi.png",
       "name": "Chelidoperca santosi",
@@ -331,6 +628,42 @@
       "group": "grouper",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "chelmon_rostratus": {
+      "file": "sp-chelmon_rostratus.png",
+      "name": "Chelmon Rostratus",
+      "scientificName": "Chelmon Rostratus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "chelonia_mydas": {
+      "file": "sp-chelonia_mydas.png",
+      "name": "Chelonia Mydas",
+      "scientificName": "Chelonia Mydas",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "chilomycterus_reticulatus": {
+      "file": "sp-chilomycterus_reticulatus.png",
+      "name": "Chilomycterus Reticulatus",
+      "scientificName": "Chilomycterus Reticulatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "chimaera_monstrosa": {
+      "file": "sp-chimaera_monstrosa.png",
+      "name": "Chimaera Monstrosa",
+      "scientificName": "Chimaera Monstrosa",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "chinook_salmon": {
@@ -342,6 +675,42 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "chlamydoselachus_anguineus": {
+      "file": "sp-chlamydoselachus_anguineus.png",
+      "name": "Chlamydoselachus Anguineus",
+      "scientificName": "Chlamydoselachus Anguineus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "chromis_viridis": {
+      "file": "sp-chromis_viridis.png",
+      "name": "Chromis Viridis",
+      "scientificName": "Chromis Viridis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "chromodoris_lochi": {
+      "file": "sp-chromodoris_lochi.png",
+      "name": "Chromodoris Lochi",
+      "scientificName": "Chromodoris Lochi",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "chrysaora_fuscescens": {
+      "file": "sp-chrysaora_fuscescens.png",
+      "name": "Chrysaora Fuscescens",
+      "scientificName": "Chrysaora Fuscescens",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "chrysiptera_caesifrons": {
       "file": "sp-chrysiptera_caesifrons.png",
       "name": "Chrysiptera caesifrons",
@@ -349,6 +718,15 @@
       "group": "clownfish",
       "bodyType": "deep-bodied",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "cichla_temensis": {
+      "file": "sp-cichla_temensis.png",
+      "name": "Cichla Temensis",
+      "scientificName": "Cichla Temensis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "cleaner_wrasse": {
@@ -367,6 +745,24 @@
       "group": "triggerfish",
       "bodyType": "deep-bodied",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "clupea_harengus": {
+      "file": "sp-clupea_harengus.png",
+      "name": "Clupea Harengus",
+      "scientificName": "Clupea Harengus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "comephorus_baicalensis": {
+      "file": "sp-comephorus_baicalensis.png",
+      "name": "Comephorus Baicalensis",
+      "scientificName": "Comephorus Baicalensis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "common_dolphin": {
@@ -405,6 +801,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "corallium_rubrum": {
+      "file": "sp-corallium_rubrum.png",
+      "name": "Corallium Rubrum",
+      "scientificName": "Corallium Rubrum",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "corythoichthys_intestinalis": {
+      "file": "sp-corythoichthys_intestinalis.png",
+      "name": "Corythoichthys Intestinalis",
+      "scientificName": "Corythoichthys Intestinalis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "cosmocampus_coccineus": {
       "file": "sp-cosmocampus_coccineus.png",
       "name": "Cosmocampus coccineus",
@@ -412,6 +826,15 @@
       "group": "seahorse",
       "bodyType": "seahorse",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "cottocomephorus_grewingkii": {
+      "file": "sp-cottocomephorus_grewingkii.png",
+      "name": "Cottocomephorus Grewingkii",
+      "scientificName": "Cottocomephorus Grewingkii",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "cowrie_shell": {
@@ -423,6 +846,42 @@
       "bodyGroup": "mollusk",
       "license": "generated"
     },
+    "cryptocentrus_cinctus": {
+      "file": "sp-cryptocentrus_cinctus.png",
+      "name": "Cryptocentrus Cinctus",
+      "scientificName": "Cryptocentrus Cinctus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "cymothoa_exigua": {
+      "file": "sp-cymothoa_exigua.png",
+      "name": "Cymothoa Exigua",
+      "scientificName": "Cymothoa Exigua",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "dactylopterus_volitans": {
+      "file": "sp-dactylopterus_volitans.png",
+      "name": "Dactylopterus Volitans",
+      "scientificName": "Dactylopterus Volitans",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "dasyatis_pastinaca": {
+      "file": "sp-dasyatis_pastinaca.png",
+      "name": "Dasyatis Pastinaca",
+      "scientificName": "Dasyatis Pastinaca",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "deep_sea_anglerfish": {
       "file": "sp-deep_sea_anglerfish.png",
       "name": "Deep sea anglerfish",
@@ -430,6 +889,42 @@
       "group": "anglerfish",
       "bodyType": "globular",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "delphinapterus_leucas": {
+      "file": "sp-delphinapterus_leucas.png",
+      "name": "Delphinapterus Leucas",
+      "scientificName": "Delphinapterus Leucas",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "delphinus_delphis": {
+      "file": "sp-delphinus_delphis.png",
+      "name": "Delphinus Delphis",
+      "scientificName": "Delphinus Delphis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "dendronephthya": {
+      "file": "sp-dendronephthya.png",
+      "name": "Dendronephthya",
+      "scientificName": "Dendronephthya",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "dermochelys_coriacea": {
+      "file": "sp-dermochelys_coriacea.png",
+      "name": "Dermochelys Coriacea",
+      "scientificName": "Dermochelys Coriacea",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "dicentrarchus": {
@@ -441,6 +936,33 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "diodon_hystrix": {
+      "file": "sp-diodon_hystrix.png",
+      "name": "Diodon Hystrix",
+      "scientificName": "Diodon Hystrix",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "diploria_labyrinthiformis": {
+      "file": "sp-diploria_labyrinthiformis.png",
+      "name": "Diploria Labyrinthiformis",
+      "scientificName": "Diploria Labyrinthiformis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "dissostichus_mawsoni": {
+      "file": "sp-dissostichus_mawsoni.png",
+      "name": "Dissostichus Mawsoni",
+      "scientificName": "Dissostichus Mawsoni",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "doryrhamphus_malus": {
       "file": "sp-doryrhamphus_malus.png",
       "name": "Doryrhamphus malus",
@@ -450,6 +972,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "dosidicus_gigas": {
+      "file": "sp-dosidicus_gigas.png",
+      "name": "Dosidicus Gigas",
+      "scientificName": "Dosidicus Gigas",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "dugong_dugon": {
+      "file": "sp-dugong_dugon.png",
+      "name": "Dugong Dugon",
+      "scientificName": "Dugong Dugon",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "electric_eel": {
       "file": "sp-electric_eel.png",
       "name": "Electric eel",
@@ -457,6 +997,15 @@
       "group": "eel",
       "bodyType": "elongated",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "electrophorus_electricus": {
+      "file": "sp-electrophorus_electricus.png",
+      "name": "Electrophorus Electricus",
+      "scientificName": "Electrophorus Electricus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "elephant_seal": {
@@ -477,6 +1026,24 @@
       "bodyGroup": "cnidarian",
       "license": "generated"
     },
+    "engraulis_ringens": {
+      "file": "sp-engraulis_ringens.png",
+      "name": "Engraulis Ringens",
+      "scientificName": "Engraulis Ringens",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "enhydra_lutris": {
+      "file": "sp-enhydra_lutris.png",
+      "name": "Enhydra Lutris",
+      "scientificName": "Enhydra Lutris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "enteromius": {
       "file": "sp-enteromius.png",
       "name": "Enteromius",
@@ -484,6 +1051,51 @@
       "group": "carp_minnow",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "epinephelus_itajara": {
+      "file": "sp-epinephelus_itajara.png",
+      "name": "Epinephelus Itajara",
+      "scientificName": "Epinephelus Itajara",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "epinephelus_lanceolatus": {
+      "file": "sp-epinephelus_lanceolatus.png",
+      "name": "Epinephelus Lanceolatus",
+      "scientificName": "Epinephelus Lanceolatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "eretmochelys_imbricata": {
+      "file": "sp-eretmochelys_imbricata.png",
+      "name": "Eretmochelys Imbricata",
+      "scientificName": "Eretmochelys Imbricata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "eschrichtius_robustus": {
+      "file": "sp-eschrichtius_robustus.png",
+      "name": "Eschrichtius Robustus",
+      "scientificName": "Eschrichtius Robustus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "euphausia_superba": {
+      "file": "sp-euphausia_superba.png",
+      "name": "Euphausia Superba",
+      "scientificName": "Euphausia Superba",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "european_anchovy": {
@@ -538,6 +1150,15 @@
       "group": "herring",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "eurypharynx_pelecanoides": {
+      "file": "sp-eurypharynx_pelecanoides.png",
+      "name": "Eurypharynx Pelecanoides",
+      "scientificName": "Eurypharynx Pelecanoides",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "eviota_bipunctata": {
@@ -612,6 +1233,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "forcipiger_flavissimus": {
+      "file": "sp-forcipiger_flavissimus.png",
+      "name": "Forcipiger Flavissimus",
+      "scientificName": "Forcipiger Flavissimus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "fungia_fungites": {
+      "file": "sp-fungia_fungites.png",
+      "name": "Fungia Fungites",
+      "scientificName": "Fungia Fungites",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "gadidae": {
       "file": "sp-gadidae.png",
       "name": "Gadidae",
@@ -619,6 +1258,24 @@
       "group": "cod",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "gadus_morhua": {
+      "file": "sp-gadus_morhua.png",
+      "name": "Gadus Morhua",
+      "scientificName": "Gadus Morhua",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "galeocerdo_cuvier": {
+      "file": "sp-galeocerdo_cuvier.png",
+      "name": "Galeocerdo Cuvier",
+      "scientificName": "Galeocerdo Cuvier",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "garden_eel": {
@@ -666,6 +1323,33 @@
       "bodyGroup": "cephalopod",
       "license": "generated"
     },
+    "ginglymostoma_cirratum": {
+      "file": "sp-ginglymostoma_cirratum.png",
+      "name": "Ginglymostoma Cirratum",
+      "scientificName": "Ginglymostoma Cirratum",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "glaucostegus_granulatus": {
+      "file": "sp-glaucostegus_granulatus.png",
+      "name": "Glaucostegus Granulatus",
+      "scientificName": "Glaucostegus Granulatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "glaucus_atlanticus": {
+      "file": "sp-glaucus_atlanticus.png",
+      "name": "Glaucus Atlanticus",
+      "scientificName": "Glaucus Atlanticus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "goliath_grouper": {
       "file": "sp-goliath_grouper.png",
       "name": "Goliath grouper",
@@ -673,6 +1357,24 @@
       "group": "grouper",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "goniopora": {
+      "file": "sp-goniopora.png",
+      "name": "Goniopora",
+      "scientificName": "Goniopora",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "gorgonia_ventalina": {
+      "file": "sp-gorgonia_ventalina.png",
+      "name": "Gorgonia Ventalina",
+      "scientificName": "Gorgonia Ventalina",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "great_barracuda": {
@@ -711,6 +1413,33 @@
       "bodyGroup": "reptile",
       "license": "generated"
     },
+    "grimpoteuthis": {
+      "file": "sp-grimpoteuthis.png",
+      "name": "Grimpoteuthis",
+      "scientificName": "Grimpoteuthis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "gymnothorax_funebris": {
+      "file": "sp-gymnothorax_funebris.png",
+      "name": "Gymnothorax Funebris",
+      "scientificName": "Gymnothorax Funebris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "halichoerus_grypus": {
+      "file": "sp-halichoerus_grypus.png",
+      "name": "Halichoerus Grypus",
+      "scientificName": "Halichoerus Grypus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "hammerhead_shark": {
       "file": "sp-hammerhead_shark.png",
       "name": "Hammerhead shark",
@@ -718,6 +1447,15 @@
       "group": "shark",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "hapalochlaena_lunulata": {
+      "file": "sp-hapalochlaena_lunulata.png",
+      "name": "Hapalochlaena Lunulata",
+      "scientificName": "Hapalochlaena Lunulata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "harbor_seal": {
@@ -747,6 +1485,42 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "heliopora_coerulea": {
+      "file": "sp-heliopora_coerulea.png",
+      "name": "Heliopora Coerulea",
+      "scientificName": "Heliopora Coerulea",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "heniochus_acuminatus": {
+      "file": "sp-heniochus_acuminatus.png",
+      "name": "Heniochus Acuminatus",
+      "scientificName": "Heniochus Acuminatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "heterodontus_francisci": {
+      "file": "sp-heterodontus_francisci.png",
+      "name": "Heterodontus Francisci",
+      "scientificName": "Heterodontus Francisci",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "himantolophus_groenlandicus": {
+      "file": "sp-himantolophus_groenlandicus.png",
+      "name": "Himantolophus Groenlandicus",
+      "scientificName": "Himantolophus Groenlandicus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "himantolophus_rostratus": {
       "file": "sp-himantolophus_rostratus.png",
       "name": "Himantolophus rostratus",
@@ -763,6 +1537,42 @@
       "group": "ray",
       "bodyType": "flat",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "hippocampus_bargibanti": {
+      "file": "sp-hippocampus_bargibanti.png",
+      "name": "Hippocampus Bargibanti",
+      "scientificName": "Hippocampus Bargibanti",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "hippocampus_denise": {
+      "file": "sp-hippocampus_denise.png",
+      "name": "Hippocampus Denise",
+      "scientificName": "Hippocampus Denise",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "hippocampus_kuda": {
+      "file": "sp-hippocampus_kuda.png",
+      "name": "Hippocampus Kuda",
+      "scientificName": "Hippocampus Kuda",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "hippoglossus_hippoglossus": {
+      "file": "sp-hippoglossus_hippoglossus.png",
+      "name": "Hippoglossus Hippoglossus",
+      "scientificName": "Hippoglossus Hippoglossus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "hirundichthys_rufipinnis": {
@@ -783,6 +1593,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "histioteuthis": {
+      "file": "sp-histioteuthis.png",
+      "name": "Histioteuthis",
+      "scientificName": "Histioteuthis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "holacanthus": {
       "file": "sp-holacanthus.png",
       "name": "Holacanthus",
@@ -801,6 +1620,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "homarus_americanus": {
+      "file": "sp-homarus_americanus.png",
+      "name": "Homarus Americanus",
+      "scientificName": "Homarus Americanus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "humpback_whale": {
       "file": "sp-humpback_whale.png",
       "name": "Humpback whale",
@@ -808,6 +1636,24 @@
       "group": "whale",
       "bodyType": "cetacean",
       "bodyGroup": "mammal",
+      "license": "generated"
+    },
+    "hydrophis_platurus": {
+      "file": "sp-hydrophis_platurus.png",
+      "name": "Hydrophis Platurus",
+      "scientificName": "Hydrophis Platurus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "idiacanthus_atlanticus": {
+      "file": "sp-idiacanthus_atlanticus.png",
+      "name": "Idiacanthus Atlanticus",
+      "scientificName": "Idiacanthus Atlanticus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "istiophorus": {
@@ -837,6 +1683,51 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "labroides_dimidiatus": {
+      "file": "sp-labroides_dimidiatus.png",
+      "name": "Labroides Dimidiatus",
+      "scientificName": "Labroides Dimidiatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "lampris_guttatus": {
+      "file": "sp-lampris_guttatus.png",
+      "name": "Lampris Guttatus",
+      "scientificName": "Lampris Guttatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "lates_niloticus": {
+      "file": "sp-lates_niloticus.png",
+      "name": "Lates Niloticus",
+      "scientificName": "Lates Niloticus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "laticauda_colubrina": {
+      "file": "sp-laticauda_colubrina.png",
+      "name": "Laticauda Colubrina",
+      "scientificName": "Laticauda Colubrina",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "latimeria_chalumnae": {
+      "file": "sp-latimeria_chalumnae.png",
+      "name": "Latimeria Chalumnae",
+      "scientificName": "Latimeria Chalumnae",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "laubuka_laubuca": {
       "file": "sp-laubuka_laubuca.png",
       "name": "Laubuka laubuca",
@@ -846,6 +1737,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "lepidochelys_olivacea": {
+      "file": "sp-lepidochelys_olivacea.png",
+      "name": "Lepidochelys Olivacea",
+      "scientificName": "Lepidochelys Olivacea",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "leptachirus_kikori": {
       "file": "sp-leptachirus_kikori.png",
       "name": "Leptachirus kikori",
@@ -853,6 +1753,42 @@
       "group": "flatfish",
       "bodyType": "flat",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "leptonychotes_weddellii": {
+      "file": "sp-leptonychotes_weddellii.png",
+      "name": "Leptonychotes Weddellii",
+      "scientificName": "Leptonychotes Weddellii",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "limulus_polyphemus": {
+      "file": "sp-limulus_polyphemus.png",
+      "name": "Limulus Polyphemus",
+      "scientificName": "Limulus Polyphemus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "linckia_laevigata": {
+      "file": "sp-linckia_laevigata.png",
+      "name": "Linckia Laevigata",
+      "scientificName": "Linckia Laevigata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "linophryne_arborifera": {
+      "file": "sp-linophryne_arborifera.png",
+      "name": "Linophryne Arborifera",
+      "scientificName": "Linophryne Arborifera",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "lions_mane_jellyfish": {
@@ -873,6 +1809,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "lobophyllia_hemprichii": {
+      "file": "sp-lobophyllia_hemprichii.png",
+      "name": "Lobophyllia Hemprichii",
+      "scientificName": "Lobophyllia Hemprichii",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "loggerhead_sea_turtle": {
       "file": "sp-loggerhead_sea_turtle.png",
       "name": "Loggerhead sea turtle",
@@ -880,6 +1825,60 @@
       "group": "sea_turtle",
       "bodyType": "flat",
       "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "loligo_vulgaris": {
+      "file": "sp-loligo_vulgaris.png",
+      "name": "Loligo Vulgaris",
+      "scientificName": "Loligo Vulgaris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "lutjanus_campechanus": {
+      "file": "sp-lutjanus_campechanus.png",
+      "name": "Lutjanus Campechanus",
+      "scientificName": "Lutjanus Campechanus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "macrocystis_pyrifera": {
+      "file": "sp-macrocystis_pyrifera.png",
+      "name": "Macrocystis Pyrifera",
+      "scientificName": "Macrocystis Pyrifera",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "macropinna_microstoma": {
+      "file": "sp-macropinna_microstoma.png",
+      "name": "Macropinna Microstoma",
+      "scientificName": "Macropinna Microstoma",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "magallana_gigas": {
+      "file": "sp-magallana_gigas.png",
+      "name": "Magallana Gigas",
+      "scientificName": "Magallana Gigas",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "magnapinna": {
+      "file": "sp-magnapinna.png",
+      "name": "Magnapinna",
+      "scientificName": "Magnapinna",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "magnificent_sea_anemone": {
@@ -900,6 +1899,24 @@
       "bodyGroup": "crustacean",
       "license": "generated"
     },
+    "megaptera_novaeangliae": {
+      "file": "sp-megaptera_novaeangliae.png",
+      "name": "Megaptera Novaeangliae",
+      "scientificName": "Megaptera Novaeangliae",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "melanocetus_johnsonii": {
+      "file": "sp-melanocetus_johnsonii.png",
+      "name": "Melanocetus Johnsonii",
+      "scientificName": "Melanocetus Johnsonii",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "melanocetus_polyactis": {
       "file": "sp-melanocetus_polyactis.png",
       "name": "Melanocetus polyactis",
@@ -916,6 +1933,69 @@
       "group": "blenny",
       "bodyType": "elongated",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "millepora_alcicornis": {
+      "file": "sp-millepora_alcicornis.png",
+      "name": "Millepora Alcicornis",
+      "scientificName": "Millepora Alcicornis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "mirounga_leonina": {
+      "file": "sp-mirounga_leonina.png",
+      "name": "Mirounga Leonina",
+      "scientificName": "Mirounga Leonina",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "mitsukurina_owstoni": {
+      "file": "sp-mitsukurina_owstoni.png",
+      "name": "Mitsukurina Owstoni",
+      "scientificName": "Mitsukurina Owstoni",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "mobula_alfredi": {
+      "file": "sp-mobula_alfredi.png",
+      "name": "Mobula Alfredi",
+      "scientificName": "Mobula Alfredi",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "mobula_birostris": {
+      "file": "sp-mobula_birostris.png",
+      "name": "Mobula Birostris",
+      "scientificName": "Mobula Birostris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "mola_mola": {
+      "file": "sp-mola_mola.png",
+      "name": "Mola Mola",
+      "scientificName": "Mola Mola",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "monodon_monoceros": {
+      "file": "sp-monodon_monoceros.png",
+      "name": "Monodon Monoceros",
+      "scientificName": "Monodon Monoceros",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "mushroom_coral": {
@@ -963,6 +2043,24 @@
       "bodyGroup": "cephalopod",
       "license": "generated"
     },
+    "myripristis_murdjan": {
+      "file": "sp-myripristis_murdjan.png",
+      "name": "Myripristis Murdjan",
+      "scientificName": "Myripristis Murdjan",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "mytilus_edulis": {
+      "file": "sp-mytilus_edulis.png",
+      "name": "Mytilus Edulis",
+      "scientificName": "Mytilus Edulis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "myxinidae": {
       "file": "sp-myxinidae.png",
       "name": "Myxinidae",
@@ -990,6 +2088,24 @@
       "bodyGroup": "cephalopod",
       "license": "generated"
     },
+    "nemateleotris_magnifica": {
+      "file": "sp-nemateleotris_magnifica.png",
+      "name": "Nemateleotris Magnifica",
+      "scientificName": "Nemateleotris Magnifica",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "nembrotha_kubaryana": {
+      "file": "sp-nembrotha_kubaryana.png",
+      "name": "Nembrotha Kubaryana",
+      "scientificName": "Nembrotha Kubaryana",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "neon_goby": {
       "file": "sp-neon_goby.png",
       "name": "Neon goby",
@@ -1006,6 +2122,15 @@
       "group": "piranha",
       "bodyType": "deep-bodied",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "notothenia_coriiceps": {
+      "file": "sp-notothenia_coriiceps.png",
+      "name": "Notothenia Coriiceps",
+      "scientificName": "Notothenia Coriiceps",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "novaculops_halsteadi": {
@@ -1035,6 +2160,33 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "octopus_vulgaris": {
+      "file": "sp-octopus_vulgaris.png",
+      "name": "Octopus Vulgaris",
+      "scientificName": "Octopus Vulgaris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "odobenus_rosmarus": {
+      "file": "sp-odobenus_rosmarus.png",
+      "name": "Odobenus Rosmarus",
+      "scientificName": "Odobenus Rosmarus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "odontodactylus_scyllarus": {
+      "file": "sp-odontodactylus_scyllarus.png",
+      "name": "Odontodactylus Scyllarus",
+      "scientificName": "Odontodactylus Scyllarus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "olive_sea_snake": {
       "file": "sp-olive_sea_snake.png",
       "name": "Olive sea snake",
@@ -1042,6 +2194,33 @@
       "group": "sea_snake",
       "bodyType": "elongated",
       "bodyGroup": "reptile",
+      "license": "generated"
+    },
+    "oncorhynchus_tshawytscha": {
+      "file": "sp-oncorhynchus_tshawytscha.png",
+      "name": "Oncorhynchus Tshawytscha",
+      "scientificName": "Oncorhynchus Tshawytscha",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "opisthoproctus_soleatus": {
+      "file": "sp-opisthoproctus_soleatus.png",
+      "name": "Opisthoproctus Soleatus",
+      "scientificName": "Opisthoproctus Soleatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "opistognathus_aurifrons": {
+      "file": "sp-opistognathus_aurifrons.png",
+      "name": "Opistognathus Aurifrons",
+      "scientificName": "Opistognathus Aurifrons",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "orca_killer_whale": {
@@ -1053,6 +2232,33 @@
       "bodyGroup": "mammal",
       "license": "generated"
     },
+    "orcinus_orca": {
+      "file": "sp-orcinus_orca.png",
+      "name": "Orcinus Orca",
+      "scientificName": "Orcinus Orca",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "orectolobus_maculatus": {
+      "file": "sp-orectolobus_maculatus.png",
+      "name": "Orectolobus Maculatus",
+      "scientificName": "Orectolobus Maculatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "oreochromis_niloticus": {
+      "file": "sp-oreochromis_niloticus.png",
+      "name": "Oreochromis Niloticus",
+      "scientificName": "Oreochromis Niloticus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "oscar_fish_cichlid": {
       "file": "sp-oscar_fish_cichlid.png",
       "name": "Oscar fish cichlid",
@@ -1060,6 +2266,24 @@
       "group": "cichlid",
       "bodyType": "deep-bodied",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "osteoglossum_bicirrhosum": {
+      "file": "sp-osteoglossum_bicirrhosum.png",
+      "name": "Osteoglossum Bicirrhosum",
+      "scientificName": "Osteoglossum Bicirrhosum",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "oxymonacanthus_longirostris": {
+      "file": "sp-oxymonacanthus_longirostris.png",
+      "name": "Oxymonacanthus Longirostris",
+      "scientificName": "Oxymonacanthus Longirostris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "pacific_cod": {
@@ -1107,6 +2331,42 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "pagophilus_groenlandicus": {
+      "file": "sp-pagophilus_groenlandicus.png",
+      "name": "Pagophilus Groenlandicus",
+      "scientificName": "Pagophilus Groenlandicus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "panulirus_argus": {
+      "file": "sp-panulirus_argus.png",
+      "name": "Panulirus Argus",
+      "scientificName": "Panulirus Argus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "paracanthurus_hepatus": {
+      "file": "sp-paracanthurus_hepatus.png",
+      "name": "Paracanthurus Hepatus",
+      "scientificName": "Paracanthurus Hepatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "paralithodes_camtschaticus": {
+      "file": "sp-paralithodes_camtschaticus.png",
+      "name": "Paralithodes Camtschaticus",
+      "scientificName": "Paralithodes Camtschaticus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "parascorpaena_moultoni": {
       "file": "sp-parascorpaena_moultoni.png",
       "name": "Parascorpaena moultoni",
@@ -1114,6 +2374,33 @@
       "group": "scorpionfish",
       "bodyType": "globular",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pegasus_volitans": {
+      "file": "sp-pegasus_volitans.png",
+      "name": "Pegasus Volitans",
+      "scientificName": "Pegasus Volitans",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "penaeus_monodon": {
+      "file": "sp-penaeus_monodon.png",
+      "name": "Penaeus Monodon",
+      "scientificName": "Penaeus Monodon",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "periclimenes_yucatanicus": {
+      "file": "sp-periclimenes_yucatanicus.png",
+      "name": "Periclimenes Yucatanicus",
+      "scientificName": "Periclimenes Yucatanicus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "peruvian_anchovy": {
@@ -1125,6 +2412,69 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "phoca_vitulina": {
+      "file": "sp-phoca_vitulina.png",
+      "name": "Phoca Vitulina",
+      "scientificName": "Phoca Vitulina",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "phocoena_phocoena": {
+      "file": "sp-phocoena_phocoena.png",
+      "name": "Phocoena Phocoena",
+      "scientificName": "Phocoena Phocoena",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "phronima_sedentaria": {
+      "file": "sp-phronima_sedentaria.png",
+      "name": "Phronima Sedentaria",
+      "scientificName": "Phronima Sedentaria",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "phycodurus_eques": {
+      "file": "sp-phycodurus_eques.png",
+      "name": "Phycodurus Eques",
+      "scientificName": "Phycodurus Eques",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "phyllopteryx_taeniolatus": {
+      "file": "sp-phyllopteryx_taeniolatus.png",
+      "name": "Phyllopteryx Taeniolatus",
+      "scientificName": "Phyllopteryx Taeniolatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "physalia_physalis": {
+      "file": "sp-physalia_physalis.png",
+      "name": "Physalia Physalis",
+      "scientificName": "Physalia Physalis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "physeter_macrocephalus": {
+      "file": "sp-physeter_macrocephalus.png",
+      "name": "Physeter Macrocephalus",
+      "scientificName": "Physeter Macrocephalus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "pillar_coral": {
       "file": "sp-pillar_coral.png",
       "name": "Pillar coral",
@@ -1134,6 +2484,33 @@
       "bodyGroup": "cnidarian",
       "license": "generated"
     },
+    "platax_teira": {
+      "file": "sp-platax_teira.png",
+      "name": "Platax Teira",
+      "scientificName": "Platax Teira",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "plerogyra_sinuosa": {
+      "file": "sp-plerogyra_sinuosa.png",
+      "name": "Plerogyra Sinuosa",
+      "scientificName": "Plerogyra Sinuosa",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pocillopora_damicornis": {
+      "file": "sp-pocillopora_damicornis.png",
+      "name": "Pocillopora Damicornis",
+      "scientificName": "Pocillopora Damicornis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "pomacanthidae": {
       "file": "sp-pomacanthidae.png",
       "name": "Pomacanthidae",
@@ -1141,6 +2518,15 @@
       "group": "angelfish",
       "bodyType": "deep-bodied",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pomacanthus_imperator": {
+      "file": "sp-pomacanthus_imperator.png",
+      "name": "Pomacanthus Imperator",
+      "scientificName": "Pomacanthus Imperator",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "pomacentrus_albiaxillaris": {
@@ -1161,6 +2547,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "porites_lobata": {
+      "file": "sp-porites_lobata.png",
+      "name": "Porites Lobata",
+      "scientificName": "Porites Lobata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "portuguese_man_o_war": {
       "file": "sp-portuguese_man_o_war.png",
       "name": "Portuguese man o war",
@@ -1168,6 +2563,51 @@
       "group": "jellyfish",
       "bodyType": "jellyfish",
       "bodyGroup": "cnidarian",
+      "license": "generated"
+    },
+    "potamotrygon_motoro": {
+      "file": "sp-potamotrygon_motoro.png",
+      "name": "Potamotrygon Motoro",
+      "scientificName": "Potamotrygon Motoro",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "prionace_glauca": {
+      "file": "sp-prionace_glauca.png",
+      "name": "Prionace Glauca",
+      "scientificName": "Prionace Glauca",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pristiophorus_cirratus": {
+      "file": "sp-pristiophorus_cirratus.png",
+      "name": "Pristiophorus Cirratus",
+      "scientificName": "Pristiophorus Cirratus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pristis_pristis": {
+      "file": "sp-pristis_pristis.png",
+      "name": "Pristis Pristis",
+      "scientificName": "Pristis Pristis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "protopterus_annectens": {
+      "file": "sp-protopterus_annectens.png",
+      "name": "Protopterus Annectens",
+      "scientificName": "Protopterus Annectens",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "pseudopristella": {
@@ -1179,6 +2619,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "psychrolutes_marcidus": {
+      "file": "sp-psychrolutes_marcidus.png",
+      "name": "Psychrolutes Marcidus",
+      "scientificName": "Psychrolutes Marcidus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pteraeolidia_ianthina": {
+      "file": "sp-pteraeolidia_ianthina.png",
+      "name": "Pteraeolidia Ianthina",
+      "scientificName": "Pteraeolidia Ianthina",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "pteroidichthys_noronhai": {
       "file": "sp-pteroidichthys_noronhai.png",
       "name": "Pteroidichthys noronhai",
@@ -1186,6 +2644,51 @@
       "group": "scorpionfish",
       "bodyType": "globular",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "pterois_volitans": {
+      "file": "sp-pterois_volitans.png",
+      "name": "Pterois Volitans",
+      "scientificName": "Pterois Volitans",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pterophyllum_scalare": {
+      "file": "sp-pterophyllum_scalare.png",
+      "name": "Pterophyllum Scalare",
+      "scientificName": "Pterophyllum Scalare",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pygocentrus_nattereri": {
+      "file": "sp-pygocentrus_nattereri.png",
+      "name": "Pygocentrus Nattereri",
+      "scientificName": "Pygocentrus Nattereri",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pygoplites_diacanthus": {
+      "file": "sp-pygoplites_diacanthus.png",
+      "name": "Pygoplites Diacanthus",
+      "scientificName": "Pygoplites Diacanthus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "pyrosoma_atlanticum": {
+      "file": "sp-pyrosoma_atlanticum.png",
+      "name": "Pyrosoma Atlanticum",
+      "scientificName": "Pyrosoma Atlanticum",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "queen_conch": {
@@ -1251,6 +2754,60 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "regalecus_glesne": {
+      "file": "sp-regalecus_glesne.png",
+      "name": "Regalecus Glesne",
+      "scientificName": "Regalecus Glesne",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "rhincodon_typus": {
+      "file": "sp-rhincodon_typus.png",
+      "name": "Rhincodon Typus",
+      "scientificName": "Rhincodon Typus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "rhinecanthus_aculeatus": {
+      "file": "sp-rhinecanthus_aculeatus.png",
+      "name": "Rhinecanthus Aculeatus",
+      "scientificName": "Rhinecanthus Aculeatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "rhinopias_frondosa": {
+      "file": "sp-rhinopias_frondosa.png",
+      "name": "Rhinopias Frondosa",
+      "scientificName": "Rhinopias Frondosa",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "riftia_pachyptila": {
+      "file": "sp-riftia_pachyptila.png",
+      "name": "Riftia Pachyptila",
+      "scientificName": "Riftia Pachyptila",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "rimicaris_exoculata": {
+      "file": "sp-rimicaris_exoculata.png",
+      "name": "Rimicaris Exoculata",
+      "scientificName": "Rimicaris Exoculata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "river_lamprey": {
       "file": "sp-river_lamprey.png",
       "name": "River lamprey",
@@ -1278,6 +2835,42 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "salmo_salar": {
+      "file": "sp-salmo_salar.png",
+      "name": "Salmo Salar",
+      "scientificName": "Salmo Salar",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "salpida": {
+      "file": "sp-salpida.png",
+      "name": "Salpida",
+      "scientificName": "Salpida",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "sarcophyton": {
+      "file": "sp-sarcophyton.png",
+      "name": "Sarcophyton",
+      "scientificName": "Sarcophyton",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "sardina_pilchardus": {
+      "file": "sp-sardina_pilchardus.png",
+      "name": "Sardina Pilchardus",
+      "scientificName": "Sardina Pilchardus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "saurogobio_gymnocheilus": {
       "file": "sp-saurogobio_gymnocheilus.png",
       "name": "Saurogobio gymnocheilus",
@@ -1294,6 +2887,15 @@
       "group": "parrotfish",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "scarus_vetula": {
+      "file": "sp-scarus_vetula.png",
+      "name": "Scarus Vetula",
+      "scientificName": "Scarus Vetula",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "sea_anemone": {
@@ -1350,6 +2952,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "sepia_officinalis": {
+      "file": "sp-sepia_officinalis.png",
+      "name": "Sepia Officinalis",
+      "scientificName": "Sepia Officinalis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "serrasalmus_humeralis": {
       "file": "sp-serrasalmus_humeralis.png",
       "name": "Serrasalmus humeralis",
@@ -1377,6 +2988,24 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "solenostomus_paradoxus": {
+      "file": "sp-solenostomus_paradoxus.png",
+      "name": "Solenostomus Paradoxus",
+      "scientificName": "Solenostomus Paradoxus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "sousa_chinensis": {
+      "file": "sp-sousa_chinensis.png",
+      "name": "Sousa Chinensis",
+      "scientificName": "Sousa Chinensis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "sparisoma": {
       "file": "sp-sparisoma.png",
       "name": "Sparisoma",
@@ -1402,6 +3031,24 @@
       "group": "barracuda",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "sphyrna_mokarran": {
+      "file": "sp-sphyrna_mokarran.png",
+      "name": "Sphyrna Mokarran",
+      "scientificName": "Sphyrna Mokarran",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "spirula_spirula": {
+      "file": "sp-spirula_spirula.png",
+      "name": "Spirula Spirula",
+      "scientificName": "Spirula Spirula",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "spotted_moray_eel": {
@@ -1467,6 +3114,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "stegostoma_tigrinum": {
+      "file": "sp-stegostoma_tigrinum.png",
+      "name": "Stegostoma Tigrinum",
+      "scientificName": "Stegostoma Tigrinum",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "stellate_sturgeon": {
       "file": "sp-stellate_sturgeon.png",
       "name": "Stellate sturgeon",
@@ -1474,6 +3130,15 @@
       "group": "sturgeon",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "stenella_longirostris": {
+      "file": "sp-stenella_longirostris.png",
+      "name": "Stenella Longirostris",
+      "scientificName": "Stenella Longirostris",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "striped_bass": {
@@ -1494,6 +3159,15 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "strongylocentrotus_purpuratus": {
+      "file": "sp-strongylocentrotus_purpuratus.png",
+      "name": "Strongylocentrotus Purpuratus",
+      "scientificName": "Strongylocentrotus Purpuratus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "swordfish": {
       "file": "sp-swordfish.png",
       "name": "Swordfish",
@@ -1501,6 +3175,42 @@
       "group": "swordfish",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "symphysodon_discus": {
+      "file": "sp-symphysodon_discus.png",
+      "name": "Symphysodon Discus",
+      "scientificName": "Symphysodon Discus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "synanceia_verrucosa": {
+      "file": "sp-synanceia_verrucosa.png",
+      "name": "Synanceia Verrucosa",
+      "scientificName": "Synanceia Verrucosa",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "synchiropus_splendidus": {
+      "file": "sp-synchiropus_splendidus.png",
+      "name": "Synchiropus Splendidus",
+      "scientificName": "Synchiropus Splendidus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "syngnathus_acus": {
+      "file": "sp-syngnathus_acus.png",
+      "name": "Syngnathus Acus",
+      "scientificName": "Syngnathus Acus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "table_coral": {
@@ -1512,6 +3222,15 @@
       "bodyGroup": "cnidarian",
       "license": "generated"
     },
+    "taeniura_lymma": {
+      "file": "sp-taeniura_lymma.png",
+      "name": "Taeniura Lymma",
+      "scientificName": "Taeniura Lymma",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "tetronarce_cowleyi": {
       "file": "sp-tetronarce_cowleyi.png",
       "name": "Tetronarce cowleyi",
@@ -1521,6 +3240,33 @@
       "bodyGroup": "fish",
       "license": "generated"
     },
+    "thalassoma_lunare": {
+      "file": "sp-thalassoma_lunare.png",
+      "name": "Thalassoma Lunare",
+      "scientificName": "Thalassoma Lunare",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "thor_amboinensis": {
+      "file": "sp-thor_amboinensis.png",
+      "name": "Thor Amboinensis",
+      "scientificName": "Thor Amboinensis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "thunnus_thynnus": {
+      "file": "sp-thunnus_thynnus.png",
+      "name": "Thunnus Thynnus",
+      "scientificName": "Thunnus Thynnus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "tiger_prawn": {
       "file": "sp-tiger_prawn.png",
       "name": "Tiger prawn",
@@ -1528,6 +3274,33 @@
       "group": "shrimp",
       "bodyType": "crustacean",
       "bodyGroup": "crustacean",
+      "license": "generated"
+    },
+    "torpedo_marmorata": {
+      "file": "sp-torpedo_marmorata.png",
+      "name": "Torpedo Marmorata",
+      "scientificName": "Torpedo Marmorata",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "trichechus_manatus": {
+      "file": "sp-trichechus_manatus.png",
+      "name": "Trichechus Manatus",
+      "scientificName": "Trichechus Manatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "tridacna_gigas": {
+      "file": "sp-tridacna_gigas.png",
+      "name": "Tridacna Gigas",
+      "scientificName": "Tridacna Gigas",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "trimma_burridgeae": {
@@ -1557,6 +3330,42 @@
       "bodyGroup": "other",
       "license": "generated"
     },
+    "tubipora_musica": {
+      "file": "sp-tubipora_musica.png",
+      "name": "Tubipora Musica",
+      "scientificName": "Tubipora Musica",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "turritopsis_dohrnii": {
+      "file": "sp-turritopsis_dohrnii.png",
+      "name": "Turritopsis Dohrnii",
+      "scientificName": "Turritopsis Dohrnii",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "tursiops_aduncus": {
+      "file": "sp-tursiops_aduncus.png",
+      "name": "Tursiops Aduncus",
+      "scientificName": "Tursiops Aduncus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "tursiops_truncatus": {
+      "file": "sp-tursiops_truncatus.png",
+      "name": "Tursiops Truncatus",
+      "scientificName": "Tursiops Truncatus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
     "urogymnus_acanthobothrium": {
       "file": "sp-urogymnus_acanthobothrium.png",
       "name": "Urogymnus acanthobothrium",
@@ -1564,6 +3373,15 @@
       "group": "ray",
       "bodyType": "flat",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "vampyroteuthis_infernalis": {
+      "file": "sp-vampyroteuthis_infernalis.png",
+      "name": "Vampyroteuthis Infernalis",
+      "scientificName": "Vampyroteuthis Infernalis",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "walrus": {
@@ -1582,6 +3400,24 @@
       "group": "catfish",
       "bodyType": "fusiform",
       "bodyGroup": "fish",
+      "license": "generated"
+    },
+    "xenia": {
+      "file": "sp-xenia.png",
+      "name": "Xenia",
+      "scientificName": "Xenia",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "xiphias_gladius": {
+      "file": "sp-xiphias_gladius.png",
+      "name": "Xiphias Gladius",
+      "scientificName": "Xiphias Gladius",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
       "license": "generated"
     },
     "yellow_bellied_sea_snake": {
@@ -1628,9 +3464,28 @@
       "bodyType": "fusiform",
       "bodyGroup": "fish",
       "license": "generated"
+    },
+    "zanclus_cornutus": {
+      "file": "sp-zanclus_cornutus.png",
+      "name": "Zanclus Cornutus",
+      "scientificName": "Zanclus Cornutus",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
+    },
+    "zebrasoma_flavescens": {
+      "file": "sp-zebrasoma_flavescens.png",
+      "name": "Zebrasoma Flavescens",
+      "scientificName": "Zebrasoma Flavescens",
+      "group": "other",
+      "bodyType": "fusiform",
+      "bodyGroup": "other",
+      "license": "generated"
     }
   },
   "groupFallbacks": {
+    "other": "sp-acanthaster_planci.png",
     "surgeonfish": "sp-acanthurus_albimento.png",
     "coral": "sp-actiniidae.png",
     "lungfish": "sp-african_lungfish.png",
@@ -1686,17 +3541,17 @@
     "starfish": "sp-sea_cucumber.png"
   },
   "bodyTypeFallbacks": {
+    "fusiform": "sp-acanthaster_planci.png",
     "deep-bodied": "sp-acanthurus_albimento.png",
     "jellyfish": "sp-actiniidae.png",
     "elongated": "sp-african_lungfish.png",
     "crustacean": "sp-american_lobster.png",
-    "fusiform": "sp-anchoviella_juruasanga.png",
     "flat": "sp-atlantic_halibut.png",
     "globular": "sp-barrel_sponge.png",
     "cetacean": "sp-blue_whale.png",
     "seahorse": "sp-cosmocampus_coccineus.png",
     "cephalopod": "sp-giant_pacific_octopus.png"
   },
-  "totalSprites": 242,
+  "totalSprites": 449,
   "note": "Fallback chain: sprites[speciesId] -> groupFallbacks[group] -> bodyTypeFallbacks[bodyType]. Resolved at ETL time."
 }
