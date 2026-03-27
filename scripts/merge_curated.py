@@ -1,5 +1,8 @@
 """Merge curation/aquatic/selected.json with ETL species metadata into output/aquatic/final.json."""
 import json
+import math
+import random
+from collections import defaultdict
 from pathlib import Path
 
 from scripts.aquatic_groups import classify_group, classify_body_type
@@ -91,6 +94,80 @@ def load_taxonomy_from_obis() -> dict:
         return {}
 
 
+def jitter_overlapping_spots(species_list: list, radius_deg: float = 0.8, cluster_threshold: float = 0.3):
+    """Spread apart viewing spots that share nearly-identical coordinates.
+
+    Collects all viewing spots across all species, clusters those within
+    cluster_threshold degrees, then distributes them in a uniform circle
+    of radius_deg around the cluster centroid.  Uses a fixed seed for
+    reproducibility.
+
+    Args:
+        species_list: The full species list (mutated in-place).
+        radius_deg: Max jitter radius in degrees (~0.8° ≈ 90 km at equator).
+        cluster_threshold: Spots within this distance are grouped together.
+    """
+    rng = random.Random(42)  # fixed seed for reproducibility
+
+    # Collect all spots with back-references for mutation
+    all_spots = []  # (lat, lng, species_idx, spot_idx)
+    for si, sp in enumerate(species_list):
+        for vi, vs in enumerate(sp.get("viewingSpots", [])):
+            all_spots.append((vs["lat"], vs["lng"], si, vi))
+
+    # Simple greedy clustering: group spots within threshold
+    used = set()
+    clusters = []
+    for i, (lat1, lng1, si1, vi1) in enumerate(all_spots):
+        if i in used:
+            continue
+        cluster = [i]
+        used.add(i)
+        for j, (lat2, lng2, si2, vi2) in enumerate(all_spots):
+            if j in used:
+                continue
+            if abs(lat1 - lat2) < cluster_threshold and abs(lng1 - lng2) < cluster_threshold:
+                cluster.append(j)
+                used.add(j)
+        if len(cluster) > 1:
+            clusters.append(cluster)
+
+    # Spread each cluster
+    jittered_count = 0
+    for cluster in clusters:
+        n = len(cluster)
+        # Centroid
+        avg_lat = sum(all_spots[i][0] for i in cluster) / n
+        avg_lng = sum(all_spots[i][1] for i in cluster) / n
+
+        # Scale radius by cluster size — larger clusters spread more
+        scaled_radius = radius_deg * min(1.0, 0.3 + 0.05 * n)
+
+        # Place spots uniformly in a circle using sunflower pattern
+        # (more uniform than pure random, avoids re-overlapping)
+        golden_angle = math.pi * (3 - math.sqrt(5))
+        indices = list(range(n))
+        rng.shuffle(indices)  # randomize assignment to avoid bias
+
+        for rank, ci in enumerate(indices):
+            spot_idx_in_all = cluster[ci]
+            _, _, si, vi = all_spots[spot_idx_in_all]
+
+            # Sunflower spiral placement
+            r = scaled_radius * math.sqrt((rank + 0.5) / n)
+            theta = golden_angle * rank + rng.uniform(-0.3, 0.3)
+
+            dlat = r * math.cos(theta)
+            dlng = r * math.sin(theta) / max(math.cos(math.radians(avg_lat)), 0.1)
+
+            spot = species_list[si]["viewingSpots"][vi]
+            spot["lat"] = round(avg_lat + dlat, 4)
+            spot["lng"] = round(avg_lng + dlng, 4)
+            jittered_count += 1
+
+    print(f"  Jittered {jittered_count} spots across {len(clusters)} clusters")
+
+
 def merge():
     """Merge curation + ETL data into final output."""
     selected = json.loads((CURATION_DIR / "selected.json").read_text())
@@ -142,6 +219,10 @@ def merge():
         entry["sprite"] = resolve_sprite(species, manifest, taxonomy)
 
         final.append(entry)
+
+    # Jitter overlapping coordinates so they don't pile up on the globe
+    print("Spreading overlapping viewing spots...")
+    jitter_overlapping_spots(final)
 
     # Write final output
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

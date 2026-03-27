@@ -26,19 +26,22 @@ The aquatic globe uses a curated 200-species model with `final.json` instead of 
 
 ```
 output/aquatic/
-├── final.json                       # 200 curated species with viewing spots
+├── final.json                       # 214 curated species with viewing spots
 ├── hotspots.json                    # 25 hotspot locations
 ├── sprites/
 │   ├── manifest.json                # Full sprite index + fallback chain
-│   ├── sp-{speciesId}.png           # 179 curated species images
+│   ├── sp-{speciesId}.png           # 450 individual species sprites (64px height)
+│   ├── spritesheet-0.webp           # Sprite atlas — all sprites packed (~3 MB)
+│   ├── spritesheet-0.png            # Sprite atlas PNG fallback (~8 MB)
+│   ├── spritesheet.json             # Atlas coordinate manifest
 │   ├── grp-{group}.png             # group fallbacks
 │   └── fb-{bodyType}.png           # body-type fallbacks
-└── migration_routes.json            # Marine migration routes
+└── migration_routes.json            # 80 marine migration routes
 ```
 
 ## Aquatic: final.json (curated model)
 
-Array of 200 curated species, each with viewing spots and metadata.
+Array of 214 curated species, each with viewing spots and metadata. Viewing spot coordinates are jittered apart during merge to avoid overlap on the globe.
 
 ```json
 [
@@ -377,7 +380,7 @@ Note: `nameZh` is available for fish (from FishBase). For non-fish taxa it will 
 | `version` | string | Manifest schema version |
 | `glowDefaults` | object | Suggested glow effect parameters for frontend |
 | `bodyTypes` | array | All valid body type values |
-| `sprites` | object | Keyed by species ID; one entry per curated species (~500) |
+| `sprites` | object | Keyed by species ID; one entry per species (~450) |
 | `sprites[].file` | string | sprite filename (e.g., "sp-123.png") |
 | `sprites[].group` | string | Search group key |
 | `sprites[].bodyType` | string | Body type for fallback resolution |
@@ -390,14 +393,14 @@ Note: `nameZh` is available for fish (from FishBase). For non-fish taxa it will 
 ### Fallback chain
 
 ```
-species sprite (500) -> group fallback (~50) -> body-type fallback (~10)
+species sprite (450) -> group fallback (~53) -> body-type fallback (~10)
 ```
 
-Merge-time pre-resolves the chain so every `sprite` field on every species in final.json is a valid filename. The frontend never walks the chain.
+Merge-time pre-resolves the chain so every `sprite` field on every species in final.json is a valid filename. The frontend never walks the chain. For sprite sheet usage, look up the sprite name in `spritesheet.json` to get atlas coordinates.
 
 ## Sprite format spec
 
-All sprites in `output/aquatic/sprites/final/` are transparent PNG images:
+All sprites in `output/aquatic/sprites/` are transparent PNG images, also packed into sprite sheets:
 
 | Property | Requirement |
 |----------|-------------|
@@ -405,10 +408,35 @@ All sprites in `output/aquatic/sprites/final/` are transparent PNG images:
 | Background | Transparent (no background color) |
 | Style | Photorealistic, side profile, vivid natural colors |
 | Orientation | Side-view, typically facing left |
+| Height | Normalized to 64px (aspect ratio preserved) |
+| Text | None — species name labels auto-cropped during processing |
 
-Naming convention:
-- `sp-{speciesId}.png` — curated species (179 files)
-- `sp-{commonName}.png` — replacement sprites with common names
+Individual sprite naming:
+- `sp-{speciesId}.png` — 450 species sprites (214 curated + 57 migration + group/body fallbacks)
+
+### Sprite sheet (recommended for frontend)
+
+The sprite sheet packs all 450 sprites into a single atlas for efficient loading:
+
+- `spritesheet-0.webp` — WebP format (~3 MB, recommended)
+- `spritesheet-0.png` — PNG fallback (~8 MB)
+- `spritesheet.json` — coordinate manifest
+
+```json
+{
+  "sheets": [
+    { "png": "spritesheet-0.png", "webp": "spritesheet-0.webp", "width": 2048, "height": 2440 }
+  ],
+  "sprites": {
+    "sp-balaenoptera_musculus": {
+      "sheet": 0, "x": 630, "y": 0, "w": 382, "h": 64,
+      "group": "whale", "bodyType": "cetacean"
+    }
+  }
+}
+```
+
+Frontend usage: load the WebP sheet + `spritesheet.json`, then draw each species with `drawImage(sheet, x, y, w, h, dx, dy, dw, dh)`.
 
 ## Master index (tile-based globes only)
 
