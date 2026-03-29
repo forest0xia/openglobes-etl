@@ -13,8 +13,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 36.3852,
-        "lng": -121.1532,
+        "lat": 35.1611,
+        "lng": -120.0897,
         "season": "Jul-Oct",
         "reliability": "high",
         "activity": "whale_watching"
@@ -23,8 +23,8 @@
         "hotspotId": "mirissa_sri_lanka",
         "name": "米瑞莎，斯里兰卡",
         "country": "LK",
-        "lat": 6.0541,
-        "lng": 80.1498,
+        "lat": 6.0388,
+        "lng": 79.3161,
         "season": "Nov-Apr",
         "reliability": "high",
         "activity": "whale_watching"
@@ -33,8 +33,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 66.085,
-        "lng": -18.1142,
+        "lat": 66.0963,
+        "lng": -18.4622,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -43,8 +43,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 38.2397,
-        "lng": -25.2551,
+        "lat": 39.0602,
+        "lng": -24.5911,
         "season": "Mar-Jun",
         "reliability": "high",
         "activity": "whale_watching"
@@ -53,8 +53,8 @@
         "hotspotId": "baja_california",
         "name": "Baja 加利福尼亚",
         "country": "MX",
-        "lat": 24.14,
-        "lng": -109.99,
+        "lat": 24.2541,
+        "lng": -110.0829,
         "season": "Jan-Mar",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -62,8 +62,8 @@
       {
         "name": "圣迭戈",
         "country": "US",
-        "lat": 32.6146,
-        "lng": -116.951,
+        "lat": 32.3761,
+        "lng": -116.4459,
         "season": "Jun-Sep",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -111,8 +111,8 @@
         "hotspotId": "tonga",
         "name": "汤加",
         "country": "TO",
-        "lat": -20.5569,
-        "lng": -174.9833,
+        "lat": -21.0864,
+        "lng": -174.9037,
         "season": "Jul-Oct",
         "reliability": "high",
         "activity": "whale_watching"
@@ -121,8 +121,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 68.3281,
-        "lng": 13.7608,
+        "lat": 68.0059,
+        "lng": 13.6628,
         "season": "Oct-Jan",
         "reliability": "high",
         "activity": "whale_watching"
@@ -131,8 +131,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -65.197,
-        "lng": -62.803,
+        "lat": -65.5652,
+        "lng": -62.8771,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "whale_watching"
@@ -140,8 +140,8 @@
       {
         "name": "毛伊岛，夏威夷",
         "country": "US",
-        "lat": 21.0671,
-        "lng": -156.0497,
+        "lat": 21.5795,
+        "lng": -155.1804,
         "season": "Dec-Apr",
         "reliability": "high",
         "activity": "whale_watching"
@@ -159,8 +159,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 65.8471,
-        "lng": -17.002,
+        "lat": 64.8562,
+        "lng": -16.3093,
         "season": "Jun-Aug",
         "reliability": "high",
         "activity": "whale_watching"
@@ -168,8 +168,8 @@
       {
         "name": "赫维湾，澳大利亚",
         "country": "AU",
-        "lat": -25.29,
-        "lng": 152.85,
+        "lat": -25.2958,
+        "lng": 152.8507,
         "season": "Jul-Nov",
         "reliability": "high",
         "activity": "whale_watching"
@@ -177,8 +177,8 @@
       {
         "name": "普吉特湾，华盛顿",
         "country": "US",
-        "lat": 48.3,
-        "lng": -122.6,
+        "lat": 47.9995,
+        "lng": -122.7326,
         "season": "Apr-Nov",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -208,8 +208,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 68.4677,
-        "lng": 15.366,
+        "lat": 68.7158,
+        "lng": 15.7892,
         "season": "Oct-Jan",
         "reliability": "high",
         "activity": "whale_watching"
@@ -218,8 +218,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 66.1881,
-        "lng": -17.4147,
+        "lat": 66.3502,
+        "lng": -17.6039,
         "season": "Jun-Aug",
         "reliability": "high",
         "activity": "whale_watching"
@@ -228,8 +228,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 37.0957,
-        "lng": -121.0507,
+        "lat": 38.5186,
+        "lng": -119.7387,
         "season": "Apr-Jun",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -238,8 +238,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -64.87529349591208,
-        "lng": -63.65985918666076,
+        "lat": -64.852,
+        "lng": -63.9056,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "whale_watching"
@@ -247,8 +247,8 @@
       {
         "name": "圣胡安群岛，华盛顿",
         "country": "US",
-        "lat": 48.6838,
-        "lng": -122.9536,
+        "lat": 49.0056,
+        "lng": -122.7903,
         "season": "May-Sep",
         "reliability": "high",
         "activity": "whale_watching"
@@ -256,8 +256,8 @@
       {
         "name": "瓦尔德斯半岛，阿根廷",
         "country": "AR",
-        "lat": -42.6569,
-        "lng": -64.0319,
+        "lat": -42.9966,
+        "lng": -63.8228,
         "season": "Mar-May",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -266,8 +266,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非 Wild海岸",
         "country": "ZA",
-        "lat": -31.4944,
-        "lng": 29.4932,
+        "lat": -30.7849,
+        "lng": 28.6642,
         "season": "Jun-Jul",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -297,8 +297,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Gansbaai，南非",
         "country": "ZA",
-        "lat": -34.58,
-        "lng": 19.35,
+        "lat": -34.5985,
+        "lng": 19.3765,
         "season": "Apr-Sep",
         "reliability": "high",
         "activity": "diving"
@@ -307,8 +307,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 37.3483,
-        "lng": -122.0342,
+        "lat": 39.4844,
+        "lng": -121.5958,
         "season": "Sep-Nov",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -326,8 +326,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -1.2025,
-        "lng": -90.5329,
+        "lat": -1.7636,
+        "lng": -89.6068,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -335,8 +335,8 @@
       {
         "name": "Neptune岛s，澳大利亚",
         "country": "AU",
-        "lat": -35.33,
-        "lng": 136.12,
+        "lat": -35.3012,
+        "lng": 136.0604,
         "season": "Apr-Sep",
         "reliability": "high",
         "activity": "diving"
@@ -344,8 +344,8 @@
       {
         "name": "Farallon岛s，加利福尼亚",
         "country": "US",
-        "lat": 37.7,
-        "lng": -123.0,
+        "lat": 38.59,
+        "lng": -124.3925,
         "season": "Sep-Nov",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -376,8 +376,8 @@
         "hotspotId": "maldives",
         "name": "South Ari Atoll，马尔代夫",
         "country": "MV",
-        "lat": 2.615154100644327,
-        "lng": 72.97312632711646,
+        "lat": 0.3587,
+        "lng": 73.4837,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -386,8 +386,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯 (Darwin岛)",
         "country": "EC",
-        "lat": 1.68,
-        "lng": -91.99,
+        "lat": 1.9776,
+        "lng": -91.799,
         "season": "Jun-Nov",
         "reliability": "high",
         "activity": "diving"
@@ -395,8 +395,8 @@
       {
         "name": "宁格鲁礁，澳大利亚",
         "country": "AU",
-        "lat": -23.084695983076855,
-        "lng": 113.32365203941498,
+        "lat": -23.0847,
+        "lng": 113.3237,
         "season": "Mar-Jul",
         "reliability": "high",
         "activity": "snorkeling"
@@ -405,8 +405,8 @@
         "hotspotId": "tubbataha_philippines",
         "name": "Oslob，菲律宾",
         "country": "PH",
-        "lat": 9.4781,
-        "lng": 123.3001,
+        "lat": 9.8978,
+        "lng": 123.3666,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -414,8 +414,8 @@
       {
         "name": "Isla Holbox，墨西哥",
         "country": "MX",
-        "lat": 21.52,
-        "lng": -87.38,
+        "lat": 22.6032,
+        "lng": -87.8197,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "snorkeling"
@@ -443,8 +443,8 @@
         "hotspotId": "shark_bay_australia",
         "name": "Shark湾，澳大利亚",
         "country": "AU",
-        "lat": -25.9118,
-        "lng": 113.2487,
+        "lat": -26.0793,
+        "lng": 112.7795,
         "season": "Mar-Jul",
         "reliability": "seasonal",
         "activity": "snorkeling"
@@ -475,8 +475,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.520782753402884,
-        "lng": 147.71487567884375,
+        "lat": -18.9199,
+        "lng": 149.7173,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -485,8 +485,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -0.870493495912074,
-        "lng": -91.08975918666076,
+        "lat": 0.353,
+        "lng": -91.7902,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -494,8 +494,8 @@
       {
         "name": "毛伊岛，夏威夷",
         "country": "US",
-        "lat": 20.9379,
-        "lng": -156.3635,
+        "lat": 21.9144,
+        "lng": -156.3118,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -504,8 +504,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "Marsa Alam，埃及",
         "country": "EG",
-        "lat": 24.88502306301974,
-        "lng": 35.68430758466612,
+        "lat": 25.3984,
+        "lng": 35.8244,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -514,8 +514,8 @@
         "hotspotId": "sipadan_malaysia",
         "name": "仙本那，马来西亚",
         "country": "MY",
-        "lat": 3.7027,
-        "lng": 118.5827,
+        "lat": 2.5907,
+        "lng": 118.5714,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -523,8 +523,8 @@
       {
         "name": "Tortuguero，哥斯达黎加",
         "country": "CR",
-        "lat": 10.3226,
-        "lng": -83.3252,
+        "lat": 10.2337,
+        "lng": -83.097,
         "season": "Jul-Oct",
         "reliability": "seasonal",
         "activity": "shore"
@@ -533,8 +533,8 @@
         "hotspotId": "tonga",
         "name": "汤加",
         "country": "TO",
-        "lat": -20.338822285199278,
-        "lng": -175.56991368008553,
+        "lat": -20.3396,
+        "lng": -176.3511,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -543,8 +543,8 @@
         "hotspotId": "shark_bay_australia",
         "name": "Shark湾，澳大利亚",
         "country": "AU",
-        "lat": -25.7877,
-        "lng": 113.5623,
+        "lat": -25.0871,
+        "lng": 113.44,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -574,8 +574,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.2136,
-        "lng": 130.1213,
+        "lat": -0.2753,
+        "lng": 127.857,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -584,8 +584,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.6867,
-        "lng": 146.993,
+        "lat": -20.2228,
+        "lng": 145.7937,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -594,8 +594,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.7954,
-        "lng": 73.3433,
+        "lat": 1.2345,
+        "lng": 75.194,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -604,8 +604,8 @@
         "hotspotId": "sipadan_malaysia",
         "name": "仙本那，马来西亚",
         "country": "MY",
-        "lat": 4.1875,
-        "lng": 118.3235,
+        "lat": 4.8658,
+        "lng": 117.229,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -614,8 +614,8 @@
         "hotspotId": "tubbataha_philippines",
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.1313,
-        "lng": 121.1212,
+        "lat": 12.285,
+        "lng": 121.2847,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -623,8 +623,8 @@
       {
         "name": "Bunaken，印度尼西亚",
         "country": "ID",
-        "lat": 1.4157463481420718,
-        "lng": 124.68381222668641,
+        "lat": 2.3976,
+        "lng": 123.4738,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -655,8 +655,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 36.7287,
-        "lng": -122.1441,
+        "lat": 37.4986,
+        "lng": -124.0029,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -665,8 +665,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.8955,
-        "lng": 33.5958,
+        "lat": 30.1557,
+        "lng": 33.3111,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -675,8 +675,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -1.0812,
-        "lng": -90.766,
+        "lat": -0.7471,
+        "lng": -90.0142,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -685,8 +685,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 37.1263,
-        "lng": -25.4793,
+        "lat": 36.0265,
+        "lng": -24.969,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -704,8 +704,8 @@
         "hotspotId": "florida_everglades",
         "name": "佛罗里达 Keys",
         "country": "US",
-        "lat": 24.4114,
-        "lng": -81.5652,
+        "lat": 24.2595,
+        "lng": -81.1005,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -714,8 +714,8 @@
         "hotspotId": "mirissa_sri_lanka",
         "name": "米瑞莎，斯里兰卡",
         "country": "LK",
-        "lat": 6.1655,
-        "lng": 80.7575,
+        "lat": 6.2841,
+        "lng": 81.5259,
         "season": "Nov-Apr",
         "reliability": "high",
         "activity": "whale_watching"
@@ -754,8 +754,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.171607752892108,
-        "lng": 33.65745018032539,
+        "lat": 24.3649,
+        "lng": 33.4846,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -764,8 +764,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 37.7621,
-        "lng": -26.079,
+        "lat": 37.5286,
+        "lng": -27.657,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -773,8 +773,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.1044,
-        "lng": 125.1076,
+        "lat": -0.6318,
+        "lng": 124.5214,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -782,8 +782,8 @@
       {
         "name": "Sardinia，Italy",
         "country": "IT",
-        "lat": 39.9574,
-        "lng": 9.7761,
+        "lat": 39.6837,
+        "lng": 10.1198,
         "season": "May-Oct",
         "reliability": "high",
         "activity": "diving"
@@ -813,8 +813,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 37.901006504087924,
-        "lng": -25.76825918666076,
+        "lat": 38.5178,
+        "lng": -25.459,
         "season": "Apr-Oct",
         "reliability": "high",
         "activity": "whale_watching"
@@ -832,8 +832,8 @@
         "hotspotId": "lofoten_norway",
         "name": "Andenes，挪威",
         "country": "NO",
-        "lat": 69.33,
-        "lng": 16.12,
+        "lat": 69.6191,
+        "lng": 16.2886,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -851,8 +851,8 @@
         "hotspotId": "mirissa_sri_lanka",
         "name": "米瑞莎，斯里兰卡",
         "country": "LK",
-        "lat": 6.0912,
-        "lng": 80.4416,
+        "lat": 6.4517,
+        "lng": 80.373,
         "season": "Nov-Apr",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -861,8 +861,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -1.1792,
-        "lng": -91.4615,
+        "lat": -2.1932,
+        "lng": -91.885,
         "season": "year-round",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -900,8 +900,8 @@
       {
         "name": "Tortuguero，哥斯达黎加",
         "country": "CR",
-        "lat": 10.578106504087925,
-        "lng": -83.98225918666076,
+        "lat": 10.6688,
+        "lng": -84.2099,
         "season": "Mar-Jul",
         "reliability": "high",
         "activity": "shore"
@@ -909,8 +909,8 @@
       {
         "name": "Jamursba-Medi，印度尼西亚",
         "country": "ID",
-        "lat": -0.35,
-        "lng": 132.55,
+        "lat": -0.2324,
+        "lng": 132.845,
         "season": "May-Sep",
         "reliability": "seasonal",
         "activity": "shore"
@@ -919,8 +919,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -1.086793495912074,
-        "lng": -91.71735918666076,
+        "lat": -1.0526,
+        "lng": -92.6281,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -959,8 +959,8 @@
         "hotspotId": "svalbard",
         "name": "斯瓦尔巴群岛",
         "country": "NO",
-        "lat": 78.3701,
-        "lng": 15.743,
+        "lat": 78.5444,
+        "lng": 15.4958,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -977,8 +977,8 @@
       {
         "name": "Tadoussac，Quebec",
         "country": "CA",
-        "lat": 47.9531,
-        "lng": -69.4782,
+        "lat": 47.6021,
+        "lng": -69.2647,
         "season": "Jun-Oct",
         "reliability": "high",
         "activity": "whale_watching"
@@ -995,8 +995,8 @@
       {
         "name": "White海，Russia",
         "country": "RU",
-        "lat": 65.8411,
-        "lng": 36.5582,
+        "lat": 65.6905,
+        "lng": 36.8063,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1093,8 +1093,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "Marsa Alam，埃及",
         "country": "EG",
-        "lat": 24.787330912518645,
-        "lng": 34.08816140101423,
+        "lat": 24.0231,
+        "lng": 34.435,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -1103,8 +1103,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.7623,
-        "lng": 147.5972,
+        "lat": -15.5095,
+        "lng": 147.8079,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -1113,8 +1113,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.5845,
-        "lng": 134.6939,
+        "lat": 9.1958,
+        "lng": 134.8394,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -1123,8 +1123,8 @@
         "hotspotId": "shark_bay_australia",
         "name": "Shark湾，澳大利亚",
         "country": "AU",
-        "lat": -26.0986,
-        "lng": 113.7921,
+        "lat": -26.6607,
+        "lng": 113.8282,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -1132,8 +1132,8 @@
       {
         "name": "Coron，菲律宾",
         "country": "PH",
-        "lat": 12.0,
-        "lng": 120.2,
+        "lat": 11.7361,
+        "lng": 120.1724,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -1141,8 +1141,8 @@
       {
         "name": "阿布扎比",
         "country": "AE",
-        "lat": 24.2873,
-        "lng": 54.8964,
+        "lat": 23.9543,
+        "lng": 55.1221,
         "season": "year-round",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1172,8 +1172,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 37.1671,
-        "lng": -121.9493,
+        "lat": 39.1032,
+        "lng": -122.7322,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -1190,8 +1190,8 @@
       {
         "name": "托菲诺，不列颠哥伦比亚",
         "country": "CA",
-        "lat": 49.15,
-        "lng": -125.91,
+        "lat": 49.1074,
+        "lng": -125.9423,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -1200,8 +1200,8 @@
         "hotspotId": "channel_islands",
         "name": "Channel岛s，加利福尼亚",
         "country": "US",
-        "lat": 34.2552,
-        "lng": -119.0887,
+        "lat": 34.7936,
+        "lng": -118.5664,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -1209,8 +1209,8 @@
       {
         "name": "Moss Landing，加利福尼亚",
         "country": "US",
-        "lat": 36.9581,
-        "lng": -122.7306,
+        "lat": 38.2592,
+        "lng": -123.7655,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -1240,8 +1240,8 @@
         "hotspotId": "maldives",
         "name": "Hanifaru湾，马尔代夫",
         "country": "MV",
-        "lat": 5.040036684512374,
-        "lng": 73.30865666168104,
+        "lat": 5.9826,
+        "lng": 73.6548,
         "season": "Jun-Nov",
         "reliability": "high",
         "activity": "snorkeling"
@@ -1250,8 +1250,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.0486932375471851,
-        "lng": 130.58110872055587,
+        "lat": 0.8445,
+        "lng": 132.1338,
         "season": "Oct-Apr",
         "reliability": "high",
         "activity": "diving"
@@ -1260,8 +1260,8 @@
         "hotspotId": "cocos_island",
         "name": "Cocos岛",
         "country": "CR",
-        "lat": 5.3168,
-        "lng": -86.9202,
+        "lat": 5.0526,
+        "lng": -86.5399,
         "season": "Jun-Dec",
         "reliability": "high",
         "activity": "diving"
@@ -1278,8 +1278,8 @@
       {
         "name": "Nusa Penida，巴厘岛",
         "country": "ID",
-        "lat": -8.4909,
-        "lng": 115.8162,
+        "lat": -8.1417,
+        "lng": 117.0782,
         "season": "Jul-Nov",
         "reliability": "high",
         "activity": "diving"
@@ -1319,8 +1319,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯 (Wolf岛)",
         "country": "EC",
-        "lat": 1.265006504087926,
-        "lng": -92.25505918666074,
+        "lat": 1.0565,
+        "lng": -92.5449,
         "season": "Jun-Nov",
         "reliability": "high",
         "activity": "diving"
@@ -1329,8 +1329,8 @@
         "hotspotId": "cocos_island",
         "name": "Cocos岛",
         "country": "CR",
-        "lat": 5.557806504087925,
-        "lng": -87.52995918666075,
+        "lat": 5.3778,
+        "lng": -88.1263,
         "season": "Jun-Dec",
         "reliability": "high",
         "activity": "diving"
@@ -1338,8 +1338,8 @@
       {
         "name": "Bimini，Bahamas",
         "country": "BS",
-        "lat": 25.73,
-        "lng": -79.27,
+        "lat": 25.559,
+        "lng": -79.1185,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "diving"
@@ -1348,8 +1348,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Protea Banks，南非",
         "country": "ZA",
-        "lat": -30.7768,
-        "lng": 30.3462,
+        "lat": -30.2079,
+        "lng": 30.0252,
         "season": "Oct-May",
         "reliability": "medium",
         "activity": "diving"
@@ -1357,8 +1357,8 @@
       {
         "name": "Rangiroa，French Polynesia",
         "country": "PF",
-        "lat": -14.9745,
-        "lng": -147.6889,
+        "lat": -14.6257,
+        "lng": -147.834,
         "season": "Jan-Mar",
         "reliability": "seasonal",
         "activity": "diving"
@@ -1389,8 +1389,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Aliwal Shoal，南非",
         "country": "ZA",
-        "lat": -30.27,
-        "lng": 30.85,
+        "lat": -30.0468,
+        "lng": 31.1808,
         "season": "Nov-Jun",
         "reliability": "high",
         "activity": "diving"
@@ -1398,8 +1398,8 @@
       {
         "name": "North Shore，夏威夷",
         "country": "US",
-        "lat": 21.58,
-        "lng": -158.1,
+        "lat": 22.2321,
+        "lng": -158.3529,
         "season": "Oct-Dec",
         "reliability": "high",
         "activity": "diving"
@@ -1408,8 +1408,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -1.37,
-        "lng": -90.9715,
+        "lat": -1.8296,
+        "lng": -90.7181,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -1417,8 +1417,8 @@
       {
         "name": "Tiger Beach，Bahamas",
         "country": "BS",
-        "lat": 26.88,
-        "lng": -79.0,
+        "lat": 26.9041,
+        "lng": -78.8475,
         "season": "Oct-Jan",
         "reliability": "high",
         "activity": "diving"
@@ -1427,8 +1427,8 @@
         "hotspotId": "maldives",
         "name": "Fuvahmulah，马尔代夫",
         "country": "MV",
-        "lat": -0.3,
-        "lng": 73.42,
+        "lat": -0.477,
+        "lng": 73.4018,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1459,8 +1459,8 @@
         "hotspotId": "florida_everglades",
         "name": "Jupiter，佛罗里达",
         "country": "US",
-        "lat": 27.0888,
-        "lng": -80.0677,
+        "lat": 27.3802,
+        "lng": -80.103,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "diving"
@@ -1469,8 +1469,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Protea Banks，南非",
         "country": "ZA",
-        "lat": -31.240093495912074,
-        "lng": 30.19434081333924,
+        "lat": -31.2,
+        "lng": 30.9446,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1478,8 +1478,8 @@
       {
         "name": "Beqa Lagoon，斐济",
         "country": "FJ",
-        "lat": -18.501869980807083,
-        "lng": 178.0353763162347,
+        "lat": -18.5019,
+        "lng": 178.0354,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1487,8 +1487,8 @@
       {
         "name": "Playa del Carmen，墨西哥",
         "country": "MX",
-        "lat": 20.028713935415258,
-        "lng": -86.82065624335213,
+        "lat": 19.0162,
+        "lng": -85.8733,
         "season": "Nov-Mar",
         "reliability": "high",
         "activity": "diving"
@@ -1497,8 +1497,8 @@
         "hotspotId": "baja_california",
         "name": "Cabo Pulmo，墨西哥",
         "country": "MX",
-        "lat": 23.44,
-        "lng": -109.42,
+        "lat": 23.3259,
+        "lng": -109.3271,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -1528,8 +1528,8 @@
       {
         "name": "Isle of Mull，苏格兰",
         "country": "GB",
-        "lat": 56.2748,
-        "lng": -5.6114,
+        "lat": 55.7118,
+        "lng": -5.8572,
         "season": "May-Sep",
         "reliability": "high",
         "activity": "whale_watching"
@@ -1547,8 +1547,8 @@
         "hotspotId": "lofoten_norway",
         "name": "挪威",
         "country": "NO",
-        "lat": 62.0,
-        "lng": 6.0,
+        "lat": 62.3247,
+        "lng": 6.0336,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1557,8 +1557,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 65.9516,
-        "lng": -18.6673,
+        "lat": 65.6981,
+        "lng": -19.4636,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1566,8 +1566,8 @@
       {
         "name": "Cornwall，England",
         "country": "GB",
-        "lat": 50.27,
-        "lng": -5.05,
+        "lat": 50.3313,
+        "lng": -4.7885,
         "season": "May-Jul",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -1575,8 +1575,8 @@
       {
         "name": "马恩岛",
         "country": "GB",
-        "lat": 54.24,
-        "lng": -4.53,
+        "lat": 54.2346,
+        "lng": -4.5289,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1607,8 +1607,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.76608494485456,
-        "lng": 34.18554129274151,
+        "lat": 29.4148,
+        "lng": 35.8276,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1617,8 +1617,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.7327,
-        "lng": 73.7419,
+        "lat": 5.3042,
+        "lng": 74.6863,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -1627,8 +1627,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.26315188125386,
-        "lng": 148.01688871951166,
+        "lat": -16.1291,
+        "lng": 148.7498,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -1637,8 +1637,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.1967680658191284,
-        "lng": 130.6919985371605,
+        "lat": -1.4368,
+        "lng": 132.7231,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1646,8 +1646,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 12.65566933045786,
-        "lng": -67.84542582934006,
+        "lat": 13.3896,
+        "lng": -67.7275,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -1686,8 +1686,8 @@
         "hotspotId": "florida_everglades",
         "name": "Melbourne Beach，佛罗里达",
         "country": "US",
-        "lat": 28.07,
-        "lng": -80.56,
+        "lat": 28.2761,
+        "lng": -80.6113,
         "season": "May-Oct",
         "reliability": "high",
         "activity": "shore"
@@ -1713,8 +1713,8 @@
       {
         "name": "Dalyan，Turkey",
         "country": "TR",
-        "lat": 36.83,
-        "lng": 28.63,
+        "lat": 36.9861,
+        "lng": 28.3569,
         "season": "May-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -1744,8 +1744,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "Ross海，Antarctica",
         "country": "AQ",
-        "lat": -77.3406,
-        "lng": 169.9344,
+        "lat": -77.3096,
+        "lng": 169.8516,
         "season": "Oct-Feb",
         "reliability": "high",
         "activity": "shore"
@@ -1780,8 +1780,8 @@
       {
         "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
-        "lat": 26.54691567280861,
-        "lng": 128.11703661067276,
+        "lat": 26.5358,
+        "lng": 127.6551,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -1820,8 +1820,8 @@
       {
         "name": "Depoe湾，俄勒冈",
         "country": "US",
-        "lat": 44.486,
-        "lng": -123.8353,
+        "lat": 44.1544,
+        "lng": -123.5878,
         "season": "Dec-May",
         "reliability": "high",
         "activity": "whale_watching"
@@ -1839,8 +1839,8 @@
         "hotspotId": "channel_islands",
         "name": "Channel岛s，加利福尼亚",
         "country": "US",
-        "lat": 34.1446,
-        "lng": -119.3773,
+        "lat": 34.7296,
+        "lng": -119.5691,
         "season": "Jan-Apr",
         "reliability": "high",
         "activity": "whale_watching"
@@ -1857,8 +1857,8 @@
       {
         "name": "圣胡安群岛，华盛顿",
         "country": "US",
-        "lat": 48.385006504087926,
-        "lng": -123.53505918666075,
+        "lat": 48.2437,
+        "lng": -123.8183,
         "season": "Mar-May",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1888,8 +1888,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 66.2313,
-        "lng": -16.5337,
+        "lat": 66.5509,
+        "lng": -16.2514,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "whale_watching"
@@ -1898,8 +1898,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 37.605838692351746,
-        "lng": -25.15138828983521,
+        "lat": 37.9999,
+        "lng": -24.1502,
         "season": "Mar-Jun",
         "reliability": "high",
         "activity": "whale_watching"
@@ -1907,8 +1907,8 @@
       {
         "name": "Strait of Messina，Italy",
         "country": "IT",
-        "lat": 38.3585,
-        "lng": 15.6474,
+        "lat": 38.7235,
+        "lng": 15.5329,
         "season": "Jul-Sep",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1917,8 +1917,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 36.75880650408793,
-        "lng": -121.44525918666075,
+        "lat": 38.0376,
+        "lng": -123.189,
         "season": "year-round",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1926,8 +1926,8 @@
       {
         "name": "Tadoussac，Quebec",
         "country": "CA",
-        "lat": 48.2926,
-        "lng": -69.6667,
+        "lat": 48.7665,
+        "lng": -69.5506,
         "season": "Jun-Oct",
         "reliability": "high",
         "activity": "whale_watching"
@@ -1957,8 +1957,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.594593495912076,
-        "lng": 146.69314081333923,
+        "lat": -19.2723,
+        "lng": 145.1798,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -1967,8 +1967,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.2158,
-        "lng": 133.711,
+        "lat": 6.81,
+        "lng": 132.1749,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1977,8 +1977,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.7123,
-        "lng": 130.1028,
+        "lat": -3.501,
+        "lng": 129.4994,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1987,8 +1987,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.5236811162888992,
-        "lng": 72.66304871682506,
+        "lat": 1.5107,
+        "lng": 70.8494,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -1997,8 +1997,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.59459912259441,
-        "lng": 33.89674749221504,
+        "lat": 28.0343,
+        "lng": 34.934,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2006,8 +2006,8 @@
       {
         "name": "冲绳，日本",
         "country": "JP",
-        "lat": 26.044613362556113,
-        "lng": 128.06902473152323,
+        "lat": 25.3385,
+        "lng": 127.7602,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2037,8 +2037,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 0.8355065040879259,
-        "lng": 124.41704081333924,
+        "lat": 0.1221,
+        "lng": 123.4856,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2047,8 +2047,8 @@
         "hotspotId": "tubbataha_philippines",
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.5938,
-        "lng": 121.1464,
+        "lat": 14.6903,
+        "lng": 122.243,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2057,8 +2057,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.0133,
-        "lng": 33.5013,
+        "lat": 27.7481,
+        "lng": 30.874,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2067,8 +2067,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.5344080399601334,
-        "lng": 72.74279124561478,
+        "lat": 0.7959,
+        "lng": 71.6132,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2076,8 +2076,8 @@
       {
         "name": "冲绳，日本",
         "country": "JP",
-        "lat": 25.571452749092074,
-        "lng": 127.41154605761271,
+        "lat": 25.456,
+        "lng": 126.7435,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2108,8 +2108,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -0.6223,
-        "lng": -91.299,
+        "lat": -0.1275,
+        "lng": -90.9152,
         "season": "Jul-Nov",
         "reliability": "medium",
         "activity": "diving"
@@ -2117,8 +2117,8 @@
       {
         "name": "Nusa Penida，巴厘岛",
         "country": "ID",
-        "lat": -8.5767,
-        "lng": 115.5019,
+        "lat": -8.7904,
+        "lng": 116.2172,
         "season": "Jul-Oct",
         "reliability": "high",
         "activity": "diving"
@@ -2127,8 +2127,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 35.9299,
-        "lng": -122.1473,
+        "lat": 33.7862,
+        "lng": -122.0954,
         "season": "Jun-Oct",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -2137,8 +2137,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 38.08420650408792,
-        "lng": -26.28535918666076,
+        "lat": 39.2427,
+        "lng": -26.3735,
         "season": "Jun-Sep",
         "reliability": "medium",
         "activity": "diving"
@@ -2146,8 +2146,8 @@
       {
         "name": "Lembongan，巴厘岛",
         "country": "ID",
-        "lat": -8.7144,
-        "lng": 115.1951,
+        "lat": -9.3262,
+        "lng": 114.0437,
         "season": "Jul-Oct",
         "reliability": "high",
         "activity": "diving"
@@ -2178,8 +2178,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.713869491233964,
-        "lng": 33.598044715912245,
+        "lat": 24.7063,
+        "lng": 34.556,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2187,8 +2187,8 @@
       {
         "name": "科苏梅尔，墨西哥 (invasive)",
         "country": "MX",
-        "lat": 20.535549416868633,
-        "lng": -87.30462148231516,
+        "lat": 20.9619,
+        "lng": -88.6383,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2197,8 +2197,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.0761660627262215,
-        "lng": 130.54855424013198,
+        "lat": -1.1204,
+        "lng": 128.2052,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2206,8 +2206,8 @@
       {
         "name": "博奈尔岛（入侵种）",
         "country": "BQ",
-        "lat": 12.01255997061535,
-        "lng": -68.57292657840406,
+        "lat": 10.6153,
+        "lng": -67.3969,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2216,8 +2216,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.5309,
-        "lng": 73.576,
+        "lat": 2.1526,
+        "lng": 74.7277,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2256,8 +2256,8 @@
       {
         "name": "缅因湾",
         "country": "US",
-        "lat": 42.7513,
-        "lng": -68.3328,
+        "lat": 42.6462,
+        "lng": -68.1055,
         "season": "Jun-Oct",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -2265,8 +2265,8 @@
       {
         "name": "Tsukiji/Toyosu，Tokyo (market)",
         "country": "JP",
-        "lat": 35.8039,
-        "lng": 139.8433,
+        "lat": 36.5373,
+        "lng": 139.9977,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -2275,8 +2275,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 37.3144,
-        "lng": -25.783,
+        "lat": 36.3206,
+        "lng": -25.9473,
         "season": "May-Oct",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -2284,8 +2284,8 @@
       {
         "name": "Oludeniz，Turkey",
         "country": "TR",
-        "lat": 36.55,
-        "lng": 29.12,
+        "lat": 36.3939,
+        "lng": 29.3931,
         "season": "May-Sep",
         "reliability": "medium",
         "activity": "diving"
@@ -2315,8 +2315,8 @@
       {
         "name": "Strait of Messina，Italy",
         "country": "IT",
-        "lat": 37.9511,
-        "lng": 15.7752,
+        "lat": 37.5861,
+        "lng": 15.8897,
         "season": "May-Sep",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -2334,8 +2334,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 38.1145,
-        "lng": -26.3639,
+        "lat": 38.1895,
+        "lng": -26.745,
         "season": "May-Oct",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -2343,8 +2343,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.2688,
-        "lng": -122.648,
+        "lat": 34.9469,
+        "lng": -124.3942,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -2353,8 +2353,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非",
         "country": "ZA",
-        "lat": -31.7785,
-        "lng": 29.7529,
+        "lat": -32.2863,
+        "lng": 30.4296,
         "season": "Jun-Jul",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -2411,8 +2411,8 @@
       {
         "name": "Georgia 水族馆，Atlanta",
         "country": "US",
-        "lat": 33.5648,
-        "lng": -84.1934,
+        "lat": 33.2182,
+        "lng": -83.8472,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -2421,8 +2421,8 @@
         "hotspotId": "florida_everglades",
         "name": "佛罗里达 Everglades",
         "country": "US",
-        "lat": 25.29,
-        "lng": -80.9,
+        "lat": 25.409,
+        "lng": -80.8509,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -2453,8 +2453,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "Cod Hole，大堡礁",
         "country": "AU",
-        "lat": -14.632929688171913,
-        "lng": 145.73339061935596,
+        "lat": -14.3863,
+        "lng": 145.7254,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2463,8 +2463,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.833206504087926,
-        "lng": 32.82044081333924,
+        "lat": 26.7931,
+        "lng": 30.6619,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2473,8 +2473,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.6865594479176163,
-        "lng": 73.08385467890238,
+        "lat": 4.544,
+        "lng": 72.3225,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2482,8 +2482,8 @@
       {
         "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
-        "lat": 27.00153086720286,
-        "lng": 126.57572235110278,
+        "lat": 26.9266,
+        "lng": 126.4085,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -2492,8 +2492,8 @@
         "hotspotId": "sipadan_malaysia",
         "name": "仙本那，马来西亚",
         "country": "MY",
-        "lat": 3.9729,
-        "lng": 118.8233,
+        "lat": 4.1295,
+        "lng": 120.0956,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2524,8 +2524,8 @@
         "hotspotId": "palau",
         "name": "Blue Corner，帕劳",
         "country": "PW",
-        "lat": 7.438432243403431,
-        "lng": 134.94132973118704,
+        "lat": 7.5899,
+        "lng": 136.3869,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2534,8 +2534,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -2.038519857143492,
-        "lng": 131.52315335060914,
+        "lat": -2.9089,
+        "lng": 132.0916,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2544,8 +2544,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "拉斯穆罕默德，埃及",
         "country": "EG",
-        "lat": 27.615006504087926,
-        "lng": 33.81494081333924,
+        "lat": 29.7208,
+        "lng": 32.319,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2554,8 +2554,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.130093495912075,
-        "lng": 147.04974081333924,
+        "lat": -17.3431,
+        "lng": 145.2442,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2564,8 +2564,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.6163079108887395,
-        "lng": 72.1626234022127,
+        "lat": 2.9737,
+        "lng": 70.8928,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -2574,8 +2574,8 @@
         "hotspotId": "sipadan_malaysia",
         "name": "仙本那，马来西亚",
         "country": "MY",
-        "lat": 3.8186,
-        "lng": 118.1781,
+        "lat": 3.2746,
+        "lng": 117.4034,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2606,8 +2606,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.80097557158951,
-        "lng": 34.336228658617756,
+        "lat": 28.9667,
+        "lng": 34.8737,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2616,8 +2616,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.880433462516316,
-        "lng": 73.6066515115432,
+        "lat": 4.9826,
+        "lng": 72.7176,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2626,8 +2626,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.083446492132599,
-        "lng": 130.62915497392368,
+        "lat": -2.0074,
+        "lng": 131.8823,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2636,8 +2636,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.111136860866782,
-        "lng": 147.74665903489517,
+        "lat": -18.7659,
+        "lng": 148.2659,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2646,8 +2646,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.496006504087926,
-        "lng": 134.59354081333925,
+        "lat": 7.0092,
+        "lng": 135.8184,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2678,8 +2678,8 @@
         "hotspotId": "florida_everglades",
         "name": "水晶河，佛罗里达",
         "country": "US",
-        "lat": 29.0093,
-        "lng": -82.6024,
+        "lat": 29.361,
+        "lng": -82.7372,
         "season": "Nov-Mar",
         "reliability": "high",
         "activity": "snorkeling"
@@ -2687,8 +2687,8 @@
       {
         "name": "伯利兹堡礁",
         "country": "BZ",
-        "lat": 17.7752,
-        "lng": -87.4968,
+        "lat": 18.3089,
+        "lng": -87.1865,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -2696,8 +2696,8 @@
       {
         "name": "Homosassa Springs，佛罗里达",
         "country": "US",
-        "lat": 28.602,
-        "lng": -82.4439,
+        "lat": 28.2441,
+        "lng": -82.32,
         "season": "Nov-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -2705,8 +2705,8 @@
       {
         "name": "Blue Spring State Park，佛罗里达",
         "country": "US",
-        "lat": 28.95,
-        "lng": -81.34,
+        "lat": 29.0751,
+        "lng": -81.4453,
         "season": "Nov-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -2714,8 +2714,8 @@
       {
         "name": "Caye Caulker，Belize",
         "country": "BZ",
-        "lat": 17.356270916202906,
-        "lng": -87.49383508907817,
+        "lat": 16.2266,
+        "lng": -87.5091,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -2745,8 +2745,8 @@
         "hotspotId": "galapagos",
         "name": "加拉帕戈斯岛s",
         "country": "EC",
-        "lat": -0.9281934959120741,
-        "lng": -91.37505918666075,
+        "lat": -1.0692,
+        "lng": -91.5566,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2755,8 +2755,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.8483912477641558,
-        "lng": 73.24195052401848,
+        "lat": 3.8605,
+        "lng": 71.3945,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2765,8 +2765,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.795317388372382,
-        "lng": 33.62152508429601,
+        "lat": 25.4399,
+        "lng": 35.0302,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2774,8 +2774,8 @@
       {
         "name": "科苏梅尔，墨西哥",
         "country": "MX",
-        "lat": 20.542145478049104,
-        "lng": -87.30669541822769,
+        "lat": 19.0523,
+        "lng": -86.7279,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2784,8 +2784,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.35222704824501,
-        "lng": 134.52517967524724,
+        "lat": 6.0718,
+        "lng": 135.4442,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2815,8 +2815,8 @@
       {
         "name": "毛伊岛，夏威夷",
         "country": "US",
-        "lat": 20.722006504087926,
-        "lng": -157.10095918666076,
+        "lat": 20.4748,
+        "lng": -157.8948,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -2825,8 +2825,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.4727,
-        "lng": 73.9542,
+        "lat": 4.465,
+        "lng": 74.7688,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -2835,8 +2835,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.85041849555334,
-        "lng": 33.64293702627159,
+        "lat": 28.7588,
+        "lng": 32.4791,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2845,8 +2845,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.5269425611515481,
-        "lng": 130.59062102310165,
+        "lat": 1.2182,
+        "lng": 131.0536,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2855,8 +2855,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.978,
-        "lng": 134.8574,
+        "lat": 8.7011,
+        "lng": 135.8724,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2886,8 +2886,8 @@
       {
         "name": "大开曼岛",
         "country": "KY",
-        "lat": 19.1735,
-        "lng": -80.9977,
+        "lat": 18.9339,
+        "lng": -80.5338,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2896,8 +2896,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.598629851206873,
-        "lng": 33.58007195550308,
+        "lat": 24.9144,
+        "lng": 32.7595,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2906,8 +2906,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.9512,
-        "lng": 134.1487,
+        "lat": 9.1215,
+        "lng": 133.7903,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2916,8 +2916,8 @@
         "hotspotId": "sipadan_malaysia",
         "name": "仙本那，马来西亚",
         "country": "MY",
-        "lat": 3.933306504087926,
-        "lng": 118.69584081333925,
+        "lat": 3.545,
+        "lng": 119.1195,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2925,8 +2925,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 12.010907916590185,
-        "lng": -68.60475591754731,
+        "lat": 13.8619,
+        "lng": -68.6118,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -2966,8 +2966,8 @@
         "hotspotId": "svalbard",
         "name": "斯瓦尔巴群岛",
         "country": "NO",
-        "lat": 78.0196,
-        "lng": 16.2646,
+        "lat": 77.8,
+        "lng": 16.4234,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -3024,8 +3024,8 @@
         "hotspotId": "svalbard",
         "name": "斯瓦尔巴群岛",
         "country": "NO",
-        "lat": 78.3638,
-        "lng": 17.363,
+        "lat": 78.409,
+        "lng": 17.4514,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -3091,8 +3091,8 @@
         "hotspotId": "husavik_iceland",
         "name": "Vatnsnes，冰岛",
         "country": "IS",
-        "lat": 65.6,
-        "lng": -20.63,
+        "lat": 65.5989,
+        "lng": -20.6426,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3100,8 +3100,8 @@
       {
         "name": "Isle of Skye，苏格兰",
         "country": "GB",
-        "lat": 57.27,
-        "lng": -6.21,
+        "lat": 57.8607,
+        "lng": -6.2715,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3110,8 +3110,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 36.5357,
-        "lng": -121.3209,
+        "lat": 35.7331,
+        "lng": -119.3394,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3128,8 +3128,8 @@
       {
         "name": "Wadden海，Netherlands",
         "country": "NL",
-        "lat": 53.4597,
-        "lng": 5.3171,
+        "lat": 53.7765,
+        "lng": 5.1302,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3159,8 +3159,8 @@
         "hotspotId": "cocos_island",
         "name": "Cocos岛",
         "country": "CR",
-        "lat": 5.6264,
-        "lng": -87.3756,
+        "lat": 6.0706,
+        "lng": -87.1596,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -3168,8 +3168,8 @@
       {
         "name": "Isla Mujeres，墨西哥",
         "country": "MX",
-        "lat": 21.354413826819894,
-        "lng": -87.11659003691506,
+        "lat": 21.8238,
+        "lng": -86.3866,
         "season": "Jan-Mar",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3187,8 +3187,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非 (sardine run)",
         "country": "ZA",
-        "lat": -32.0474,
-        "lng": 29.5236,
+        "lat": -32.9046,
+        "lng": 29.4083,
         "season": "Jun-Jul",
         "reliability": "seasonal",
         "activity": "diving"
@@ -3227,8 +3227,8 @@
       {
         "name": "Kona，夏威夷",
         "country": "US",
-        "lat": 19.535939668462014,
-        "lng": -156.22554748265196,
+        "lat": 18.2886,
+        "lng": -157.1036,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3237,8 +3237,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.826131251999426,
-        "lng": 73.22505243656725,
+        "lat": 1.1661,
+        "lng": 73.0857,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3247,8 +3247,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "Sataya礁，埃及",
         "country": "EG",
-        "lat": 24.30391782408142,
-        "lng": 35.77326604469641,
+        "lat": 23.4689,
+        "lng": 35.9193,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3275,8 +3275,8 @@
         "hotspotId": "tonga",
         "name": "汤加",
         "country": "TO",
-        "lat": -20.536361307648253,
-        "lng": -174.3089882898352,
+        "lat": -20.4245,
+        "lng": -173.9085,
         "season": "year-round",
         "reliability": "medium",
         "activity": "snorkeling"
@@ -3285,8 +3285,8 @@
         "hotspotId": "mirissa_sri_lanka",
         "name": "米瑞莎，斯里兰卡",
         "country": "LK",
-        "lat": 5.703006504087925,
-        "lng": 80.22244081333925,
+        "lat": 5.2392,
+        "lng": 80.3564,
         "season": "Nov-Apr",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3316,8 +3316,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 37.5454,
-        "lng": -25.4693,
+        "lat": 37.5449,
+        "lng": -25.8323,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3326,8 +3326,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非 (sardine run)",
         "country": "ZA",
-        "lat": -31.4218,
-        "lng": 29.8866,
+        "lat": -31.3071,
+        "lng": 29.7762,
         "season": "Jun-Jul",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3335,8 +3335,8 @@
       {
         "name": "Algarve，葡萄牙",
         "country": "PT",
-        "lat": 36.875,
-        "lng": -8.0027,
+        "lat": 36.4093,
+        "lng": -7.885,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3353,8 +3353,8 @@
       {
         "name": "Patagonia，阿根廷",
         "country": "AR",
-        "lat": -42.3342,
-        "lng": -64.2546,
+        "lat": -41.9133,
+        "lng": -64.3224,
         "season": "year-round",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -3383,8 +3383,8 @@
       {
         "name": "大屿山，香港",
         "country": "HK",
-        "lat": 22.29,
-        "lng": 113.87,
+        "lat": 22.5128,
+        "lng": 114.1543,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3392,8 +3392,8 @@
       {
         "name": "珠江三角洲，中国",
         "country": "CN",
-        "lat": 22.0,
-        "lng": 113.5,
+        "lat": 21.7772,
+        "lng": 113.2157,
         "season": "year-round",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -3450,8 +3450,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "South Georgia岛",
         "country": "GS",
-        "lat": -54.1097,
-        "lng": -36.5302,
+        "lat": -53.5523,
+        "lng": -36.6477,
         "season": "Oct-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -3468,8 +3468,8 @@
       {
         "name": "瓦尔德斯半岛，阿根廷",
         "country": "AR",
-        "lat": -42.532793495912074,
-        "lng": -65.15255918666075,
+        "lat": -42.614,
+        "lng": -65.2939,
         "season": "Sep-Nov",
         "reliability": "high",
         "activity": "shore"
@@ -3517,8 +3517,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -64.9504,
-        "lng": -62.0576,
+        "lat": -65.3068,
+        "lng": -61.6992,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -3526,8 +3526,8 @@
       {
         "name": "South Georgia岛",
         "country": "GS",
-        "lat": -54.4017,
-        "lng": -36.1709,
+        "lat": -54.8604,
+        "lng": -36.1547,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -3535,8 +3535,8 @@
       {
         "name": "South Shetland岛s",
         "country": "AQ",
-        "lat": -62.2249,
-        "lng": -57.7461,
+        "lat": -62.5819,
+        "lng": -57.4893,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -3566,8 +3566,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 68.3868,
-        "lng": 14.6287,
+        "lat": 68.8177,
+        "lng": 14.5338,
         "season": "Jan-Mar",
         "reliability": "high",
         "activity": "diving"
@@ -3576,8 +3576,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 66.6279,
-        "lng": -17.1493,
+        "lat": 67.3443,
+        "lng": -16.9372,
         "season": "Jun-Sep",
         "reliability": "medium",
         "activity": "diving"
@@ -3616,8 +3616,8 @@
       {
         "name": "Paracas，Peru",
         "country": "PE",
-        "lat": -13.86,
-        "lng": -76.25,
+        "lat": -13.8441,
+        "lng": -76.2535,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3666,8 +3666,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 68.0693,
-        "lng": 14.9961,
+        "lat": 67.7776,
+        "lng": 15.3389,
         "season": "Jan-Apr",
         "reliability": "high",
         "activity": "diving"
@@ -3676,8 +3676,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 65.6294,
-        "lng": -17.4777,
+        "lat": 65.0011,
+        "lng": -17.9167,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3685,8 +3685,8 @@
       {
         "name": "Newfoundland，加拿大",
         "country": "CA",
-        "lat": 47.3507,
-        "lng": -52.4408,
+        "lat": 47.2776,
+        "lng": -52.235,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -3745,8 +3745,8 @@
         "hotspotId": "husavik_iceland",
         "name": "Laxa河，冰岛",
         "country": "IS",
-        "lat": 65.63,
-        "lng": -17.08,
+        "lat": 65.6094,
+        "lng": -16.9084,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -3794,8 +3794,8 @@
       {
         "name": "哥伦比亚河，俄勒冈",
         "country": "US",
-        "lat": 46.25,
-        "lng": -124.0,
+        "lat": 45.9875,
+        "lng": -123.8663,
         "season": "Apr-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -3803,8 +3803,8 @@
       {
         "name": "坎贝尔河，BC",
         "country": "CA",
-        "lat": 50.02,
-        "lng": -125.25,
+        "lat": 50.0626,
+        "lng": -125.2177,
         "season": "Jul-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -3835,8 +3835,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.97551218014074,
-        "lng": 147.7198914795582,
+        "lat": -18.0624,
+        "lng": 149.7317,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3845,8 +3845,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.299861097857576,
-        "lng": 35.18528205880528,
+        "lat": 28.3873,
+        "lng": 36.5617,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3855,8 +3855,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.8128,
-        "lng": 73.8274,
+        "lat": 3.7826,
+        "lng": 75.0595,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3865,8 +3865,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.594793495912074,
-        "lng": 129.52604081333922,
+        "lat": -2.7105,
+        "lng": 128.6018,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -3896,8 +3896,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.48325208249017,
-        "lng": 147.42403385426215,
+        "lat": -16.306,
+        "lng": 146.1273,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3906,8 +3906,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.3263849198815412,
-        "lng": 130.3598769684974,
+        "lat": -3.243,
+        "lng": 130.9035,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -3915,8 +3915,8 @@
       {
         "name": "Kaneohe湾，夏威夷",
         "country": "US",
-        "lat": 21.1231,
-        "lng": -157.6506,
+        "lat": 21.5895,
+        "lng": -157.4886,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3945,8 +3945,8 @@
       {
         "name": "Big岛，夏威夷",
         "country": "US",
-        "lat": 19.73818101112638,
-        "lng": -156.42297198780125,
+        "lat": 19.256,
+        "lng": -157.7161,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3955,8 +3955,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.5224,
-        "lng": 147.3571,
+        "lat": -19.4149,
+        "lng": 146.305,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -3965,8 +3965,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.6252,
-        "lng": 133.9136,
+        "lat": 8.0477,
+        "lng": 132.2767,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -3996,8 +3996,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.65384791750983,
-        "lng": 33.45723385426212,
+        "lat": 26.0871,
+        "lng": 34.7957,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4006,8 +4006,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.708801239009355,
-        "lng": 73.11150688870731,
+        "lat": 3.7921,
+        "lng": 72.4806,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4016,8 +4016,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.6186,
-        "lng": 147.6062,
+        "lat": -16.2015,
+        "lng": 146.9255,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4026,8 +4026,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.7227,
-        "lng": 130.3575,
+        "lat": -0.9833,
+        "lng": 132.0397,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4058,8 +4058,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.912847126783564,
-        "lng": 147.71555550740084,
+        "lat": -16.939,
+        "lng": 149.5587,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4076,8 +4076,8 @@
       {
         "name": "Milne湾，巴布亚新几内亚",
         "country": "PG",
-        "lat": -10.1401,
-        "lng": 150.4941,
+        "lat": -9.7992,
+        "lng": 150.3051,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4108,8 +4108,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.5447,
-        "lng": 33.1483,
+        "lat": 25.9326,
+        "lng": 31.2881,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4118,8 +4118,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -19.012311539273888,
-        "lng": 147.95785258986265,
+        "lat": -20.8599,
+        "lng": 148.4608,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4128,8 +4128,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.5188065040879257,
-        "lng": 72.69064081333924,
+        "lat": 2.081,
+        "lng": 71.2775,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4138,8 +4138,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.6519,
-        "lng": 129.9807,
+        "lat": 0.9174,
+        "lng": 128.7935,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4170,8 +4170,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.535893495912074,
-        "lng": 147.39344081333923,
+        "lat": -20.8265,
+        "lng": 147.0827,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4180,8 +4180,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.9602934959120741,
-        "lng": 130.27754081333924,
+        "lat": 0.071,
+        "lng": 131.8111,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -4190,8 +4190,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.1180386923517456,
-        "lng": 74.17351171016479,
+        "lat": 2.1885,
+        "lng": 75.7536,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -4221,8 +4221,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.482393495912074,
-        "lng": 129.99794081333923,
+        "lat": -2.7767,
+        "lng": 129.8307,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4231,8 +4231,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.908193495912073,
-        "lng": 147.60654081333922,
+        "lat": -16.4882,
+        "lng": 147.73,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4241,8 +4241,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.375523931688596,
-        "lng": 134.57481646486409,
+        "lat": 6.9003,
+        "lng": 134.8358,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4272,8 +4272,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.8656,
-        "lng": 134.5604,
+        "lat": 7.9632,
+        "lng": 135.2945,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4282,8 +4282,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.756393495912075,
-        "lng": 146.86634081333924,
+        "lat": -18.3652,
+        "lng": 145.4193,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4292,8 +4292,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.8509934959120741,
-        "lng": 129.68724081333923,
+        "lat": -0.7382,
+        "lng": 129.3955,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4301,8 +4301,8 @@
       {
         "name": "Tridacna Farm，汤加",
         "country": "TO",
-        "lat": -20.3688,
-        "lng": -175.533,
+        "lat": -19.9503,
+        "lng": -175.2319,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4331,8 +4331,8 @@
       {
         "name": "佛罗里达 Keys",
         "country": "US",
-        "lat": 24.5365,
-        "lng": -82.161,
+        "lat": 23.998,
+        "lng": -82.2462,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4340,8 +4340,8 @@
       {
         "name": "科苏梅尔，墨西哥",
         "country": "MX",
-        "lat": 20.073738692351746,
-        "lng": -85.86388828983522,
+        "lat": 19.9837,
+        "lng": -85.271,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4349,8 +4349,8 @@
       {
         "name": "伯利兹堡礁",
         "country": "BZ",
-        "lat": 17.9361,
-        "lng": -87.8877,
+        "lat": 18.9278,
+        "lng": -88.0739,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4379,8 +4379,8 @@
       {
         "name": "Portland，Maine",
         "country": "US",
-        "lat": 43.66,
-        "lng": -70.26,
+        "lat": 43.6626,
+        "lng": -70.2655,
         "season": "Jun-Nov",
         "reliability": "high",
         "activity": "shore"
@@ -4397,8 +4397,8 @@
       {
         "name": "Cape Cod，Massachusetts",
         "country": "US",
-        "lat": 41.8289,
-        "lng": -70.2744,
+        "lat": 42.1878,
+        "lng": -70.4023,
         "season": "Jun-Oct",
         "reliability": "high",
         "activity": "shore"
@@ -4427,8 +4427,8 @@
       {
         "name": "切萨皮克湾，Maryland",
         "country": "US",
-        "lat": 38.5,
-        "lng": -76.3,
+        "lat": 38.2935,
+        "lng": -75.3239,
         "season": "Apr-Nov",
         "reliability": "high",
         "activity": "shore"
@@ -4573,8 +4573,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 36.32490650408793,
-        "lng": -122.43375918666075,
+        "lat": 36.306,
+        "lng": -122.8125,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4582,8 +4582,8 @@
       {
         "name": "Tasmania，澳大利亚",
         "country": "AU",
-        "lat": -42.3531,
-        "lng": 147.4926,
+        "lat": -42.0529,
+        "lng": 147.8491,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4601,8 +4601,8 @@
         "hotspotId": "channel_islands",
         "name": "Channel岛s，加利福尼亚",
         "country": "US",
-        "lat": 33.6323,
-        "lng": -119.6345,
+        "lat": 32.6984,
+        "lng": -120.0121,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4632,8 +4632,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 36.807,
-        "lng": -121.6278,
+        "lat": 36.863,
+        "lng": -119.008,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4642,8 +4642,8 @@
         "hotspotId": "channel_islands",
         "name": "Channel岛s，加利福尼亚",
         "country": "US",
-        "lat": 33.8251,
-        "lng": -119.2336,
+        "lat": 33.6412,
+        "lng": -119.2599,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4651,8 +4651,8 @@
       {
         "name": "Mendocino，加利福尼亚",
         "country": "US",
-        "lat": 39.31,
-        "lng": -123.8,
+        "lat": 39.5209,
+        "lng": -123.7526,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4690,8 +4690,8 @@
       {
         "name": "Severn Estuary，UK",
         "country": "GB",
-        "lat": 51.4,
-        "lng": -3.0,
+        "lat": 51.4982,
+        "lng": -3.1484,
         "season": "Apr-May",
         "reliability": "seasonal",
         "activity": "shore"
@@ -4731,8 +4731,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 66.4579,
-        "lng": -17.9105,
+        "lat": 67.3803,
+        "lng": -18.1165,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -4741,8 +4741,8 @@
         "hotspotId": "lofoten_norway",
         "name": "北部 挪威",
         "country": "NO",
-        "lat": 68.49460650408793,
-        "lng": 13.362840813339243,
+        "lat": 68.8405,
+        "lng": 12.9191,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -4750,8 +4750,8 @@
       {
         "name": "Bergen，挪威",
         "country": "NO",
-        "lat": 60.39,
-        "lng": 5.32,
+        "lat": 60.2104,
+        "lng": 5.1765,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -4782,8 +4782,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非 Wild海岸 (sardine run)",
         "country": "ZA",
-        "lat": -31.633,
-        "lng": 29.1646,
+        "lat": -31.9244,
+        "lng": 28.7826,
         "season": "Jun-Jul",
         "reliability": "seasonal",
         "activity": "diving"
@@ -4791,8 +4791,8 @@
       {
         "name": "Algarve，葡萄牙",
         "country": "PT",
-        "lat": 37.3249,
-        "lng": -7.9784,
+        "lat": 37.7663,
+        "lng": -7.4917,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -4831,8 +4831,8 @@
       {
         "name": "Jellyfish湖，帕劳",
         "country": "PW",
-        "lat": 6.8131065040879255,
-        "lng": 134.04974081333924,
+        "lat": 5.8957,
+        "lng": 132.8775,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -4840,8 +4840,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.038838692351746,
-        "lng": -121.66868828983522,
+        "lat": 34.5292,
+        "lng": -120.679,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -4849,8 +4849,8 @@
       {
         "name": "温哥华 水族馆",
         "country": "CA",
-        "lat": 49.3,
-        "lng": -123.13,
+        "lat": 49.902,
+        "lng": -123.4631,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -4879,8 +4879,8 @@
       {
         "name": "缅因湾",
         "country": "US",
-        "lat": 43.04350650408792,
-        "lng": -68.96455918666075,
+        "lat": 43.146,
+        "lng": -69.1864,
         "season": "Jul-Sep",
         "reliability": "seasonal",
         "activity": "shore"
@@ -4888,8 +4888,8 @@
       {
         "name": "挪威峡湾",
         "country": "NO",
-        "lat": 61.1597,
-        "lng": 6.0205,
+        "lat": 61.2112,
+        "lng": 5.7856,
         "season": "Jul-Sep",
         "reliability": "seasonal",
         "activity": "shore"
@@ -4897,8 +4897,8 @@
       {
         "name": "Loch Fyne，苏格兰",
         "country": "GB",
-        "lat": 55.8623,
-        "lng": -5.0445,
+        "lat": 55.4007,
+        "lng": -4.7713,
         "season": "Jul-Sep",
         "reliability": "seasonal",
         "activity": "shore"
@@ -4927,8 +4927,8 @@
       {
         "name": "Canary岛s，Spain",
         "country": "ES",
-        "lat": 28.2868,
-        "lng": -15.1106,
+        "lat": 28.6081,
+        "lng": -14.7106,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -4936,8 +4936,8 @@
       {
         "name": "Gold海岸，澳大利亚",
         "country": "AU",
-        "lat": -27.845,
-        "lng": 153.4748,
+        "lat": -27.4553,
+        "lng": 153.5851,
         "season": "Nov-Apr",
         "reliability": "seasonal",
         "activity": "shore"
@@ -4945,8 +4945,8 @@
       {
         "name": "百慕大",
         "country": "BM",
-        "lat": 32.4665,
-        "lng": -64.746,
+        "lat": 32.9783,
+        "lng": -64.711,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -4984,8 +4984,8 @@
       {
         "name": "English海峡，UK",
         "country": "GB",
-        "lat": 50.5,
-        "lng": -1.5,
+        "lat": 49.7294,
+        "lng": -1.5814,
         "season": "Apr-Oct",
         "reliability": "high",
         "activity": "diving"
@@ -5024,8 +5024,8 @@
         "hotspotId": "baja_california",
         "name": "Sea of Cortez，墨西哥",
         "country": "MX",
-        "lat": 27.1598,
-        "lng": -111.0099,
+        "lat": 27.481,
+        "lng": -110.8755,
         "season": "Jun-Dec",
         "reliability": "medium",
         "activity": "diving"
@@ -5033,8 +5033,8 @@
       {
         "name": "Humboldt Current，Peru",
         "country": "PE",
-        "lat": -15.0,
-        "lng": -76.0,
+        "lat": -15.0159,
+        "lng": -75.9965,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -5081,8 +5081,8 @@
       {
         "name": "Algarve，葡萄牙",
         "country": "PT",
-        "lat": 37.1584,
-        "lng": -8.2862,
+        "lat": 37.4446,
+        "lng": -8.5843,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -5138,8 +5138,8 @@
       {
         "name": "圣胡安群岛，华盛顿",
         "country": "US",
-        "lat": 48.00593869235175,
-        "lng": -122.29388828983521,
+        "lat": 47.5396,
+        "lng": -121.705,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -5168,8 +5168,8 @@
       {
         "name": "Donna Nook，England",
         "country": "GB",
-        "lat": 53.47,
-        "lng": 0.15,
+        "lat": 53.8321,
+        "lng": 0.249,
         "season": "Nov-Dec",
         "reliability": "high",
         "activity": "shore"
@@ -5218,8 +5218,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "South Georgia岛",
         "country": "GS",
-        "lat": -54.1836,
-        "lng": -37.0292,
+        "lat": -54.4787,
+        "lng": -37.3807,
         "season": "Nov-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -5227,8 +5227,8 @@
       {
         "name": "South Shetland岛s",
         "country": "AQ",
-        "lat": -61.9154,
-        "lng": -58.6764,
+        "lat": -61.4951,
+        "lng": -59.0135,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -5276,8 +5276,8 @@
       {
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -64.6626,
-        "lng": -62.5509,
+        "lat": -64.3646,
+        "lng": -62.8533,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -5324,8 +5324,8 @@
       {
         "name": "White海，Russia",
         "country": "RU",
-        "lat": 66.1594,
-        "lng": 36.0337,
+        "lat": 66.31,
+        "lng": 35.7856,
         "season": "Feb-Mar",
         "reliability": "seasonal",
         "activity": "shore"
@@ -5333,8 +5333,8 @@
       {
         "name": "Newfoundland，加拿大",
         "country": "CA",
-        "lat": 47.604806504087925,
-        "lng": -53.155659186660756,
+        "lat": 47.678,
+        "lng": -53.3614,
         "season": "Feb-Mar",
         "reliability": "seasonal",
         "activity": "shore"
@@ -5364,8 +5364,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "Ross海，Antarctica",
         "country": "AQ",
-        "lat": -77.6991,
-        "lng": 170.8908,
+        "lat": -77.7301,
+        "lng": 170.9736,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -5373,8 +5373,8 @@
       {
         "name": "Te Papa 博物馆，Wellington",
         "country": "NZ",
-        "lat": -41.4742,
-        "lng": 175.0556,
+        "lat": -41.7977,
+        "lng": 175.2743,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -5382,8 +5382,8 @@
       {
         "name": "南乔治亚岛海域",
         "country": "GS",
-        "lat": -54.0601,
-        "lng": -35.9482,
+        "lat": -53.8637,
+        "lng": -35.4954,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -5414,8 +5414,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -64.5101,
-        "lng": -61.9672,
+        "lat": -64.1068,
+        "lng": -61.7034,
         "season": "Dec-Mar",
         "reliability": "medium",
         "activity": "shore"
@@ -5423,8 +5423,8 @@
       {
         "name": "South Shetland岛s",
         "country": "AQ",
-        "lat": -61.854,
-        "lng": -57.9649,
+        "lat": -61.4482,
+        "lng": -57.8282,
         "season": "Dec-Mar",
         "reliability": "medium",
         "activity": "shore"
@@ -5432,8 +5432,8 @@
       {
         "name": "King George岛",
         "country": "AQ",
-        "lat": -62.214993495912076,
-        "lng": -58.93505918666076,
+        "lat": -62.6841,
+        "lng": -58.9915,
         "season": "Dec-Mar",
         "reliability": "medium",
         "activity": "shore"
@@ -5472,8 +5472,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 37.3659,
-        "lng": -121.6491,
+        "lat": 36.8916,
+        "lng": -121.2543,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -5481,8 +5481,8 @@
       {
         "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
-        "lat": 38.7317,
-        "lng": -76.7971,
+        "lat": 38.1034,
+        "lng": -76.26,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -5491,8 +5491,8 @@
         "hotspotId": "deep_sea_mid_atlantic",
         "name": "大西洋中脊",
         "country": null,
-        "lat": 37.3168,
-        "lng": -32.1796,
+        "lat": 37.8529,
+        "lng": -32.1599,
         "season": "year-round",
         "reliability": "low",
         "activity": "aquarium"
@@ -5522,8 +5522,8 @@
         "hotspotId": "deep_sea_mid_atlantic",
         "name": "大西洋中脊",
         "country": null,
-        "lat": 37.0176,
-        "lng": -31.9141,
+        "lat": 36.7615,
+        "lng": -31.6483,
         "season": "year-round",
         "reliability": "medium",
         "activity": "aquarium"
@@ -5531,8 +5531,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.9298,
-        "lng": -1.0042,
+        "lat": 52.638,
+        "lng": -1.9616,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -5540,8 +5540,8 @@
       {
         "name": "Oceanopolis，Brest",
         "country": "FR",
-        "lat": 48.5481,
-        "lng": -4.4769,
+        "lat": 48.8207,
+        "lng": -4.7058,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -5579,8 +5579,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 37.33590650408792,
-        "lng": -122.32815918666076,
+        "lat": 38.8246,
+        "lng": -121.6491,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -5588,8 +5588,8 @@
       {
         "name": "Oceanopolis，Brest",
         "country": "FR",
-        "lat": 48.18,
-        "lng": -4.1677,
+        "lat": 47.9074,
+        "lng": -3.9388,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -5627,8 +5627,8 @@
       {
         "name": "威拉帕湾，华盛顿",
         "country": "US",
-        "lat": 46.63,
-        "lng": -124.02,
+        "lat": 47.1144,
+        "lng": -124.0631,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -5666,8 +5666,8 @@
       {
         "name": "Mont-Saint-Michel，法国",
         "country": "FR",
-        "lat": 48.64,
-        "lng": -1.51,
+        "lat": 48.6317,
+        "lng": -1.5099,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -5675,8 +5675,8 @@
       {
         "name": "Wadden海，Netherlands",
         "country": "NL",
-        "lat": 53.0663,
-        "lng": 5.5491,
+        "lat": 52.7495,
+        "lng": 5.736,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -5714,8 +5714,8 @@
       {
         "name": "Delaware湾，New Jersey",
         "country": "US",
-        "lat": 39.15,
-        "lng": -75.3,
+        "lat": 39.4392,
+        "lng": -75.1906,
         "season": "May-Jun",
         "reliability": "high",
         "activity": "shore"
@@ -5723,8 +5723,8 @@
       {
         "name": "Cape Cod，Massachusetts",
         "country": "US",
-        "lat": 41.4237,
-        "lng": -70.13,
+        "lat": 41.0648,
+        "lng": -70.0021,
         "season": "May-Jun",
         "reliability": "high",
         "activity": "shore"
@@ -5732,8 +5732,8 @@
       {
         "name": "切萨皮克湾，Virginia",
         "country": "US",
-        "lat": 37.5,
-        "lng": -76.0,
+        "lat": 37.1374,
+        "lng": -75.9424,
         "season": "May-Jun",
         "reliability": "high",
         "activity": "shore"
@@ -5762,8 +5762,8 @@
       {
         "name": "科苏梅尔，墨西哥",
         "country": "MX",
-        "lat": 20.86882389762756,
-        "lng": -87.3374186737371,
+        "lat": 21.7529,
+        "lng": -87.77,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -5772,8 +5772,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.522090857015833,
-        "lng": 33.8277154421088,
+        "lat": 28.6373,
+        "lng": 35.4565,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -5782,8 +5782,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.635106504087926,
-        "lng": 133.88764081333923,
+        "lat": 8.2985,
+        "lng": 133.2819,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -5863,8 +5863,8 @@
         "hotspotId": "florida_everglades",
         "name": "Jupiter，佛罗里达",
         "country": "US",
-        "lat": 26.7331,
-        "lng": -79.8713,
+        "lat": 26.2636,
+        "lng": -79.9726,
         "season": "Aug-Oct",
         "reliability": "high",
         "activity": "diving"
@@ -5872,8 +5872,8 @@
       {
         "name": "伯利兹堡礁",
         "country": "BZ",
-        "lat": 17.247115292776417,
-        "lng": -87.45106147945626,
+        "lat": 17.4183,
+        "lng": -86.8578,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -5912,8 +5912,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 11.8178,
-        "lng": -68.7589,
+        "lat": 11.6572,
+        "lng": -70.5385,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -5921,8 +5921,8 @@
       {
         "name": "百慕大",
         "country": "BM",
-        "lat": 32.1332,
-        "lng": -64.5554,
+        "lat": 31.8453,
+        "lng": -64.2757,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -5930,8 +5930,8 @@
       {
         "name": "特克斯和凯科斯群岛",
         "country": "TC",
-        "lat": 21.9473,
-        "lng": -72.0318,
+        "lat": 22.2744,
+        "lng": -72.2249,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -5961,8 +5961,8 @@
       {
         "name": "科苏梅尔，墨西哥",
         "country": "MX",
-        "lat": 20.41043789520005,
-        "lng": -87.25264742113687,
+        "lat": 19.523,
+        "lng": -87.4012,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -5970,8 +5970,8 @@
       {
         "name": "佛罗里达 Keys",
         "country": "US",
-        "lat": 24.580606504087925,
-        "lng": -82.25685918666075,
+        "lat": 25.2039,
+        "lng": -82.2669,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -5979,8 +5979,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 11.5587,
-        "lng": -68.745,
+        "lat": 9.9863,
+        "lng": -69.18,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6010,8 +6010,8 @@
       {
         "name": "Shark Ray Alley，Belize",
         "country": "BZ",
-        "lat": 17.79004761706835,
-        "lng": -88.39547050881448,
+        "lat": 17.2967,
+        "lng": -89.3572,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6020,8 +6020,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.5645,
-        "lng": 33.3943,
+        "lat": 28.8288,
+        "lng": 31.5985,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -6029,8 +6029,8 @@
       {
         "name": "Dry Tortugas，佛罗里达",
         "country": "US",
-        "lat": 24.63,
-        "lng": -82.87,
+        "lat": 24.5782,
+        "lng": -83.2886,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6061,8 +6061,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "Julian Rocks，Byron湾",
         "country": "AU",
-        "lat": -28.64,
-        "lng": 153.63,
+        "lat": -28.9143,
+        "lng": 153.9213,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6070,8 +6070,8 @@
       {
         "name": "Sydney Harbour，澳大利亚",
         "country": "AU",
-        "lat": -34.0197,
-        "lng": 151.4788,
+        "lat": -34.3717,
+        "lng": 151.7294,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6079,8 +6079,8 @@
       {
         "name": "Jervis湾，澳大利亚",
         "country": "AU",
-        "lat": -35.08,
-        "lng": 150.73,
+        "lat": -35.0841,
+        "lng": 150.7309,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6111,8 +6111,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.98653021232067,
-        "lng": 147.72116734469878,
+        "lat": -17.1729,
+        "lng": 148.9231,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6130,8 +6130,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.833038692351746,
-        "lng": 73.89461171016478,
+        "lat": 0.8617,
+        "lng": 74.1637,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -6161,8 +6161,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.251848042286785,
-        "lng": 33.67863350706571,
+        "lat": 27.338,
+        "lng": 34.0457,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6171,8 +6171,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.018038692351746,
-        "lng": 73.74451171016479,
+        "lat": 2.8319,
+        "lng": 75.1087,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6180,8 +6180,8 @@
       {
         "name": "Kona，夏威夷",
         "country": "US",
-        "lat": 19.272903235775367,
-        "lng": -155.57772465183942,
+        "lat": 19.3088,
+        "lng": -154.0709,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6211,8 +6211,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 12.01373486977207,
-        "lng": -68.7021702111648,
+        "lat": 11.0026,
+        "lng": -69.6522,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6220,8 +6220,8 @@
       {
         "name": "百慕大",
         "country": "BM",
-        "lat": 32.2684,
-        "lng": -65.1441,
+        "lat": 32.0445,
+        "lng": -65.4588,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6229,8 +6229,8 @@
       {
         "name": "特克斯和凯科斯群岛",
         "country": "TC",
-        "lat": 21.5749,
-        "lng": -71.8119,
+        "lat": 21.2478,
+        "lng": -71.6188,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6260,8 +6260,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 11.9367,
-        "lng": -68.1093,
+        "lat": 11.524,
+        "lng": -66.7488,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6269,8 +6269,8 @@
       {
         "name": "库拉索岛",
         "country": "CW",
-        "lat": 12.173371289469248,
-        "lng": -69.1141047190938,
+        "lat": 12.7372,
+        "lng": -70.257,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6278,8 +6278,8 @@
       {
         "name": "Roatan，Honduras",
         "country": "HN",
-        "lat": 16.477,
-        "lng": -86.4981,
+        "lat": 16.7139,
+        "lng": -86.1892,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6310,8 +6310,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.288406504087927,
-        "lng": 33.00644081333924,
+        "lat": 26.8223,
+        "lng": 31.5513,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6320,8 +6320,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 4.525615546534212,
-        "lng": 72.02166984480412,
+        "lat": 5.0511,
+        "lng": 71.6323,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6330,8 +6330,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -19.200273114984647,
-        "lng": 148.73826439278892,
+        "lat": -20.1938,
+        "lng": 149.4772,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6362,8 +6362,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.86863202950843,
-        "lng": 35.2844177072383,
+        "lat": 26.098,
+        "lng": 36.6701,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6372,8 +6372,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.603226608101868,
-        "lng": 73.5894234259878,
+        "lat": 3.3145,
+        "lng": 74.4138,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6381,8 +6381,8 @@
       {
         "name": "巴厘岛，印度尼西亚",
         "country": "ID",
-        "lat": -8.355501035451155,
-        "lng": 115.5748928498997,
+        "lat": -7.2565,
+        "lng": 114.7855,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6412,8 +6412,8 @@
       {
         "name": "Kona海岸，夏威夷",
         "country": "US",
-        "lat": 19.273283453333775,
-        "lng": -155.58876143108785,
+        "lat": 18.5529,
+        "lng": -156.1322,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6421,8 +6421,8 @@
       {
         "name": "毛伊岛，夏威夷",
         "country": "US",
-        "lat": 20.783042057448057,
-        "lng": -156.29451627684057,
+        "lat": 20.9711,
+        "lng": -156.7095,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6430,8 +6430,8 @@
       {
         "name": "Big岛，夏威夷",
         "country": "US",
-        "lat": 19.2736027148675,
-        "lng": -155.59574170764205,
+        "lat": 18.1311,
+        "lng": -154.793,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6462,8 +6462,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 4.462755404588641,
-        "lng": 73.39742494767364,
+        "lat": 5.1611,
+        "lng": 73.6389,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6472,8 +6472,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.374014954910816,
-        "lng": 35.151757060984046,
+        "lat": 26.0646,
+        "lng": 35.57,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6481,8 +6481,8 @@
       {
         "name": "塞舌尔",
         "country": "SC",
-        "lat": -4.538054444100885,
-        "lng": 55.47413294289575,
+        "lat": -4.5381,
+        "lng": 55.4741,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6513,8 +6513,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.575318665850478,
-        "lng": 33.87665377636159,
+        "lat": 27.4171,
+        "lng": 33.5052,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6522,8 +6522,8 @@
       {
         "name": "Kona，夏威夷",
         "country": "US",
-        "lat": 19.634601685726924,
-        "lng": -156.33937204627028,
+        "lat": 20.7385,
+        "lng": -155.7458,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6532,8 +6532,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.5261234621234383,
-        "lng": 72.68767022976276,
+        "lat": 3.512,
+        "lng": 71.9934,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -6572,8 +6572,8 @@
       {
         "name": "Kona，夏威夷",
         "country": "US",
-        "lat": 19.272615362181366,
-        "lng": -155.5507422531138,
+        "lat": 18.9887,
+        "lng": -155.1351,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -6582,8 +6582,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 6.054046574658292,
-        "lng": 134.34514386639646,
+        "lat": 4.8743,
+        "lng": 134.1077,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6614,8 +6614,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.7258934959120741,
-        "lng": 130.16784081333924,
+        "lat": -1.6864,
+        "lng": 131.0083,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6623,8 +6623,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.7148,
-        "lng": 125.8609,
+        "lat": 2.3642,
+        "lng": 127.0467,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6633,8 +6633,8 @@
         "hotspotId": "tubbataha_philippines",
         "name": "Puerto Galera，菲律宾",
         "country": "PH",
-        "lat": 13.542,
-        "lng": 121.4332,
+        "lat": 13.4339,
+        "lng": 122.6563,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -6665,8 +6665,8 @@
         "hotspotId": "lake_baikal",
         "name": "贝加尔湖 (Listvyanka)",
         "country": "RU",
-        "lat": 52.0035,
-        "lng": 104.8951,
+        "lat": 52.5304,
+        "lng": 105.0545,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "diving"
@@ -6674,8 +6674,8 @@
       {
         "name": "贝加尔湖 (Olkhon岛)",
         "country": "RU",
-        "lat": 53.17,
-        "lng": 107.33,
+        "lat": 52.9596,
+        "lng": 107.4944,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "diving"
@@ -6683,8 +6683,8 @@
       {
         "name": "Baikal 博物馆，Listvyanka",
         "country": "RU",
-        "lat": 51.6779,
-        "lng": 105.1314,
+        "lat": 51.417,
+        "lng": 105.5201,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -6692,8 +6692,8 @@
       {
         "name": "贝加尔湖利斯特维扬卡",
         "country": "",
-        "lat": 51.885006504087926,
-        "lng": 104.46494081333925,
+        "lat": 51.2119,
+        "lng": 104.3571,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -6701,8 +6701,8 @@
       {
         "name": "贝加尔湖奥利洪岛",
         "country": "",
-        "lat": 53.08500650408793,
-        "lng": 106.86494081333925,
+        "lat": 53.037,
+        "lng": 106.3481,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -6733,8 +6733,8 @@
         "hotspotId": "amazon_river",
         "name": "Mamiraua Reserve，巴西",
         "country": "BR",
-        "lat": -2.8,
-        "lng": -65.0,
+        "lat": -2.4964,
+        "lng": -65.0764,
         "season": "Sep-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -6742,8 +6742,8 @@
       {
         "name": "Rupununi，Guyana",
         "country": "GY",
-        "lat": 3.77,
-        "lng": -59.3,
+        "lat": 3.7365,
+        "lng": -59.3102,
         "season": "Mar-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -6751,8 +6751,8 @@
       {
         "name": "Shedd 水族馆，Chicago",
         "country": "US",
-        "lat": 42.0169,
-        "lng": -87.6153,
+        "lat": 42.4952,
+        "lng": -87.4204,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -6760,8 +6760,8 @@
       {
         "name": "亚马逊河马瑙斯",
         "country": "",
-        "lat": -3.1,
-        "lng": -60.0,
+        "lat": -1.9689,
+        "lng": -60.2179,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -6769,8 +6769,8 @@
       {
         "name": "亚马逊河特费",
         "country": "",
-        "lat": -3.35,
-        "lng": -64.7,
+        "lat": -3.4713,
+        "lng": -64.2989,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -6800,8 +6800,8 @@
         "hotspotId": "amazon_river",
         "name": "亚马逊河 basin",
         "country": "BR",
-        "lat": -3.2779,
-        "lng": -59.8201,
+        "lat": -4.1596,
+        "lng": -59.3003,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -6818,8 +6818,8 @@
       {
         "name": "Georgia 水族馆，Atlanta",
         "country": "US",
-        "lat": 33.7827,
-        "lng": -84.7843,
+        "lat": 33.6857,
+        "lng": -85.2379,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -6827,8 +6827,8 @@
       {
         "name": "亚马逊河流域",
         "country": "",
-        "lat": -3.414993495912074,
-        "lng": -60.235059186660756,
+        "lat": -4.2576,
+        "lng": -60.4727,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -6836,8 +6836,8 @@
       {
         "name": "奥里诺科河，委内瑞拉",
         "country": "",
-        "lat": 8.3,
-        "lng": -62.7,
+        "lat": 8.3467,
+        "lng": -62.3007,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -6867,8 +6867,8 @@
         "hotspotId": "amazon_river",
         "name": "亚马逊河 (Manaus)",
         "country": "BR",
-        "lat": -3.088193495912074,
-        "lng": -60.44875918666076,
+        "lat": -3.2811,
+        "lng": -61.2826,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -6885,8 +6885,8 @@
       {
         "name": "Orinoco河，Venezuela",
         "country": "VE",
-        "lat": 8.255006504087925,
-        "lng": -63.08505918666076,
+        "lat": 8.2084,
+        "lng": -63.4843,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -6894,8 +6894,8 @@
       {
         "name": "亚马逊河马瑙斯段",
         "country": "",
-        "lat": -3.2787613076482542,
-        "lng": -59.46868828983521,
+        "lat": -3.076,
+        "lng": -59.0437,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -6925,8 +6925,8 @@
         "hotspotId": "amazon_river",
         "name": "Rio Negro，巴西",
         "country": "BR",
-        "lat": -1.3026,
-        "lng": -61.6821,
+        "lat": -0.98,
+        "lng": -61.1599,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -6934,8 +6934,8 @@
       {
         "name": "圭亚那",
         "country": "GY",
-        "lat": 4.85,
-        "lng": -58.97,
+        "lat": 4.8835,
+        "lng": -58.9598,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -6974,8 +6974,8 @@
         "hotspotId": "amazon_river",
         "name": "亚马逊河 basin",
         "country": "BR",
-        "lat": -3.0378,
-        "lng": -60.3387,
+        "lat": -3.1093,
+        "lng": -60.1969,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -6992,8 +6992,8 @@
       {
         "name": "Shedd 水族馆，Chicago",
         "country": "US",
-        "lat": 41.8374,
-        "lng": -88.0491,
+        "lat": 41.7434,
+        "lng": -88.3699,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7023,8 +7023,8 @@
         "hotspotId": "amazon_river",
         "name": "Rio Negro，巴西",
         "country": "BR",
-        "lat": -1.4939,
-        "lng": -62.3163,
+        "lat": -1.3167,
+        "lng": -63.3458,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -7032,8 +7032,8 @@
       {
         "name": "亚马逊河 (Tefe)",
         "country": "BR",
-        "lat": -3.4649934959120743,
-        "lng": -65.15505918666075,
+        "lat": -3.6472,
+        "lng": -65.4797,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -7041,8 +7041,8 @@
       {
         "name": "Georgia 水族馆，Atlanta",
         "country": "US",
-        "lat": 33.9033,
-        "lng": -84.3508,
+        "lat": 34.3469,
+        "lng": -84.2434,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7080,8 +7080,8 @@
       {
         "name": "Nile河，埃及",
         "country": "EG",
-        "lat": 25.68,
-        "lng": 32.64,
+        "lat": 24.8031,
+        "lng": 31.7529,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -7098,8 +7098,8 @@
       {
         "name": "尼罗河，埃及",
         "country": "",
-        "lat": 30.0,
-        "lng": 31.2,
+        "lat": 30.0024,
+        "lng": 31.1909,
         "season": "全年",
         "reliability": "high",
         "activity": "shore"
@@ -7195,8 +7195,8 @@
       {
         "name": "Shedd 水族馆，Chicago",
         "country": "US",
-        "lat": 41.7017,
-        "lng": -87.3535,
+        "lat": 41.3173,
+        "lng": -87.2276,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7226,8 +7226,8 @@
         "hotspotId": "amazon_river",
         "name": "Rio Negro，巴西",
         "country": "BR",
-        "lat": -1.7082,
-        "lng": -61.8709,
+        "lat": -2.2344,
+        "lng": -61.6242,
         "season": "Oct-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -7235,8 +7235,8 @@
       {
         "name": "Rio Uatuma，巴西",
         "country": "BR",
-        "lat": -2.4,
-        "lng": -59.3,
+        "lat": -1.9268,
+        "lng": -59.0189,
         "season": "Sep-Feb",
         "reliability": "high",
         "activity": "shore"
@@ -7274,8 +7274,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 0.9501,
-        "lng": 125.5298,
+        "lat": 0.0395,
+        "lng": 126.7157,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7284,8 +7284,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.7685,
-        "lng": 33.7687,
+        "lat": 29.9764,
+        "lng": 34.6455,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7294,8 +7294,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.37445589100804993,
-        "lng": 130.65334243509824,
+        "lat": 0.0326,
+        "lng": 131.0465,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7325,8 +7325,8 @@
       {
         "name": "Sardinia，Italy",
         "country": "IT",
-        "lat": 40.267,
-        "lng": 9.5186,
+        "lat": 40.777,
+        "lng": 9.6295,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -7334,8 +7334,8 @@
       {
         "name": "Algarve，葡萄牙",
         "country": "PT",
-        "lat": 36.85230650408793,
-        "lng": -9.075559186660756,
+        "lat": 36.5904,
+        "lng": -9.3819,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -7343,8 +7343,8 @@
       {
         "name": "Dorset，England",
         "country": "GB",
-        "lat": 50.7,
-        "lng": -2.0,
+        "lat": 50.4568,
+        "lng": -2.4978,
         "season": "May-Oct",
         "reliability": "medium",
         "activity": "diving"
@@ -7375,8 +7375,8 @@
         "hotspotId": "maldives",
         "name": "Hanifaru湾，马尔代夫",
         "country": "MV",
-        "lat": 5.356055220969515,
-        "lng": 72.97000604883917,
+        "lat": 5.9495,
+        "lng": 72.4134,
         "season": "Jun-Nov",
         "reliability": "high",
         "activity": "snorkeling"
@@ -7385,8 +7385,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "Lady Elliot岛，澳大利亚",
         "country": "AU",
-        "lat": -24.11,
-        "lng": 152.71,
+        "lat": -24.1042,
+        "lng": 152.7093,
         "season": "May-Aug",
         "reliability": "high",
         "activity": "snorkeling"
@@ -7395,8 +7395,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.190093495912074,
-        "lng": 129.32884081333924,
+        "lat": -1.7899,
+        "lng": 128.6682,
         "season": "Oct-Apr",
         "reliability": "high",
         "activity": "diving"
@@ -7404,8 +7404,8 @@
       {
         "name": "Nusa Penida，巴厘岛",
         "country": "ID",
-        "lat": -8.8908,
-        "lng": 115.6901,
+        "lat": -9.8061,
+        "lng": 115.8053,
         "season": "Jul-Nov",
         "reliability": "high",
         "activity": "diving"
@@ -7484,8 +7484,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "Sataya礁，埃及",
         "country": "EG",
-        "lat": 24.956099192660982,
-        "lng": 35.67329163790319,
+        "lat": 24.5127,
+        "lng": 35.6169,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -7494,8 +7494,8 @@
         "hotspotId": "shark_bay_australia",
         "name": "Shark湾 (Monkey Mia)，澳大利亚",
         "country": "AU",
-        "lat": -25.6915,
-        "lng": 113.9251,
+        "lat": -25.6624,
+        "lng": 114.4805,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -7513,8 +7513,8 @@
       {
         "name": "Hurghada，埃及",
         "country": "EG",
-        "lat": 26.409802120548477,
-        "lng": 33.267495628305355,
+        "lat": 25.3785,
+        "lng": 34.182,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -7544,8 +7544,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.1613,
-        "lng": -121.2181,
+        "lat": 37.5425,
+        "lng": -119.7106,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7553,8 +7553,8 @@
       {
         "name": "MBARI Deep-sea Exhibits，Monterey",
         "country": "US",
-        "lat": 36.672206504087924,
-        "lng": -123.09595918666075,
+        "lat": 36.6055,
+        "lng": -124.9426,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7583,8 +7583,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.7878,
-        "lng": -122.8532,
+        "lat": 36.0565,
+        "lng": -124.3124,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7592,8 +7592,8 @@
       {
         "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
-        "lat": 39.0289,
-        "lng": -77.0348,
+        "lat": 40.2487,
+        "lng": -76.6961,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7623,8 +7623,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾 水族馆 (deep-sea)",
         "country": "US",
-        "lat": 35.881106504087924,
-        "lng": -122.22355918666075,
+        "lat": 34.2471,
+        "lng": -123.1983,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7632,8 +7632,8 @@
       {
         "name": "MBARI，Moss Landing",
         "country": "US",
-        "lat": 36.2294,
-        "lng": -121.4125,
+        "lat": 34.6098,
+        "lng": -121.8255,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7663,8 +7663,8 @@
       {
         "name": "澳大利亚n 博物馆，Sydney",
         "country": "AU",
-        "lat": -33.7132,
-        "lng": 151.2817,
+        "lat": -33.2097,
+        "lng": 151.4251,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7672,8 +7672,8 @@
       {
         "name": "SEA LIFE Melbourne 水族馆",
         "country": "AU",
-        "lat": -37.82,
-        "lng": 144.96,
+        "lat": -37.5125,
+        "lng": 145.1278,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7703,8 +7703,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.6449,
-        "lng": -0.1505,
+        "lat": 52.0913,
+        "lng": -0.1474,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7712,8 +7712,8 @@
       {
         "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
-        "lat": 38.361006504087925,
-        "lng": -77.52785918666075,
+        "lat": 37.5774,
+        "lng": -78.1418,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7721,8 +7721,8 @@
       {
         "name": "Catalina岛，加利福尼亚 (rare)",
         "country": "US",
-        "lat": 33.2448,
-        "lng": -118.1373,
+        "lat": 32.6534,
+        "lng": -118.6292,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -7752,8 +7752,8 @@
       {
         "name": "Te Papa 博物馆，Wellington",
         "country": "NZ",
-        "lat": -41.1337,
-        "lng": 174.8254,
+        "lat": -40.8102,
+        "lng": 174.6067,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7761,8 +7761,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.3816,
-        "lng": -1.0686,
+        "lat": 51.468,
+        "lng": -2.0709,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7770,8 +7770,8 @@
       {
         "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
-        "lat": 39.2811,
-        "lng": -77.3435,
+        "lat": 39.9458,
+        "lng": -77.8291,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7800,8 +7800,8 @@
       {
         "name": "Gold海岸，澳大利亚",
         "country": "AU",
-        "lat": -28.280093495912073,
-        "lng": 153.24704081333923,
+        "lat": -28.3956,
+        "lng": 152.8455,
         "season": "Nov-Mar",
         "reliability": "seasonal",
         "activity": "shore"
@@ -7818,8 +7818,8 @@
       {
         "name": "Canary岛s，Spain",
         "country": "ES",
-        "lat": 27.8581,
-        "lng": -15.297,
+        "lat": 27.4513,
+        "lng": -15.1327,
         "season": "year-round",
         "reliability": "seasonal",
         "activity": "shore"
@@ -7848,8 +7848,8 @@
       {
         "name": "Rapid湾，South 澳大利亚",
         "country": "AU",
-        "lat": -35.3639,
-        "lng": 138.2232,
+        "lat": -34.9884,
+        "lng": 137.9822,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7857,8 +7857,8 @@
       {
         "name": "Port Phillip湾，Melbourne",
         "country": "AU",
-        "lat": -38.15959349591208,
-        "lng": 144.41654081333922,
+        "lat": -38.2011,
+        "lng": 144.1158,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7866,8 +7866,8 @@
       {
         "name": "Sydney，澳大利亚",
         "country": "AU",
-        "lat": -33.7717,
-        "lng": 150.8611,
+        "lat": -33.9191,
+        "lng": 150.4663,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -7897,8 +7897,8 @@
       {
         "name": "Victor Harbor，South 澳大利亚",
         "country": "AU",
-        "lat": -35.55,
-        "lng": 138.63,
+        "lat": -35.4486,
+        "lng": 139.1491,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7906,8 +7906,8 @@
       {
         "name": "Kangaroo岛，澳大利亚",
         "country": "AU",
-        "lat": -35.77,
-        "lng": 137.22,
+        "lat": -35.8337,
+        "lng": 137.1109,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7915,8 +7915,8 @@
       {
         "name": "Rapid湾，South 澳大利亚",
         "country": "AU",
-        "lat": -35.7609,
-        "lng": 138.3483,
+        "lat": -36.203,
+        "lng": 138.2388,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7946,8 +7946,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.464801496684662,
-        "lng": 125.34979597157962,
+        "lat": 3.1202,
+        "lng": 124.6614,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7956,8 +7956,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.8835,
-        "lng": 147.5471,
+        "lat": -19.7725,
+        "lng": 146.7499,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -7966,8 +7966,8 @@
         "hotspotId": "tubbataha_philippines",
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.494,
-        "lng": 120.4122,
+        "lat": 12.8003,
+        "lng": 119.1885,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -7997,8 +7997,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 6.9708,
-        "lng": 134.0739,
+        "lat": 8.1944,
+        "lng": 134.4041,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8015,8 +8015,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.176706504087926,
-        "lng": 125.28154081333925,
+        "lat": 0.3561,
+        "lng": 124.4375,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8046,8 +8046,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.743238692351746,
-        "lng": -121.91928828983521,
+        "lat": 36.7271,
+        "lng": -123.8018,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8055,8 +8055,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 50.9742,
-        "lng": 0.3967,
+        "lat": 50.0591,
+        "lng": 0.62,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8086,8 +8086,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.62120650408792,
-        "lng": -121.78965918666076,
+        "lat": 34.8044,
+        "lng": -121.1683,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8095,8 +8095,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 52.0452,
-        "lng": 0.231,
+        "lat": 52.7793,
+        "lng": 0.4059,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8126,8 +8126,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 37.01654791750983,
-        "lng": -122.05386614573787,
+        "lat": 38.7405,
+        "lng": -120.5558,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8135,8 +8135,8 @@
       {
         "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
-        "lat": 38.8843,
-        "lng": -77.4292,
+        "lat": 38.8496,
+        "lng": -78.1517,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8166,8 +8166,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.671406504087926,
-        "lng": -122.35645918666076,
+        "lat": 35.8736,
+        "lng": -123.7162,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8175,8 +8175,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.0618,
-        "lng": -0.187,
+        "lat": 49.7171,
+        "lng": -0.3403,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8206,8 +8206,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 37.02040650408792,
-        "lng": -121.97705918666075,
+        "lat": 37.9822,
+        "lng": -121.1661,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8215,8 +8215,8 @@
       {
         "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
-        "lat": 26.9112,
-        "lng": 128.2178,
+        "lat": 27.3274,
+        "lng": 128.5767,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8246,8 +8246,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.21900650408793,
-        "lng": -0.30835918666075746,
+        "lat": 50.8774,
+        "lng": -0.0473,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8255,8 +8255,8 @@
       {
         "name": "加利福尼亚 Science Center，LA",
         "country": "US",
-        "lat": 34.02,
-        "lng": -118.29,
+        "lat": 34.5078,
+        "lng": -117.4375,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8286,8 +8286,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.528338692351745,
-        "lng": -120.67068828983521,
+        "lat": 36.5428,
+        "lng": -119.8181,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8295,8 +8295,8 @@
       {
         "name": "Enoshima 水族馆，日本",
         "country": "JP",
-        "lat": 35.1061,
-        "lng": 139.7226,
+        "lat": 34.4593,
+        "lng": 140.0056,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8326,8 +8326,8 @@
       {
         "name": "Apo岛，菲律宾",
         "country": "PH",
-        "lat": 9.07,
-        "lng": 123.27,
+        "lat": 8.7042,
+        "lng": 123.7256,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8344,8 +8344,8 @@
       {
         "name": "Gili岛s，印度尼西亚",
         "country": "ID",
-        "lat": -8.464993495912074,
-        "lng": 115.60494081333925,
+        "lat": -7.9348,
+        "lng": 115.6466,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8374,8 +8374,8 @@
       {
         "name": "哥斯达黎加 (Pacific coast)",
         "country": "CR",
-        "lat": 9.5,
-        "lng": -84.5,
+        "lat": 9.4982,
+        "lng": -84.5006,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -8413,8 +8413,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.8845726448435147,
-        "lng": 125.71252759398305,
+        "lat": 1.2117,
+        "lng": 126.3151,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8423,8 +8423,8 @@
         "hotspotId": "tubbataha_philippines",
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.8806,
-        "lng": 120.9482,
+        "lat": 13.6928,
+        "lng": 121.7974,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8433,8 +8433,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.5644720311672072,
-        "lng": 130.5805286456315,
+        "lat": -0.0955,
+        "lng": 128.748,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8464,8 +8464,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.320717698369325,
-        "lng": 130.36263476324,
+        "lat": -2.0229,
+        "lng": 130.0652,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8473,8 +8473,8 @@
       {
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.8407,
-        "lng": 120.6177,
+        "lat": 15.0276,
+        "lng": 119.929,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8503,8 +8503,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 52.232,
-        "lng": -0.5018,
+        "lat": 53.1694,
+        "lng": -0.6272,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8512,8 +8512,8 @@
       {
         "name": "Gulf of 加利福尼亚，墨西哥",
         "country": "MX",
-        "lat": 26.701906504087926,
-        "lng": -111.20155918666075,
+        "lat": 26.3807,
+        "lng": -111.336,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -8543,8 +8543,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 6.423464572251034,
-        "lng": 134.11959020818847,
+        "lat": 5.7992,
+        "lng": 134.6563,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -8561,8 +8561,8 @@
       {
         "name": "Waikiki 水族馆，夏威夷",
         "country": "US",
-        "lat": 21.400206504087926,
-        "lng": -158.19835918666075,
+        "lat": 21.1099,
+        "lng": -158.6779,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8609,8 +8609,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.4338,
-        "lng": -0.6937,
+        "lat": 51.4437,
+        "lng": -1.0321,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8641,8 +8641,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 37.60624791750983,
-        "lng": -122.60086614573788,
+        "lat": 37.8101,
+        "lng": -122.5357,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8650,8 +8650,8 @@
       {
         "name": "俄勒冈海岸 水族馆",
         "country": "US",
-        "lat": 44.8723,
-        "lng": -124.0964,
+        "lat": 44.9662,
+        "lng": -124.4378,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8659,8 +8659,8 @@
       {
         "name": "蒙特雷湾 (wild)",
         "country": "US",
-        "lat": 37.16380650408792,
-        "lng": -122.17125918666075,
+        "lat": 38.3341,
+        "lng": -122.0905,
         "season": "Jul-Oct",
         "reliability": "seasonal",
         "activity": "shore"
@@ -8698,8 +8698,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.24993869235175,
-        "lng": -121.01498828983522,
+        "lat": 35.8739,
+        "lng": -120.3959,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8728,8 +8728,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.0290386923517456,
-        "lng": 125.96581171016479,
+        "lat": 1.0741,
+        "lng": 127.1877,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8738,8 +8738,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.486482675208553,
-        "lng": 147.82383916567198,
+        "lat": -18.3088,
+        "lng": 148.6974,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -8748,8 +8748,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.642614345861258,
-        "lng": 33.95366250525587,
+        "lat": 26.5892,
+        "lng": 35.7738,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8778,8 +8778,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 0.6813,
-        "lng": 125.2808,
+        "lat": -0.7059,
+        "lng": 125.6569,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8787,8 +8787,8 @@
       {
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.858606504087925,
-        "lng": 119.85974081333924,
+        "lat": 13.978,
+        "lng": 119.215,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8797,8 +8797,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.5335065040879257,
-        "lng": 73.13094081333925,
+        "lat": 4.2691,
+        "lng": 74.1672,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -8828,8 +8828,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 2.5496110962989214,
-        "lng": 125.66504448352532,
+        "lat": 3.6491,
+        "lng": 125.5925,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8837,8 +8837,8 @@
       {
         "name": "Milne湾，巴布亚新几内亚",
         "country": "PG",
-        "lat": -10.5008,
-        "lng": 150.6941,
+        "lat": -10.8417,
+        "lng": 150.8831,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -8868,8 +8868,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.9762,
-        "lng": 125.845,
+        "lat": 2.8611,
+        "lng": 126.0435,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8878,8 +8878,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.197106504087927,
-        "lng": 32.72714081333924,
+        "lat": 27.1457,
+        "lng": 32.9016,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8888,8 +8888,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.662293495912074,
-        "lng": 147.14164081333922,
+        "lat": -17.24,
+        "lng": 146.0446,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -8920,8 +8920,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.1728,
-        "lng": 32.9812,
+        "lat": 25.6158,
+        "lng": 32.1383,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8930,8 +8930,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.6024932923748265,
-        "lng": 72.14468998961334,
+        "lat": 1.1096,
+        "lng": 72.2324,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8940,8 +8940,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.577369226141865,
-        "lng": 147.72314279292368,
+        "lat": -18.7716,
+        "lng": 146.2795,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -8971,8 +8971,8 @@
       {
         "name": "Roatan，Honduras",
         "country": "HN",
-        "lat": 16.1417,
-        "lng": -86.3089,
+        "lat": 15.5812,
+        "lng": -86.1845,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -8980,8 +8980,8 @@
       {
         "name": "大开曼岛",
         "country": "KY",
-        "lat": 19.239986787601328,
-        "lng": -81.12646682547181,
+        "lat": 19.4795,
+        "lng": -81.5904,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9012,8 +9012,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 28.151347917509828,
-        "lng": 33.411133854262125,
+        "lat": 27.9514,
+        "lng": 34.3876,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9021,8 +9021,8 @@
       {
         "name": "科莫多，印度尼西亚",
         "country": "ID",
-        "lat": -8.7829,
-        "lng": 119.6319,
+        "lat": -9.1228,
+        "lng": 119.8009,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9030,8 +9030,8 @@
       {
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.834238692351745,
-        "lng": 121.15721171016479,
+        "lat": 13.385,
+        "lng": 121.0797,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9060,8 +9060,8 @@
       {
         "name": "蒙特雷湾 (deep-sea)",
         "country": "US",
-        "lat": 36.07050650408792,
-        "lng": -122.13605918666075,
+        "lat": 34.9265,
+        "lng": -122.1569,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9069,8 +9069,8 @@
       {
         "name": "Tasmania，澳大利亚",
         "country": "AU",
-        "lat": -42.81249349591207,
-        "lng": 147.28284081333922,
+        "lat": -43.2497,
+        "lng": 147.3364,
         "season": "year-round",
         "reliability": "seasonal",
         "activity": "diving"
@@ -9099,8 +9099,8 @@
       {
         "name": "波斯湾（阿联酋）",
         "country": "AE",
-        "lat": 24.6078,
-        "lng": 54.6792,
+        "lat": 24.9408,
+        "lng": 54.4535,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9139,8 +9139,8 @@
       {
         "name": "Port Phillip湾，Melbourne",
         "country": "AU",
-        "lat": -38.4438,
-        "lng": 145.0676,
+        "lat": -38.7098,
+        "lng": 145.2005,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9148,8 +9148,8 @@
       {
         "name": "Tasmania，澳大利亚",
         "country": "AU",
-        "lat": -42.3963,
-        "lng": 147.0771,
+        "lat": -42.2593,
+        "lng": 146.667,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9179,8 +9179,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.399506504087924,
-        "lng": -122.70195918666076,
+        "lat": 37.0812,
+        "lng": -123.1477,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9188,8 +9188,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.838106504087925,
-        "lng": -0.8904591866607574,
+        "lat": 52.3001,
+        "lng": -1.1548,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9219,8 +9219,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 50.9179,
-        "lng": -0.8885,
+        "lat": 50.4517,
+        "lng": -1.04,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9228,8 +9228,8 @@
       {
         "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
-        "lat": 38.510806504087924,
-        "lng": -76.91805918666076,
+        "lat": 38.2232,
+        "lng": -77.2195,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9259,8 +9259,8 @@
       {
         "name": "挪威峡湾",
         "country": "NO",
-        "lat": 60.8564,
-        "lng": 6.4889,
+        "lat": 60.6598,
+        "lng": 6.8337,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9268,8 +9268,8 @@
       {
         "name": "Loch Fyne，苏格兰",
         "country": "GB",
-        "lat": 56.2539,
-        "lng": -5.2215,
+        "lat": 56.5894,
+        "lng": -4.9202,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9300,8 +9300,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -19.130816607307317,
-        "lng": 148.11799089633953,
+        "lat": -19.348,
+        "lng": 148.8762,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9310,8 +9310,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.658436938265876,
-        "lng": 34.90597994002321,
+        "lat": 27.902,
+        "lng": 35.6454,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9320,8 +9320,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.1854386923517457,
-        "lng": 73.45221171016479,
+        "lat": 1.5717,
+        "lng": 74.0694,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9351,8 +9351,8 @@
       {
         "name": "Kona，夏威夷",
         "country": "US",
-        "lat": 19.75283612802612,
-        "lng": -156.43267416195167,
+        "lat": 19.4991,
+        "lng": -156.241,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -9361,8 +9361,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.297142551775288,
-        "lng": 33.61305082609583,
+        "lat": 27.3198,
+        "lng": 35.0688,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9371,8 +9371,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.223269341765612,
-        "lng": 73.39042031118399,
+        "lat": 4.1845,
+        "lng": 73.1508,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9402,8 +9402,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.4468812048999073,
-        "lng": 124.61144199846156,
+        "lat": 2.258,
+        "lng": 124.47,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9411,8 +9411,8 @@
       {
         "name": "Osezaki，日本",
         "country": "JP",
-        "lat": 35.0899,
-        "lng": 138.6766,
+        "lat": 35.5439,
+        "lng": 138.3111,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9441,8 +9441,8 @@
       {
         "name": "科苏梅尔，墨西哥",
         "country": "MX",
-        "lat": 20.887996156814747,
-        "lng": -87.33501258623248,
+        "lat": 21.0776,
+        "lng": -87.3615,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9450,8 +9450,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 11.6955,
-        "lng": -68.2384,
+        "lat": 12.4218,
+        "lng": -68.37,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9480,8 +9480,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.403186025970405,
-        "lng": 125.20667410587404,
+        "lat": 2.0072,
+        "lng": 125.9903,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9489,8 +9489,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 11.430106504087926,
-        "lng": -68.44165918666076,
+        "lat": 10.7007,
+        "lng": -68.5541,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9498,8 +9498,8 @@
       {
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 14.326,
-        "lng": 121.0349,
+        "lat": 14.7241,
+        "lng": 121.1376,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9528,8 +9528,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.328706504087926,
-        "lng": 124.53784081333924,
+        "lat": 1.2154,
+        "lng": 124.0696,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9538,8 +9538,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 28.35624791750983,
-        "lng": 33.58283385426213,
+        "lat": 28.3867,
+        "lng": 34.0645,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9568,8 +9568,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 0.7994065040879259,
-        "lng": 125.28994081333924,
+        "lat": 0.1943,
+        "lng": 125.7432,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9578,8 +9578,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.807523372106072,
-        "lng": 34.461536352043325,
+        "lat": 29.1576,
+        "lng": 33.0475,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9588,8 +9588,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.8965300450032574,
-        "lng": 70.76323012516782,
+        "lat": 4.6436,
+        "lng": 70.5978,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9619,8 +9619,8 @@
       {
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.202806504087926,
-        "lng": 120.37694081333925,
+        "lat": 12.7951,
+        "lng": 120.1944,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9628,8 +9628,8 @@
       {
         "name": "冲绳，日本",
         "country": "JP",
-        "lat": 26.242638692351747,
-        "lng": 128.6842117101648,
+        "lat": 26.5513,
+        "lng": 129.5032,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9637,8 +9637,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.0560386923517455,
-        "lng": 125.30281171016479,
+        "lat": 0.8171,
+        "lng": 125.1783,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9668,8 +9668,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.224006504087926,
-        "lng": 124.10394081333925,
+        "lat": 1.2783,
+        "lng": 123.0438,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9677,8 +9677,8 @@
       {
         "name": "Anilao，菲律宾",
         "country": "PH",
-        "lat": 13.853406504087927,
-        "lng": 120.81294081333925,
+        "lat": 14.0093,
+        "lng": 120.2225,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9687,8 +9687,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.529268551618492,
-        "lng": 72.71181078776871,
+        "lat": 2.7258,
+        "lng": 71.8096,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9718,8 +9718,8 @@
       {
         "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
-        "lat": 1.3673959397755497,
-        "lng": 125.02127150142631,
+        "lat": 1.7801,
+        "lng": 125.1406,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9727,8 +9727,8 @@
       {
         "name": "Dauin，菲律宾",
         "country": "PH",
-        "lat": 9.003706504087926,
-        "lng": 123.08294081333925,
+        "lat": 8.9498,
+        "lng": 122.5608,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9758,8 +9758,8 @@
       {
         "name": "Enoshima 水族馆，日本",
         "country": "JP",
-        "lat": 35.4586,
-        "lng": 139.5061,
+        "lat": 35.5485,
+        "lng": 139.4042,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9767,8 +9767,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.766338692351745,
-        "lng": -121.18968828983522,
+        "lat": 37.6534,
+        "lng": -120.4837,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9776,8 +9776,8 @@
       {
         "name": "Toba 水族馆，日本",
         "country": "JP",
-        "lat": 34.48,
-        "lng": 136.84,
+        "lat": 34.4179,
+        "lng": 136.5626,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9786,8 +9786,8 @@
         "hotspotId": "deep_sea_mid_atlantic",
         "name": "大西洋中脊",
         "country": null,
-        "lat": 37.1715,
-        "lng": -32.5824,
+        "lat": 36.8915,
+        "lng": -32.8679,
         "season": "year-round",
         "reliability": "low",
         "activity": "aquarium"
@@ -9816,8 +9816,8 @@
       {
         "name": "蒙特雷湾 水族馆 (video exhibits)",
         "country": "US",
-        "lat": 35.78203869235175,
-        "lng": -121.49878828983522,
+        "lat": 35.5237,
+        "lng": -121.1772,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9825,8 +9825,8 @@
       {
         "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
-        "lat": 39.0236,
-        "lng": -76.5899,
+        "lat": 39.1532,
+        "lng": -76.4852,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -9855,8 +9855,8 @@
       {
         "name": "Gran Canaria，Spain",
         "country": "ES",
-        "lat": 28.0286,
-        "lng": -15.8063,
+        "lat": 27.5637,
+        "lng": -16.367,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9864,8 +9864,8 @@
       {
         "name": "Sardinia，Italy",
         "country": "IT",
-        "lat": 40.1459,
-        "lng": 9.0916,
+        "lat": 40.1173,
+        "lng": 8.6403,
         "season": "May-Oct",
         "reliability": "high",
         "activity": "diving"
@@ -9895,8 +9895,8 @@
       {
         "name": "亚速尔群岛，葡萄牙",
         "country": "PT",
-        "lat": 37.258906504087925,
-        "lng": -26.64335918666076,
+        "lat": 36.9863,
+        "lng": -26.81,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9936,8 +9936,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.386906504087925,
-        "lng": 33.41194081333924,
+        "lat": 25.4226,
+        "lng": 33.2297,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9946,8 +9946,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.814550604690353,
-        "lng": 70.764744860976,
+        "lat": 3.6172,
+        "lng": 70.0536,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9955,8 +9955,8 @@
       {
         "name": "Rangiroa，French Polynesia",
         "country": "PF",
-        "lat": -15.3777,
-        "lng": -147.5212,
+        "lat": -15.7265,
+        "lng": -147.3761,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9987,8 +9987,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.829506504087927,
-        "lng": 32.69804081333924,
+        "lat": 28.0435,
+        "lng": 31.5964,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -9996,8 +9996,8 @@
       {
         "name": "巴厘岛，印度尼西亚",
         "country": "ID",
-        "lat": -8.678093495912075,
-        "lng": 115.24404081333925,
+        "lat": -8.9157,
+        "lng": 115.0507,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10026,8 +10026,8 @@
       {
         "name": "蒙特雷湾 (offshore)",
         "country": "US",
-        "lat": 35.73280212054847,
-        "lng": -122.14170437169464,
+        "lat": 35.0505,
+        "lng": -123.4119,
         "season": "year-round",
         "reliability": "seasonal",
         "activity": "diving"
@@ -10065,8 +10065,8 @@
       {
         "name": "La Jolla，加利福尼亚",
         "country": "US",
-        "lat": 32.6947,
-        "lng": -117.5788,
+        "lat": 32.159,
+        "lng": -117.583,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10075,8 +10075,8 @@
         "hotspotId": "channel_islands",
         "name": "Channel岛s，加利福尼亚",
         "country": "US",
-        "lat": 34.1115,
-        "lng": -119.7748,
+        "lat": 33.6717,
+        "lng": -120.1952,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10084,8 +10084,8 @@
       {
         "name": "Catalina岛，加利福尼亚",
         "country": "US",
-        "lat": 33.55,
-        "lng": -118.4205,
+        "lat": 33.659,
+        "lng": -118.2136,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10116,8 +10116,8 @@
         "hotspotId": "amazon_river",
         "name": "Rio Negro，巴西",
         "country": "BR",
-        "lat": -1.474593495912074,
-        "lng": -62.41765918666076,
+        "lat": -1.2665,
+        "lng": -62.2354,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -10156,8 +10156,8 @@
         "hotspotId": "lake_baikal",
         "name": "贝加尔湖 (central basin)",
         "country": "RU",
-        "lat": 53.5,
-        "lng": 108.0,
+        "lat": 53.7584,
+        "lng": 108.3525,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -10165,8 +10165,8 @@
       {
         "name": "Baikal 博物馆，Listvyanka",
         "country": "RU",
-        "lat": 51.8857,
-        "lng": 104.3128,
+        "lat": 52.2928,
+        "lng": 103.8725,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10195,8 +10195,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 12.3857,
-        "lng": -67.5828,
+        "lat": 12.9128,
+        "lng": -66.5956,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10204,8 +10204,8 @@
       {
         "name": "科苏梅尔，墨西哥",
         "country": "MX",
-        "lat": 20.0674,
-        "lng": -87.364,
+        "lat": 19.9919,
+        "lng": -88.3415,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10236,8 +10236,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.2581457068515417,
-        "lng": 130.7296300061932,
+        "lat": 0.288,
+        "lng": 130.6045,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10277,8 +10277,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 65.9588,
-        "lng": -16.1041,
+        "lat": 65.7213,
+        "lng": -15.4717,
         "season": "Jun-Aug",
         "reliability": "high",
         "activity": "whale_watching"
@@ -10287,8 +10287,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 67.8375,
-        "lng": 14.7094,
+        "lat": 67.1375,
+        "lng": 14.4115,
         "season": "Jun-Aug",
         "reliability": "high",
         "activity": "whale_watching"
@@ -10297,8 +10297,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "Ribbon礁s，澳大利亚",
         "country": "AU",
-        "lat": -15.5,
-        "lng": 145.8,
+        "lat": -15.4319,
+        "lng": 145.573,
         "season": "Jun-Jul",
         "reliability": "high",
         "activity": "snorkeling"
@@ -10306,8 +10306,8 @@
       {
         "name": "Isle of Mull，苏格兰",
         "country": "GB",
-        "lat": 56.6094,
-        "lng": -6.0252,
+        "lat": 56.7132,
+        "lng": -6.2935,
         "season": "May-Sep",
         "reliability": "high",
         "activity": "whale_watching"
@@ -10315,8 +10315,8 @@
       {
         "name": "Tadoussac，Quebec",
         "country": "CA",
-        "lat": 48.2106,
-        "lng": -70.2041,
+        "lat": 48.0876,
+        "lng": -70.5337,
         "season": "Jun-Oct",
         "reliability": "high",
         "activity": "whale_watching"
@@ -10346,8 +10346,8 @@
         "hotspotId": "azores",
         "name": "亚速尔群岛",
         "country": "PT",
-        "lat": 37.5506,
-        "lng": -25.0539,
+        "lat": 37.0858,
+        "lng": -24.7974,
         "season": "Jun-Oct",
         "reliability": "high",
         "activity": "diving"
@@ -10356,8 +10356,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Cape Town，南非",
         "country": "ZA",
-        "lat": -33.93,
-        "lng": 18.42,
+        "lat": -33.9115,
+        "lng": 18.3935,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10365,8 +10365,8 @@
       {
         "name": "Penzance，Cornwall",
         "country": "GB",
-        "lat": 50.12,
-        "lng": -5.69,
+        "lat": 50.0587,
+        "lng": -5.9515,
         "season": "Jun-Oct",
         "reliability": "medium",
         "activity": "diving"
@@ -10374,8 +10374,8 @@
       {
         "name": "San Diego，加利福尼亚",
         "country": "US",
-        "lat": 32.9092,
-        "lng": -117.2183,
+        "lat": 33.3141,
+        "lng": -117.1165,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -10414,8 +10414,8 @@
       {
         "name": "蒙特雷湾 水族馆 (deep-sea exhibit)",
         "country": "US",
-        "lat": 36.274438692351744,
-        "lng": -121.96538828983522,
+        "lat": 35.6249,
+        "lng": -122.7987,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10423,8 +10423,8 @@
       {
         "name": "Suruga湾，日本",
         "country": "JP",
-        "lat": 34.77460650408793,
-        "lng": 137.83274081333923,
+        "lat": 34.5843,
+        "lng": 137.6954,
         "season": "year-round",
         "reliability": "medium",
         "activity": "aquarium"
@@ -10432,8 +10432,8 @@
       {
         "name": "Tokyo海 Life Park",
         "country": "JP",
-        "lat": 35.4874,
-        "lng": 140.1005,
+        "lat": 35.4893,
+        "lng": 140.5778,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10441,8 +10441,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.4838,
-        "lng": 0.6656,
+        "lat": 52.6313,
+        "lng": 1.4575,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10450,8 +10450,8 @@
       {
         "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
-        "lat": 27.151136175001092,
-        "lng": 127.5006944044472,
+        "lat": 27.6631,
+        "lng": 127.3626,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10482,8 +10482,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.419453511619217,
-        "lng": 147.86749165880832,
+        "lat": -17.1995,
+        "lng": 148.2519,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10491,8 +10491,8 @@
       {
         "name": "科莫多，印度尼西亚",
         "country": "ID",
-        "lat": -8.3952,
-        "lng": 119.4392,
+        "lat": -8.0553,
+        "lng": 119.2702,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10501,8 +10501,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.29067538866797,
-        "lng": 35.41051912052271,
+        "lat": 27.3119,
+        "lng": 36.5593,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10533,8 +10533,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.9364386923517456,
-        "lng": 73.53461171016478,
+        "lat": 2.5404,
+        "lng": 74.0182,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10543,8 +10543,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.50435708195365,
-        "lng": 33.577923729248354,
+        "lat": 26.26,
+        "lng": 33.8322,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10553,8 +10553,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -2.2206769625651055,
-        "lng": 130.4968990517135,
+        "lat": -2.3953,
+        "lng": 130.8672,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10584,8 +10584,8 @@
       {
         "name": "Suruga湾，日本",
         "country": "JP",
-        "lat": 34.7666,
-        "lng": 138.8868,
+        "lat": 34.3866,
+        "lng": 138.8542,
         "season": "year-round",
         "reliability": "medium",
         "activity": "aquarium"
@@ -10593,8 +10593,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.0544,
-        "lng": 0.8612,
+        "lat": 50.5413,
+        "lng": 1.5398,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10624,8 +10624,8 @@
       {
         "name": "夏威夷 (deep-sea fishing)",
         "country": "US",
-        "lat": 20.0,
-        "lng": -157.0,
+        "lat": 20.0135,
+        "lng": -157.0684,
         "season": "year-round",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -10633,8 +10633,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.676638692351744,
-        "lng": -121.55718828983521,
+        "lat": 36.7529,
+        "lng": -120.8377,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10664,8 +10664,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.97654791750983,
-        "lng": -122.63766614573788,
+        "lat": 36.6058,
+        "lng": -122.3618,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10673,8 +10673,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.7913,
-        "lng": 0.8434,
+        "lat": 51.6346,
+        "lng": 1.8655,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10703,8 +10703,8 @@
       {
         "name": "Canary岛s (shells on beach)",
         "country": "ES",
-        "lat": 28.088806504087927,
-        "lng": -15.877759186660757,
+        "lat": 28.6392,
+        "lng": -15.8813,
         "season": "year-round",
         "reliability": "seasonal",
         "activity": "shore"
@@ -10712,8 +10712,8 @@
       {
         "name": "Natural History 博物馆，London",
         "country": "GB",
-        "lat": 51.7517,
-        "lng": 0.2911,
+        "lat": 51.5191,
+        "lng": 0.7573,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10743,8 +10743,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.5448923396848584,
-        "lng": 72.79085336492902,
+        "lat": 1.8493,
+        "lng": 72.3002,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10753,8 +10753,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 27.19236336567818,
-        "lng": 33.66208085580483,
+        "lat": 26.6071,
+        "lng": 34.5648,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10762,8 +10762,8 @@
       {
         "name": "仙本那，马来西亚",
         "country": "MY",
-        "lat": 4.3885,
-        "lng": 118.8858,
+        "lat": 4.9029,
+        "lng": 119.3276,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10794,8 +10794,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.335306504087924,
-        "lng": 33.139940813339244,
+        "lat": 26.3882,
+        "lng": 32.2854,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10804,8 +10804,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.7546021205484745,
-        "lng": 73.27669562830536,
+        "lat": 3.5317,
+        "lng": 73.4747,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -10814,8 +10814,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.912561307648254,
-        "lng": 147.6363117101648,
+        "lat": -20.235,
+        "lng": 148.0258,
         "season": "year-round",
         "reliability": "high",
         "activity": "snorkeling"
@@ -10845,8 +10845,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 12.086580936391961,
-        "lng": -68.28979862064178,
+        "lat": 12.3505,
+        "lng": -67.4229,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10886,8 +10886,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾 (MBARI deep dives)",
         "country": "US",
-        "lat": 35.67910212054847,
-        "lng": -123.06090437169465,
+        "lat": 35.9602,
+        "lng": -121.7167,
         "season": "year-round",
         "reliability": "medium",
         "activity": "aquarium"
@@ -10895,8 +10895,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 37.809847917509835,
-        "lng": -121.54116614573788,
+        "lat": 37.3944,
+        "lng": -121.7744,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -10926,8 +10926,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.1094,
-        "lng": 147.2392,
+        "lat": -17.0743,
+        "lng": 146.9527,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10936,8 +10936,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海，埃及",
         "country": "EG",
-        "lat": 26.22481161292109,
-        "lng": 33.63927066510167,
+        "lat": 26.6447,
+        "lng": 33.2109,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10945,8 +10945,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 11.828406504087926,
-        "lng": -68.19405918666075,
+        "lat": 11.5003,
+        "lng": -68.0931,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10976,8 +10976,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.003163929248801,
-        "lng": 130.59788817137743,
+        "lat": -0.931,
+        "lng": 131.2468,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10986,8 +10986,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 4.127075388667973,
-        "lng": 74.6479191205227,
+        "lat": 4.4773,
+        "lng": 75.9324,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11016,8 +11016,8 @@
       {
         "name": "科苏梅尔",
         "country": "MX",
-        "lat": 19.929,
-        "lng": -86.5698,
+        "lat": 20.8062,
+        "lng": -86.0234,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11025,8 +11025,8 @@
       {
         "name": "伯利兹堡礁",
         "country": "BZ",
-        "lat": 17.782084898242257,
-        "lng": -88.00361378933871,
+        "lat": 17.2113,
+        "lng": -87.9145,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11035,8 +11035,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海",
         "country": "EG",
-        "lat": 28.42794791750983,
-        "lng": 34.050633854262124,
+        "lat": 29.469,
+        "lng": 33.8996,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11065,8 +11065,8 @@
       {
         "name": "科苏梅尔",
         "country": "MX",
-        "lat": 20.0257,
-        "lng": -87.0062,
+        "lat": 20.1867,
+        "lng": -86.9188,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11075,8 +11075,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -19.138593495912072,
-        "lng": 147.18484081333924,
+        "lat": -19.5071,
+        "lng": 147.7085,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11106,8 +11106,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": 0.20184791750982978,
-        "lng": 130.10893385426215,
+        "lat": 1.3104,
+        "lng": 129.9225,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11116,8 +11116,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.316306504087926,
-        "lng": 133.73454081333924,
+        "lat": 7.2138,
+        "lng": 132.9943,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11147,8 +11147,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -17.60385208249017,
-        "lng": 147.20323385426215,
+        "lat": -17.81,
+        "lng": 147.7948,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11157,8 +11157,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 2.647238692351746,
-        "lng": 73.07101171016478,
+        "lat": 2.1353,
+        "lng": 73.3443,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11188,8 +11188,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 6.748195179784809,
-        "lng": 134.09703649503254,
+        "lat": 6.2042,
+        "lng": 133.7754,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11198,8 +11198,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.9879520824901702,
-        "lng": 130.22923385426213,
+        "lat": -1.4063,
+        "lng": 129.3698,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11207,8 +11207,8 @@
       {
         "name": "冲绳",
         "country": "JP",
-        "lat": 26.132886956782418,
-        "lng": 128.10197107759413,
+        "lat": 25.8037,
+        "lng": 128.6683,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11237,8 +11237,8 @@
       {
         "name": "夏威夷",
         "country": "US",
-        "lat": 19.298820064371405,
-        "lng": -155.35256307273517,
+        "lat": 20.0176,
+        "lng": -155.2218,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -11247,8 +11247,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海",
         "country": "EG",
-        "lat": 27.469638692351747,
-        "lng": 33.73821171016479,
+        "lat": 27.4926,
+        "lng": 32.2452,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -11277,8 +11277,8 @@
       {
         "name": "撒丁岛",
         "country": "IT",
-        "lat": 39.23,
-        "lng": 9.12,
+        "lat": 39.0222,
+        "lng": 9.1167,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -11316,8 +11316,8 @@
       {
         "name": "伯利兹堡礁",
         "country": "BZ",
-        "lat": 17.808943971763902,
-        "lng": -88.1638519412588,
+        "lat": 18.0943,
+        "lng": -88.5509,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11325,8 +11325,8 @@
       {
         "name": "博奈尔岛",
         "country": "BQ",
-        "lat": 12.327506504087927,
-        "lng": -69.33225918666075,
+        "lat": 13.1247,
+        "lng": -69.2553,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11334,8 +11334,8 @@
       {
         "name": "库拉索岛",
         "country": "CW",
-        "lat": 11.821506504087926,
-        "lng": -69.26235918666075,
+        "lat": 11.97,
+        "lng": -69.3901,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -11365,8 +11365,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -18.248393495912076,
-        "lng": 146.53764081333924,
+        "lat": -17.9948,
+        "lng": 146.5401,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11375,8 +11375,8 @@
         "hotspotId": "sipadan_malaysia",
         "name": "仙本那",
         "country": "MY",
-        "lat": 4.5353,
-        "lng": 118.4219,
+        "lat": 5.2641,
+        "lng": 118.2559,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11406,8 +11406,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -0.3154520824901701,
-        "lng": 130.01393385426215,
+        "lat": 0.2401,
+        "lng": 129.5902,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11416,8 +11416,8 @@
         "hotspotId": "maldives",
         "name": "马尔代夫",
         "country": "MV",
-        "lat": 3.8047753886679727,
-        "lng": 73.7588191205227,
+        "lat": 2.8508,
+        "lng": 72.7107,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11447,8 +11447,8 @@
         "hotspotId": "great_barrier_reef",
         "name": "大堡礁",
         "country": "AU",
-        "lat": -19.531797879451524,
-        "lng": 147.54589562830535,
+        "lat": -18.7458,
+        "lng": 147.3,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11457,8 +11457,8 @@
         "hotspotId": "red_sea_egypt",
         "name": "红海",
         "country": "EG",
-        "lat": 27.77504791750983,
-        "lng": 33.90583385426213,
+        "lat": 28.2001,
+        "lng": 33.0565,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11467,8 +11467,8 @@
         "hotspotId": "sipadan_malaysia",
         "name": "仙本那",
         "country": "MY",
-        "lat": 4.140306504087926,
-        "lng": 118.23114081333925,
+        "lat": 4.1064,
+        "lng": 118.1399,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11498,8 +11498,8 @@
         "hotspotId": "raja_ampat",
         "name": "拉贾安帕",
         "country": "ID",
-        "lat": -1.5480565436714808,
-        "lng": 130.29051213110625,
+        "lat": -0.8042,
+        "lng": 130.2819,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -11508,8 +11508,8 @@
         "hotspotId": "palau",
         "name": "帕劳",
         "country": "PW",
-        "lat": 7.343506504087926,
-        "lng": 134.03604081333924,
+        "lat": 7.2965,
+        "lng": 134.0328,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
