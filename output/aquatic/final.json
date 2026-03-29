@@ -33,8 +33,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 66.0963,
-        "lng": -18.4622,
+        "lat": 66.61142210442584,
+        "lng": -19.13370098410435,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -121,8 +121,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 68.0059,
-        "lng": 13.6628,
+        "lat": 67.92153437611778,
+        "lng": 13.572282066517108,
         "season": "Oct-Jan",
         "reliability": "high",
         "activity": "whale_watching"
@@ -131,8 +131,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -65.5652,
-        "lng": -62.8771,
+        "lat": -65.51981812332937,
+        "lng": -63.47694501122578,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "whale_watching"
@@ -208,8 +208,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 68.7158,
-        "lng": 15.7892,
+        "lat": 68.70801803689433,
+        "lng": 15.885073174512792,
         "season": "Oct-Jan",
         "reliability": "high",
         "activity": "whale_watching"
@@ -218,8 +218,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 66.3502,
-        "lng": -17.6039,
+        "lat": 66.10862141532657,
+        "lng": -17.319387043855972,
         "season": "Jun-Aug",
         "reliability": "high",
         "activity": "whale_watching"
@@ -238,8 +238,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -64.852,
-        "lng": -63.9056,
+        "lat": -64.83497013719985,
+        "lng": -63.92844939696855,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "whale_watching"
@@ -266,8 +266,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非 Wild海岸",
         "country": "ZA",
-        "lat": -30.7849,
-        "lng": 28.6642,
+        "lat": -30.688416681574605,
+        "lng": 28.382730875161112,
         "season": "Jun-Jul",
         "reliability": "seasonal",
         "activity": "whale_watching"
@@ -1348,8 +1348,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Protea Banks，南非",
         "country": "ZA",
-        "lat": -30.2079,
-        "lng": 30.0252,
+        "lat": -30.052960469875906,
+        "lng": 28.617915820921862,
         "season": "Oct-May",
         "reliability": "medium",
         "activity": "diving"
@@ -1389,8 +1389,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Aliwal Shoal，南非",
         "country": "ZA",
-        "lat": -30.0468,
-        "lng": 31.1808,
+        "lat": -30.624213514251327,
+        "lng": 31.772584648166003,
         "season": "Nov-Jun",
         "reliability": "high",
         "activity": "diving"
@@ -1469,8 +1469,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "Protea Banks，南非",
         "country": "ZA",
-        "lat": -31.2,
-        "lng": 30.9446,
+        "lat": -31.417600611349595,
+        "lng": 31.17977407592393,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -1537,8 +1537,8 @@
       {
         "name": "West海岸，Ireland",
         "country": "IE",
-        "lat": 53.3,
-        "lng": -9.8,
+        "lat": 53.7286603831518,
+        "lng": -9.81964449668685,
         "season": "May-Aug",
         "reliability": "high",
         "activity": "whale_watching"
@@ -1557,8 +1557,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 65.6981,
-        "lng": -19.4636,
+        "lat": 65.95947620029739,
+        "lng": -19.52007932200427,
         "season": "Jun-Aug",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -1753,8 +1753,8 @@
       {
         "name": "Snow Hill岛，Antarctica",
         "country": "AQ",
-        "lat": -64.5,
-        "lng": -57.17,
+        "lat": -64.41182656460255,
+        "lng": -56.93676704185192,
         "season": "Nov-Dec",
         "reliability": "seasonal",
         "activity": "shore"
@@ -1762,8 +1762,8 @@
       {
         "name": "Coulman岛，Antarctica",
         "country": "AQ",
-        "lat": -73.37,
-        "lng": 169.75,
+        "lat": -73.42305554411446,
+        "lng": 169.7225879688742,
         "season": "Oct-Feb",
         "reliability": "seasonal",
         "activity": "shore"
@@ -1888,8 +1888,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 66.5509,
-        "lng": -16.2514,
+        "lat": 66.2827249809819,
+        "lng": -15.738848869868063,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "whale_watching"
@@ -2343,8 +2343,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 34.9469,
-        "lng": -124.3942,
+        "lat": 34.925408973474916,
+        "lng": -124.59797061154043,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -3091,8 +3091,8 @@
         "hotspotId": "husavik_iceland",
         "name": "Vatnsnes，冰岛",
         "country": "IS",
-        "lat": 65.5989,
-        "lng": -20.6426,
+        "lat": 65.98384414034389,
+        "lng": -20.617502002597128,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3100,8 +3100,8 @@
       {
         "name": "Isle of Skye，苏格兰",
         "country": "GB",
-        "lat": 57.8607,
-        "lng": -6.2715,
+        "lat": 57.91425695208997,
+        "lng": -6.432076538185815,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3128,8 +3128,8 @@
       {
         "name": "Wadden海，Netherlands",
         "country": "NL",
-        "lat": 53.7765,
-        "lng": 5.1302,
+        "lat": 53.57708243052533,
+        "lng": 5.3216545371374595,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3187,8 +3187,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非 (sardine run)",
         "country": "ZA",
-        "lat": -32.9046,
-        "lng": 29.4083,
+        "lat": -33.018263865988516,
+        "lng": 29.48085609156194,
         "season": "Jun-Jul",
         "reliability": "seasonal",
         "activity": "diving"
@@ -3326,8 +3326,8 @@
         "hotspotId": "south_africa_sardine_run",
         "name": "南非 (sardine run)",
         "country": "ZA",
-        "lat": -31.3071,
-        "lng": 29.7762,
+        "lat": -31.87264351745803,
+        "lng": 29.767747509453656,
         "season": "Jun-Jul",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3335,8 +3335,8 @@
       {
         "name": "Algarve，葡萄牙",
         "country": "PT",
-        "lat": 36.4093,
-        "lng": -7.885,
+        "lat": 36.69173706922375,
+        "lng": -7.628126293653139,
         "season": "year-round",
         "reliability": "high",
         "activity": "whale_watching"
@@ -3353,8 +3353,8 @@
       {
         "name": "Patagonia，阿根廷",
         "country": "AR",
-        "lat": -41.9133,
-        "lng": -64.3224,
+        "lat": -42.302833264220766,
+        "lng": -64.346517863101,
         "season": "year-round",
         "reliability": "medium",
         "activity": "whale_watching"
@@ -3450,8 +3450,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "South Georgia岛",
         "country": "GS",
-        "lat": -53.5523,
-        "lng": -36.6477,
+        "lat": -53.77775079778291,
+        "lng": -37.057519289422345,
         "season": "Oct-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -3540,6 +3540,1005 @@
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.72,
+        "lng": -59.17,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.43,
+        "lng": -60.87,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.29,
+        "lng": -59.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.63,
+        "lng": -62.72,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.16,
+        "lng": -59.14,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.61,
+        "lng": -61.46,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.79,
+        "lng": -59.99,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.66,
+        "lng": -60.81,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.43,
+        "lng": -60.61,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.61,
+        "lng": -61.48,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.52,
+        "lng": -59.23,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.04,
+        "lng": -56.01,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.03,
+        "lng": -52.76,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.01,
+        "lng": -62.03,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -70.28,
+        "lng": -56.75,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -59.63,
+        "lng": -63.57,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.23,
+        "lng": -58.67,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.1,
+        "lng": -66.42,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.97,
+        "lng": -61.32,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -69.17,
+        "lng": -59.49,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -69.75,
+        "lng": -62.06,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -71.19,
+        "lng": -63.57,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.53,
+        "lng": -65.39,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.68,
+        "lng": -60.32,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.61,
+        "lng": -59.96,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -59.97,
+        "lng": -32.65,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -55.99,
+        "lng": -35.65,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -52.89,
+        "lng": -36.28,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -53.73,
+        "lng": -32.45,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -55.95,
+        "lng": -36.93,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -54.34,
+        "lng": -34.73,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -55.2,
+        "lng": -35.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -53.77,
+        "lng": -35.91,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -55.88,
+        "lng": -39.31,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -57.11,
+        "lng": -31.71,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -55.3,
+        "lng": -29.22,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -56.13,
+        "lng": -36.06,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -55.14,
+        "lng": -32.23,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -55.46,
+        "lng": -35.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.16,
+        "lng": -57.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.11,
+        "lng": -58.08,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.74,
+        "lng": -58.31,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.65,
+        "lng": -58.63,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.27,
+        "lng": -56.24,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.79,
+        "lng": -56.07,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.85,
+        "lng": -55.23,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.43,
+        "lng": -54.84,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.21,
+        "lng": -62.06,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.54,
+        "lng": -58.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.81,
+        "lng": -57.99,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.34,
+        "lng": -59.89,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -67.18,
+        "lng": 76.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -63.53,
+        "lng": 65.56,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -68.46,
+        "lng": 68.82,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.27,
+        "lng": 70.07,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.41,
+        "lng": 70.43,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.45,
+        "lng": 66.17,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.3,
+        "lng": 72.83,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -68.76,
+        "lng": 74.73,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.32,
+        "lng": 69.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.58,
+        "lng": 73.67,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -70.11,
+        "lng": 66.12,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.59,
+        "lng": 69.53,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.42,
+        "lng": 73.12,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.04,
+        "lng": 66.42,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -72.85,
+        "lng": 69.58,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -67.98,
+        "lng": 68.89,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.38,
+        "lng": 70.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.83,
+        "lng": 63.93,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -70.12,
+        "lng": 168.73,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -70.0,
+        "lng": 165.55,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.74,
+        "lng": 165.13,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -68.04,
+        "lng": 168.76,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -70.07,
+        "lng": 168.22,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -67.03,
+        "lng": 168.55,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -70.31,
+        "lng": 170.77,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -68.34,
+        "lng": 170.57,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -70.21,
+        "lng": 177.15,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.68,
+        "lng": 171.58,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -68.64,
+        "lng": 172.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.31,
+        "lng": 167.62,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -72.8,
+        "lng": 175.88,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -71.35,
+        "lng": 163.81,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -69.41,
+        "lng": 164.13,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -72.17,
+        "lng": 170.37,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -74.09,
+        "lng": 172.34,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -69.71,
+        "lng": 166.73,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -65.94,
+        "lng": 170.66,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -66.33,
+        "lng": 173.62,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.85,
+        "lng": -116.16,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.94,
+        "lng": -122.37,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.86,
+        "lng": -120.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -58.32,
+        "lng": -115.08,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -56.89,
+        "lng": -122.64,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -58.91,
+        "lng": -122.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.17,
+        "lng": -119.72,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.96,
+        "lng": -119.88,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -54.68,
+        "lng": -117.52,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -59.0,
+        "lng": -117.59,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.01,
+        "lng": -125.01,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -56.93,
+        "lng": -118.43,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -58.6,
+        "lng": 26.87,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -60.98,
+        "lng": 31.06,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -63.58,
+        "lng": 30.74,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.15,
+        "lng": 30.42,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -61.54,
+        "lng": 29.45,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.15,
+        "lng": 25.68,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -59.05,
+        "lng": 28.51,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -59.7,
+        "lng": 29.77,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -62.6,
+        "lng": 28.75,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -64.42,
+        "lng": 29.05,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ],
     "display": {
@@ -3590,6 +4589,519 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 59.15,
+        "lng": -3.74,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 59.7,
+        "lng": -3.97,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 60.42,
+        "lng": -1.66,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 57.52,
+        "lng": -5.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 61.32,
+        "lng": -0.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 63.4,
+        "lng": -2.24,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 59.21,
+        "lng": -4.02,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 58.17,
+        "lng": -3.41,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 57.37,
+        "lng": -1.4,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 58.43,
+        "lng": -4.76,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 57.63,
+        "lng": -9.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 61.86,
+        "lng": -5.88,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 59.54,
+        "lng": -5.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 61.01,
+        "lng": -5.02,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 61.13,
+        "lng": -6.94,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 63.7,
+        "lng": -21.63,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 65.32,
+        "lng": -19.81,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 64.52,
+        "lng": -23.07,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 63.5,
+        "lng": -16.96,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 68.3,
+        "lng": -21.14,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 65.26,
+        "lng": -21.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 66.03,
+        "lng": -18.42,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 64.65,
+        "lng": -21.21,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 68.55,
+        "lng": -18.73,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 66.56,
+        "lng": -16.57,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 66.78,
+        "lng": -22.67,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 66.52,
+        "lng": -18.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 53.15,
+        "lng": -54.86,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 56.63,
+        "lng": -56.29,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 55.94,
+        "lng": -54.66,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 55.34,
+        "lng": -54.98,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 54.74,
+        "lng": -54.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 54.89,
+        "lng": -54.78,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 53.11,
+        "lng": -56.27,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 55.98,
+        "lng": -51.35,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 51.49,
+        "lng": -55.43,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 55.51,
+        "lng": -56.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 58.58,
+        "lng": 5.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 55.08,
+        "lng": 3.42,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 58.29,
+        "lng": 5.07,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 58.6,
+        "lng": 4.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 59.03,
+        "lng": 5.16,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 56.42,
+        "lng": 4.03,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 57.38,
+        "lng": 3.44,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 57.79,
+        "lng": 7.08,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 58.19,
+        "lng": 5.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 54.36,
+        "lng": 4.57,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 59.39,
+        "lng": 6.37,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 56.25,
+        "lng": 6.49,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 52.18,
+        "lng": -8.35,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 52.77,
+        "lng": -10.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 51.81,
+        "lng": -9.54,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 49.98,
+        "lng": -8.89,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 51.39,
+        "lng": -10.93,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 53.03,
+        "lng": -8.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 51.82,
+        "lng": -9.32,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 53.09,
+        "lng": -8.93,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ],
     "display": {
@@ -3666,8 +5178,8 @@
         "hotspotId": "lofoten_norway",
         "name": "罗弗敦群岛，挪威",
         "country": "NO",
-        "lat": 67.7776,
-        "lng": 15.3389,
+        "lat": 67.71917514794288,
+        "lng": 15.384124351880777,
         "season": "Jan-Apr",
         "reliability": "high",
         "activity": "diving"
@@ -3676,8 +5188,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 65.0011,
-        "lng": -17.9167,
+        "lat": 64.87368773028346,
+        "lng": -17.854374608466973,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -3745,8 +5257,8 @@
         "hotspotId": "husavik_iceland",
         "name": "Laxa河，冰岛",
         "country": "IS",
-        "lat": 65.6094,
-        "lng": -16.9084,
+        "lat": 65.42438797323169,
+        "lng": -16.974261634608027,
         "season": "Jun-Sep",
         "reliability": "high",
         "activity": "shore"
@@ -4573,8 +6085,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾",
         "country": "US",
-        "lat": 36.306,
-        "lng": -122.8125,
+        "lat": 36.34525775688547,
+        "lng": -122.79375758703533,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4582,8 +6094,8 @@
       {
         "name": "Tasmania，澳大利亚",
         "country": "AU",
-        "lat": -42.0529,
-        "lng": 147.8491,
+        "lat": -41.88855913777125,
+        "lng": 147.9757974785243,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -4731,8 +6243,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 67.3803,
-        "lng": -18.1165,
+        "lat": 67.60832355698592,
+        "lng": -18.192270610341108,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -4750,8 +6262,8 @@
       {
         "name": "Bergen，挪威",
         "country": "NO",
-        "lat": 60.2104,
-        "lng": 5.1765,
+        "lat": 60.3381813906232,
+        "lng": 5.178286168201696,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -4805,6 +6317,546 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -30.18,
+        "lng": 30.13,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -30.6,
+        "lng": 30.15,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -29.82,
+        "lng": 30.88,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -28.76,
+        "lng": 25.47,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -30.41,
+        "lng": 29.74,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -28.03,
+        "lng": 31.4,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -28.17,
+        "lng": 32.87,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -26.29,
+        "lng": 26.97,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -33.73,
+        "lng": 31.75,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -27.74,
+        "lng": 30.21,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -30.55,
+        "lng": 29.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -29.89,
+        "lng": 31.77,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -27.68,
+        "lng": 26.77,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -30.44,
+        "lng": 30.19,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -28.17,
+        "lng": 34.26,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -29.22,
+        "lng": 29.81,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -33.83,
+        "lng": 31.05,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -32.37,
+        "lng": 26.93,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -33.32,
+        "lng": 32.73,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -27.79,
+        "lng": 29.82,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 35.88,
+        "lng": -4.78,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 34.17,
+        "lng": -7.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 34.68,
+        "lng": -4.65,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 37.73,
+        "lng": -7.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 36.02,
+        "lng": -4.82,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 33.99,
+        "lng": -5.89,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 37.07,
+        "lng": -4.06,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 35.08,
+        "lng": -7.11,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 37.14,
+        "lng": -4.52,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 35.24,
+        "lng": -6.02,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 35.7,
+        "lng": -6.26,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 37.16,
+        "lng": -5.67,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 37.02,
+        "lng": -9.83,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 36.12,
+        "lng": -7.72,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 38.24,
+        "lng": -9.86,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 35.68,
+        "lng": -10.31,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 36.79,
+        "lng": -8.31,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 36.8,
+        "lng": -9.77,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 39.78,
+        "lng": -7.58,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 37.41,
+        "lng": -10.76,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 37.75,
+        "lng": -9.68,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 38.32,
+        "lng": -9.14,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 25.98,
+        "lng": -15.08,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 23.86,
+        "lng": -17.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 24.82,
+        "lng": -16.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 24.36,
+        "lng": -18.86,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 27.14,
+        "lng": -17.17,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 23.22,
+        "lng": -17.51,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 23.8,
+        "lng": -16.78,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 25.46,
+        "lng": -15.96,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -4.68,
+        "lng": -80.63,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -7.53,
+        "lng": -80.72,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -7.44,
+        "lng": -79.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -3.38,
+        "lng": -82.32,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -5.52,
+        "lng": -80.76,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -5.0,
+        "lng": -80.21,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -6.24,
+        "lng": -78.88,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -3.13,
+        "lng": -79.24,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -4.16,
+        "lng": -80.57,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -2.67,
+        "lng": -79.68,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ],
     "display": {
@@ -5081,8 +7133,8 @@
       {
         "name": "Algarve，葡萄牙",
         "country": "PT",
-        "lat": 37.4446,
-        "lng": -8.5843,
+        "lat": 37.593415930988925,
+        "lng": -8.293016435679084,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -5178,8 +7230,8 @@
         "hotspotId": "husavik_iceland",
         "name": "冰岛",
         "country": "IS",
-        "lat": 64.5,
-        "lng": -21.5,
+        "lat": 64.20241743641219,
+        "lng": -21.963929881249918,
         "season": "year-round",
         "reliability": "high",
         "activity": "shore"
@@ -5218,8 +7270,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "South Georgia岛",
         "country": "GS",
-        "lat": -54.4787,
-        "lng": -37.3807,
+        "lat": -54.45302172854277,
+        "lng": -37.463177235542474,
         "season": "Nov-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -5227,8 +7279,8 @@
       {
         "name": "South Shetland岛s",
         "country": "AQ",
-        "lat": -61.4951,
-        "lng": -59.0135,
+        "lat": -61.63874103637487,
+        "lng": -59.31950169812737,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -5276,8 +7328,8 @@
       {
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -64.3646,
-        "lng": -62.8533,
+        "lat": -64.27266509630901,
+        "lng": -62.866058254780484,
         "season": "Dec-Mar",
         "reliability": "high",
         "activity": "shore"
@@ -5285,8 +7337,8 @@
       {
         "name": "Deception岛，Antarctica",
         "country": "AQ",
-        "lat": -62.97,
-        "lng": -60.65,
+        "lat": -63.08598193922784,
+        "lng": -60.3997075287389,
         "season": "Nov-Mar",
         "reliability": "medium",
         "activity": "shore"
@@ -5382,8 +7434,8 @@
       {
         "name": "南乔治亚岛海域",
         "country": "GS",
-        "lat": -53.8637,
-        "lng": -35.4954,
+        "lat": -53.5316088423142,
+        "lng": -35.132038850681774,
         "season": "year-round",
         "reliability": "medium",
         "activity": "shore"
@@ -5414,8 +7466,8 @@
         "hotspotId": "antarctica_ross_sea",
         "name": "南极半岛",
         "country": "AQ",
-        "lat": -64.1068,
-        "lng": -61.7034,
+        "lat": -63.902007808403596,
+        "lng": -61.979617649978266,
         "season": "Dec-Mar",
         "reliability": "medium",
         "activity": "shore"
@@ -5423,8 +7475,8 @@
       {
         "name": "South Shetland岛s",
         "country": "AQ",
-        "lat": -61.4482,
-        "lng": -57.8282,
+        "lat": -61.68226775692182,
+        "lng": -57.45625709392909,
         "season": "Dec-Mar",
         "reliability": "medium",
         "activity": "shore"
@@ -5432,8 +7484,8 @@
       {
         "name": "King George岛",
         "country": "AQ",
-        "lat": -62.6841,
-        "lng": -58.9915,
+        "lat": -62.7268073762298,
+        "lng": -59.44424828466484,
         "season": "Dec-Mar",
         "reliability": "medium",
         "activity": "shore"
@@ -7334,8 +9386,8 @@
       {
         "name": "Algarve，葡萄牙",
         "country": "PT",
-        "lat": 36.5904,
-        "lng": -9.3819,
+        "lat": 36.02876067881004,
+        "lng": -9.107883960461159,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -7583,8 +9635,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 36.0565,
-        "lng": -124.3124,
+        "lat": 36.101157608446606,
+        "lng": -124.35237433042363,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7623,8 +9675,8 @@
         "hotspotId": "monterey_bay",
         "name": "蒙特雷湾 水族馆 (deep-sea)",
         "country": "US",
-        "lat": 34.2471,
-        "lng": -123.1983,
+        "lat": 33.98860419544119,
+        "lng": -123.12957370692835,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -7818,8 +9870,8 @@
       {
         "name": "Canary岛s，Spain",
         "country": "ES",
-        "lat": 27.4513,
-        "lng": -15.1327,
+        "lat": 27.462395476958825,
+        "lng": -15.13309742515852,
         "season": "year-round",
         "reliability": "seasonal",
         "activity": "shore"
@@ -8166,8 +10218,8 @@
       {
         "name": "蒙特雷湾 水族馆",
         "country": "US",
-        "lat": 35.8736,
-        "lng": -123.7162,
+        "lat": 36.107132047218016,
+        "lng": -123.80253677799593,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
@@ -8600,8 +10652,8 @@
       {
         "name": "Sodwana湾，南非",
         "country": "ZA",
-        "lat": -27.53,
-        "lng": 32.68,
+        "lat": -27.188710700803615,
+        "lng": 32.656654398783715,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9060,8 +11112,8 @@
       {
         "name": "蒙特雷湾 (deep-sea)",
         "country": "US",
-        "lat": 34.9265,
-        "lng": -122.1569,
+        "lat": 34.91710440093572,
+        "lng": -122.06180744495425,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9069,8 +11121,8 @@
       {
         "name": "Tasmania，澳大利亚",
         "country": "AU",
-        "lat": -43.2497,
-        "lng": 147.3364,
+        "lat": -43.58665094399585,
+        "lng": 147.42749467826005,
         "season": "year-round",
         "reliability": "seasonal",
         "activity": "diving"
@@ -9148,8 +11200,8 @@
       {
         "name": "Tasmania，澳大利亚",
         "country": "AU",
-        "lat": -42.2593,
-        "lng": 146.667,
+        "lat": -42.06786301196333,
+        "lng": 146.4714370702201,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9259,8 +11311,8 @@
       {
         "name": "挪威峡湾",
         "country": "NO",
-        "lat": 60.6598,
-        "lng": 6.8337,
+        "lat": 60.715476914247354,
+        "lng": 6.85403185158017,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9268,8 +11320,8 @@
       {
         "name": "Loch Fyne，苏格兰",
         "country": "GB",
-        "lat": 56.5894,
-        "lng": -4.9202,
+        "lat": 56.396104315592694,
+        "lng": -4.851696973224234,
         "season": "year-round",
         "reliability": "medium",
         "activity": "diving"
@@ -9855,8 +11907,8 @@
       {
         "name": "Gran Canaria，Spain",
         "country": "ES",
-        "lat": 27.5637,
-        "lng": -16.367,
+        "lat": 27.674220611543088,
+        "lng": -16.15754035622115,
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
@@ -10040,6 +12092,276 @@
         "season": "Dec-Mar",
         "reliability": "seasonal",
         "activity": "shore"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -45.51,
+        "lng": 150.27,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -44.29,
+        "lng": 154.74,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -42.83,
+        "lng": 147.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -47.56,
+        "lng": 147.83,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -43.15,
+        "lng": 150.76,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -47.73,
+        "lng": 146.11,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -44.72,
+        "lng": 149.83,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -43.53,
+        "lng": 151.13,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -45.65,
+        "lng": 152.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -44.96,
+        "lng": 147.35,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -48.61,
+        "lng": 153.23,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -41.65,
+        "lng": 152.31,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -41.39,
+        "lng": -64.29,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -38.86,
+        "lng": -57.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -37.27,
+        "lng": -58.92,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -42.08,
+        "lng": -59.06,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -40.42,
+        "lng": -61.91,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -41.47,
+        "lng": -55.92,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -39.78,
+        "lng": -59.66,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -40.37,
+        "lng": -61.65,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -39.33,
+        "lng": -56.63,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": -37.26,
+        "lng": -58.17,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 36.69,
+        "lng": -67.63,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 32.25,
+        "lng": -68.31,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 33.3,
+        "lng": -68.12,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 35.77,
+        "lng": -70.45,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 31.73,
+        "lng": -72.14,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 34.5,
+        "lng": -70.32,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 35.21,
+        "lng": -69.25,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "群落区域",
+        "country": "",
+        "lat": 34.32,
+        "lng": -69.77,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ],
     "display": {
@@ -10277,8 +12599,8 @@
         "hotspotId": "husavik_iceland",
         "name": "胡萨维克，冰岛",
         "country": "IS",
-        "lat": 65.7213,
-        "lng": -15.4717,
+        "lat": 65.69263233662473,
+        "lng": -15.434158930863164,
         "season": "Jun-Aug",
         "reliability": "high",
         "activity": "whale_watching"
@@ -10306,8 +12628,8 @@
       {
         "name": "Isle of Mull，苏格兰",
         "country": "GB",
-        "lat": 56.7132,
-        "lng": -6.2935,
+        "lat": 56.668920756601686,
+        "lng": -6.350769943587187,
         "season": "May-Sep",
         "reliability": "high",
         "activity": "whale_watching"
@@ -10414,8 +12736,8 @@
       {
         "name": "蒙特雷湾 水族馆 (deep-sea exhibit)",
         "country": "US",
-        "lat": 35.6249,
-        "lng": -122.7987,
+        "lat": 35.80532411096433,
+        "lng": -122.60608846649838,
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
