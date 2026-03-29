@@ -76,6 +76,15 @@
         "season": "May-Nov",
         "reliability": "seasonal",
         "activity": "whale_watching"
+      },
+      {
+        "name": "Olympic Coast, Washington",
+        "country": "US",
+        "lat": 47.8,
+        "lng": -125.2,
+        "season": "Jul-Sep",
+        "reliability": "seasonal",
+        "activity": "whale_watching"
       }
     ],
     "display": {
@@ -163,6 +172,15 @@
         "lng": 152.85,
         "season": "Jul-Nov",
         "reliability": "high",
+        "activity": "whale_watching"
+      },
+      {
+        "name": "Puget Sound, Washington",
+        "country": "US",
+        "lat": 48.3,
+        "lng": -122.6,
+        "season": "Apr-Nov",
+        "reliability": "medium",
         "activity": "whale_watching"
       }
     ],
@@ -1834,6 +1852,15 @@
         "lng": -114.15,
         "season": "Jan-Apr",
         "reliability": "high",
+        "activity": "whale_watching"
+      },
+      {
+        "name": "San Juan Islands, Washington",
+        "country": "US",
+        "lat": 48.5,
+        "lng": -123.1,
+        "season": "Mar-May",
+        "reliability": "medium",
         "activity": "whale_watching"
       }
     ],
@@ -11425,5 +11452,757 @@
     "group": "coral",
     "bodyType": "jellyfish",
     "sprite": "sp-turbinaria_reniformis.png"
+  },
+  {
+    "aphiaId": 9000001,
+    "tier": "ecosystem",
+    "name": "Acropora cervicornis",
+    "nameZh": "鹿角珊瑚",
+    "tagline": {
+      "en": "Fast-growing branching coral, keystone reef builder",
+      "zh": "快速生长的分枝珊瑚，珊瑚礁关键建设者"
+    },
+    "scientificName": "Acropora cervicornis",
+    "sprite": "sp-staghorn_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Great Barrier Reef (North)",
+        "country": "AU",
+        "lat": -14.5,
+        "lng": 145.5,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Great Barrier Reef (Central)",
+        "country": "AU",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000002,
+    "tier": "ecosystem",
+    "name": "Diploria labyrinthiformis",
+    "nameZh": "脑珊瑚",
+    "tagline": {
+      "en": "Massive dome coral with maze-like grooves",
+      "zh": "大型穹顶珊瑚，表面有迷宫般的沟纹"
+    },
+    "scientificName": "Diploria labyrinthiformis",
+    "sprite": "sp-brain_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Ras Mohammed, Egypt",
+        "country": "EG",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000003,
+    "tier": "ecosystem",
+    "name": "Acropora hyacinthus",
+    "nameZh": "桌形珊瑚",
+    "tagline": {
+      "en": "Broad flat plates providing shelter for reef fish",
+      "zh": "宽阔的桌形板为珊瑚鱼提供庇护"
+    },
+    "scientificName": "Acropora hyacinthus",
+    "sprite": "sp-table_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Raja Ampat, Indonesia",
+        "country": "ID",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "Oct-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Tubbataha, Philippines",
+        "country": "PH",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "Mar-Jun",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Great Barrier Reef (North)",
+        "country": "AU",
+        "lat": -14.5,
+        "lng": 145.5,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Great Barrier Reef (Central)",
+        "country": "AU",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Palau",
+        "country": "PW",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Fiji Reef",
+        "country": "FJ",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000004,
+    "tier": "ecosystem",
+    "name": "Acropora palmata",
+    "nameZh": "鹿角珊瑚",
+    "tagline": {
+      "en": "Critically endangered Caribbean reef builder",
+      "zh": "极度濒危的加勒比礁石建设者"
+    },
+    "scientificName": "Acropora palmata",
+    "sprite": "sp-elkhorn_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000005,
+    "tier": "ecosystem",
+    "name": "Gorgonia ventalina",
+    "nameZh": "扇珊瑚",
+    "tagline": {
+      "en": "Elegant sea fan swaying in the current",
+      "zh": "优雅的海扇在水流中摇曳"
+    },
+    "scientificName": "Gorgonia ventalina",
+    "sprite": "sp-fan_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Ras Mohammed, Egypt",
+        "country": "EG",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Raja Ampat, Indonesia",
+        "country": "ID",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "Oct-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Tubbataha, Philippines",
+        "country": "PH",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "Mar-Jun",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000006,
+    "tier": "ecosystem",
+    "name": "Millepora alcicornis",
+    "nameZh": "火珊瑚",
+    "tagline": {
+      "en": "Stinging hydrozoan that looks like branching coral",
+      "zh": "外形似珊瑚的刺胞水螅"
+    },
+    "scientificName": "Millepora alcicornis",
+    "sprite": "sp-fire_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Ras Mohammed, Egypt",
+        "country": "EG",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000007,
+    "tier": "ecosystem",
+    "name": "Dendrogyra cylindrus",
+    "nameZh": "柱珊瑚",
+    "tagline": {
+      "en": "Tall pillars rising from the reef floor",
+      "zh": "从礁石底部升起的高柱"
+    },
+    "scientificName": "Dendrogyra cylindrus",
+    "sprite": "sp-pillar_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000008,
+    "tier": "ecosystem",
+    "name": "Fungia fungites",
+    "nameZh": "蘑菇珊瑚",
+    "tagline": {
+      "en": "Free-living solitary coral that walks across the seafloor",
+      "zh": "自由生活的独居珊瑚，能在海底行走"
+    },
+    "scientificName": "Fungia fungites",
+    "sprite": "sp-mushroom_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Raja Ampat, Indonesia",
+        "country": "ID",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "Oct-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Tubbataha, Philippines",
+        "country": "PH",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "Mar-Jun",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Maldives Atolls",
+        "country": "MV",
+        "lat": 4.2,
+        "lng": 73.2,
+        "season": "Jan-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Palau",
+        "country": "PW",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Fiji Reef",
+        "country": "FJ",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000009,
+    "tier": "ecosystem",
+    "name": "Orbicella faveolata",
+    "nameZh": "星珊瑚",
+    "tagline": {
+      "en": "Dominant Caribbean reef-building coral",
+      "zh": "加勒比海主要的造礁珊瑚"
+    },
+    "scientificName": "Orbicella faveolata",
+    "sprite": "sp-star_coral.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000010,
+    "tier": "ecosystem",
+    "name": "Heteractis magnifica",
+    "nameZh": "公主海葵",
+    "tagline": {
+      "en": "Vibrant anemone hosting clownfish families",
+      "zh": "鲜艳的海葵，小丑鱼家族的家"
+    },
+    "scientificName": "Heteractis magnifica",
+    "sprite": "sp-sea_anemone.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Raja Ampat, Indonesia",
+        "country": "ID",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "Oct-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Tubbataha, Philippines",
+        "country": "PH",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "Mar-Jun",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Great Barrier Reef (North)",
+        "country": "AU",
+        "lat": -14.5,
+        "lng": 145.5,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Great Barrier Reef (Central)",
+        "country": "AU",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Ras Mohammed, Egypt",
+        "country": "EG",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000011,
+    "tier": "ecosystem",
+    "name": "Entacmaea quadricolor",
+    "nameZh": "奶嘴海葵",
+    "tagline": {
+      "en": "Bubble-tipped anemone popular with clownfish",
+      "zh": "泡泡尖端海葵，小丑鱼的最爱"
+    },
+    "scientificName": "Entacmaea quadricolor",
+    "sprite": "sp-bubble_tip_anemone.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Ras Mohammed, Egypt",
+        "country": "EG",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Maldives Atolls",
+        "country": "MV",
+        "lat": 4.2,
+        "lng": 73.2,
+        "season": "Jan-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Palau",
+        "country": "PW",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Fiji Reef",
+        "country": "FJ",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000012,
+    "tier": "ecosystem",
+    "name": "Xestospongia testudinaria",
+    "nameZh": "桶状海绵",
+    "tagline": {
+      "en": "Giant barrel sponge, can live over 2000 years",
+      "zh": "巨型桶状海绵，寿命可超过2000年"
+    },
+    "scientificName": "Xestospongia testudinaria",
+    "sprite": "sp-barrel_sponge.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Raja Ampat, Indonesia",
+        "country": "ID",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "Oct-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Tubbataha, Philippines",
+        "country": "PH",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "Mar-Jun",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Ras Mohammed, Egypt",
+        "country": "EG",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000013,
+    "tier": "ecosystem",
+    "name": "Aplysina fistularis",
+    "nameZh": "管状海绵",
+    "tagline": {
+      "en": "Bright yellow tube sponge filtering reef water",
+      "zh": "鲜黄色管状海绵过滤珊瑚礁海水"
+    },
+    "scientificName": "Aplysina fistularis",
+    "sprite": "sp-tube_sponge.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Palau",
+        "country": "PW",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Fiji Reef",
+        "country": "FJ",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
+  },
+  {
+    "aphiaId": 9000014,
+    "tier": "ecosystem",
+    "name": "Gorgonia flabellum",
+    "nameZh": "扇形柳珊瑚",
+    "tagline": {
+      "en": "Delicate purple sea fan anchored to the reef",
+      "zh": "固着在礁石上的纤细紫色海扇"
+    },
+    "scientificName": "Gorgonia flabellum",
+    "sprite": "sp-gorgonia_ventalina.png",
+    "display": {
+      "color": "#FF6B6B",
+      "animation": "static",
+      "scale": "medium"
+    },
+    "viewingSpots": [
+      {
+        "name": "Belize Barrier Reef",
+        "country": "BZ",
+        "lat": 17.5,
+        "lng": -87.8,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Cozumel, Mexico",
+        "country": "MX",
+        "lat": 20.4,
+        "lng": -87.0,
+        "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Raja Ampat, Indonesia",
+        "country": "ID",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "Oct-Apr",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "Tubbataha, Philippines",
+        "country": "PH",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "Mar-Jun",
+        "reliability": "high",
+        "activity": "diving"
+      }
+    ]
   }
 ]
