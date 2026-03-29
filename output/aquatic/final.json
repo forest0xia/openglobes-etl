@@ -11,7 +11,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 36.3852,
         "lng": -121.1532,
@@ -21,7 +21,7 @@
       },
       {
         "hotspotId": "mirissa_sri_lanka",
-        "name": "Mirissa, Sri Lanka",
+        "name": "米瑞莎，斯里兰卡",
         "country": "LK",
         "lat": 6.0541,
         "lng": 80.1498,
@@ -31,7 +31,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Husavik, Iceland",
+        "name": "胡萨维克，冰岛",
         "country": "IS",
         "lat": 66.085,
         "lng": -18.1142,
@@ -41,7 +41,7 @@
       },
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 38.2397,
         "lng": -25.2551,
@@ -51,7 +51,7 @@
       },
       {
         "hotspotId": "baja_california",
-        "name": "Baja California",
+        "name": "Baja 加利福尼亚",
         "country": "MX",
         "lat": 24.14,
         "lng": -109.99,
@@ -60,7 +60,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "San Diego",
+        "name": "圣迭戈",
         "country": "US",
         "lat": 32.6146,
         "lng": -116.951,
@@ -69,7 +69,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Timor Sea",
+        "name": "Timor海",
         "country": "AU",
         "lat": -11.0,
         "lng": 127.0,
@@ -78,7 +78,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Olympic Coast, Washington",
+        "name": "奥林匹克海岸，华盛顿",
         "country": "US",
         "lat": 47.8,
         "lng": -125.2,
@@ -109,7 +109,7 @@
     "viewingSpots": [
       {
         "hotspotId": "tonga",
-        "name": "Tonga",
+        "name": "汤加",
         "country": "TO",
         "lat": -20.5569,
         "lng": -174.9833,
@@ -119,7 +119,7 @@
       },
       {
         "hotspotId": "lofoten_norway",
-        "name": "Lofoten, Norway",
+        "name": "罗弗敦群岛，挪威",
         "country": "NO",
         "lat": 68.3281,
         "lng": 13.7608,
@@ -129,7 +129,7 @@
       },
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "Antarctic Peninsula",
+        "name": "南极半岛",
         "country": "AQ",
         "lat": -65.197,
         "lng": -62.803,
@@ -138,7 +138,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Maui, Hawaii",
+        "name": "毛伊岛，夏威夷",
         "country": "US",
         "lat": 21.0671,
         "lng": -156.0497,
@@ -147,7 +147,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Silver Bank, Dominican Republic",
+        "name": "银行浅滩，多米尼加共和国",
         "country": "DO",
         "lat": 20.74,
         "lng": -69.15,
@@ -157,7 +157,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Husavik, Iceland",
+        "name": "胡萨维克，冰岛",
         "country": "IS",
         "lat": 65.8471,
         "lng": -17.002,
@@ -166,7 +166,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Hervey Bay, Australia",
+        "name": "赫维湾，澳大利亚",
         "country": "AU",
         "lat": -25.29,
         "lng": 152.85,
@@ -175,7 +175,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Puget Sound, Washington",
+        "name": "普吉特湾，华盛顿",
         "country": "US",
         "lat": 48.3,
         "lng": -122.6,
@@ -206,7 +206,7 @@
     "viewingSpots": [
       {
         "hotspotId": "lofoten_norway",
-        "name": "Lofoten, Norway",
+        "name": "罗弗敦群岛，挪威",
         "country": "NO",
         "lat": 68.4677,
         "lng": 15.366,
@@ -216,7 +216,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Husavik, Iceland",
+        "name": "胡萨维克，冰岛",
         "country": "IS",
         "lat": 66.1881,
         "lng": -17.4147,
@@ -226,7 +226,7 @@
       },
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 37.0957,
         "lng": -121.0507,
@@ -236,7 +236,7 @@
       },
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "Antarctic Peninsula",
+        "name": "南极半岛",
         "country": "AQ",
         "lat": -64.7603,
         "lng": -63.2248,
@@ -245,7 +245,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "San Juan Islands, Washington",
+        "name": "圣胡安群岛，华盛顿",
         "country": "US",
         "lat": 48.6838,
         "lng": -122.9536,
@@ -254,7 +254,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Valdes Peninsula, Argentina",
+        "name": "瓦尔德斯半岛，阿根廷",
         "country": "AR",
         "lat": -42.6569,
         "lng": -64.0319,
@@ -264,7 +264,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "South Africa Wild Coast",
+        "name": "南非 Wild海岸",
         "country": "ZA",
         "lat": -31.4944,
         "lng": 29.4932,
@@ -295,7 +295,7 @@
     "viewingSpots": [
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "Gansbaai, South Africa",
+        "name": "Gansbaai，南非",
         "country": "ZA",
         "lat": -34.58,
         "lng": 19.35,
@@ -305,7 +305,7 @@
       },
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 37.3483,
         "lng": -122.0342,
@@ -314,7 +314,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Guadalupe Island, Mexico",
+        "name": "Guadalupe岛，墨西哥",
         "country": "MX",
         "lat": 29.03,
         "lng": -118.28,
@@ -324,7 +324,7 @@
       },
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -1.2025,
         "lng": -90.5329,
@@ -333,7 +333,7 @@
         "activity": "diving"
       },
       {
-        "name": "Neptune Islands, Australia",
+        "name": "Neptune岛s，澳大利亚",
         "country": "AU",
         "lat": -35.33,
         "lng": 136.12,
@@ -342,7 +342,7 @@
         "activity": "diving"
       },
       {
-        "name": "Farallon Islands, California",
+        "name": "Farallon岛s，加利福尼亚",
         "country": "US",
         "lat": 37.7,
         "lng": -123.0,
@@ -374,7 +374,7 @@
     "viewingSpots": [
       {
         "hotspotId": "maldives",
-        "name": "South Ari Atoll, Maldives",
+        "name": "South Ari Atoll，马尔代夫",
         "country": "MV",
         "lat": 3.5,
         "lng": 72.8,
@@ -384,7 +384,7 @@
       },
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos (Darwin Island)",
+        "name": "加拉帕戈斯 (Darwin岛)",
         "country": "EC",
         "lat": 1.68,
         "lng": -91.99,
@@ -393,7 +393,7 @@
         "activity": "diving"
       },
       {
-        "name": "Ningaloo Reef, Australia",
+        "name": "宁格鲁礁，澳大利亚",
         "country": "AU",
         "lat": -22.7,
         "lng": 113.68,
@@ -403,7 +403,7 @@
       },
       {
         "hotspotId": "tubbataha_philippines",
-        "name": "Oslob, Philippines",
+        "name": "Oslob，菲律宾",
         "country": "PH",
         "lat": 9.4781,
         "lng": 123.3001,
@@ -412,7 +412,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Isla Holbox, Mexico",
+        "name": "Isla Holbox，墨西哥",
         "country": "MX",
         "lat": 21.52,
         "lng": -87.38,
@@ -421,7 +421,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Mafia Island, Tanzania",
+        "name": "Mafia岛，坦桑尼亚",
         "country": "TZ",
         "lat": -7.85,
         "lng": 39.78,
@@ -431,7 +431,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea (Djibouti)",
+        "name": "红海 (Djibouti)",
         "country": "DJ",
         "lat": 11.8,
         "lng": 42.95,
@@ -441,7 +441,7 @@
       },
       {
         "hotspotId": "shark_bay_australia",
-        "name": "Shark Bay, Australia",
+        "name": "Shark湾，澳大利亚",
         "country": "AU",
         "lat": -25.9118,
         "lng": 113.2487,
@@ -473,7 +473,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.4858,
         "lng": 148.0336,
@@ -483,7 +483,7 @@
       },
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -0.7555,
         "lng": -90.6547,
@@ -492,7 +492,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Maui, Hawaii",
+        "name": "毛伊岛，夏威夷",
         "country": "US",
         "lat": 20.9379,
         "lng": -156.3635,
@@ -502,7 +502,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Marsa Alam, Egypt",
+        "name": "Marsa Alam，埃及",
         "country": "EG",
         "lat": 24.8238,
         "lng": 35.0404,
@@ -512,7 +512,7 @@
       },
       {
         "hotspotId": "sipadan_malaysia",
-        "name": "Sipadan, Malaysia",
+        "name": "仙本那，马来西亚",
         "country": "MY",
         "lat": 3.7027,
         "lng": 118.5827,
@@ -521,7 +521,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tortuguero, Costa Rica",
+        "name": "Tortuguero，哥斯达黎加",
         "country": "CR",
         "lat": 10.3226,
         "lng": -83.3252,
@@ -531,7 +531,7 @@
       },
       {
         "hotspotId": "tonga",
-        "name": "Tonga",
+        "name": "汤加",
         "country": "TO",
         "lat": -20.2786,
         "lng": -175.1993,
@@ -541,7 +541,7 @@
       },
       {
         "hotspotId": "shark_bay_australia",
-        "name": "Shark Bay, Australia",
+        "name": "Shark湾，澳大利亚",
         "country": "AU",
         "lat": -25.7877,
         "lng": 113.5623,
@@ -572,7 +572,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.2136,
         "lng": 130.1213,
@@ -582,7 +582,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.6867,
         "lng": 146.993,
@@ -592,7 +592,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.7954,
         "lng": 73.3433,
@@ -602,7 +602,7 @@
       },
       {
         "hotspotId": "sipadan_malaysia",
-        "name": "Sipadan, Malaysia",
+        "name": "仙本那，马来西亚",
         "country": "MY",
         "lat": 4.1875,
         "lng": 118.3235,
@@ -612,7 +612,7 @@
       },
       {
         "hotspotId": "tubbataha_philippines",
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.1313,
         "lng": 121.1212,
@@ -621,7 +621,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bunaken, Indonesia",
+        "name": "Bunaken，印度尼西亚",
         "country": "ID",
         "lat": 1.62,
         "lng": 124.76,
@@ -653,7 +653,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 36.7287,
         "lng": -122.1441,
@@ -663,7 +663,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.8955,
         "lng": 33.5958,
@@ -673,7 +673,7 @@
       },
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -1.0812,
         "lng": -90.766,
@@ -683,7 +683,7 @@
       },
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 37.1263,
         "lng": -25.4793,
@@ -692,7 +692,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Bay of Islands, New Zealand",
+        "name": "Bay of岛s，新西兰",
         "country": "NZ",
         "lat": -35.2,
         "lng": 174.1,
@@ -702,7 +702,7 @@
       },
       {
         "hotspotId": "florida_everglades",
-        "name": "Florida Keys",
+        "name": "佛罗里达 Keys",
         "country": "US",
         "lat": 24.4114,
         "lng": -81.5652,
@@ -712,7 +712,7 @@
       },
       {
         "hotspotId": "mirissa_sri_lanka",
-        "name": "Mirissa, Sri Lanka",
+        "name": "米瑞莎，斯里兰卡",
         "country": "LK",
         "lat": 6.1655,
         "lng": 80.7575,
@@ -742,7 +742,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Mediterranean (Greece)",
+        "name": "地中海 (Greece)",
         "country": "GR",
         "lat": 36.39,
         "lng": 25.46,
@@ -752,7 +752,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.8745,
         "lng": 34.075,
@@ -762,7 +762,7 @@
       },
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 37.7621,
         "lng": -26.079,
@@ -771,7 +771,7 @@
         "activity": "diving"
       },
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.1044,
         "lng": 125.1076,
@@ -780,7 +780,7 @@
         "activity": "diving"
       },
       {
-        "name": "Sardinia, Italy",
+        "name": "Sardinia，Italy",
         "country": "IT",
         "lat": 39.9574,
         "lng": 9.7761,
@@ -811,7 +811,7 @@
     "viewingSpots": [
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 38.016,
         "lng": -25.3332,
@@ -820,7 +820,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Dominica",
+        "name": "多米尼加",
         "country": "DM",
         "lat": 15.42,
         "lng": -61.37,
@@ -830,7 +830,7 @@
       },
       {
         "hotspotId": "lofoten_norway",
-        "name": "Andenes, Norway",
+        "name": "Andenes，挪威",
         "country": "NO",
         "lat": 69.33,
         "lng": 16.12,
@@ -839,7 +839,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Kaikoura, New Zealand",
+        "name": "Kaikoura，新西兰",
         "country": "NZ",
         "lat": -42.4,
         "lng": 173.68,
@@ -849,7 +849,7 @@
       },
       {
         "hotspotId": "mirissa_sri_lanka",
-        "name": "Mirissa, Sri Lanka",
+        "name": "米瑞莎，斯里兰卡",
         "country": "LK",
         "lat": 6.0912,
         "lng": 80.4416,
@@ -859,7 +859,7 @@
       },
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -1.1792,
         "lng": -91.4615,
@@ -889,7 +889,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Grande Riviere, Trinidad",
+        "name": "Grande Riviere，Trinidad",
         "country": "TT",
         "lat": 10.83,
         "lng": -61.05,
@@ -898,7 +898,7 @@
         "activity": "shore"
       },
       {
-        "name": "Tortuguero, Costa Rica",
+        "name": "Tortuguero，哥斯达黎加",
         "country": "CR",
         "lat": 10.6931,
         "lng": -83.5472,
@@ -907,7 +907,7 @@
         "activity": "shore"
       },
       {
-        "name": "Jamursba-Medi, Indonesia",
+        "name": "Jamursba-Medi，印度尼西亚",
         "country": "ID",
         "lat": -0.35,
         "lng": 132.55,
@@ -917,7 +917,7 @@
       },
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -0.9718,
         "lng": -91.2823,
@@ -926,7 +926,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Rantau Abang, Malaysia",
+        "name": "Rantau Abang，马来西亚",
         "country": "MY",
         "lat": 4.93,
         "lng": 103.38,
@@ -957,7 +957,7 @@
     "viewingSpots": [
       {
         "hotspotId": "svalbard",
-        "name": "Svalbard",
+        "name": "斯瓦尔巴群岛",
         "country": "NO",
         "lat": 78.3701,
         "lng": 15.743,
@@ -966,7 +966,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Churchill, Hudson Bay",
+        "name": "Churchill，Hudson湾",
         "country": "CA",
         "lat": 58.77,
         "lng": -94.17,
@@ -975,7 +975,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Tadoussac, Quebec",
+        "name": "Tadoussac，Quebec",
         "country": "CA",
         "lat": 47.9531,
         "lng": -69.4782,
@@ -984,7 +984,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Cunningham Inlet, Nunavut",
+        "name": "Cunningham Inlet，Nunavut",
         "country": "CA",
         "lat": 72.55,
         "lng": -94.1,
@@ -993,7 +993,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "White Sea, Russia",
+        "name": "White海，Russia",
         "country": "RU",
         "lat": 65.8411,
         "lng": 36.5582,
@@ -1023,7 +1023,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Pond Inlet, Nunavut",
+        "name": "Pond Inlet，Nunavut",
         "country": "CA",
         "lat": 72.68,
         "lng": -77.95,
@@ -1032,7 +1032,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Qaanaaq, Greenland",
+        "name": "Qaanaaq，Greenland",
         "country": "GL",
         "lat": 77.47,
         "lng": -69.23,
@@ -1041,7 +1041,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Baffin Bay",
+        "name": "巴芬湾",
         "country": "CA",
         "lat": 73.0,
         "lng": -70.0,
@@ -1051,7 +1051,7 @@
       },
       {
         "hotspotId": "svalbard",
-        "name": "Svalbard",
+        "name": "斯瓦尔巴群岛",
         "country": "NO",
         "lat": 78.3352,
         "lng": 14.1881,
@@ -1060,7 +1060,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Lancaster Sound, Canada",
+        "name": "Lancaster Sound，加拿大",
         "country": "CA",
         "lat": 74.25,
         "lng": -84.0,
@@ -1091,7 +1091,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Marsa Alam, Egypt",
+        "name": "Marsa Alam，埃及",
         "country": "EG",
         "lat": 25.2297,
         "lng": 34.8898,
@@ -1101,7 +1101,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -17.7623,
         "lng": 147.5972,
@@ -1111,7 +1111,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.5845,
         "lng": 134.6939,
@@ -1121,7 +1121,7 @@
       },
       {
         "hotspotId": "shark_bay_australia",
-        "name": "Shark Bay, Australia",
+        "name": "Shark湾，澳大利亚",
         "country": "AU",
         "lat": -26.0986,
         "lng": 113.7921,
@@ -1130,7 +1130,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Coron, Philippines",
+        "name": "Coron，菲律宾",
         "country": "PH",
         "lat": 12.0,
         "lng": 120.2,
@@ -1139,7 +1139,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Abu Dhabi",
+        "name": "阿布扎比",
         "country": "AE",
         "lat": 24.2873,
         "lng": 54.8964,
@@ -1170,7 +1170,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 37.1671,
         "lng": -121.9493,
@@ -1179,7 +1179,7 @@
         "activity": "shore"
       },
       {
-        "name": "Homer, Alaska",
+        "name": "Homer，阿拉斯加",
         "country": "US",
         "lat": 59.64,
         "lng": -151.5,
@@ -1188,7 +1188,7 @@
         "activity": "shore"
       },
       {
-        "name": "Tofino, British Columbia",
+        "name": "托菲诺，不列颠哥伦比亚",
         "country": "CA",
         "lat": 49.15,
         "lng": -125.91,
@@ -1198,7 +1198,7 @@
       },
       {
         "hotspotId": "channel_islands",
-        "name": "Channel Islands, California",
+        "name": "Channel岛s，加利福尼亚",
         "country": "US",
         "lat": 34.2552,
         "lng": -119.0887,
@@ -1207,7 +1207,7 @@
         "activity": "shore"
       },
       {
-        "name": "Moss Landing, California",
+        "name": "Moss Landing，加利福尼亚",
         "country": "US",
         "lat": 36.9581,
         "lng": -122.7306,
@@ -1238,7 +1238,7 @@
     "viewingSpots": [
       {
         "hotspotId": "maldives",
-        "name": "Hanifaru Bay, Maldives",
+        "name": "Hanifaru湾，马尔代夫",
         "country": "MV",
         "lat": 4.9556,
         "lng": 73.1633,
@@ -1248,7 +1248,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.1554,
         "lng": 130.6664,
@@ -1258,7 +1258,7 @@
       },
       {
         "hotspotId": "cocos_island",
-        "name": "Cocos Island",
+        "name": "Cocos岛",
         "country": "CR",
         "lat": 5.3168,
         "lng": -86.9202,
@@ -1267,7 +1267,7 @@
         "activity": "diving"
       },
       {
-        "name": "Isla de la Plata, Ecuador",
+        "name": "Isla de la Plata，厄瓜多尔",
         "country": "EC",
         "lat": -1.27,
         "lng": -81.07,
@@ -1276,7 +1276,7 @@
         "activity": "diving"
       },
       {
-        "name": "Nusa Penida, Bali",
+        "name": "Nusa Penida，巴厘岛",
         "country": "ID",
         "lat": -8.4909,
         "lng": 115.8162,
@@ -1285,7 +1285,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tofo Beach, Mozambique",
+        "name": "Tofo Beach，莫桑比克",
         "country": "MZ",
         "lat": -23.85,
         "lng": 35.55,
@@ -1317,7 +1317,7 @@
     "viewingSpots": [
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos (Wolf Island)",
+        "name": "加拉帕戈斯 (Wolf岛)",
         "country": "EC",
         "lat": 1.38,
         "lng": -91.82,
@@ -1327,7 +1327,7 @@
       },
       {
         "hotspotId": "cocos_island",
-        "name": "Cocos Island",
+        "name": "Cocos岛",
         "country": "CR",
         "lat": 5.6728,
         "lng": -87.0949,
@@ -1336,7 +1336,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bimini, Bahamas",
+        "name": "Bimini，Bahamas",
         "country": "BS",
         "lat": 25.73,
         "lng": -79.27,
@@ -1346,7 +1346,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "Protea Banks, South Africa",
+        "name": "Protea Banks，南非",
         "country": "ZA",
         "lat": -30.7768,
         "lng": 30.3462,
@@ -1355,7 +1355,7 @@
         "activity": "diving"
       },
       {
-        "name": "Rangiroa, French Polynesia",
+        "name": "Rangiroa，French Polynesia",
         "country": "PF",
         "lat": -14.9745,
         "lng": -147.6889,
@@ -1387,7 +1387,7 @@
     "viewingSpots": [
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "Aliwal Shoal, South Africa",
+        "name": "Aliwal Shoal，南非",
         "country": "ZA",
         "lat": -30.27,
         "lng": 30.85,
@@ -1396,7 +1396,7 @@
         "activity": "diving"
       },
       {
-        "name": "North Shore, Hawaii",
+        "name": "North Shore，夏威夷",
         "country": "US",
         "lat": 21.58,
         "lng": -158.1,
@@ -1406,7 +1406,7 @@
       },
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -1.37,
         "lng": -90.9715,
@@ -1415,7 +1415,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tiger Beach, Bahamas",
+        "name": "Tiger Beach，Bahamas",
         "country": "BS",
         "lat": 26.88,
         "lng": -79.0,
@@ -1425,7 +1425,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Fuvahmulah, Maldives",
+        "name": "Fuvahmulah，马尔代夫",
         "country": "MV",
         "lat": -0.3,
         "lng": 73.42,
@@ -1457,7 +1457,7 @@
     "viewingSpots": [
       {
         "hotspotId": "florida_everglades",
-        "name": "Jupiter, Florida",
+        "name": "Jupiter，佛罗里达",
         "country": "US",
         "lat": 27.0888,
         "lng": -80.0677,
@@ -1467,7 +1467,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "Protea Banks, South Africa",
+        "name": "Protea Banks，南非",
         "country": "ZA",
         "lat": -31.1251,
         "lng": 30.6294,
@@ -1476,7 +1476,7 @@
         "activity": "diving"
       },
       {
-        "name": "Beqa Lagoon, Fiji",
+        "name": "Beqa Lagoon，斐济",
         "country": "FJ",
         "lat": -18.38,
         "lng": 177.97,
@@ -1485,7 +1485,7 @@
         "activity": "diving"
       },
       {
-        "name": "Playa del Carmen, Mexico",
+        "name": "Playa del Carmen，墨西哥",
         "country": "MX",
         "lat": 20.3139,
         "lng": -86.7149,
@@ -1495,7 +1495,7 @@
       },
       {
         "hotspotId": "baja_california",
-        "name": "Cabo Pulmo, Mexico",
+        "name": "Cabo Pulmo，墨西哥",
         "country": "MX",
         "lat": 23.44,
         "lng": -109.42,
@@ -1526,7 +1526,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Isle of Mull, Scotland",
+        "name": "Isle of Mull，苏格兰",
         "country": "GB",
         "lat": 56.2748,
         "lng": -5.6114,
@@ -1535,7 +1535,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "West Coast, Ireland",
+        "name": "West海岸，Ireland",
         "country": "IE",
         "lat": 53.3,
         "lng": -9.8,
@@ -1545,7 +1545,7 @@
       },
       {
         "hotspotId": "lofoten_norway",
-        "name": "Norway",
+        "name": "挪威",
         "country": "NO",
         "lat": 62.0,
         "lng": 6.0,
@@ -1555,7 +1555,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Iceland",
+        "name": "冰岛",
         "country": "IS",
         "lat": 65.9516,
         "lng": -18.6673,
@@ -1564,7 +1564,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Cornwall, England",
+        "name": "Cornwall，England",
         "country": "GB",
         "lat": 50.27,
         "lng": -5.05,
@@ -1573,7 +1573,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Isle of Man",
+        "name": "马恩岛",
         "country": "GB",
         "lat": 54.24,
         "lng": -4.53,
@@ -1605,7 +1605,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.514,
         "lng": 34.2703,
@@ -1615,7 +1615,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.7327,
         "lng": 73.7419,
@@ -1625,7 +1625,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.0703,
         "lng": 148.4254,
@@ -1635,7 +1635,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.8317,
         "lng": 131.2403,
@@ -1644,7 +1644,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 12.7078,
         "lng": -68.0257,
@@ -1674,7 +1674,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Zakynthos, Greece",
+        "name": "Zakynthos，Greece",
         "country": "GR",
         "lat": 37.79,
         "lng": 20.9,
@@ -1684,7 +1684,7 @@
       },
       {
         "hotspotId": "florida_everglades",
-        "name": "Melbourne Beach, Florida",
+        "name": "Melbourne Beach，佛罗里达",
         "country": "US",
         "lat": 28.07,
         "lng": -80.56,
@@ -1693,7 +1693,7 @@
         "activity": "shore"
       },
       {
-        "name": "Yakushima, Japan",
+        "name": "Yakushima，日本",
         "country": "JP",
         "lat": 30.35,
         "lng": 130.51,
@@ -1702,7 +1702,7 @@
         "activity": "shore"
       },
       {
-        "name": "Boa Vista, Cabo Verde",
+        "name": "Boa Vista，Cabo Verde",
         "country": "CV",
         "lat": 16.09,
         "lng": -22.8,
@@ -1711,7 +1711,7 @@
         "activity": "shore"
       },
       {
-        "name": "Dalyan, Turkey",
+        "name": "Dalyan，Turkey",
         "country": "TR",
         "lat": 36.83,
         "lng": 28.63,
@@ -1742,7 +1742,7 @@
     "viewingSpots": [
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "Ross Sea, Antarctica",
+        "name": "Ross海，Antarctica",
         "country": "AQ",
         "lat": -77.3406,
         "lng": 169.9344,
@@ -1751,7 +1751,7 @@
         "activity": "shore"
       },
       {
-        "name": "Snow Hill Island, Antarctica",
+        "name": "Snow Hill岛，Antarctica",
         "country": "AQ",
         "lat": -64.5,
         "lng": -57.17,
@@ -1760,7 +1760,7 @@
         "activity": "shore"
       },
       {
-        "name": "Coulman Island, Antarctica",
+        "name": "Coulman岛，Antarctica",
         "country": "AQ",
         "lat": -73.37,
         "lng": 169.75,
@@ -1769,7 +1769,7 @@
         "activity": "shore"
       },
       {
-        "name": "Cape Washington, Antarctica",
+        "name": "Cape 华盛顿，Antarctica",
         "country": "AQ",
         "lat": -74.63,
         "lng": 165.4,
@@ -1778,7 +1778,7 @@
         "activity": "shore"
       },
       {
-        "name": "Okinawa Churaumi Aquarium",
+        "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
         "lat": 26.5428,
         "lng": 128.0991,
@@ -1809,7 +1809,7 @@
     "viewingSpots": [
       {
         "hotspotId": "baja_california",
-        "name": "San Ignacio Lagoon, Mexico",
+        "name": "San Ignacio Lagoon，墨西哥",
         "country": "MX",
         "lat": 26.75,
         "lng": -113.2,
@@ -1818,7 +1818,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Depoe Bay, Oregon",
+        "name": "Depoe湾，俄勒冈",
         "country": "US",
         "lat": 44.486,
         "lng": -123.8353,
@@ -1827,7 +1827,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Kodiak, Alaska",
+        "name": "Kodiak，阿拉斯加",
         "country": "US",
         "lat": 57.79,
         "lng": -152.41,
@@ -1837,7 +1837,7 @@
       },
       {
         "hotspotId": "channel_islands",
-        "name": "Channel Islands, California",
+        "name": "Channel岛s，加利福尼亚",
         "country": "US",
         "lat": 34.1446,
         "lng": -119.3773,
@@ -1846,7 +1846,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Ojo de Liebre Lagoon, Mexico",
+        "name": "Ojo de Liebre Lagoon，墨西哥",
         "country": "MX",
         "lat": 27.75,
         "lng": -114.15,
@@ -1855,7 +1855,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "San Juan Islands, Washington",
+        "name": "圣胡安群岛，华盛顿",
         "country": "US",
         "lat": 48.5,
         "lng": -123.1,
@@ -1886,7 +1886,7 @@
     "viewingSpots": [
       {
         "hotspotId": "husavik_iceland",
-        "name": "Husavik, Iceland",
+        "name": "胡萨维克，冰岛",
         "country": "IS",
         "lat": 66.2313,
         "lng": -16.5337,
@@ -1896,7 +1896,7 @@
       },
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 37.8846,
         "lng": -25.6827,
@@ -1905,7 +1905,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Strait of Messina, Italy",
+        "name": "Strait of Messina，Italy",
         "country": "IT",
         "lat": 38.3585,
         "lng": 15.6474,
@@ -1915,7 +1915,7 @@
       },
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 36.8738,
         "lng": -121.0102,
@@ -1924,7 +1924,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Tadoussac, Quebec",
+        "name": "Tadoussac，Quebec",
         "country": "CA",
         "lat": 48.2926,
         "lng": -69.6667,
@@ -1955,7 +1955,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.4796,
         "lng": 147.1282,
@@ -1965,7 +1965,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.2158,
         "lng": 133.711,
@@ -1975,7 +1975,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.7123,
         "lng": 130.1028,
@@ -1985,7 +1985,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.7034,
         "lng": 73.1936,
@@ -1995,7 +1995,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.5408,
         "lng": 33.9466,
@@ -2004,7 +2004,7 @@
         "activity": "diving"
       },
       {
-        "name": "Okinawa, Japan",
+        "name": "冲绳，日本",
         "country": "JP",
         "lat": 26.3227,
         "lng": 127.4398,
@@ -2035,7 +2035,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 0.9505,
         "lng": 124.8521,
@@ -2045,7 +2045,7 @@
       },
       {
         "hotspotId": "tubbataha_philippines",
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.5938,
         "lng": 121.1464,
@@ -2055,7 +2055,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.0133,
         "lng": 33.5013,
@@ -2065,7 +2065,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.9191,
         "lng": 72.6651,
@@ -2074,7 +2074,7 @@
         "activity": "diving"
       },
       {
-        "name": "Okinawa, Japan",
+        "name": "冲绳，日本",
         "country": "JP",
         "lat": 26.4729,
         "lng": 127.7733,
@@ -2106,7 +2106,7 @@
     "viewingSpots": [
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -0.6223,
         "lng": -91.299,
@@ -2115,7 +2115,7 @@
         "activity": "diving"
       },
       {
-        "name": "Nusa Penida, Bali",
+        "name": "Nusa Penida，巴厘岛",
         "country": "ID",
         "lat": -8.5767,
         "lng": 115.5019,
@@ -2125,7 +2125,7 @@
       },
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 35.9299,
         "lng": -122.1473,
@@ -2135,7 +2135,7 @@
       },
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 38.1992,
         "lng": -25.8503,
@@ -2144,7 +2144,7 @@
         "activity": "diving"
       },
       {
-        "name": "Lembongan, Bali",
+        "name": "Lembongan，巴厘岛",
         "country": "ID",
         "lat": -8.7144,
         "lng": 115.1951,
@@ -2176,7 +2176,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.6706,
         "lng": 33.7848,
@@ -2185,7 +2185,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico (invasive)",
+        "name": "科苏梅尔，墨西哥 (invasive)",
         "country": "MX",
         "lat": 20.5496,
         "lng": -87.2606,
@@ -2195,7 +2195,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.179,
         "lng": 131.1776,
@@ -2204,7 +2204,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire (invasive)",
+        "name": "博奈尔岛（入侵种）",
         "country": "BQ",
         "lat": 12.5087,
         "lng": -68.6086,
@@ -2214,7 +2214,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.5309,
         "lng": 73.576,
@@ -2245,7 +2245,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Strait of Sicily, Italy",
+        "name": "Strait of Sicily，Italy",
         "country": "IT",
         "lat": 37.2,
         "lng": 12.5,
@@ -2254,7 +2254,7 @@
         "activity": "diving"
       },
       {
-        "name": "Gulf of Maine",
+        "name": "缅因湾",
         "country": "US",
         "lat": 42.7513,
         "lng": -68.3328,
@@ -2263,7 +2263,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Tsukiji/Toyosu, Tokyo (market)",
+        "name": "Tsukiji/Toyosu，Tokyo (market)",
         "country": "JP",
         "lat": 35.8039,
         "lng": 139.8433,
@@ -2273,7 +2273,7 @@
       },
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 37.3144,
         "lng": -25.783,
@@ -2282,7 +2282,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Oludeniz, Turkey",
+        "name": "Oludeniz，Turkey",
         "country": "TR",
         "lat": 36.55,
         "lng": 29.12,
@@ -2313,7 +2313,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Strait of Messina, Italy",
+        "name": "Strait of Messina，Italy",
         "country": "IT",
         "lat": 37.9511,
         "lng": 15.7752,
@@ -2322,7 +2322,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Cape Hatteras, North Carolina",
+        "name": "Cape Hatteras，North Carolina",
         "country": "US",
         "lat": 35.22,
         "lng": -75.52,
@@ -2332,7 +2332,7 @@
       },
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 38.1145,
         "lng": -26.3639,
@@ -2341,7 +2341,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.2688,
         "lng": -122.648,
@@ -2351,7 +2351,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "South Africa",
+        "name": "南非",
         "country": "ZA",
         "lat": -31.7785,
         "lng": 29.7529,
@@ -2382,7 +2382,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Kimberley Region, Australia",
+        "name": "Kimberley Region，澳大利亚",
         "country": "AU",
         "lat": -15.77,
         "lng": 124.87,
@@ -2391,7 +2391,7 @@
         "activity": "shore"
       },
       {
-        "name": "Daly River, Northern Territory",
+        "name": "Daly河，北领地",
         "country": "AU",
         "lat": -13.75,
         "lng": 130.73,
@@ -2400,7 +2400,7 @@
         "activity": "shore"
       },
       {
-        "name": "Bijagos Archipelago, Guinea-Bissau",
+        "name": "Bijagos Archipelago，Guinea-Bissau",
         "country": "GW",
         "lat": 11.25,
         "lng": -15.92,
@@ -2409,7 +2409,7 @@
         "activity": "shore"
       },
       {
-        "name": "Georgia Aquarium, Atlanta",
+        "name": "Georgia 水族馆，Atlanta",
         "country": "US",
         "lat": 33.5648,
         "lng": -84.1934,
@@ -2419,7 +2419,7 @@
       },
       {
         "hotspotId": "florida_everglades",
-        "name": "Florida Everglades",
+        "name": "佛罗里达 Everglades",
         "country": "US",
         "lat": 25.29,
         "lng": -80.9,
@@ -2451,7 +2451,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Cod Hole, Great Barrier Reef",
+        "name": "Cod Hole，大堡礁",
         "country": "AU",
         "lat": -14.65,
         "lng": 145.59,
@@ -2461,7 +2461,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.9482,
         "lng": 33.2555,
@@ -2471,7 +2471,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.1048,
         "lng": 72.856,
@@ -2480,7 +2480,7 @@
         "activity": "diving"
       },
       {
-        "name": "Okinawa Churaumi Aquarium",
+        "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
         "lat": 26.6456,
         "lng": 127.5296,
@@ -2490,7 +2490,7 @@
       },
       {
         "hotspotId": "sipadan_malaysia",
-        "name": "Sipadan, Malaysia",
+        "name": "仙本那，马来西亚",
         "country": "MY",
         "lat": 3.9729,
         "lng": 118.8233,
@@ -2522,7 +2522,7 @@
     "viewingSpots": [
       {
         "hotspotId": "palau",
-        "name": "Blue Corner, Palau",
+        "name": "Blue Corner，帕劳",
         "country": "PW",
         "lat": 7.333,
         "lng": 134.9358,
@@ -2532,7 +2532,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.0832,
         "lng": 130.9012,
@@ -2542,7 +2542,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Ras Mohammed, Egypt",
+        "name": "拉斯穆罕默德，埃及",
         "country": "EG",
         "lat": 27.73,
         "lng": 34.25,
@@ -2552,7 +2552,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.0151,
         "lng": 147.4848,
@@ -2562,7 +2562,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.5255,
         "lng": 72.6391,
@@ -2572,7 +2572,7 @@
       },
       {
         "hotspotId": "sipadan_malaysia",
-        "name": "Sipadan, Malaysia",
+        "name": "仙本那，马来西亚",
         "country": "MY",
         "lat": 3.8186,
         "lng": 118.1781,
@@ -2604,7 +2604,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.2764,
         "lng": 33.8579,
@@ -2614,7 +2614,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.8361,
         "lng": 73.2139,
@@ -2624,7 +2624,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.5028,
         "lng": 131.0831,
@@ -2634,7 +2634,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -17.8242,
         "lng": 147.2561,
@@ -2644,7 +2644,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.611,
         "lng": 135.0286,
@@ -2676,7 +2676,7 @@
     "viewingSpots": [
       {
         "hotspotId": "florida_everglades",
-        "name": "Crystal River, Florida",
+        "name": "水晶河，佛罗里达",
         "country": "US",
         "lat": 29.0093,
         "lng": -82.6024,
@@ -2685,7 +2685,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.7752,
         "lng": -87.4968,
@@ -2694,7 +2694,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Homosassa Springs, Florida",
+        "name": "Homosassa Springs，佛罗里达",
         "country": "US",
         "lat": 28.602,
         "lng": -82.4439,
@@ -2703,7 +2703,7 @@
         "activity": "shore"
       },
       {
-        "name": "Blue Spring State Park, Florida",
+        "name": "Blue Spring State Park，佛罗里达",
         "country": "US",
         "lat": 28.95,
         "lng": -81.34,
@@ -2712,7 +2712,7 @@
         "activity": "shore"
       },
       {
-        "name": "Caye Caulker, Belize",
+        "name": "Caye Caulker，Belize",
         "country": "BZ",
         "lat": 17.3124,
         "lng": -87.5854,
@@ -2743,7 +2743,7 @@
     "viewingSpots": [
       {
         "hotspotId": "galapagos",
-        "name": "Galapagos Islands",
+        "name": "加拉帕戈斯岛s",
         "country": "EC",
         "lat": -0.8132,
         "lng": -90.94,
@@ -2753,7 +2753,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.3902,
         "lng": 73.3927,
@@ -2763,7 +2763,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.8572,
         "lng": 34.2098,
@@ -2772,7 +2772,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.7237,
         "lng": -86.6567,
@@ -2782,7 +2782,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 6.7726,
         "lng": 134.9116,
@@ -2813,7 +2813,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Maui, Hawaii",
+        "name": "毛伊岛，夏威夷",
         "country": "US",
         "lat": 20.837,
         "lng": -156.6659,
@@ -2823,7 +2823,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.4727,
         "lng": 73.9542,
@@ -2833,7 +2833,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.0475,
         "lng": 33.3008,
@@ -2843,7 +2843,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.6434,
         "lng": 130.9852,
@@ -2853,7 +2853,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.978,
         "lng": 134.8574,
@@ -2884,7 +2884,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Grand Cayman",
+        "name": "大开曼岛",
         "country": "KY",
         "lat": 19.1735,
         "lng": -80.9977,
@@ -2894,7 +2894,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.5978,
         "lng": 33.5902,
@@ -2904,7 +2904,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.9512,
         "lng": 134.1487,
@@ -2914,7 +2914,7 @@
       },
       {
         "hotspotId": "sipadan_malaysia",
-        "name": "Sipadan, Malaysia",
+        "name": "仙本那，马来西亚",
         "country": "MY",
         "lat": 4.0483,
         "lng": 119.1309,
@@ -2923,7 +2923,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 12.1688,
         "lng": -68.6098,
@@ -2954,7 +2954,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Barrow (Utqiagvik), Alaska",
+        "name": "Barrow (Utqiagvik)，阿拉斯加",
         "country": "US",
         "lat": 71.29,
         "lng": -156.79,
@@ -2964,7 +2964,7 @@
       },
       {
         "hotspotId": "svalbard",
-        "name": "Svalbard",
+        "name": "斯瓦尔巴群岛",
         "country": "NO",
         "lat": 78.0196,
         "lng": 16.2646,
@@ -2973,7 +2973,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Disko Bay, Greenland",
+        "name": "Disko湾，Greenland",
         "country": "GL",
         "lat": 69.25,
         "lng": -53.55,
@@ -2982,7 +2982,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Foxe Basin, Canada",
+        "name": "Foxe Basin，加拿大",
         "country": "CA",
         "lat": 67.0,
         "lng": -78.0,
@@ -2991,7 +2991,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Sea of Okhotsk, Russia",
+        "name": "Sea of Okhotsk，Russia",
         "country": "RU",
         "lat": 55.0,
         "lng": 150.0,
@@ -3022,7 +3022,7 @@
     "viewingSpots": [
       {
         "hotspotId": "svalbard",
-        "name": "Svalbard",
+        "name": "斯瓦尔巴群岛",
         "country": "NO",
         "lat": 78.3638,
         "lng": 17.363,
@@ -3031,7 +3031,7 @@
         "activity": "shore"
       },
       {
-        "name": "Round Island, Alaska",
+        "name": "Round岛，阿拉斯加",
         "country": "US",
         "lat": 58.61,
         "lng": -159.87,
@@ -3040,7 +3040,7 @@
         "activity": "shore"
       },
       {
-        "name": "Wrangel Island, Russia",
+        "name": "Wrangel岛，Russia",
         "country": "RU",
         "lat": 71.0,
         "lng": 179.5,
@@ -3049,7 +3049,7 @@
         "activity": "shore"
       },
       {
-        "name": "Igloolik, Nunavut",
+        "name": "Igloolik，Nunavut",
         "country": "CA",
         "lat": 69.38,
         "lng": -81.8,
@@ -3058,7 +3058,7 @@
         "activity": "shore"
       },
       {
-        "name": "Franz Josef Land, Russia",
+        "name": "Franz Josef Land，Russia",
         "country": "RU",
         "lat": 80.5,
         "lng": 50.0,
@@ -3089,7 +3089,7 @@
     "viewingSpots": [
       {
         "hotspotId": "husavik_iceland",
-        "name": "Vatnsnes, Iceland",
+        "name": "Vatnsnes，冰岛",
         "country": "IS",
         "lat": 65.6,
         "lng": -20.63,
@@ -3098,7 +3098,7 @@
         "activity": "shore"
       },
       {
-        "name": "Isle of Skye, Scotland",
+        "name": "Isle of Skye，苏格兰",
         "country": "GB",
         "lat": 57.27,
         "lng": -6.21,
@@ -3108,7 +3108,7 @@
       },
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 36.5357,
         "lng": -121.3209,
@@ -3117,7 +3117,7 @@
         "activity": "shore"
       },
       {
-        "name": "Helgoland, Germany",
+        "name": "Helgoland，Germany",
         "country": "DE",
         "lat": 54.18,
         "lng": 7.89,
@@ -3126,7 +3126,7 @@
         "activity": "shore"
       },
       {
-        "name": "Wadden Sea, Netherlands",
+        "name": "Wadden海，Netherlands",
         "country": "NL",
         "lat": 53.4597,
         "lng": 5.3171,
@@ -3157,7 +3157,7 @@
     "viewingSpots": [
       {
         "hotspotId": "cocos_island",
-        "name": "Cocos Island",
+        "name": "Cocos岛",
         "country": "CR",
         "lat": 5.6264,
         "lng": -87.3756,
@@ -3166,7 +3166,7 @@
         "activity": "diving"
       },
       {
-        "name": "Isla Mujeres, Mexico",
+        "name": "Isla Mujeres，墨西哥",
         "country": "MX",
         "lat": 21.23,
         "lng": -86.73,
@@ -3175,7 +3175,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Kuala Rompin, Malaysia",
+        "name": "Kuala Rompin，马来西亚",
         "country": "MY",
         "lat": 2.8,
         "lng": 103.5,
@@ -3185,7 +3185,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "South Africa (sardine run)",
+        "name": "南非 (sardine run)",
         "country": "ZA",
         "lat": -32.0474,
         "lng": 29.5236,
@@ -3194,7 +3194,7 @@
         "activity": "diving"
       },
       {
-        "name": "Zanzibar, Tanzania",
+        "name": "Zanzibar，坦桑尼亚",
         "country": "TZ",
         "lat": -6.16,
         "lng": 39.2,
@@ -3225,7 +3225,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Kona, Hawaii",
+        "name": "Kona，夏威夷",
         "country": "US",
         "lat": 19.7775,
         "lng": -156.0078,
@@ -3235,7 +3235,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.0463,
         "lng": 73.5347,
@@ -3245,7 +3245,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Sataya Reef, Egypt",
+        "name": "Sataya礁，埃及",
         "country": "EG",
         "lat": 24.3314,
         "lng": 35.4417,
@@ -3254,7 +3254,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Fernando de Noronha, Brazil",
+        "name": "Fernando de Noronha，巴西",
         "country": "BR",
         "lat": -3.85,
         "lng": -32.43,
@@ -3263,7 +3263,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Mauritius",
+        "name": "毛里求斯",
         "country": "MU",
         "lat": -20.17,
         "lng": 57.5,
@@ -3273,7 +3273,7 @@
       },
       {
         "hotspotId": "tonga",
-        "name": "Tonga",
+        "name": "汤加",
         "country": "TO",
         "lat": -20.2576,
         "lng": -174.8403,
@@ -3283,7 +3283,7 @@
       },
       {
         "hotspotId": "mirissa_sri_lanka",
-        "name": "Mirissa, Sri Lanka",
+        "name": "米瑞莎，斯里兰卡",
         "country": "LK",
         "lat": 5.818,
         "lng": 80.6575,
@@ -3314,7 +3314,7 @@
     "viewingSpots": [
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 37.5454,
         "lng": -25.4693,
@@ -3324,7 +3324,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "South Africa (sardine run)",
+        "name": "南非 (sardine run)",
         "country": "ZA",
         "lat": -31.4218,
         "lng": 29.8866,
@@ -3333,7 +3333,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Algarve, Portugal",
+        "name": "Algarve，葡萄牙",
         "country": "PT",
         "lat": 36.875,
         "lng": -8.0027,
@@ -3342,7 +3342,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Bay of Biscay, France",
+        "name": "比斯开湾，法国",
         "country": "FR",
         "lat": 45.5,
         "lng": -3.0,
@@ -3351,7 +3351,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Patagonia, Argentina",
+        "name": "Patagonia，阿根廷",
         "country": "AR",
         "lat": -42.3342,
         "lng": -64.2546,
@@ -3381,7 +3381,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lantau Island, Hong Kong",
+        "name": "Lantau岛，Hong Kong",
         "country": "HK",
         "lat": 22.29,
         "lng": 113.87,
@@ -3390,7 +3390,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Pearl River Delta, China",
+        "name": "珠江三角洲，中国",
         "country": "CN",
         "lat": 22.0,
         "lng": 113.5,
@@ -3399,7 +3399,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Xiamen, China",
+        "name": "Xiamen，中国",
         "country": "CN",
         "lat": 24.48,
         "lng": 118.09,
@@ -3408,7 +3408,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Zhanjiang, China",
+        "name": "Zhanjiang，中国",
         "country": "CN",
         "lat": 21.27,
         "lng": 110.36,
@@ -3417,7 +3417,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Borneo, Malaysia",
+        "name": "婆罗洲，马来西亚",
         "country": "MY",
         "lat": 4.95,
         "lng": 115.07,
@@ -3448,7 +3448,7 @@
     "viewingSpots": [
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "South Georgia Island",
+        "name": "South Georgia岛",
         "country": "GS",
         "lat": -54.1097,
         "lng": -36.5302,
@@ -3457,7 +3457,7 @@
         "activity": "shore"
       },
       {
-        "name": "Macquarie Island, Australia",
+        "name": "Macquarie岛，澳大利亚",
         "country": "AU",
         "lat": -54.62,
         "lng": 158.86,
@@ -3466,7 +3466,7 @@
         "activity": "shore"
       },
       {
-        "name": "Valdes Peninsula, Argentina",
+        "name": "瓦尔德斯半岛，阿根廷",
         "country": "AR",
         "lat": -42.4178,
         "lng": -64.7175,
@@ -3475,7 +3475,7 @@
         "activity": "shore"
       },
       {
-        "name": "Falkland Islands",
+        "name": "Falkland岛s",
         "country": "FK",
         "lat": -51.8,
         "lng": -59.0,
@@ -3484,7 +3484,7 @@
         "activity": "shore"
       },
       {
-        "name": "Kerguelen Islands, France",
+        "name": "Kerguelen岛s，法国",
         "country": "FR",
         "lat": -49.3,
         "lng": 69.35,
@@ -3515,7 +3515,7 @@
     "viewingSpots": [
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "Antarctic Peninsula",
+        "name": "南极半岛",
         "country": "AQ",
         "lat": -64.9504,
         "lng": -62.0576,
@@ -3524,7 +3524,7 @@
         "activity": "shore"
       },
       {
-        "name": "South Georgia Island",
+        "name": "South Georgia岛",
         "country": "GS",
         "lat": -54.4017,
         "lng": -36.1709,
@@ -3533,7 +3533,7 @@
         "activity": "shore"
       },
       {
-        "name": "South Shetland Islands",
+        "name": "South Shetland岛s",
         "country": "AQ",
         "lat": -62.2249,
         "lng": -57.7461,
@@ -3564,7 +3564,7 @@
     "viewingSpots": [
       {
         "hotspotId": "lofoten_norway",
-        "name": "Lofoten, Norway",
+        "name": "罗弗敦群岛，挪威",
         "country": "NO",
         "lat": 68.3868,
         "lng": 14.6287,
@@ -3574,7 +3574,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Iceland",
+        "name": "冰岛",
         "country": "IS",
         "lat": 66.6279,
         "lng": -17.1493,
@@ -3583,7 +3583,7 @@
         "activity": "diving"
       },
       {
-        "name": "North Sea, UK",
+        "name": "North海，UK",
         "country": "GB",
         "lat": 56.0,
         "lng": 2.0,
@@ -3614,7 +3614,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Paracas, Peru",
+        "name": "Paracas，Peru",
         "country": "PE",
         "lat": -13.86,
         "lng": -76.25,
@@ -3623,7 +3623,7 @@
         "activity": "shore"
       },
       {
-        "name": "Iquique, Chile",
+        "name": "Iquique，Chile",
         "country": "CL",
         "lat": -20.21,
         "lng": -70.14,
@@ -3632,7 +3632,7 @@
         "activity": "shore"
       },
       {
-        "name": "Callao, Peru",
+        "name": "Callao，Peru",
         "country": "PE",
         "lat": -12.07,
         "lng": -77.15,
@@ -3664,7 +3664,7 @@
     "viewingSpots": [
       {
         "hotspotId": "lofoten_norway",
-        "name": "Lofoten, Norway",
+        "name": "罗弗敦群岛，挪威",
         "country": "NO",
         "lat": 68.0693,
         "lng": 14.9961,
@@ -3674,7 +3674,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Iceland",
+        "name": "冰岛",
         "country": "IS",
         "lat": 65.6294,
         "lng": -17.4777,
@@ -3683,7 +3683,7 @@
         "activity": "shore"
       },
       {
-        "name": "Newfoundland, Canada",
+        "name": "Newfoundland，加拿大",
         "country": "CA",
         "lat": 47.3507,
         "lng": -52.4408,
@@ -3692,7 +3692,7 @@
         "activity": "shore"
       },
       {
-        "name": "Tromso, Norway",
+        "name": "Tromso，挪威",
         "country": "NO",
         "lat": 69.65,
         "lng": 18.96,
@@ -3724,7 +3724,7 @@
     "viewingSpots": [
       {
         "hotspotId": "lofoten_norway",
-        "name": "Alta River, Norway",
+        "name": "Alta河，挪威",
         "country": "NO",
         "lat": 69.97,
         "lng": 23.27,
@@ -3733,7 +3733,7 @@
         "activity": "shore"
       },
       {
-        "name": "River Tweed, Scotland",
+        "name": "River Tweed，苏格兰",
         "country": "GB",
         "lat": 55.77,
         "lng": -2.0,
@@ -3743,7 +3743,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Laxa River, Iceland",
+        "name": "Laxa河，冰岛",
         "country": "IS",
         "lat": 65.63,
         "lng": -17.08,
@@ -3752,7 +3752,7 @@
         "activity": "shore"
       },
       {
-        "name": "Restigouche River, Canada",
+        "name": "Restigouche河，加拿大",
         "country": "CA",
         "lat": 47.87,
         "lng": -66.67,
@@ -3783,7 +3783,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Kenai River, Alaska",
+        "name": "基奈河，阿拉斯加",
         "country": "US",
         "lat": 60.54,
         "lng": -149.44,
@@ -3792,7 +3792,7 @@
         "activity": "shore"
       },
       {
-        "name": "Columbia River, Oregon",
+        "name": "哥伦比亚河，俄勒冈",
         "country": "US",
         "lat": 46.25,
         "lng": -124.0,
@@ -3801,7 +3801,7 @@
         "activity": "shore"
       },
       {
-        "name": "Campbell River, BC",
+        "name": "坎贝尔河，BC",
         "country": "CA",
         "lat": 50.02,
         "lng": -125.25,
@@ -3833,7 +3833,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.3361,
         "lng": 148.3776,
@@ -3843,7 +3843,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.9216,
         "lng": 34.6703,
@@ -3853,7 +3853,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.8128,
         "lng": 73.8274,
@@ -3863,7 +3863,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.4798,
         "lng": 129.9611,
@@ -3894,7 +3894,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.1888,
         "lng": 147.6784,
@@ -3904,7 +3904,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.4874,
         "lng": 130.6941,
@@ -3913,7 +3913,7 @@
         "activity": "diving"
       },
       {
-        "name": "Kaneohe Bay, Hawaii",
+        "name": "Kaneohe湾，夏威夷",
         "country": "US",
         "lat": 21.1231,
         "lng": -157.6506,
@@ -3943,7 +3943,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Big Island, Hawaii",
+        "name": "Big岛，夏威夷",
         "country": "US",
         "lat": 19.8105,
         "lng": -155.8394,
@@ -3953,7 +3953,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.5224,
         "lng": 147.3571,
@@ -3963,7 +3963,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.6252,
         "lng": 133.9136,
@@ -3994,7 +3994,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.9483,
         "lng": 33.7116,
@@ -4004,7 +4004,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.7321,
         "lng": 73.0919,
@@ -4014,7 +4014,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -17.6186,
         "lng": 147.6062,
@@ -4024,7 +4024,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.7227,
         "lng": 130.3575,
@@ -4056,7 +4056,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -17.9206,
         "lng": 147.9231,
@@ -4065,7 +4065,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Kimbe Bay, Papua New Guinea",
+        "name": "Kimbe湾，巴布亚新几内亚",
         "country": "PG",
         "lat": -5.5,
         "lng": 150.1,
@@ -4074,7 +4074,7 @@
         "activity": "diving"
       },
       {
-        "name": "Milne Bay, Papua New Guinea",
+        "name": "Milne湾，巴布亚新几内亚",
         "country": "PG",
         "lat": -10.1401,
         "lng": 150.4941,
@@ -4106,7 +4106,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.5447,
         "lng": 33.1483,
@@ -4116,7 +4116,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.878,
         "lng": 148.086,
@@ -4126,7 +4126,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.6338,
         "lng": 73.1257,
@@ -4136,7 +4136,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.6519,
         "lng": 129.9807,
@@ -4168,7 +4168,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.4209,
         "lng": 147.8285,
@@ -4178,7 +4178,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.8453,
         "lng": 130.7126,
@@ -4188,7 +4188,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.3968,
         "lng": 73.6422,
@@ -4219,7 +4219,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.3674,
         "lng": 130.433,
@@ -4229,7 +4229,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -17.7932,
         "lng": 148.0416,
@@ -4239,7 +4239,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.2039,
         "lng": 134.6483,
@@ -4270,7 +4270,7 @@
     "viewingSpots": [
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.8656,
         "lng": 134.5604,
@@ -4280,7 +4280,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.6414,
         "lng": 147.3014,
@@ -4290,7 +4290,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.736,
         "lng": 130.1223,
@@ -4299,7 +4299,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tridacna Farm, Tonga",
+        "name": "Tridacna Farm，汤加",
         "country": "TO",
         "lat": -20.3688,
         "lng": -175.533,
@@ -4329,7 +4329,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Florida Keys",
+        "name": "佛罗里达 Keys",
         "country": "US",
         "lat": 24.5365,
         "lng": -82.161,
@@ -4338,7 +4338,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.3525,
         "lng": -86.3952,
@@ -4347,7 +4347,7 @@
         "activity": "diving"
       },
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.9361,
         "lng": -87.8877,
@@ -4377,7 +4377,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Portland, Maine",
+        "name": "Portland，Maine",
         "country": "US",
         "lat": 43.66,
         "lng": -70.26,
@@ -4386,7 +4386,7 @@
         "activity": "shore"
       },
       {
-        "name": "Halifax, Nova Scotia",
+        "name": "Halifax，Nova Scotia",
         "country": "CA",
         "lat": 44.65,
         "lng": -63.57,
@@ -4395,7 +4395,7 @@
         "activity": "shore"
       },
       {
-        "name": "Cape Cod, Massachusetts",
+        "name": "Cape Cod，Massachusetts",
         "country": "US",
         "lat": 41.8289,
         "lng": -70.2744,
@@ -4425,7 +4425,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Chesapeake Bay, Maryland",
+        "name": "切萨皮克湾，Maryland",
         "country": "US",
         "lat": 38.5,
         "lng": -76.3,
@@ -4434,7 +4434,7 @@
         "activity": "shore"
       },
       {
-        "name": "Gulf Coast, Louisiana",
+        "name": "Gulf海岸，Louisiana",
         "country": "US",
         "lat": 29.5,
         "lng": -90.0,
@@ -4443,7 +4443,7 @@
         "activity": "shore"
       },
       {
-        "name": "Galveston, Texas",
+        "name": "Galveston，Texas",
         "country": "US",
         "lat": 29.3,
         "lng": -94.79,
@@ -4473,7 +4473,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Dutch Harbor, Alaska",
+        "name": "Dutch Harbor，阿拉斯加",
         "country": "US",
         "lat": 53.89,
         "lng": -166.54,
@@ -4483,7 +4483,7 @@
       },
       {
         "hotspotId": "lofoten_norway",
-        "name": "Kirkenes, Norway",
+        "name": "Kirkenes，挪威",
         "country": "NO",
         "lat": 69.73,
         "lng": 30.05,
@@ -4492,7 +4492,7 @@
         "activity": "diving"
       },
       {
-        "name": "Kamchatka, Russia",
+        "name": "Kamchatka，Russia",
         "country": "RU",
         "lat": 56.0,
         "lng": 160.0,
@@ -4522,7 +4522,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Mekong Delta, Vietnam",
+        "name": "Mekong Delta，Vietnam",
         "country": "VN",
         "lat": 9.78,
         "lng": 106.7,
@@ -4531,7 +4531,7 @@
         "activity": "shore"
       },
       {
-        "name": "Andaman Sea, Thailand",
+        "name": "安达曼海，泰国",
         "country": "TH",
         "lat": 8.0,
         "lng": 98.3,
@@ -4540,7 +4540,7 @@
         "activity": "shore"
       },
       {
-        "name": "Sundarbans, Bangladesh",
+        "name": "Sundarbans，Bangladesh",
         "country": "BD",
         "lat": 21.95,
         "lng": 89.18,
@@ -4571,7 +4571,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 36.4399,
         "lng": -121.9987,
@@ -4580,7 +4580,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tasmania, Australia",
+        "name": "Tasmania，澳大利亚",
         "country": "AU",
         "lat": -42.3531,
         "lng": 147.4926,
@@ -4589,7 +4589,7 @@
         "activity": "diving"
       },
       {
-        "name": "Patagonia, Argentina",
+        "name": "Patagonia，阿根廷",
         "country": "AR",
         "lat": -48.0,
         "lng": -65.5,
@@ -4599,7 +4599,7 @@
       },
       {
         "hotspotId": "channel_islands",
-        "name": "Channel Islands, California",
+        "name": "Channel岛s，加利福尼亚",
         "country": "US",
         "lat": 33.6323,
         "lng": -119.6345,
@@ -4630,7 +4630,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay",
+        "name": "蒙特雷湾",
         "country": "US",
         "lat": 36.807,
         "lng": -121.6278,
@@ -4640,7 +4640,7 @@
       },
       {
         "hotspotId": "channel_islands",
-        "name": "Channel Islands, California",
+        "name": "Channel岛s，加利福尼亚",
         "country": "US",
         "lat": 33.8251,
         "lng": -119.2336,
@@ -4649,7 +4649,7 @@
         "activity": "diving"
       },
       {
-        "name": "Mendocino, California",
+        "name": "Mendocino，加利福尼亚",
         "country": "US",
         "lat": 39.31,
         "lng": -123.8,
@@ -4679,7 +4679,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Sargasso Sea (spawning)",
+        "name": "Sargasso海 (spawning)",
         "country": "US",
         "lat": 28.0,
         "lng": -64.0,
@@ -4688,7 +4688,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Severn Estuary, UK",
+        "name": "Severn Estuary，UK",
         "country": "GB",
         "lat": 51.4,
         "lng": -3.0,
@@ -4697,7 +4697,7 @@
         "activity": "shore"
       },
       {
-        "name": "Loire Valley, France",
+        "name": "Loire Valley，法国",
         "country": "FR",
         "lat": 47.3,
         "lng": -1.55,
@@ -4729,7 +4729,7 @@
     "viewingSpots": [
       {
         "hotspotId": "husavik_iceland",
-        "name": "Iceland",
+        "name": "冰岛",
         "country": "IS",
         "lat": 66.4579,
         "lng": -17.9105,
@@ -4739,7 +4739,7 @@
       },
       {
         "hotspotId": "lofoten_norway",
-        "name": "Northern Norway",
+        "name": "北部 挪威",
         "country": "NO",
         "lat": 68.6096,
         "lng": 13.7979,
@@ -4748,7 +4748,7 @@
         "activity": "shore"
       },
       {
-        "name": "Bergen, Norway",
+        "name": "Bergen，挪威",
         "country": "NO",
         "lat": 60.39,
         "lng": 5.32,
@@ -4780,7 +4780,7 @@
     "viewingSpots": [
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "South Africa Wild Coast (sardine run)",
+        "name": "南非 Wild海岸 (sardine run)",
         "country": "ZA",
         "lat": -31.633,
         "lng": 29.1646,
@@ -4789,7 +4789,7 @@
         "activity": "diving"
       },
       {
-        "name": "Algarve, Portugal",
+        "name": "Algarve，葡萄牙",
         "country": "PT",
         "lat": 37.3249,
         "lng": -7.9784,
@@ -4798,7 +4798,7 @@
         "activity": "shore"
       },
       {
-        "name": "Sicily, Italy",
+        "name": "Sicily，Italy",
         "country": "IT",
         "lat": 37.5,
         "lng": 14.0,
@@ -4829,7 +4829,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Jellyfish Lake, Palau",
+        "name": "Jellyfish湖，帕劳",
         "country": "PW",
         "lat": 6.9281,
         "lng": 134.4848,
@@ -4838,7 +4838,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.3176,
         "lng": -122.2,
@@ -4847,7 +4847,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Vancouver Aquarium",
+        "name": "温哥华 水族馆",
         "country": "CA",
         "lat": 49.3,
         "lng": -123.13,
@@ -4877,7 +4877,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Gulf of Maine",
+        "name": "缅因湾",
         "country": "US",
         "lat": 43.1585,
         "lng": -68.5295,
@@ -4886,7 +4886,7 @@
         "activity": "shore"
       },
       {
-        "name": "Norwegian fjords",
+        "name": "挪威峡湾",
         "country": "NO",
         "lat": 61.1597,
         "lng": 6.0205,
@@ -4895,7 +4895,7 @@
         "activity": "shore"
       },
       {
-        "name": "Loch Fyne, Scotland",
+        "name": "Loch Fyne，苏格兰",
         "country": "GB",
         "lat": 55.8623,
         "lng": -5.0445,
@@ -4925,7 +4925,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Canary Islands, Spain",
+        "name": "Canary岛s，Spain",
         "country": "ES",
         "lat": 28.2868,
         "lng": -15.1106,
@@ -4934,7 +4934,7 @@
         "activity": "shore"
       },
       {
-        "name": "Gold Coast, Australia",
+        "name": "Gold海岸，澳大利亚",
         "country": "AU",
         "lat": -27.845,
         "lng": 153.4748,
@@ -4943,7 +4943,7 @@
         "activity": "shore"
       },
       {
-        "name": "Bermuda",
+        "name": "百慕大",
         "country": "BM",
         "lat": 32.4665,
         "lng": -64.746,
@@ -4973,7 +4973,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Whyalla, South Australia",
+        "name": "Whyalla，South 澳大利亚",
         "country": "AU",
         "lat": -33.03,
         "lng": 137.52,
@@ -4982,7 +4982,7 @@
         "activity": "diving"
       },
       {
-        "name": "English Channel, UK",
+        "name": "English海峡，UK",
         "country": "GB",
         "lat": 50.5,
         "lng": -1.5,
@@ -4991,7 +4991,7 @@
         "activity": "diving"
       },
       {
-        "name": "Marseille, France",
+        "name": "Marseille，法国",
         "country": "FR",
         "lat": 43.3,
         "lng": 5.37,
@@ -5022,7 +5022,7 @@
     "viewingSpots": [
       {
         "hotspotId": "baja_california",
-        "name": "Sea of Cortez, Mexico",
+        "name": "Sea of Cortez，墨西哥",
         "country": "MX",
         "lat": 27.1598,
         "lng": -111.0099,
@@ -5031,7 +5031,7 @@
         "activity": "diving"
       },
       {
-        "name": "Humboldt Current, Peru",
+        "name": "Humboldt Current，Peru",
         "country": "PE",
         "lat": -15.0,
         "lng": -76.0,
@@ -5040,7 +5040,7 @@
         "activity": "shore"
       },
       {
-        "name": "Coquimbo, Chile",
+        "name": "Coquimbo，Chile",
         "country": "CL",
         "lat": -29.95,
         "lng": -71.34,
@@ -5070,7 +5070,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Mediterranean (Croatia)",
+        "name": "地中海 (Croatia)",
         "country": "HR",
         "lat": 43.51,
         "lng": 16.44,
@@ -5079,7 +5079,7 @@
         "activity": "diving"
       },
       {
-        "name": "Algarve, Portugal",
+        "name": "Algarve，葡萄牙",
         "country": "PT",
         "lat": 37.1584,
         "lng": -8.2862,
@@ -5088,7 +5088,7 @@
         "activity": "shore"
       },
       {
-        "name": "Galicia, Spain",
+        "name": "Galicia，Spain",
         "country": "ES",
         "lat": 42.88,
         "lng": -8.54,
@@ -5118,7 +5118,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Wadden Sea, Denmark",
+        "name": "Wadden海，Denmark",
         "country": "DK",
         "lat": 55.45,
         "lng": 8.3,
@@ -5127,7 +5127,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Baltic Sea (Sweden)",
+        "name": "波罗的海 (瑞典)",
         "country": "SE",
         "lat": 57.7,
         "lng": 11.97,
@@ -5136,7 +5136,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "San Juan Islands, Washington",
+        "name": "圣胡安群岛，华盛顿",
         "country": "US",
         "lat": 48.2847,
         "lng": -122.8252,
@@ -5166,7 +5166,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Donna Nook, England",
+        "name": "Donna Nook，England",
         "country": "GB",
         "lat": 53.47,
         "lng": 0.15,
@@ -5176,7 +5176,7 @@
       },
       {
         "hotspotId": "husavik_iceland",
-        "name": "Iceland",
+        "name": "冰岛",
         "country": "IS",
         "lat": 64.5,
         "lng": -21.5,
@@ -5185,7 +5185,7 @@
         "activity": "shore"
       },
       {
-        "name": "Sable Island, Nova Scotia",
+        "name": "Sable岛，Nova Scotia",
         "country": "CA",
         "lat": 43.93,
         "lng": -59.9,
@@ -5216,7 +5216,7 @@
     "viewingSpots": [
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "South Georgia Island",
+        "name": "South Georgia岛",
         "country": "GS",
         "lat": -54.1836,
         "lng": -37.0292,
@@ -5225,7 +5225,7 @@
         "activity": "shore"
       },
       {
-        "name": "South Shetland Islands",
+        "name": "South Shetland岛s",
         "country": "AQ",
         "lat": -61.9154,
         "lng": -58.6764,
@@ -5234,7 +5234,7 @@
         "activity": "shore"
       },
       {
-        "name": "Bouvet Island",
+        "name": "Bouvet岛",
         "country": "BV",
         "lat": -54.43,
         "lng": 3.38,
@@ -5265,7 +5265,7 @@
     "viewingSpots": [
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "McMurdo Sound, Antarctica",
+        "name": "McMurdo Sound，Antarctica",
         "country": "AQ",
         "lat": -77.85,
         "lng": 166.67,
@@ -5274,7 +5274,7 @@
         "activity": "shore"
       },
       {
-        "name": "Antarctic Peninsula",
+        "name": "南极半岛",
         "country": "AQ",
         "lat": -64.6626,
         "lng": -62.5509,
@@ -5283,7 +5283,7 @@
         "activity": "shore"
       },
       {
-        "name": "Deception Island, Antarctica",
+        "name": "Deception岛，Antarctica",
         "country": "AQ",
         "lat": -62.97,
         "lng": -60.65,
@@ -5313,7 +5313,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Iles de la Madeleine, Canada",
+        "name": "Iles de la Madeleine，加拿大",
         "country": "CA",
         "lat": 47.39,
         "lng": -61.85,
@@ -5322,7 +5322,7 @@
         "activity": "shore"
       },
       {
-        "name": "White Sea, Russia",
+        "name": "White海，Russia",
         "country": "RU",
         "lat": 66.1594,
         "lng": 36.0337,
@@ -5331,7 +5331,7 @@
         "activity": "shore"
       },
       {
-        "name": "Newfoundland, Canada",
+        "name": "Newfoundland，加拿大",
         "country": "CA",
         "lat": 47.7198,
         "lng": -52.7206,
@@ -5362,7 +5362,7 @@
     "viewingSpots": [
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "Ross Sea, Antarctica",
+        "name": "Ross海，Antarctica",
         "country": "AQ",
         "lat": -77.6991,
         "lng": 170.8908,
@@ -5371,7 +5371,7 @@
         "activity": "shore"
       },
       {
-        "name": "Te Papa Museum, Wellington",
+        "name": "Te Papa 博物馆，Wellington",
         "country": "NZ",
         "lat": -41.4742,
         "lng": 175.0556,
@@ -5380,7 +5380,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "South Georgia waters",
+        "name": "南乔治亚岛海域",
         "country": "GS",
         "lat": -54.0601,
         "lng": -35.9482,
@@ -5412,7 +5412,7 @@
     "viewingSpots": [
       {
         "hotspotId": "antarctica_ross_sea",
-        "name": "Antarctic Peninsula",
+        "name": "南极半岛",
         "country": "AQ",
         "lat": -64.5101,
         "lng": -61.9672,
@@ -5421,7 +5421,7 @@
         "activity": "shore"
       },
       {
-        "name": "South Shetland Islands",
+        "name": "South Shetland岛s",
         "country": "AQ",
         "lat": -61.854,
         "lng": -57.9649,
@@ -5430,7 +5430,7 @@
         "activity": "shore"
       },
       {
-        "name": "King George Island",
+        "name": "King George岛",
         "country": "AQ",
         "lat": -62.1,
         "lng": -58.5,
@@ -5461,7 +5461,7 @@
     },
     "viewingSpots": [
       {
-        "name": "East Pacific Rise",
+        "name": "东太平洋海隆",
         "country": "US",
         "lat": 9.83,
         "lng": -104.3,
@@ -5470,7 +5470,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 37.3659,
         "lng": -121.6491,
@@ -5479,7 +5479,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Smithsonian NMNH, Washington DC",
+        "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
         "lat": 38.7317,
         "lng": -76.7971,
@@ -5489,7 +5489,7 @@
       },
       {
         "hotspotId": "deep_sea_mid_atlantic",
-        "name": "Mid-Atlantic Ridge",
+        "name": "大西洋中脊",
         "country": null,
         "lat": 37.3168,
         "lng": -32.1796,
@@ -5520,7 +5520,7 @@
     "viewingSpots": [
       {
         "hotspotId": "deep_sea_mid_atlantic",
-        "name": "Mid-Atlantic Ridge",
+        "name": "大西洋中脊",
         "country": null,
         "lat": 37.0176,
         "lng": -31.9141,
@@ -5529,7 +5529,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.9298,
         "lng": -1.0042,
@@ -5538,7 +5538,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Oceanopolis, Brest",
+        "name": "Oceanopolis，Brest",
         "country": "FR",
         "lat": 48.5481,
         "lng": -4.4769,
@@ -5568,7 +5568,7 @@
     },
     "viewingSpots": [
       {
-        "name": "East Pacific Rise",
+        "name": "东太平洋海隆",
         "country": "US",
         "lat": 13.0,
         "lng": -104.0,
@@ -5577,7 +5577,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 37.4509,
         "lng": -121.8931,
@@ -5586,7 +5586,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Oceanopolis, Brest",
+        "name": "Oceanopolis，Brest",
         "country": "FR",
         "lat": 48.18,
         "lng": -4.1677,
@@ -5616,7 +5616,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Arcachon Bay, France",
+        "name": "Arcachon湾，法国",
         "country": "FR",
         "lat": 44.64,
         "lng": -1.17,
@@ -5625,7 +5625,7 @@
         "activity": "shore"
       },
       {
-        "name": "Willapa Bay, Washington",
+        "name": "威拉帕湾，华盛顿",
         "country": "US",
         "lat": 46.63,
         "lng": -124.02,
@@ -5634,7 +5634,7 @@
         "activity": "shore"
       },
       {
-        "name": "Miyagi Prefecture, Japan",
+        "name": "Miyagi Prefecture，日本",
         "country": "JP",
         "lat": 38.3,
         "lng": 141.5,
@@ -5664,7 +5664,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Mont-Saint-Michel, France",
+        "name": "Mont-Saint-Michel，法国",
         "country": "FR",
         "lat": 48.64,
         "lng": -1.51,
@@ -5673,7 +5673,7 @@
         "activity": "shore"
       },
       {
-        "name": "Wadden Sea, Netherlands",
+        "name": "Wadden海，Netherlands",
         "country": "NL",
         "lat": 53.0663,
         "lng": 5.5491,
@@ -5682,7 +5682,7 @@
         "activity": "shore"
       },
       {
-        "name": "Prince Edward Island, Canada",
+        "name": "Prince Edward岛，加拿大",
         "country": "CA",
         "lat": 46.24,
         "lng": -63.13,
@@ -5712,7 +5712,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Delaware Bay, New Jersey",
+        "name": "Delaware湾，New Jersey",
         "country": "US",
         "lat": 39.15,
         "lng": -75.3,
@@ -5721,7 +5721,7 @@
         "activity": "shore"
       },
       {
-        "name": "Cape Cod, Massachusetts",
+        "name": "Cape Cod，Massachusetts",
         "country": "US",
         "lat": 41.4237,
         "lng": -70.13,
@@ -5730,7 +5730,7 @@
         "activity": "shore"
       },
       {
-        "name": "Chesapeake Bay, Virginia",
+        "name": "切萨皮克湾，Virginia",
         "country": "US",
         "lat": 37.5,
         "lng": -76.0,
@@ -5760,7 +5760,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.9497,
         "lng": -86.6011,
@@ -5770,7 +5770,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.4891,
         "lng": 34.4391,
@@ -5780,7 +5780,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.7501,
         "lng": 134.3227,
@@ -5811,7 +5811,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Gulf of Mexico (Florida)",
+        "name": "墨西哥湾 (佛罗里达)",
         "country": "US",
         "lat": 29.0,
         "lng": -87.0,
@@ -5820,7 +5820,7 @@
         "activity": "diving"
       },
       {
-        "name": "Flower Garden Banks, Texas",
+        "name": "Flower Garden Banks，Texas",
         "country": "US",
         "lat": 27.88,
         "lng": -93.82,
@@ -5829,7 +5829,7 @@
         "activity": "diving"
       },
       {
-        "name": "Veracruz Reef System, Mexico",
+        "name": "Veracruz礁 System，墨西哥",
         "country": "MX",
         "lat": 19.18,
         "lng": -96.1,
@@ -5861,7 +5861,7 @@
     "viewingSpots": [
       {
         "hotspotId": "florida_everglades",
-        "name": "Jupiter, Florida",
+        "name": "Jupiter，佛罗里达",
         "country": "US",
         "lat": 26.7331,
         "lng": -79.8713,
@@ -5870,7 +5870,7 @@
         "activity": "diving"
       },
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.1079,
         "lng": -87.9009,
@@ -5879,7 +5879,7 @@
         "activity": "diving"
       },
       {
-        "name": "Laje de Santos, Brazil",
+        "name": "Laje de Santos，巴西",
         "country": "BR",
         "lat": -24.32,
         "lng": -46.18,
@@ -5910,7 +5910,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 11.8178,
         "lng": -68.7589,
@@ -5919,7 +5919,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Bermuda",
+        "name": "百慕大",
         "country": "BM",
         "lat": 32.1332,
         "lng": -64.5554,
@@ -5928,7 +5928,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Turks and Caicos",
+        "name": "特克斯和凯科斯群岛",
         "country": "TC",
         "lat": 21.9473,
         "lng": -72.0318,
@@ -5959,7 +5959,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.5903,
         "lng": -86.9059,
@@ -5968,7 +5968,7 @@
         "activity": "diving"
       },
       {
-        "name": "Florida Keys",
+        "name": "佛罗里达 Keys",
         "country": "US",
         "lat": 24.6956,
         "lng": -81.8218,
@@ -5977,7 +5977,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 11.5587,
         "lng": -68.745,
@@ -6008,7 +6008,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Shark Ray Alley, Belize",
+        "name": "Shark Ray Alley，Belize",
         "country": "BZ",
         "lat": 17.86,
         "lng": -87.95,
@@ -6018,7 +6018,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.5645,
         "lng": 33.3943,
@@ -6027,7 +6027,7 @@
         "activity": "diving"
       },
       {
-        "name": "Dry Tortugas, Florida",
+        "name": "Dry Tortugas，佛罗里达",
         "country": "US",
         "lat": 24.63,
         "lng": -82.87,
@@ -6059,7 +6059,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Julian Rocks, Byron Bay",
+        "name": "Julian Rocks，Byron湾",
         "country": "AU",
         "lat": -28.64,
         "lng": 153.63,
@@ -6068,7 +6068,7 @@
         "activity": "diving"
       },
       {
-        "name": "Sydney Harbour, Australia",
+        "name": "Sydney Harbour，澳大利亚",
         "country": "AU",
         "lat": -34.0197,
         "lng": 151.4788,
@@ -6077,7 +6077,7 @@
         "activity": "diving"
       },
       {
-        "name": "Jervis Bay, Australia",
+        "name": "Jervis湾，澳大利亚",
         "country": "AU",
         "lat": -35.08,
         "lng": 150.73,
@@ -6109,7 +6109,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.1112,
         "lng": 147.9176,
@@ -6118,7 +6118,7 @@
         "activity": "diving"
       },
       {
-        "name": "Koh Tao, Thailand",
+        "name": "Koh Tao，泰国",
         "country": "TH",
         "lat": 10.1,
         "lng": 99.84,
@@ -6128,7 +6128,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.1118,
         "lng": 73.3633,
@@ -6159,7 +6159,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.1473,
         "lng": 34.4478,
@@ -6169,7 +6169,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.2968,
         "lng": 73.2132,
@@ -6178,7 +6178,7 @@
         "activity": "diving"
       },
       {
-        "name": "Kona, Hawaii",
+        "name": "Kona，夏威夷",
         "country": "US",
         "lat": 20.0803,
         "lng": -156.1298,
@@ -6209,7 +6209,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 12.2896,
         "lng": -68.2526,
@@ -6218,7 +6218,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bermuda",
+        "name": "百慕大",
         "country": "BM",
         "lat": 32.2684,
         "lng": -65.1441,
@@ -6227,7 +6227,7 @@
         "activity": "diving"
       },
       {
-        "name": "Turks and Caicos",
+        "name": "特克斯和凯科斯群岛",
         "country": "TC",
         "lat": 21.5749,
         "lng": -71.8119,
@@ -6258,7 +6258,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 11.9367,
         "lng": -68.1093,
@@ -6267,7 +6267,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Curacao",
+        "name": "库拉索岛",
         "country": "CW",
         "lat": 12.3293,
         "lng": -68.9957,
@@ -6276,7 +6276,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Roatan, Honduras",
+        "name": "Roatan，Honduras",
         "country": "HN",
         "lat": 16.477,
         "lng": -86.4981,
@@ -6308,7 +6308,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.4034,
         "lng": 33.4415,
@@ -6318,7 +6318,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.574,
         "lng": 72.7629,
@@ -6328,7 +6328,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.6666,
         "lng": 148.1311,
@@ -6360,7 +6360,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.1391,
         "lng": 34.6281,
@@ -6370,7 +6370,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.9388,
         "lng": 73.6732,
@@ -6379,7 +6379,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bali, Indonesia",
+        "name": "巴厘岛，印度尼西亚",
         "country": "ID",
         "lat": -8.1933,
         "lng": 115.5325,
@@ -6410,7 +6410,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Kona Coast, Hawaii",
+        "name": "Kona海岸，夏威夷",
         "country": "US",
         "lat": 19.4547,
         "lng": -155.8281,
@@ -6419,7 +6419,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Maui, Hawaii",
+        "name": "毛伊岛，夏威夷",
         "country": "US",
         "lat": 20.6219,
         "lng": -156.1502,
@@ -6428,7 +6428,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Big Island, Hawaii",
+        "name": "Big岛，夏威夷",
         "country": "US",
         "lat": 19.8774,
         "lng": -155.5311,
@@ -6460,7 +6460,7 @@
     "viewingSpots": [
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.5933,
         "lng": 73.2933,
@@ -6470,7 +6470,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.6146,
         "lng": 34.5463,
@@ -6479,7 +6479,7 @@
         "activity": "diving"
       },
       {
-        "name": "Seychelles",
+        "name": "塞舌尔",
         "country": "SC",
         "lat": -4.67,
         "lng": 55.45,
@@ -6511,7 +6511,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.7425,
         "lng": 33.4562,
@@ -6520,7 +6520,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Kona, Hawaii",
+        "name": "Kona，夏威夷",
         "country": "US",
         "lat": 19.8509,
         "lng": -155.6716,
@@ -6530,7 +6530,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.4548,
         "lng": 73.0232,
@@ -6561,7 +6561,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Majuro, Marshall Islands",
+        "name": "Majuro，Marshall岛s",
         "country": "MH",
         "lat": 7.09,
         "lng": 171.38,
@@ -6570,7 +6570,7 @@
         "activity": "diving"
       },
       {
-        "name": "Kona, Hawaii",
+        "name": "Kona，夏威夷",
         "country": "US",
         "lat": 19.2259,
         "lng": -155.9509,
@@ -6580,7 +6580,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 6.7557,
         "lng": 134.5606,
@@ -6612,7 +6612,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.6109,
         "lng": 130.6029,
@@ -6621,7 +6621,7 @@
         "activity": "diving"
       },
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.7148,
         "lng": 125.8609,
@@ -6631,7 +6631,7 @@
       },
       {
         "hotspotId": "tubbataha_philippines",
-        "name": "Puerto Galera, Philippines",
+        "name": "Puerto Galera，菲律宾",
         "country": "PH",
         "lat": 13.542,
         "lng": 121.4332,
@@ -6663,7 +6663,7 @@
     "viewingSpots": [
       {
         "hotspotId": "lake_baikal",
-        "name": "Lake Baikal (Listvyanka)",
+        "name": "贝加尔湖 (Listvyanka)",
         "country": "RU",
         "lat": 52.0035,
         "lng": 104.8951,
@@ -6672,7 +6672,7 @@
         "activity": "diving"
       },
       {
-        "name": "Lake Baikal (Olkhon Island)",
+        "name": "贝加尔湖 (Olkhon岛)",
         "country": "RU",
         "lat": 53.17,
         "lng": 107.33,
@@ -6681,7 +6681,7 @@
         "activity": "diving"
       },
       {
-        "name": "Baikal Museum, Listvyanka",
+        "name": "Baikal 博物馆，Listvyanka",
         "country": "RU",
         "lat": 51.6779,
         "lng": 105.1314,
@@ -6713,7 +6713,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Mamiraua Reserve, Brazil",
+        "name": "Mamiraua Reserve，巴西",
         "country": "BR",
         "lat": -2.8,
         "lng": -65.0,
@@ -6722,7 +6722,7 @@
         "activity": "shore"
       },
       {
-        "name": "Rupununi, Guyana",
+        "name": "Rupununi，Guyana",
         "country": "GY",
         "lat": 3.77,
         "lng": -59.3,
@@ -6731,7 +6731,7 @@
         "activity": "shore"
       },
       {
-        "name": "Shedd Aquarium, Chicago",
+        "name": "Shedd 水族馆，Chicago",
         "country": "US",
         "lat": 42.0169,
         "lng": -87.6153,
@@ -6762,7 +6762,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Amazon River basin",
+        "name": "亚马逊河 basin",
         "country": "BR",
         "lat": -3.2779,
         "lng": -59.8201,
@@ -6771,7 +6771,7 @@
         "activity": "shore"
       },
       {
-        "name": "Llanos, Venezuela",
+        "name": "Llanos，Venezuela",
         "country": "VE",
         "lat": 7.5,
         "lng": -69.0,
@@ -6780,7 +6780,7 @@
         "activity": "shore"
       },
       {
-        "name": "Georgia Aquarium, Atlanta",
+        "name": "Georgia 水族馆，Atlanta",
         "country": "US",
         "lat": 33.7827,
         "lng": -84.7843,
@@ -6811,7 +6811,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Amazon River (Manaus)",
+        "name": "亚马逊河 (Manaus)",
         "country": "BR",
         "lat": -2.9732,
         "lng": -60.0137,
@@ -6820,7 +6820,7 @@
         "activity": "shore"
       },
       {
-        "name": "Pantanal, Brazil",
+        "name": "Pantanal，巴西",
         "country": "BR",
         "lat": -19.0,
         "lng": -56.0,
@@ -6829,7 +6829,7 @@
         "activity": "shore"
       },
       {
-        "name": "Orinoco River, Venezuela",
+        "name": "Orinoco河，Venezuela",
         "country": "VE",
         "lat": 8.37,
         "lng": -62.65,
@@ -6860,7 +6860,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Rio Negro, Brazil",
+        "name": "Rio Negro，巴西",
         "country": "BR",
         "lat": -1.3026,
         "lng": -61.6821,
@@ -6869,7 +6869,7 @@
         "activity": "shore"
       },
       {
-        "name": "Guyana",
+        "name": "圭亚那",
         "country": "GY",
         "lat": 4.85,
         "lng": -58.97,
@@ -6878,7 +6878,7 @@
         "activity": "shore"
       },
       {
-        "name": "Dallas World Aquarium",
+        "name": "Dallas World 水族馆",
         "country": "US",
         "lat": 32.78,
         "lng": -96.8,
@@ -6909,7 +6909,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Amazon River basin",
+        "name": "亚马逊河 basin",
         "country": "BR",
         "lat": -3.0378,
         "lng": -60.3387,
@@ -6918,7 +6918,7 @@
         "activity": "shore"
       },
       {
-        "name": "Paraguay River",
+        "name": "Paraguay河",
         "country": "PY",
         "lat": -25.27,
         "lng": -57.67,
@@ -6927,7 +6927,7 @@
         "activity": "shore"
       },
       {
-        "name": "Shedd Aquarium, Chicago",
+        "name": "Shedd 水族馆，Chicago",
         "country": "US",
         "lat": 41.8374,
         "lng": -88.0491,
@@ -6958,7 +6958,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Rio Negro, Brazil",
+        "name": "Rio Negro，巴西",
         "country": "BR",
         "lat": -1.4939,
         "lng": -62.3163,
@@ -6967,7 +6967,7 @@
         "activity": "shore"
       },
       {
-        "name": "Amazon River (Tefe)",
+        "name": "亚马逊河 (Tefe)",
         "country": "BR",
         "lat": -3.35,
         "lng": -64.72,
@@ -6976,7 +6976,7 @@
         "activity": "shore"
       },
       {
-        "name": "Georgia Aquarium, Atlanta",
+        "name": "Georgia 水族馆，Atlanta",
         "country": "US",
         "lat": 33.9033,
         "lng": -84.3508,
@@ -7006,7 +7006,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lake Victoria, Uganda",
+        "name": "维多利亚湖，Uganda",
         "country": "UG",
         "lat": -1.0,
         "lng": 33.0,
@@ -7015,7 +7015,7 @@
         "activity": "shore"
       },
       {
-        "name": "Nile River, Egypt",
+        "name": "Nile河，埃及",
         "country": "EG",
         "lat": 25.68,
         "lng": 32.64,
@@ -7024,7 +7024,7 @@
         "activity": "shore"
       },
       {
-        "name": "Lake Tana, Ethiopia",
+        "name": "Lake Tana，Ethiopia",
         "country": "ET",
         "lat": 12.0,
         "lng": 37.33,
@@ -7055,7 +7055,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lake Victoria, Kenya",
+        "name": "维多利亚湖，Kenya",
         "country": "KE",
         "lat": -0.5,
         "lng": 34.5,
@@ -7064,7 +7064,7 @@
         "activity": "shore"
       },
       {
-        "name": "Lake Nasser, Egypt",
+        "name": "Lake Nasser，埃及",
         "country": "EG",
         "lat": 22.5,
         "lng": 32.0,
@@ -7073,7 +7073,7 @@
         "activity": "shore"
       },
       {
-        "name": "Lake Albert, Uganda",
+        "name": "Lake Albert，Uganda",
         "country": "UG",
         "lat": 1.67,
         "lng": 31.0,
@@ -7103,7 +7103,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Gambia River, Gambia",
+        "name": "Gambia河，Gambia",
         "country": "GM",
         "lat": 13.45,
         "lng": -16.58,
@@ -7112,7 +7112,7 @@
         "activity": "shore"
       },
       {
-        "name": "Niger Delta, Nigeria",
+        "name": "Niger Delta，Nigeria",
         "country": "NG",
         "lat": 4.8,
         "lng": 6.8,
@@ -7121,7 +7121,7 @@
         "activity": "shore"
       },
       {
-        "name": "Shedd Aquarium, Chicago",
+        "name": "Shedd 水族馆，Chicago",
         "country": "US",
         "lat": 41.7017,
         "lng": -87.3535,
@@ -7152,7 +7152,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Rio Negro, Brazil",
+        "name": "Rio Negro，巴西",
         "country": "BR",
         "lat": -1.7082,
         "lng": -61.8709,
@@ -7161,7 +7161,7 @@
         "activity": "shore"
       },
       {
-        "name": "Rio Uatuma, Brazil",
+        "name": "Rio Uatuma，巴西",
         "country": "BR",
         "lat": -2.4,
         "lng": -59.3,
@@ -7170,7 +7170,7 @@
         "activity": "shore"
       },
       {
-        "name": "Orinoco River, Venezuela",
+        "name": "Orinoco河，Venezuela",
         "country": "VE",
         "lat": 6.0,
         "lng": -67.0,
@@ -7200,7 +7200,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 0.9501,
         "lng": 125.5298,
@@ -7210,7 +7210,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.7685,
         "lng": 33.7687,
@@ -7220,7 +7220,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.339,
         "lng": 130.5744,
@@ -7251,7 +7251,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Sardinia, Italy",
+        "name": "Sardinia，Italy",
         "country": "IT",
         "lat": 40.267,
         "lng": 9.5186,
@@ -7260,7 +7260,7 @@
         "activity": "diving"
       },
       {
-        "name": "Algarve, Portugal",
+        "name": "Algarve，葡萄牙",
         "country": "PT",
         "lat": 36.9673,
         "lng": -8.6405,
@@ -7269,7 +7269,7 @@
         "activity": "diving"
       },
       {
-        "name": "Dorset, England",
+        "name": "Dorset，England",
         "country": "GB",
         "lat": 50.7,
         "lng": -2.0,
@@ -7301,7 +7301,7 @@
     "viewingSpots": [
       {
         "hotspotId": "maldives",
-        "name": "Hanifaru Bay, Maldives",
+        "name": "Hanifaru湾，马尔代夫",
         "country": "MV",
         "lat": 5.3349,
         "lng": 72.9596,
@@ -7311,7 +7311,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Lady Elliot Island, Australia",
+        "name": "Lady Elliot岛，澳大利亚",
         "country": "AU",
         "lat": -24.11,
         "lng": 152.71,
@@ -7321,7 +7321,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.0751,
         "lng": 129.7639,
@@ -7330,7 +7330,7 @@
         "activity": "diving"
       },
       {
-        "name": "Nusa Penida, Bali",
+        "name": "Nusa Penida，巴厘岛",
         "country": "ID",
         "lat": -8.8908,
         "lng": 115.6901,
@@ -7361,7 +7361,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Ostional, Costa Rica",
+        "name": "Ostional，哥斯达黎加",
         "country": "CR",
         "lat": 10.04,
         "lng": -85.7,
@@ -7370,7 +7370,7 @@
         "activity": "shore"
       },
       {
-        "name": "Gahirmatha, India",
+        "name": "Gahirmatha，印度",
         "country": "IN",
         "lat": 20.7,
         "lng": 87.07,
@@ -7379,7 +7379,7 @@
         "activity": "shore"
       },
       {
-        "name": "Escobilla, Mexico",
+        "name": "Escobilla，墨西哥",
         "country": "MX",
         "lat": 15.74,
         "lng": -96.52,
@@ -7410,7 +7410,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Sataya Reef, Egypt",
+        "name": "Sataya礁，埃及",
         "country": "EG",
         "lat": 24.6543,
         "lng": 35.2467,
@@ -7420,7 +7420,7 @@
       },
       {
         "hotspotId": "shark_bay_australia",
-        "name": "Shark Bay (Monkey Mia), Australia",
+        "name": "Shark湾 (Monkey Mia)，澳大利亚",
         "country": "AU",
         "lat": -25.6915,
         "lng": 113.9251,
@@ -7430,7 +7430,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "Port Elizabeth, South Africa",
+        "name": "Port Elizabeth，南非",
         "country": "ZA",
         "lat": -33.96,
         "lng": 25.6,
@@ -7439,7 +7439,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Hurghada, Egypt",
+        "name": "Hurghada，埃及",
         "country": "EG",
         "lat": 27.2403,
         "lng": 33.6143,
@@ -7470,7 +7470,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.1613,
         "lng": -121.2181,
@@ -7479,7 +7479,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "MBARI Deep-sea Exhibits, Monterey",
+        "name": "MBARI Deep-sea Exhibits，Monterey",
         "country": "US",
         "lat": 36.7872,
         "lng": -122.6609,
@@ -7509,7 +7509,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.7878,
         "lng": -122.8532,
@@ -7518,7 +7518,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Smithsonian NMNH, Washington DC",
+        "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
         "lat": 39.0289,
         "lng": -77.0348,
@@ -7549,7 +7549,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay Aquarium (deep-sea)",
+        "name": "蒙特雷湾 水族馆 (deep-sea)",
         "country": "US",
         "lat": 35.9961,
         "lng": -121.7885,
@@ -7558,7 +7558,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "MBARI, Moss Landing",
+        "name": "MBARI，Moss Landing",
         "country": "US",
         "lat": 36.2294,
         "lng": -121.4125,
@@ -7589,7 +7589,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Australian Museum, Sydney",
+        "name": "澳大利亚n 博物馆，Sydney",
         "country": "AU",
         "lat": -33.7132,
         "lng": 151.2817,
@@ -7598,7 +7598,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "SEA LIFE Melbourne Aquarium",
+        "name": "SEA LIFE Melbourne 水族馆",
         "country": "AU",
         "lat": -37.82,
         "lng": 144.96,
@@ -7629,7 +7629,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.6449,
         "lng": -0.1505,
@@ -7638,7 +7638,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Smithsonian NMNH, Washington DC",
+        "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
         "lat": 38.476,
         "lng": -77.0928,
@@ -7647,7 +7647,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Catalina Island, California (rare)",
+        "name": "Catalina岛，加利福尼亚 (rare)",
         "country": "US",
         "lat": 33.2448,
         "lng": -118.1373,
@@ -7678,7 +7678,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Te Papa Museum, Wellington",
+        "name": "Te Papa 博物馆，Wellington",
         "country": "NZ",
         "lat": -41.1337,
         "lng": 174.8254,
@@ -7687,7 +7687,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.3816,
         "lng": -1.0686,
@@ -7696,7 +7696,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Smithsonian NMNH, Washington DC",
+        "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
         "lat": 39.2811,
         "lng": -77.3435,
@@ -7726,7 +7726,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Gold Coast, Australia",
+        "name": "Gold海岸，澳大利亚",
         "country": "AU",
         "lat": -28.1651,
         "lng": 153.6821,
@@ -7735,7 +7735,7 @@
         "activity": "shore"
       },
       {
-        "name": "Padre Island, Texas",
+        "name": "Padre岛，Texas",
         "country": "US",
         "lat": 26.1,
         "lng": -97.16,
@@ -7744,7 +7744,7 @@
         "activity": "shore"
       },
       {
-        "name": "Canary Islands, Spain",
+        "name": "Canary岛s，Spain",
         "country": "ES",
         "lat": 27.8581,
         "lng": -15.297,
@@ -7774,7 +7774,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Rapid Bay, South Australia",
+        "name": "Rapid湾，South 澳大利亚",
         "country": "AU",
         "lat": -35.3639,
         "lng": 138.2232,
@@ -7783,7 +7783,7 @@
         "activity": "diving"
       },
       {
-        "name": "Port Phillip Bay, Melbourne",
+        "name": "Port Phillip湾，Melbourne",
         "country": "AU",
         "lat": -38.0446,
         "lng": 144.8516,
@@ -7792,7 +7792,7 @@
         "activity": "diving"
       },
       {
-        "name": "Sydney, Australia",
+        "name": "Sydney，澳大利亚",
         "country": "AU",
         "lat": -33.7717,
         "lng": 150.8611,
@@ -7823,7 +7823,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Victor Harbor, South Australia",
+        "name": "Victor Harbor，South 澳大利亚",
         "country": "AU",
         "lat": -35.55,
         "lng": 138.63,
@@ -7832,7 +7832,7 @@
         "activity": "diving"
       },
       {
-        "name": "Kangaroo Island, Australia",
+        "name": "Kangaroo岛，澳大利亚",
         "country": "AU",
         "lat": -35.77,
         "lng": 137.22,
@@ -7841,7 +7841,7 @@
         "activity": "diving"
       },
       {
-        "name": "Rapid Bay, South Australia",
+        "name": "Rapid湾，South 澳大利亚",
         "country": "AU",
         "lat": -35.7609,
         "lng": 138.3483,
@@ -7872,7 +7872,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.6033,
         "lng": 125.2734,
@@ -7882,7 +7882,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.8835,
         "lng": 147.5471,
@@ -7892,7 +7892,7 @@
       },
       {
         "hotspotId": "tubbataha_philippines",
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.494,
         "lng": 120.4122,
@@ -7923,7 +7923,7 @@
     "viewingSpots": [
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 6.9708,
         "lng": 134.0739,
@@ -7932,7 +7932,7 @@
         "activity": "diving"
       },
       {
-        "name": "Malapascua, Philippines",
+        "name": "Malapascua，菲律宾",
         "country": "PH",
         "lat": 11.33,
         "lng": 124.12,
@@ -7941,7 +7941,7 @@
         "activity": "diving"
       },
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.2917,
         "lng": 125.7166,
@@ -7972,7 +7972,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 37.022,
         "lng": -122.4506,
@@ -7981,7 +7981,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 50.9742,
         "lng": 0.3967,
@@ -8012,7 +8012,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.7362,
         "lng": -121.3546,
@@ -8021,7 +8021,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 52.0452,
         "lng": 0.231,
@@ -8052,7 +8052,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.311,
         "lng": -121.7995,
@@ -8061,7 +8061,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Smithsonian NMNH, Washington DC",
+        "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
         "lat": 38.8843,
         "lng": -77.4292,
@@ -8092,7 +8092,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.7864,
         "lng": -121.9214,
@@ -8101,7 +8101,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.0618,
         "lng": -0.187,
@@ -8132,7 +8132,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 37.1354,
         "lng": -121.542,
@@ -8141,7 +8141,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Okinawa Churaumi Aquarium",
+        "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
         "lat": 26.9112,
         "lng": 128.2178,
@@ -8172,7 +8172,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.334,
         "lng": 0.1267,
@@ -8181,7 +8181,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "California Science Center, LA",
+        "name": "加利福尼亚 Science Center，LA",
         "country": "US",
         "lat": 34.02,
         "lng": -118.29,
@@ -8212,7 +8212,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.8071,
         "lng": -121.202,
@@ -8221,7 +8221,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Enoshima Aquarium, Japan",
+        "name": "Enoshima 水族馆，日本",
         "country": "JP",
         "lat": 35.1061,
         "lng": 139.7226,
@@ -8252,7 +8252,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Apo Island, Philippines",
+        "name": "Apo岛，菲律宾",
         "country": "PH",
         "lat": 9.07,
         "lng": 123.27,
@@ -8261,7 +8261,7 @@
         "activity": "diving"
       },
       {
-        "name": "Snake Island, Fiji (Banded sea kraits)",
+        "name": "Snake岛，斐济 (Banded sea kraits)",
         "country": "FJ",
         "lat": -17.0,
         "lng": 177.0,
@@ -8270,7 +8270,7 @@
         "activity": "diving"
       },
       {
-        "name": "Gili Islands, Indonesia",
+        "name": "Gili岛s，印度尼西亚",
         "country": "ID",
         "lat": -8.35,
         "lng": 116.04,
@@ -8300,7 +8300,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Costa Rica (Pacific coast)",
+        "name": "哥斯达黎加 (Pacific coast)",
         "country": "CR",
         "lat": 9.5,
         "lng": -84.5,
@@ -8309,7 +8309,7 @@
         "activity": "shore"
       },
       {
-        "name": "Northern New Zealand coast",
+        "name": "北部 新西兰 coast",
         "country": "NZ",
         "lat": -36.0,
         "lng": 175.0,
@@ -8339,7 +8339,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.9499,
         "lng": 125.5382,
@@ -8349,7 +8349,7 @@
       },
       {
         "hotspotId": "tubbataha_philippines",
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.8806,
         "lng": 120.9482,
@@ -8359,7 +8359,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.3217,
         "lng": 130.1973,
@@ -8390,7 +8390,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.3201,
         "lng": 131.0304,
@@ -8399,7 +8399,7 @@
         "activity": "diving"
       },
       {
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.8407,
         "lng": 120.6177,
@@ -8429,7 +8429,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 52.232,
         "lng": -0.5018,
@@ -8438,7 +8438,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Gulf of California, Mexico",
+        "name": "Gulf of 加利福尼亚，墨西哥",
         "country": "MX",
         "lat": 26.8169,
         "lng": -110.7665,
@@ -8469,7 +8469,7 @@
     "viewingSpots": [
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 6.5435,
         "lng": 134.5463,
@@ -8478,7 +8478,7 @@
         "activity": "diving"
       },
       {
-        "name": "Vanuatu",
+        "name": "瓦努阿图",
         "country": "VU",
         "lat": -17.73,
         "lng": 168.32,
@@ -8487,7 +8487,7 @@
         "activity": "diving"
       },
       {
-        "name": "Waikiki Aquarium, Hawaii",
+        "name": "Waikiki 水族馆，夏威夷",
         "country": "US",
         "lat": 21.5152,
         "lng": -157.7633,
@@ -8517,7 +8517,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Comoros Islands",
+        "name": "Comoros岛s",
         "country": "KM",
         "lat": -12.17,
         "lng": 44.27,
@@ -8526,7 +8526,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Sodwana Bay, South Africa",
+        "name": "Sodwana湾，南非",
         "country": "ZA",
         "lat": -27.53,
         "lng": 32.68,
@@ -8535,7 +8535,7 @@
         "activity": "diving"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.4338,
         "lng": -0.6937,
@@ -8567,7 +8567,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.9007,
         "lng": -122.3465,
@@ -8576,7 +8576,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Oregon Coast Aquarium",
+        "name": "俄勒冈海岸 水族馆",
         "country": "US",
         "lat": 44.8723,
         "lng": -124.0964,
@@ -8585,7 +8585,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Monterey Bay (wild)",
+        "name": "蒙特雷湾 (wild)",
         "country": "US",
         "lat": 37.2788,
         "lng": -121.7362,
@@ -8615,7 +8615,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Naples, Italy (Mediterranean)",
+        "name": "Naples，Italy (地中海)",
         "country": "IT",
         "lat": 40.85,
         "lng": 14.27,
@@ -8624,7 +8624,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.5287,
         "lng": -121.5463,
@@ -8654,7 +8654,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.3078,
         "lng": 125.4345,
@@ -8664,7 +8664,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.2754,
         "lng": 148.2214,
@@ -8674,7 +8674,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.7908,
         "lng": 34.3202,
@@ -8704,7 +8704,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 0.6813,
         "lng": 125.2808,
@@ -8713,7 +8713,7 @@
         "activity": "diving"
       },
       {
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.9736,
         "lng": 120.2948,
@@ -8723,7 +8723,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.6485,
         "lng": 73.566,
@@ -8754,7 +8754,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.6978,
         "lng": 125.5394,
@@ -8763,7 +8763,7 @@
         "activity": "diving"
       },
       {
-        "name": "Milne Bay, Papua New Guinea",
+        "name": "Milne湾，巴布亚新几内亚",
         "country": "PG",
         "lat": -10.5008,
         "lng": 150.6941,
@@ -8794,7 +8794,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.9762,
         "lng": 125.845,
@@ -8804,7 +8804,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.3121,
         "lng": 33.1622,
@@ -8814,7 +8814,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -17.5473,
         "lng": 147.5767,
@@ -8846,7 +8846,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.1728,
         "lng": 32.9812,
@@ -8856,7 +8856,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.1336,
         "lng": 72.6831,
@@ -8866,7 +8866,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.4002,
         "lng": 148.4983,
@@ -8897,7 +8897,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Roatan, Honduras",
+        "name": "Roatan，Honduras",
         "country": "HN",
         "lat": 16.1417,
         "lng": -86.3089,
@@ -8906,7 +8906,7 @@
         "activity": "diving"
       },
       {
-        "name": "Grand Cayman",
+        "name": "大开曼岛",
         "country": "KY",
         "lat": 19.483,
         "lng": -81.1905,
@@ -8938,7 +8938,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.4458,
         "lng": 33.6655,
@@ -8947,7 +8947,7 @@
         "activity": "diving"
       },
       {
-        "name": "Komodo, Indonesia",
+        "name": "科莫多，印度尼西亚",
         "country": "ID",
         "lat": -8.7829,
         "lng": 119.6319,
@@ -8956,7 +8956,7 @@
         "activity": "diving"
       },
       {
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 14.113,
         "lng": 120.6259,
@@ -8986,7 +8986,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay (deep-sea)",
+        "name": "蒙特雷湾 (deep-sea)",
         "country": "US",
         "lat": 36.1855,
         "lng": -121.701,
@@ -8995,7 +8995,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tasmania, Australia",
+        "name": "Tasmania，澳大利亚",
         "country": "AU",
         "lat": -42.6975,
         "lng": 147.7179,
@@ -9025,7 +9025,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Persian Gulf (UAE)",
+        "name": "波斯湾（阿联酋）",
         "country": "AE",
         "lat": 24.6078,
         "lng": 54.6792,
@@ -9034,7 +9034,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bay of Bengal, India",
+        "name": "孟加拉湾，印度",
         "country": "IN",
         "lat": 15.0,
         "lng": 80.0,
@@ -9065,7 +9065,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Port Phillip Bay, Melbourne",
+        "name": "Port Phillip湾，Melbourne",
         "country": "AU",
         "lat": -38.4438,
         "lng": 145.0676,
@@ -9074,7 +9074,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tasmania, Australia",
+        "name": "Tasmania，澳大利亚",
         "country": "AU",
         "lat": -42.3963,
         "lng": 147.0771,
@@ -9105,7 +9105,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.5145,
         "lng": -122.2669,
@@ -9114,7 +9114,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.9531,
         "lng": -0.4554,
@@ -9145,7 +9145,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 50.9179,
         "lng": -0.8885,
@@ -9154,7 +9154,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Smithsonian NMNH, Washington DC",
+        "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
         "lat": 38.6258,
         "lng": -76.483,
@@ -9185,7 +9185,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Norwegian fjords",
+        "name": "挪威峡湾",
         "country": "NO",
         "lat": 60.8564,
         "lng": 6.4889,
@@ -9194,7 +9194,7 @@
         "activity": "diving"
       },
       {
-        "name": "Loch Fyne, Scotland",
+        "name": "Loch Fyne，苏格兰",
         "country": "GB",
         "lat": 56.2539,
         "lng": -5.2215,
@@ -9226,7 +9226,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.5986,
         "lng": 147.7292,
@@ -9236,7 +9236,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.0722,
         "lng": 33.937,
@@ -9246,7 +9246,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.4642,
         "lng": 72.9209,
@@ -9277,7 +9277,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Kona, Hawaii",
+        "name": "Kona，夏威夷",
         "country": "US",
         "lat": 19.6539,
         "lng": -156.3186,
@@ -9287,7 +9287,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.2206,
         "lng": 34.3047,
@@ -9297,7 +9297,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.3424,
         "lng": 73.8098,
@@ -9328,7 +9328,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.556,
         "lng": 124.6649,
@@ -9337,7 +9337,7 @@
         "activity": "diving"
       },
       {
-        "name": "Osezaki, Japan",
+        "name": "Osezaki，日本",
         "country": "JP",
         "lat": 35.0899,
         "lng": 138.6766,
@@ -9367,7 +9367,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.8665,
         "lng": -87.179,
@@ -9376,7 +9376,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 11.6955,
         "lng": -68.2384,
@@ -9406,7 +9406,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.8546,
         "lng": 125.0517,
@@ -9415,7 +9415,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 11.5451,
         "lng": -68.0066,
@@ -9424,7 +9424,7 @@
         "activity": "diving"
       },
       {
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 14.326,
         "lng": 121.0349,
@@ -9454,7 +9454,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.4437,
         "lng": 124.9729,
@@ -9464,7 +9464,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.6507,
         "lng": 33.8372,
@@ -9494,7 +9494,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 0.9144,
         "lng": 125.725,
@@ -9504,7 +9504,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.866,
         "lng": 33.4941,
@@ -9514,7 +9514,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.811,
         "lng": 72.8652,
@@ -9545,7 +9545,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.3178,
         "lng": 120.812,
@@ -9554,7 +9554,7 @@
         "activity": "diving"
       },
       {
-        "name": "Okinawa, Japan",
+        "name": "冲绳，日本",
         "country": "JP",
         "lat": 26.5214,
         "lng": 128.1529,
@@ -9563,7 +9563,7 @@
         "activity": "diving"
       },
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.3348,
         "lng": 124.7715,
@@ -9594,7 +9594,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 1.339,
         "lng": 124.539,
@@ -9603,7 +9603,7 @@
         "activity": "diving"
       },
       {
-        "name": "Anilao, Philippines",
+        "name": "Anilao，菲律宾",
         "country": "PH",
         "lat": 13.9684,
         "lng": 121.248,
@@ -9613,7 +9613,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.935,
         "lng": 73.0995,
@@ -9644,7 +9644,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lembeh Strait, Indonesia",
+        "name": "Lembeh海峡，印度尼西亚",
         "country": "ID",
         "lat": 2.1628,
         "lng": 125.267,
@@ -9653,7 +9653,7 @@
         "activity": "diving"
       },
       {
-        "name": "Dauin, Philippines",
+        "name": "Dauin，菲律宾",
         "country": "PH",
         "lat": 9.1187,
         "lng": 123.518,
@@ -9684,7 +9684,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Enoshima Aquarium, Japan",
+        "name": "Enoshima 水族馆，日本",
         "country": "JP",
         "lat": 35.4586,
         "lng": 139.5061,
@@ -9693,7 +9693,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 37.0451,
         "lng": -121.721,
@@ -9702,7 +9702,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Toba Aquarium, Japan",
+        "name": "Toba 水族馆，日本",
         "country": "JP",
         "lat": 34.48,
         "lng": 136.84,
@@ -9712,7 +9712,7 @@
       },
       {
         "hotspotId": "deep_sea_mid_atlantic",
-        "name": "Mid-Atlantic Ridge",
+        "name": "大西洋中脊",
         "country": null,
         "lat": 37.1715,
         "lng": -32.5824,
@@ -9742,7 +9742,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium (video exhibits)",
+        "name": "蒙特雷湾 水族馆 (video exhibits)",
         "country": "US",
         "lat": 36.0608,
         "lng": -122.0301,
@@ -9751,7 +9751,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Smithsonian NMNH, Washington DC",
+        "name": "Smithsonian NMNH，华盛顿 DC",
         "country": "US",
         "lat": 39.0236,
         "lng": -76.5899,
@@ -9781,7 +9781,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Gran Canaria, Spain",
+        "name": "Gran Canaria，Spain",
         "country": "ES",
         "lat": 28.0286,
         "lng": -15.8063,
@@ -9790,7 +9790,7 @@
         "activity": "diving"
       },
       {
-        "name": "Sardinia, Italy",
+        "name": "Sardinia，Italy",
         "country": "IT",
         "lat": 40.1459,
         "lng": 9.0916,
@@ -9821,7 +9821,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Azores, Portugal",
+        "name": "亚速尔群岛，葡萄牙",
         "country": "PT",
         "lat": 37.3739,
         "lng": -26.2083,
@@ -9830,7 +9830,7 @@
         "activity": "diving"
       },
       {
-        "name": "Madeira, Portugal",
+        "name": "Madeira，葡萄牙",
         "country": "PT",
         "lat": 32.65,
         "lng": -16.91,
@@ -9862,7 +9862,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.5019,
         "lng": 33.847,
@@ -9872,7 +9872,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.7583,
         "lng": 72.6889,
@@ -9881,7 +9881,7 @@
         "activity": "diving"
       },
       {
-        "name": "Rangiroa, French Polynesia",
+        "name": "Rangiroa，French Polynesia",
         "country": "PF",
         "lat": -15.3777,
         "lng": -147.5212,
@@ -9913,7 +9913,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.9445,
         "lng": 33.1331,
@@ -9922,7 +9922,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bali, Indonesia",
+        "name": "巴厘岛，印度尼西亚",
         "country": "ID",
         "lat": -8.5631,
         "lng": 115.6791,
@@ -9952,7 +9952,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay (offshore)",
+        "name": "蒙特雷湾 (offshore)",
         "country": "US",
         "lat": 36.5633,
         "lng": -121.7949,
@@ -9961,7 +9961,7 @@
         "activity": "diving"
       },
       {
-        "name": "Southern Ocean",
+        "name": "南部洋",
         "country": "AQ",
         "lat": -60.0,
         "lng": 0.0,
@@ -9991,7 +9991,7 @@
     },
     "viewingSpots": [
       {
-        "name": "La Jolla, California",
+        "name": "La Jolla，加利福尼亚",
         "country": "US",
         "lat": 32.6947,
         "lng": -117.5788,
@@ -10001,7 +10001,7 @@
       },
       {
         "hotspotId": "channel_islands",
-        "name": "Channel Islands, California",
+        "name": "Channel岛s，加利福尼亚",
         "country": "US",
         "lat": 34.1115,
         "lng": -119.7748,
@@ -10010,7 +10010,7 @@
         "activity": "diving"
       },
       {
-        "name": "Catalina Island, California",
+        "name": "Catalina岛，加利福尼亚",
         "country": "US",
         "lat": 33.55,
         "lng": -118.4205,
@@ -10042,7 +10042,7 @@
     "viewingSpots": [
       {
         "hotspotId": "amazon_river",
-        "name": "Rio Negro, Brazil",
+        "name": "Rio Negro，巴西",
         "country": "BR",
         "lat": -1.3596,
         "lng": -61.9826,
@@ -10051,7 +10051,7 @@
         "activity": "shore"
       },
       {
-        "name": "Orinoco Basin, Colombia",
+        "name": "Orinoco Basin，Colombia",
         "country": "CO",
         "lat": 4.0,
         "lng": -72.0,
@@ -10082,7 +10082,7 @@
     "viewingSpots": [
       {
         "hotspotId": "lake_baikal",
-        "name": "Lake Baikal (central basin)",
+        "name": "贝加尔湖 (central basin)",
         "country": "RU",
         "lat": 53.5,
         "lng": 108.0,
@@ -10091,7 +10091,7 @@
         "activity": "shore"
       },
       {
-        "name": "Baikal Museum, Listvyanka",
+        "name": "Baikal 博物馆，Listvyanka",
         "country": "RU",
         "lat": 51.8857,
         "lng": 104.3128,
@@ -10121,7 +10121,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 12.3857,
         "lng": -67.5828,
@@ -10130,7 +10130,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.0674,
         "lng": -87.364,
@@ -10162,7 +10162,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.9998,
         "lng": 131.0298,
@@ -10171,7 +10171,7 @@
         "activity": "diving"
       },
       {
-        "name": "Wakatobi, Indonesia",
+        "name": "Wakatobi，印度尼西亚",
         "country": "ID",
         "lat": -5.48,
         "lng": 123.6,
@@ -10203,7 +10203,7 @@
     "viewingSpots": [
       {
         "hotspotId": "husavik_iceland",
-        "name": "Husavik, Iceland",
+        "name": "胡萨维克，冰岛",
         "country": "IS",
         "lat": 65.9588,
         "lng": -16.1041,
@@ -10213,7 +10213,7 @@
       },
       {
         "hotspotId": "lofoten_norway",
-        "name": "Lofoten, Norway",
+        "name": "罗弗敦群岛，挪威",
         "country": "NO",
         "lat": 67.8375,
         "lng": 14.7094,
@@ -10223,7 +10223,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Ribbon Reefs, Australia",
+        "name": "Ribbon礁s，澳大利亚",
         "country": "AU",
         "lat": -15.5,
         "lng": 145.8,
@@ -10232,7 +10232,7 @@
         "activity": "snorkeling"
       },
       {
-        "name": "Isle of Mull, Scotland",
+        "name": "Isle of Mull，苏格兰",
         "country": "GB",
         "lat": 56.6094,
         "lng": -6.0252,
@@ -10241,7 +10241,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Tadoussac, Quebec",
+        "name": "Tadoussac，Quebec",
         "country": "CA",
         "lat": 48.2106,
         "lng": -70.2041,
@@ -10272,7 +10272,7 @@
     "viewingSpots": [
       {
         "hotspotId": "azores",
-        "name": "Azores",
+        "name": "亚速尔群岛",
         "country": "PT",
         "lat": 37.5506,
         "lng": -25.0539,
@@ -10282,7 +10282,7 @@
       },
       {
         "hotspotId": "south_africa_sardine_run",
-        "name": "Cape Town, South Africa",
+        "name": "Cape Town，南非",
         "country": "ZA",
         "lat": -33.93,
         "lng": 18.42,
@@ -10291,7 +10291,7 @@
         "activity": "diving"
       },
       {
-        "name": "Penzance, Cornwall",
+        "name": "Penzance，Cornwall",
         "country": "GB",
         "lat": 50.12,
         "lng": -5.69,
@@ -10300,7 +10300,7 @@
         "activity": "diving"
       },
       {
-        "name": "San Diego, California",
+        "name": "San Diego，加利福尼亚",
         "country": "US",
         "lat": 32.9092,
         "lng": -117.2183,
@@ -10309,7 +10309,7 @@
         "activity": "diving"
       },
       {
-        "name": "Faial, Azores",
+        "name": "Faial，亚速尔群岛",
         "country": "PT",
         "lat": 38.53,
         "lng": -28.7,
@@ -10340,7 +10340,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium (deep-sea exhibit)",
+        "name": "蒙特雷湾 水族馆 (deep-sea exhibit)",
         "country": "US",
         "lat": 36.5532,
         "lng": -122.4967,
@@ -10349,7 +10349,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Suruga Bay, Japan",
+        "name": "Suruga湾，日本",
         "country": "JP",
         "lat": 34.8896,
         "lng": 138.2678,
@@ -10358,7 +10358,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Tokyo Sea Life Park",
+        "name": "Tokyo海 Life Park",
         "country": "JP",
         "lat": 35.4874,
         "lng": 140.1005,
@@ -10367,7 +10367,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.4838,
         "lng": 0.6656,
@@ -10376,7 +10376,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Okinawa Churaumi Aquarium",
+        "name": "冲绳 Churaumi 水族馆",
         "country": "JP",
         "lat": 26.8278,
         "lng": 127.8443,
@@ -10408,7 +10408,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -17.6099,
         "lng": 148.1302,
@@ -10417,7 +10417,7 @@
         "activity": "diving"
       },
       {
-        "name": "Komodo, Indonesia",
+        "name": "科莫多，印度尼西亚",
         "country": "ID",
         "lat": -8.3952,
         "lng": 119.4392,
@@ -10427,7 +10427,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.8495,
         "lng": 34.4577,
@@ -10459,7 +10459,7 @@
     "viewingSpots": [
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.2152,
         "lng": 73.0033,
@@ -10469,7 +10469,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 27.3388,
         "lng": 34.0337,
@@ -10479,7 +10479,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.573,
         "lng": 130.3592,
@@ -10510,7 +10510,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Suruga Bay, Japan",
+        "name": "Suruga湾，日本",
         "country": "JP",
         "lat": 34.7666,
         "lng": 138.8868,
@@ -10519,7 +10519,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.0544,
         "lng": 0.8612,
@@ -10550,7 +10550,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Hawaii (deep-sea fishing)",
+        "name": "夏威夷 (deep-sea fishing)",
         "country": "US",
         "lat": 20.0,
         "lng": -157.0,
@@ -10559,7 +10559,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.9554,
         "lng": -122.0885,
@@ -10590,7 +10590,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 36.271,
         "lng": -122.3833,
@@ -10599,7 +10599,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.7913,
         "lng": 0.8434,
@@ -10629,7 +10629,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Canary Islands (shells on beach)",
+        "name": "Canary岛s (shells on beach)",
         "country": "ES",
         "lat": 28.2038,
         "lng": -15.4427,
@@ -10638,7 +10638,7 @@
         "activity": "shore"
       },
       {
-        "name": "Natural History Museum, London",
+        "name": "Natural History 博物馆，London",
         "country": "GB",
         "lat": 51.7517,
         "lng": 0.2911,
@@ -10669,7 +10669,7 @@
     "viewingSpots": [
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.5533,
         "lng": 72.9712,
@@ -10679,7 +10679,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.5804,
         "lng": 34.3072,
@@ -10688,7 +10688,7 @@
         "activity": "diving"
       },
       {
-        "name": "Sipadan, Malaysia",
+        "name": "仙本那，马来西亚",
         "country": "MY",
         "lat": 4.3885,
         "lng": 118.8858,
@@ -10720,7 +10720,7 @@
     "viewingSpots": [
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.4503,
         "lng": 33.575,
@@ -10730,7 +10730,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.5851,
         "lng": 73.6235,
@@ -10740,7 +10740,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.6338,
         "lng": 147.105,
@@ -10771,7 +10771,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 12.3231,
         "lng": -67.9119,
@@ -10780,7 +10780,7 @@
         "activity": "diving"
       },
       {
-        "name": "Malta",
+        "name": "马耳他",
         "country": "MT",
         "lat": 35.9,
         "lng": 14.51,
@@ -10812,7 +10812,7 @@
     "viewingSpots": [
       {
         "hotspotId": "monterey_bay",
-        "name": "Monterey Bay (MBARI deep dives)",
+        "name": "蒙特雷湾 (MBARI deep dives)",
         "country": "US",
         "lat": 36.5096,
         "lng": -122.7141,
@@ -10821,7 +10821,7 @@
         "activity": "aquarium"
       },
       {
-        "name": "Monterey Bay Aquarium",
+        "name": "蒙特雷湾 水族馆",
         "country": "US",
         "lat": 37.1043,
         "lng": -121.2868,
@@ -10852,7 +10852,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.1094,
         "lng": 147.2392,
@@ -10862,7 +10862,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea, Egypt",
+        "name": "红海，埃及",
         "country": "EG",
         "lat": 26.6059,
         "lng": 33.3528,
@@ -10871,7 +10871,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 11.9434,
         "lng": -67.759,
@@ -10902,7 +10902,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.944,
         "lng": 130.4851,
@@ -10912,7 +10912,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.6859,
         "lng": 73.6951,
@@ -10942,7 +10942,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Cozumel",
+        "name": "科苏梅尔",
         "country": "MX",
         "lat": 19.929,
         "lng": -86.5698,
@@ -10951,7 +10951,7 @@
         "activity": "diving"
       },
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.558,
         "lng": -88.0651,
@@ -10961,7 +10961,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea",
+        "name": "红海",
         "country": "EG",
         "lat": 27.7224,
         "lng": 34.305,
@@ -10991,7 +10991,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Cozumel",
+        "name": "科苏梅尔",
         "country": "MX",
         "lat": 20.0257,
         "lng": -87.0062,
@@ -11001,7 +11001,7 @@
       },
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -19.0236,
         "lng": 147.6199,
@@ -11032,7 +11032,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -0.5037,
         "lng": 130.3633,
@@ -11042,7 +11042,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.4313,
         "lng": 134.1696,
@@ -11073,7 +11073,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.3094,
         "lng": 147.4576,
@@ -11083,7 +11083,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 2.926,
         "lng": 72.5397,
@@ -11114,7 +11114,7 @@
     "viewingSpots": [
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 6.7446,
         "lng": 134.1234,
@@ -11124,7 +11124,7 @@
       },
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.6935,
         "lng": 130.4836,
@@ -11133,7 +11133,7 @@
         "activity": "diving"
       },
       {
-        "name": "Okinawa",
+        "name": "冲绳",
         "country": "JP",
         "lat": 26.1663,
         "lng": 127.9933,
@@ -11163,7 +11163,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Hawaii",
+        "name": "夏威夷",
         "country": "US",
         "lat": 19.5667,
         "lng": -155.2956,
@@ -11173,7 +11173,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea",
+        "name": "红海",
         "country": "EG",
         "lat": 27.7484,
         "lng": 33.2069,
@@ -11203,7 +11203,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Sardinia",
+        "name": "撒丁岛",
         "country": "IT",
         "lat": 39.23,
         "lng": 9.12,
@@ -11212,7 +11212,7 @@
         "activity": "diving"
       },
       {
-        "name": "Corsica",
+        "name": "科西嘉岛",
         "country": "FR",
         "lat": 42.15,
         "lng": 9.09,
@@ -11242,7 +11242,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.6352,
         "lng": -87.7474,
@@ -11251,7 +11251,7 @@
         "activity": "diving"
       },
       {
-        "name": "Bonaire",
+        "name": "博奈尔岛",
         "country": "BQ",
         "lat": 12.4425,
         "lng": -68.8972,
@@ -11260,7 +11260,7 @@
         "activity": "diving"
       },
       {
-        "name": "Curaçao",
+        "name": "库拉索岛",
         "country": "CW",
         "lat": 11.9365,
         "lng": -68.8273,
@@ -11291,7 +11291,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.1334,
         "lng": 146.9727,
@@ -11301,7 +11301,7 @@
       },
       {
         "hotspotId": "sipadan_malaysia",
-        "name": "Sipadan",
+        "name": "仙本那",
         "country": "MY",
         "lat": 4.5353,
         "lng": 118.4219,
@@ -11332,7 +11332,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.021,
         "lng": 130.2683,
@@ -11342,7 +11342,7 @@
       },
       {
         "hotspotId": "maldives",
-        "name": "Maldives",
+        "name": "马尔代夫",
         "country": "MV",
         "lat": 3.3636,
         "lng": 72.806,
@@ -11373,7 +11373,7 @@
     "viewingSpots": [
       {
         "hotspotId": "great_barrier_reef",
-        "name": "Great Barrier Reef",
+        "name": "大堡礁",
         "country": "AU",
         "lat": -18.7013,
         "lng": 147.8927,
@@ -11383,7 +11383,7 @@
       },
       {
         "hotspotId": "red_sea_egypt",
-        "name": "Red Sea",
+        "name": "红海",
         "country": "EG",
         "lat": 27.0695,
         "lng": 34.1602,
@@ -11393,7 +11393,7 @@
       },
       {
         "hotspotId": "sipadan_malaysia",
-        "name": "Sipadan",
+        "name": "仙本那",
         "country": "MY",
         "lat": 4.2553,
         "lng": 118.6662,
@@ -11424,7 +11424,7 @@
     "viewingSpots": [
       {
         "hotspotId": "raja_ampat",
-        "name": "Raja Ampat",
+        "name": "拉贾安帕",
         "country": "ID",
         "lat": -1.3009,
         "lng": 129.9581,
@@ -11434,7 +11434,7 @@
       },
       {
         "hotspotId": "palau",
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.4585,
         "lng": 134.4711,
@@ -11471,7 +11471,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -11480,7 +11480,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -11489,7 +11489,7 @@
         "activity": "diving"
       },
       {
-        "name": "Great Barrier Reef (North)",
+        "name": "大堡礁 (North)",
         "country": "AU",
         "lat": -14.5,
         "lng": 145.5,
@@ -11498,7 +11498,7 @@
         "activity": "diving"
       },
       {
-        "name": "Great Barrier Reef (Central)",
+        "name": "大堡礁 (中部)",
         "country": "AU",
         "lat": -18.3,
         "lng": 147.7,
@@ -11526,7 +11526,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -11535,7 +11535,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -11544,7 +11544,7 @@
         "activity": "diving"
       },
       {
-        "name": "Ras Mohammed, Egypt",
+        "name": "拉斯穆罕默德，埃及",
         "country": "EG",
         "lat": 27.7,
         "lng": 34.3,
@@ -11572,7 +11572,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Raja Ampat, Indonesia",
+        "name": "拉贾安帕，印度尼西亚",
         "country": "ID",
         "lat": -0.5,
         "lng": 130.5,
@@ -11581,7 +11581,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tubbataha, Philippines",
+        "name": "图巴塔哈，菲律宾",
         "country": "PH",
         "lat": 8.9,
         "lng": 119.9,
@@ -11590,7 +11590,7 @@
         "activity": "diving"
       },
       {
-        "name": "Great Barrier Reef (North)",
+        "name": "大堡礁 (North)",
         "country": "AU",
         "lat": -14.5,
         "lng": 145.5,
@@ -11599,7 +11599,7 @@
         "activity": "diving"
       },
       {
-        "name": "Great Barrier Reef (Central)",
+        "name": "大堡礁 (中部)",
         "country": "AU",
         "lat": -18.3,
         "lng": 147.7,
@@ -11608,7 +11608,7 @@
         "activity": "diving"
       },
       {
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.5,
         "lng": 134.6,
@@ -11617,7 +11617,7 @@
         "activity": "diving"
       },
       {
-        "name": "Fiji Reef",
+        "name": "斐济礁",
         "country": "FJ",
         "lat": -17.8,
         "lng": 177.9,
@@ -11645,7 +11645,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -11654,7 +11654,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -11682,7 +11682,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -11691,7 +11691,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -11700,7 +11700,7 @@
         "activity": "diving"
       },
       {
-        "name": "Ras Mohammed, Egypt",
+        "name": "拉斯穆罕默德，埃及",
         "country": "EG",
         "lat": 27.7,
         "lng": 34.3,
@@ -11709,7 +11709,7 @@
         "activity": "diving"
       },
       {
-        "name": "Raja Ampat, Indonesia",
+        "name": "拉贾安帕，印度尼西亚",
         "country": "ID",
         "lat": -0.5,
         "lng": 130.5,
@@ -11718,7 +11718,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tubbataha, Philippines",
+        "name": "图巴塔哈，菲律宾",
         "country": "PH",
         "lat": 8.9,
         "lng": 119.9,
@@ -11746,7 +11746,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -11755,7 +11755,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -11764,7 +11764,7 @@
         "activity": "diving"
       },
       {
-        "name": "Ras Mohammed, Egypt",
+        "name": "拉斯穆罕默德，埃及",
         "country": "EG",
         "lat": 27.7,
         "lng": 34.3,
@@ -11792,7 +11792,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -11801,7 +11801,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -11829,7 +11829,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Raja Ampat, Indonesia",
+        "name": "拉贾安帕，印度尼西亚",
         "country": "ID",
         "lat": -0.5,
         "lng": 130.5,
@@ -11838,7 +11838,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tubbataha, Philippines",
+        "name": "图巴塔哈，菲律宾",
         "country": "PH",
         "lat": 8.9,
         "lng": 119.9,
@@ -11847,7 +11847,7 @@
         "activity": "diving"
       },
       {
-        "name": "Maldives Atolls",
+        "name": "马尔代夫环礁",
         "country": "MV",
         "lat": 4.2,
         "lng": 73.2,
@@ -11856,7 +11856,7 @@
         "activity": "diving"
       },
       {
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.5,
         "lng": 134.6,
@@ -11865,7 +11865,7 @@
         "activity": "diving"
       },
       {
-        "name": "Fiji Reef",
+        "name": "斐济礁",
         "country": "FJ",
         "lat": -17.8,
         "lng": 177.9,
@@ -11893,7 +11893,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -11902,7 +11902,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -11930,7 +11930,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Raja Ampat, Indonesia",
+        "name": "拉贾安帕，印度尼西亚",
         "country": "ID",
         "lat": -0.5,
         "lng": 130.5,
@@ -11939,7 +11939,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tubbataha, Philippines",
+        "name": "图巴塔哈，菲律宾",
         "country": "PH",
         "lat": 8.9,
         "lng": 119.9,
@@ -11948,7 +11948,7 @@
         "activity": "diving"
       },
       {
-        "name": "Great Barrier Reef (North)",
+        "name": "大堡礁 (North)",
         "country": "AU",
         "lat": -14.5,
         "lng": 145.5,
@@ -11957,7 +11957,7 @@
         "activity": "diving"
       },
       {
-        "name": "Great Barrier Reef (Central)",
+        "name": "大堡礁 (中部)",
         "country": "AU",
         "lat": -18.3,
         "lng": 147.7,
@@ -11966,7 +11966,7 @@
         "activity": "diving"
       },
       {
-        "name": "Ras Mohammed, Egypt",
+        "name": "拉斯穆罕默德，埃及",
         "country": "EG",
         "lat": 27.7,
         "lng": 34.3,
@@ -11994,7 +11994,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Ras Mohammed, Egypt",
+        "name": "拉斯穆罕默德，埃及",
         "country": "EG",
         "lat": 27.7,
         "lng": 34.3,
@@ -12003,7 +12003,7 @@
         "activity": "diving"
       },
       {
-        "name": "Maldives Atolls",
+        "name": "马尔代夫环礁",
         "country": "MV",
         "lat": 4.2,
         "lng": 73.2,
@@ -12012,7 +12012,7 @@
         "activity": "diving"
       },
       {
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.5,
         "lng": 134.6,
@@ -12021,7 +12021,7 @@
         "activity": "diving"
       },
       {
-        "name": "Fiji Reef",
+        "name": "斐济礁",
         "country": "FJ",
         "lat": -17.8,
         "lng": 177.9,
@@ -12049,7 +12049,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -12058,7 +12058,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -12067,7 +12067,7 @@
         "activity": "diving"
       },
       {
-        "name": "Raja Ampat, Indonesia",
+        "name": "拉贾安帕，印度尼西亚",
         "country": "ID",
         "lat": -0.5,
         "lng": 130.5,
@@ -12076,7 +12076,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tubbataha, Philippines",
+        "name": "图巴塔哈，菲律宾",
         "country": "PH",
         "lat": 8.9,
         "lng": 119.9,
@@ -12085,7 +12085,7 @@
         "activity": "diving"
       },
       {
-        "name": "Ras Mohammed, Egypt",
+        "name": "拉斯穆罕默德，埃及",
         "country": "EG",
         "lat": 27.7,
         "lng": 34.3,
@@ -12113,7 +12113,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -12122,7 +12122,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -12131,7 +12131,7 @@
         "activity": "diving"
       },
       {
-        "name": "Palau",
+        "name": "帕劳",
         "country": "PW",
         "lat": 7.5,
         "lng": 134.6,
@@ -12140,7 +12140,7 @@
         "activity": "diving"
       },
       {
-        "name": "Fiji Reef",
+        "name": "斐济礁",
         "country": "FJ",
         "lat": -17.8,
         "lng": 177.9,
@@ -12168,7 +12168,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Belize Barrier Reef",
+        "name": "伯利兹堡礁",
         "country": "BZ",
         "lat": 17.5,
         "lng": -87.8,
@@ -12177,7 +12177,7 @@
         "activity": "diving"
       },
       {
-        "name": "Cozumel, Mexico",
+        "name": "科苏梅尔，墨西哥",
         "country": "MX",
         "lat": 20.4,
         "lng": -87.0,
@@ -12186,7 +12186,7 @@
         "activity": "diving"
       },
       {
-        "name": "Raja Ampat, Indonesia",
+        "name": "拉贾安帕，印度尼西亚",
         "country": "ID",
         "lat": -0.5,
         "lng": 130.5,
@@ -12195,7 +12195,7 @@
         "activity": "diving"
       },
       {
-        "name": "Tubbataha, Philippines",
+        "name": "图巴塔哈，菲律宾",
         "country": "PH",
         "lat": 8.9,
         "lng": 119.9,
