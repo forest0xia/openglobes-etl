@@ -6,10 +6,26 @@
     "specCode": 236,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 62.0, "lng": -40.0, "label": "Feeding grounds (West Greenland)"},
-      {"lat": 63.0, "lng": -18.0, "label": "Iceland passage"},
-      {"lat": 58.0, "lng": -4.0, "label": "Scottish rivers (spawning)"},
-      {"lat": 64.0, "lng": 12.0, "label": "Norwegian rivers (spawning)"}
+      {
+        "lat": 62.0,
+        "lng": -40.0,
+        "label": "Feeding grounds (West Greenland)"
+      },
+      {
+        "lat": 63.0,
+        "lng": -18.0,
+        "label": "Iceland passage"
+      },
+      {
+        "lat": 58.0,
+        "lng": -4.0,
+        "label": "Scottish rivers (spawning)"
+      },
+      {
+        "lat": 64.0,
+        "lng": 12.0,
+        "label": "Norwegian rivers (spawning)"
+      }
     ],
     "description": "Atlantic salmon feed in cold North Atlantic waters off Greenland and return to natal rivers in Scotland, Norway, and Iceland to spawn."
   },
@@ -20,10 +36,26 @@
     "specCode": 236,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 62.0, "lng": -40.0, "label": "Feeding grounds (West Greenland)"},
-      {"lat": 52.0, "lng": -55.0, "label": "Labrador Sea"},
-      {"lat": 47.0, "lng": -67.0, "label": "Bay of Fundy rivers"},
-      {"lat": 44.0, "lng": -69.0, "label": "Maine rivers (spawning)"}
+      {
+        "lat": 62.0,
+        "lng": -40.0,
+        "label": "Feeding grounds (West Greenland)"
+      },
+      {
+        "lat": 52.0,
+        "lng": -55.0,
+        "label": "Labrador Sea"
+      },
+      {
+        "lat": 47.0,
+        "lng": -67.0,
+        "label": "Bay of Fundy rivers"
+      },
+      {
+        "lat": 44.0,
+        "lng": -69.0,
+        "label": "Maine rivers (spawning)"
+      }
     ],
     "description": "North American Atlantic salmon migrate from Greenland feeding grounds to rivers in Maine, New Brunswick, and Nova Scotia."
   },
@@ -34,10 +66,26 @@
     "specCode": 244,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 48.0, "lng": -135.0, "label": "North Pacific feeding grounds"},
-      {"lat": 46.2, "lng": -124.0, "label": "Columbia River mouth"},
-      {"lat": 46.8, "lng": -121.0, "label": "Bonneville Dam"},
-      {"lat": 47.5, "lng": -116.0, "label": "Idaho spawning tributaries"}
+      {
+        "lat": 48.0,
+        "lng": -135.0,
+        "label": "North Pacific feeding grounds"
+      },
+      {
+        "lat": 46.2,
+        "lng": -124.0,
+        "label": "Columbia River mouth"
+      },
+      {
+        "lat": 46.8,
+        "lng": -121.0,
+        "label": "Bonneville Dam"
+      },
+      {
+        "lat": 47.5,
+        "lng": -116.0,
+        "label": "Idaho spawning tributaries"
+      }
     ],
     "description": "Chinook salmon travel over 1,400 km from the Pacific Ocean up the Columbia River, past 8 dams, to spawn in Idaho headwaters."
   },
@@ -48,11 +96,24 @@
     "specCode": 243,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 52.0, "lng": -175.0, "label": "Bering Sea feeding grounds"},
-      {"lat": 57.0, "lng": -160.0, "label": "Bristol Bay entrance"},
-      {"lat": 59.0, "lng": -155.0, "label": "Lake Iliamna / Kvichak River"}
+      {
+        "lat": 52.0,
+        "lng": -175.0,
+        "label": "Bering Sea feeding grounds"
+      },
+      {
+        "lat": 57.0,
+        "lng": -160.0,
+        "label": "Bristol Bay entrance"
+      },
+      {
+        "lat": 59.0,
+        "lng": -155.0,
+        "label": "Lake Iliamna / Kvichak River"
+      }
     ],
-    "description": "The world's largest sockeye run — 30-60 million fish return annually to Bristol Bay, Alaska. The fishery is worth $1.5 billion."
+    "description": "The world's largest sockeye run — 30-60 million fish return annually to Bristol Bay, Alaska. The fishery is worth $1.5 billion.",
+    "nameZh": "红鲑鱼"
   },
   {
     "id": "pink-salmon-pacific",
@@ -61,11 +122,24 @@
     "specCode": 240,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 50.0, "lng": -170.0, "label": "Central North Pacific"},
-      {"lat": 55.0, "lng": -155.0, "label": "Gulf of Alaska"},
-      {"lat": 57.0, "lng": -135.0, "label": "Southeast Alaska streams"}
+      {
+        "lat": 50.0,
+        "lng": -170.0,
+        "label": "Central North Pacific"
+      },
+      {
+        "lat": 55.0,
+        "lng": -155.0,
+        "label": "Gulf of Alaska"
+      },
+      {
+        "lat": 57.0,
+        "lng": -135.0,
+        "label": "Southeast Alaska streams"
+      }
     ],
-    "description": "Pink salmon have the shortest life cycle of Pacific salmon — exactly 2 years, ocean-to-river-to-ocean."
+    "description": "Pink salmon have the shortest life cycle of Pacific salmon — exactly 2 years, ocean-to-river-to-ocean.",
+    "nameZh": "粉红鲑鱼"
   },
   {
     "id": "chum-salmon-yukon",
@@ -74,12 +148,29 @@
     "specCode": 241,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 55.0, "lng": -170.0, "label": "Bering Sea"},
-      {"lat": 63.0, "lng": -165.0, "label": "Yukon River delta"},
-      {"lat": 64.0, "lng": -150.0, "label": "Mid-Yukon"},
-      {"lat": 64.0, "lng": -140.0, "label": "Upper Yukon (spawning)"}
+      {
+        "lat": 55.0,
+        "lng": -170.0,
+        "label": "Bering Sea"
+      },
+      {
+        "lat": 63.0,
+        "lng": -165.0,
+        "label": "Yukon River delta"
+      },
+      {
+        "lat": 64.0,
+        "lng": -150.0,
+        "label": "Mid-Yukon"
+      },
+      {
+        "lat": 64.0,
+        "lng": -140.0,
+        "label": "Upper Yukon (spawning)"
+      }
     ],
-    "description": "Chum salmon travel up to 3,200 km up the Yukon River — one of the longest freshwater salmon migrations in the world."
+    "description": "Chum salmon travel up to 3,200 km up the Yukon River — one of the longest freshwater salmon migrations in the world.",
+    "nameZh": "狗鲑鱼"
   },
   {
     "id": "european-eel",
@@ -88,10 +179,26 @@
     "specCode": 35,
     "type": "catadromous",
     "waypoints": [
-      {"lat": 52.0, "lng": 5.0, "label": "European rivers (adults)"},
-      {"lat": 48.0, "lng": -10.0, "label": "Bay of Biscay"},
-      {"lat": 38.0, "lng": -30.0, "label": "Mid-Atlantic"},
-      {"lat": 27.0, "lng": -65.0, "label": "Sargasso Sea (spawning)"}
+      {
+        "lat": 52.0,
+        "lng": 5.0,
+        "label": "European rivers (adults)"
+      },
+      {
+        "lat": 48.0,
+        "lng": -10.0,
+        "label": "Bay of Biscay"
+      },
+      {
+        "lat": 38.0,
+        "lng": -30.0,
+        "label": "Mid-Atlantic"
+      },
+      {
+        "lat": 27.0,
+        "lng": -65.0,
+        "label": "Sargasso Sea (spawning)"
+      }
     ],
     "description": "European eels make a 5,000-6,000 km one-way journey to the Sargasso Sea to spawn. Larvae drift back on the Gulf Stream over 1-3 years. One of nature's great mysteries."
   },
@@ -102,11 +209,24 @@
     "specCode": 36,
     "type": "catadromous",
     "waypoints": [
-      {"lat": 42.0, "lng": -72.0, "label": "Eastern US rivers"},
-      {"lat": 35.0, "lng": -70.0, "label": "US Atlantic coast"},
-      {"lat": 27.0, "lng": -65.0, "label": "Sargasso Sea (spawning)"}
+      {
+        "lat": 42.0,
+        "lng": -72.0,
+        "label": "Eastern US rivers"
+      },
+      {
+        "lat": 35.0,
+        "lng": -70.0,
+        "label": "US Atlantic coast"
+      },
+      {
+        "lat": 27.0,
+        "lng": -65.0,
+        "label": "Sargasso Sea (spawning)"
+      }
     ],
-    "description": "Like their European cousins, American eels migrate to the Sargasso Sea to spawn, but travel a shorter distance (~2,000 km)."
+    "description": "Like their European cousins, American eels migrate to the Sargasso Sea to spawn, but travel a shorter distance (~2,000 km).",
+    "nameZh": "美洲鳗鲡"
   },
   {
     "id": "japanese-eel",
@@ -115,11 +235,24 @@
     "specCode": 37,
     "type": "catadromous",
     "waypoints": [
-      {"lat": 35.0, "lng": 136.0, "label": "Japanese rivers"},
-      {"lat": 25.0, "lng": 130.0, "label": "Okinawa Trough"},
-      {"lat": 15.0, "lng": 142.0, "label": "West Mariana Ridge (spawning)"}
+      {
+        "lat": 35.0,
+        "lng": 136.0,
+        "label": "Japanese rivers"
+      },
+      {
+        "lat": 25.0,
+        "lng": 130.0,
+        "label": "Okinawa Trough"
+      },
+      {
+        "lat": 15.0,
+        "lng": 142.0,
+        "label": "West Mariana Ridge (spawning)"
+      }
     ],
-    "description": "Japanese eels migrate 2,000+ km to seamounts near the Mariana Islands to spawn. The spawning site was only confirmed in 2009."
+    "description": "Japanese eels migrate 2,000+ km to seamounts near the Mariana Islands to spawn. The spawning site was only confirmed in 2009.",
+    "nameZh": "日本鳗鲡"
   },
   {
     "id": "bluefin-tuna-atlantic",
@@ -128,11 +261,31 @@
     "specCode": 145,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 25.0, "lng": -85.0, "label": "Gulf of Mexico (spawning)"},
-      {"lat": 35.0, "lng": -70.0, "label": "US East Coast (feeding)"},
-      {"lat": 45.0, "lng": -45.0, "label": "Mid-Atlantic crossing"},
-      {"lat": 42.0, "lng": -5.0, "label": "Bay of Biscay (feeding)"},
-      {"lat": 37.0, "lng": 10.0, "label": "Mediterranean (spawning)"}
+      {
+        "lat": 25.0,
+        "lng": -85.0,
+        "label": "Gulf of Mexico (spawning)"
+      },
+      {
+        "lat": 35.0,
+        "lng": -70.0,
+        "label": "US East Coast (feeding)"
+      },
+      {
+        "lat": 45.0,
+        "lng": -45.0,
+        "label": "Mid-Atlantic crossing"
+      },
+      {
+        "lat": 42.0,
+        "lng": -5.0,
+        "label": "Bay of Biscay (feeding)"
+      },
+      {
+        "lat": 37.0,
+        "lng": 10.0,
+        "label": "Mediterranean (spawning)"
+      }
     ],
     "description": "Atlantic bluefin tuna cross the entire Atlantic Ocean, up to 10,000 km. Two stocks (Western and Eastern) mix in the mid-Atlantic. They can reach 680 kg and swim at 70 km/h."
   },
@@ -143,12 +296,29 @@
     "specCode": 147,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 32.0, "lng": 132.0, "label": "Japan (spawning)"},
-      {"lat": 35.0, "lng": 175.0, "label": "Central Pacific"},
-      {"lat": 32.0, "lng": -118.0, "label": "California (juvenile feeding)"},
-      {"lat": 35.0, "lng": 140.0, "label": "Return to Japan"}
+      {
+        "lat": 32.0,
+        "lng": 132.0,
+        "label": "Japan (spawning)"
+      },
+      {
+        "lat": 35.0,
+        "lng": 175.0,
+        "label": "Central Pacific"
+      },
+      {
+        "lat": 32.0,
+        "lng": -118.0,
+        "label": "California (juvenile feeding)"
+      },
+      {
+        "lat": 35.0,
+        "lng": 140.0,
+        "label": "Return to Japan"
+      }
     ],
-    "description": "Pacific bluefin tuna spawn near Japan, cross the entire Pacific to feed off California as juveniles, then return to Japan to spawn — a 12,000 km circuit."
+    "description": "Pacific bluefin tuna spawn near Japan, cross the entire Pacific to feed off California as juveniles, then return to Japan to spawn — a 12,000 km circuit.",
+    "nameZh": "太平洋蓝鳍金枪鱼"
   },
   {
     "id": "southern-bluefin",
@@ -157,12 +327,29 @@
     "specCode": 144,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -12.0, "lng": 115.0, "label": "Indian Ocean (spawning, south of Java)"},
-      {"lat": -32.0, "lng": 130.0, "label": "Great Australian Bight (juvenile)"},
-      {"lat": -40.0, "lng": 60.0, "label": "Southern Indian Ocean (feeding)"},
-      {"lat": -45.0, "lng": -10.0, "label": "South Atlantic (feeding)"}
+      {
+        "lat": -12.0,
+        "lng": 115.0,
+        "label": "Indian Ocean (spawning, south of Java)"
+      },
+      {
+        "lat": -32.0,
+        "lng": 130.0,
+        "label": "Great Australian Bight (juvenile)"
+      },
+      {
+        "lat": -40.0,
+        "lng": 60.0,
+        "label": "Southern Indian Ocean (feeding)"
+      },
+      {
+        "lat": -45.0,
+        "lng": -10.0,
+        "label": "South Atlantic (feeding)"
+      }
     ],
-    "description": "Southern bluefin tuna migrate vast distances through the Southern Ocean. They only spawn in the warm waters south of Java, Indonesia."
+    "description": "Southern bluefin tuna migrate vast distances through the Southern Ocean. They only spawn in the warm waters south of Java, Indonesia.",
+    "nameZh": "南方蓝鳍金枪鱼"
   },
   {
     "id": "yellowfin-tuna",
@@ -171,11 +358,24 @@
     "specCode": 143,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 5.0, "lng": -95.0, "label": "Eastern Tropical Pacific"},
-      {"lat": 20.0, "lng": -110.0, "label": "Mexico (Revillagigedo)"},
-      {"lat": 0.0, "lng": -85.0, "label": "Galápagos convergence"}
+      {
+        "lat": 5.0,
+        "lng": -95.0,
+        "label": "Eastern Tropical Pacific"
+      },
+      {
+        "lat": 20.0,
+        "lng": -110.0,
+        "label": "Mexico (Revillagigedo)"
+      },
+      {
+        "lat": 0.0,
+        "lng": -85.0,
+        "label": "Galápagos convergence"
+      }
     ],
-    "description": "Yellowfin tuna follow warm currents and prey concentrations across tropical oceans. They associate with dolphins in the Eastern Pacific."
+    "description": "Yellowfin tuna follow warm currents and prey concentrations across tropical oceans. They associate with dolphins in the Eastern Pacific.",
+    "nameZh": "黄鳍金枪鱼"
   },
   {
     "id": "albacore-north-pacific",
@@ -184,12 +384,29 @@
     "specCode": 142,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 25.0, "lng": 140.0, "label": "Japan spawning grounds"},
-      {"lat": 35.0, "lng": 175.0, "label": "North Pacific Transition Zone"},
-      {"lat": 40.0, "lng": -130.0, "label": "US West Coast (feeding)"},
-      {"lat": 30.0, "lng": 150.0, "label": "Return westward"}
+      {
+        "lat": 25.0,
+        "lng": 140.0,
+        "label": "Japan spawning grounds"
+      },
+      {
+        "lat": 35.0,
+        "lng": 175.0,
+        "label": "North Pacific Transition Zone"
+      },
+      {
+        "lat": 40.0,
+        "lng": -130.0,
+        "label": "US West Coast (feeding)"
+      },
+      {
+        "lat": 30.0,
+        "lng": 150.0,
+        "label": "Return westward"
+      }
     ],
-    "description": "North Pacific albacore complete a transpacific migration following the Kuroshio and California Current systems."
+    "description": "North Pacific albacore complete a transpacific migration following the Kuroshio and California Current systems.",
+    "nameZh": "长鳍金枪鱼"
   },
   {
     "id": "sardine-run",
@@ -198,12 +415,29 @@
     "specCode": 1477,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -35.0, "lng": 20.0, "label": "Agulhas Bank (spawning)"},
-      {"lat": -32.0, "lng": 28.0, "label": "Wild Coast"},
-      {"lat": -30.0, "lng": 31.0, "label": "KwaZulu-Natal coast"},
-      {"lat": -28.0, "lng": 32.5, "label": "Northern limit (Mozambique border)"}
+      {
+        "lat": -35.0,
+        "lng": 20.0,
+        "label": "Agulhas Bank (spawning)"
+      },
+      {
+        "lat": -32.0,
+        "lng": 28.0,
+        "label": "Wild Coast"
+      },
+      {
+        "lat": -30.0,
+        "lng": 31.0,
+        "label": "KwaZulu-Natal coast"
+      },
+      {
+        "lat": -28.0,
+        "lng": 32.5,
+        "label": "Northern limit (Mozambique border)"
+      }
     ],
-    "description": "Billions of sardines migrate north along the South African coast each winter. Called 'the greatest shoal on Earth' — visible from space and attracting sharks, dolphins, whales, and diving birds."
+    "description": "Billions of sardines migrate north along the South African coast each winter. Called 'the greatest shoal on Earth' — visible from space and attracting sharks, dolphins, whales, and diving birds.",
+    "nameZh": "南非沙丁鱼"
   },
   {
     "id": "herring-north-sea",
@@ -212,10 +446,26 @@
     "specCode": 24,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 60.0, "lng": 2.0, "label": "Norwegian coast (feeding)"},
-      {"lat": 56.0, "lng": 3.0, "label": "Central North Sea"},
-      {"lat": 52.0, "lng": 2.0, "label": "English Channel (spawning)"},
-      {"lat": 58.0, "lng": -1.0, "label": "Shetland (spawning)"}
+      {
+        "lat": 60.0,
+        "lng": 2.0,
+        "label": "Norwegian coast (feeding)"
+      },
+      {
+        "lat": 56.0,
+        "lng": 3.0,
+        "label": "Central North Sea"
+      },
+      {
+        "lat": 52.0,
+        "lng": 2.0,
+        "label": "English Channel (spawning)"
+      },
+      {
+        "lat": 58.0,
+        "lng": -1.0,
+        "label": "Shetland (spawning)"
+      }
     ],
     "description": "North Sea herring migrate in enormous schools between feeding and spawning grounds. They were the basis of the medieval Hanseatic League's wealth."
   },
@@ -226,10 +476,26 @@
     "specCode": 2081,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -22.0, "lng": 114.0, "label": "Ningaloo Reef (aggregation)"},
-      {"lat": -17.0, "lng": 120.0, "label": "Timor Sea"},
-      {"lat": -10.5, "lng": 105.7, "label": "Christmas Island"},
-      {"lat": -8.0, "lng": 115.0, "label": "Bali / Indonesian waters"}
+      {
+        "lat": -22.0,
+        "lng": 114.0,
+        "label": "Ningaloo Reef (aggregation)"
+      },
+      {
+        "lat": -17.0,
+        "lng": 120.0,
+        "label": "Timor Sea"
+      },
+      {
+        "lat": -10.5,
+        "lng": 105.7,
+        "label": "Christmas Island"
+      },
+      {
+        "lat": -8.0,
+        "lng": 115.0,
+        "label": "Bali / Indonesian waters"
+      }
     ],
     "description": "Whale sharks — the world's largest fish at up to 18m — aggregate at Ningaloo Reef each autumn to feed on coral spawn, then disperse across the Indian Ocean."
   },
@@ -240,9 +506,21 @@
     "specCode": 2081,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 21.5, "lng": -87.0, "label": "Isla Mujeres (aggregation)"},
-      {"lat": 25.0, "lng": -90.0, "label": "Northern Gulf of Mexico"},
-      {"lat": 18.0, "lng": -67.0, "label": "Caribbean dispersal"}
+      {
+        "lat": 21.5,
+        "lng": -87.0,
+        "label": "Isla Mujeres (aggregation)"
+      },
+      {
+        "lat": 25.0,
+        "lng": -90.0,
+        "label": "Northern Gulf of Mexico"
+      },
+      {
+        "lat": 18.0,
+        "lng": -67.0,
+        "label": "Caribbean dispersal"
+      }
     ],
     "description": "The world's largest known whale shark aggregation occurs off Isla Mujeres, Mexico, with 400+ individuals feeding on tuna spawn each summer."
   },
@@ -253,10 +531,26 @@
     "specCode": 751,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -34.5, "lng": 19.0, "label": "False Bay, South Africa"},
-      {"lat": -38.0, "lng": 50.0, "label": "Southern Indian Ocean"},
-      {"lat": -36.0, "lng": 80.0, "label": "Mid-Indian Ocean"},
-      {"lat": -35.0, "lng": 137.0, "label": "South Australia"}
+      {
+        "lat": -34.5,
+        "lng": 19.0,
+        "label": "False Bay, South Africa"
+      },
+      {
+        "lat": -38.0,
+        "lng": 50.0,
+        "label": "Southern Indian Ocean"
+      },
+      {
+        "lat": -36.0,
+        "lng": 80.0,
+        "label": "Mid-Indian Ocean"
+      },
+      {
+        "lat": -35.0,
+        "lng": 137.0,
+        "label": "South Australia"
+      }
     ],
     "description": "Great white sharks migrate 10,000+ km between South Africa and Australia. Satellite tagging revealed this route, nicknamed the 'shark highway'."
   },
@@ -267,10 +561,26 @@
     "specCode": 751,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 37.5, "lng": -122.5, "label": "Farallon Islands, California"},
-      {"lat": 30.0, "lng": -135.0, "label": "Open Pacific transit"},
-      {"lat": 25.0, "lng": -140.0, "label": "White Shark Café (deep diving area)"},
-      {"lat": 23.0, "lng": -110.0, "label": "Guadalupe Island, Mexico"}
+      {
+        "lat": 37.5,
+        "lng": -122.5,
+        "label": "Farallon Islands, California"
+      },
+      {
+        "lat": 30.0,
+        "lng": -135.0,
+        "label": "Open Pacific transit"
+      },
+      {
+        "lat": 25.0,
+        "lng": -140.0,
+        "label": "White Shark Café (deep diving area)"
+      },
+      {
+        "lat": 23.0,
+        "lng": -110.0,
+        "label": "Guadalupe Island, Mexico"
+      }
     ],
     "description": "California great whites migrate to a mysterious mid-Pacific area called the 'White Shark Café' where they make deep V-shaped dives — possibly foraging or mating."
   },
@@ -281,11 +591,31 @@
     "specCode": 898,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 40.0, "lng": -70.0, "label": "US Northeast coast"},
-      {"lat": 35.0, "lng": -40.0, "label": "Mid-Atlantic Ridge"},
-      {"lat": 30.0, "lng": -10.0, "label": "Azores / West Africa"},
-      {"lat": 20.0, "lng": -30.0, "label": "Tropical Atlantic"},
-      {"lat": 30.0, "lng": -60.0, "label": "Sargasso Sea return"}
+      {
+        "lat": 40.0,
+        "lng": -70.0,
+        "label": "US Northeast coast"
+      },
+      {
+        "lat": 35.0,
+        "lng": -40.0,
+        "label": "Mid-Atlantic Ridge"
+      },
+      {
+        "lat": 30.0,
+        "lng": -10.0,
+        "label": "Azores / West Africa"
+      },
+      {
+        "lat": 20.0,
+        "lng": -30.0,
+        "label": "Tropical Atlantic"
+      },
+      {
+        "lat": 30.0,
+        "lng": -60.0,
+        "label": "Sargasso Sea return"
+      }
     ],
     "description": "Blue sharks make a clockwise circuit of the entire North Atlantic, riding the Gulf Stream east and returning on the Canary Current. The most migratory shark species."
   },
@@ -296,12 +626,29 @@
     "specCode": 752,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 38.0, "lng": -72.0, "label": "Mid-Atlantic Bight"},
-      {"lat": 35.0, "lng": -50.0, "label": "Gulf Stream"},
-      {"lat": 25.0, "lng": -20.0, "label": "Canary Islands region"},
-      {"lat": 32.0, "lng": -65.0, "label": "Bermuda"}
+      {
+        "lat": 38.0,
+        "lng": -72.0,
+        "label": "Mid-Atlantic Bight"
+      },
+      {
+        "lat": 35.0,
+        "lng": -50.0,
+        "label": "Gulf Stream"
+      },
+      {
+        "lat": 25.0,
+        "lng": -20.0,
+        "label": "Canary Islands region"
+      },
+      {
+        "lat": 32.0,
+        "lng": -65.0,
+        "label": "Bermuda"
+      }
     ],
-    "description": "Shortfin makos — the fastest sharks at 70 km/h — cross the Atlantic following warm-water prey. They dive to 800m+ depth."
+    "description": "Shortfin makos — the fastest sharks at 70 km/h — cross the Atlantic following warm-water prey. They dive to 800m+ depth.",
+    "nameZh": "尖吻鲭鲨"
   },
   {
     "id": "hammerhead-cocos",
@@ -310,12 +657,29 @@
     "specCode": 912,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 5.5, "lng": -87.0, "label": "Cocos Island, Costa Rica"},
-      {"lat": 2.0, "lng": -89.0, "label": "Open Pacific"},
-      {"lat": -1.0, "lng": -91.0, "label": "Galápagos Islands"},
-      {"lat": 1.0, "lng": -84.0, "label": "Malpelo Island, Colombia"}
+      {
+        "lat": 5.5,
+        "lng": -87.0,
+        "label": "Cocos Island, Costa Rica"
+      },
+      {
+        "lat": 2.0,
+        "lng": -89.0,
+        "label": "Open Pacific"
+      },
+      {
+        "lat": -1.0,
+        "lng": -91.0,
+        "label": "Galápagos Islands"
+      },
+      {
+        "lat": 1.0,
+        "lng": -84.0,
+        "label": "Malpelo Island, Colombia"
+      }
     ],
-    "description": "Scalloped hammerheads migrate between Cocos, Galápagos, and Malpelo — underwater mountains forming a 'shark triangle'. Schools of 500+ gather at seamounts."
+    "description": "Scalloped hammerheads migrate between Cocos, Galápagos, and Malpelo — underwater mountains forming a 'shark triangle'. Schools of 500+ gather at seamounts.",
+    "nameZh": "路氏双髻鲨"
   },
   {
     "id": "basking-shark",
@@ -324,9 +688,21 @@
     "specCode": 90,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 56.0, "lng": -7.0, "label": "Scotland / Ireland (summer)"},
-      {"lat": 48.0, "lng": -8.0, "label": "Bay of Biscay"},
-      {"lat": 35.0, "lng": -15.0, "label": "Morocco / deep Atlantic (winter)"}
+      {
+        "lat": 56.0,
+        "lng": -7.0,
+        "label": "Scotland / Ireland (summer)"
+      },
+      {
+        "lat": 48.0,
+        "lng": -8.0,
+        "label": "Bay of Biscay"
+      },
+      {
+        "lat": 35.0,
+        "lng": -15.0,
+        "label": "Morocco / deep Atlantic (winter)"
+      }
     ],
     "description": "The world's second-largest fish (12m) migrates between surface plankton blooms in summer and deep water in winter. They can dive to 1,000m."
   },
@@ -337,9 +713,21 @@
     "specCode": 2061,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -8.5, "lng": 119.5, "label": "Komodo National Park"},
-      {"lat": -4.0, "lng": 123.0, "label": "Banda Sea"},
-      {"lat": -1.0, "lng": 130.5, "label": "Raja Ampat, Papua"}
+      {
+        "lat": -8.5,
+        "lng": 119.5,
+        "label": "Komodo National Park"
+      },
+      {
+        "lat": -4.0,
+        "lng": 123.0,
+        "label": "Banda Sea"
+      },
+      {
+        "lat": -1.0,
+        "lng": 130.5,
+        "label": "Raja Ampat, Papua"
+      }
     ],
     "description": "Giant manta rays — 7m wingspan — follow plankton blooms through Indonesia's nutrient-rich straits. Raja Ampat hosts the world's largest known manta population."
   },
@@ -350,10 +738,26 @@
     "specCode": 226,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 20.0, "lng": -65.0, "label": "Caribbean (spawning)"},
-      {"lat": 35.0, "lng": -60.0, "label": "Gulf Stream"},
-      {"lat": 42.0, "lng": -55.0, "label": "Grand Banks (feeding)"},
-      {"lat": 38.0, "lng": -30.0, "label": "Azores"}
+      {
+        "lat": 20.0,
+        "lng": -65.0,
+        "label": "Caribbean (spawning)"
+      },
+      {
+        "lat": 35.0,
+        "lng": -60.0,
+        "label": "Gulf Stream"
+      },
+      {
+        "lat": 42.0,
+        "lng": -55.0,
+        "label": "Grand Banks (feeding)"
+      },
+      {
+        "lat": 38.0,
+        "lng": -30.0,
+        "label": "Azores"
+      }
     ],
     "description": "Swordfish migrate from tropical spawning grounds to cold, productive waters at high latitudes. They can dive to 2,800m and tolerate near-freezing temperatures by heating their brains."
   },
@@ -364,12 +768,29 @@
     "specCode": 353,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 37.0, "lng": -76.0, "label": "Chesapeake Bay (spawning)"},
-      {"lat": 39.5, "lng": -74.0, "label": "New Jersey coast"},
-      {"lat": 41.5, "lng": -71.0, "label": "Cape Cod (summer feeding)"},
-      {"lat": 43.5, "lng": -70.0, "label": "Maine coast"}
+      {
+        "lat": 37.0,
+        "lng": -76.0,
+        "label": "Chesapeake Bay (spawning)"
+      },
+      {
+        "lat": 39.5,
+        "lng": -74.0,
+        "label": "New Jersey coast"
+      },
+      {
+        "lat": 41.5,
+        "lng": -71.0,
+        "label": "Cape Cod (summer feeding)"
+      },
+      {
+        "lat": 43.5,
+        "lng": -70.0,
+        "label": "Maine coast"
+      }
     ],
-    "description": "Striped bass spawn in the Chesapeake Bay and Hudson River, then migrate north along the coast to New England each summer. The most prized game fish on the US East Coast."
+    "description": "Striped bass spawn in the Chesapeake Bay and Hudson River, then migrate north along the coast to New England each summer. The most prized game fish on the US East Coast.",
+    "nameZh": "条纹鲈鱼"
   },
   {
     "id": "american-shad",
@@ -378,12 +799,29 @@
     "specCode": 1576,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 32.0, "lng": -78.0, "label": "Southern rivers (winter)"},
-      {"lat": 37.0, "lng": -76.0, "label": "Chesapeake Bay"},
-      {"lat": 41.0, "lng": -73.0, "label": "Hudson River / Connecticut River"},
-      {"lat": 45.0, "lng": -67.0, "label": "St. John River (northern limit)"}
+      {
+        "lat": 32.0,
+        "lng": -78.0,
+        "label": "Southern rivers (winter)"
+      },
+      {
+        "lat": 37.0,
+        "lng": -76.0,
+        "label": "Chesapeake Bay"
+      },
+      {
+        "lat": 41.0,
+        "lng": -73.0,
+        "label": "Hudson River / Connecticut River"
+      },
+      {
+        "lat": 45.0,
+        "lng": -67.0,
+        "label": "St. John River (northern limit)"
+      }
     ],
-    "description": "American shad once supported the largest fishery on the US East Coast. George Washington relied on shad runs to feed the Continental Army at Valley Forge."
+    "description": "American shad once supported the largest fishery on the US East Coast. George Washington relied on shad runs to feed the Continental Army at Valley Forge.",
+    "nameZh": "美洲西鲱"
   },
   {
     "id": "hilsa-ganges",
@@ -392,12 +830,29 @@
     "specCode": 1596,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 18.0, "lng": 88.0, "label": "Bay of Bengal (marine phase)"},
-      {"lat": 21.5, "lng": 89.5, "label": "Meghna River estuary"},
-      {"lat": 23.5, "lng": 89.0, "label": "Padma River"},
-      {"lat": 25.0, "lng": 85.0, "label": "Upper Ganges (spawning)"}
+      {
+        "lat": 18.0,
+        "lng": 88.0,
+        "label": "Bay of Bengal (marine phase)"
+      },
+      {
+        "lat": 21.5,
+        "lng": 89.5,
+        "label": "Meghna River estuary"
+      },
+      {
+        "lat": 23.5,
+        "lng": 89.0,
+        "label": "Padma River"
+      },
+      {
+        "lat": 25.0,
+        "lng": 85.0,
+        "label": "Upper Ganges (spawning)"
+      }
     ],
-    "description": "Hilsa — Bangladesh's national fish — migrates from the Bay of Bengal up the Ganges-Brahmaputra system. It supports the livelihoods of 2 million fishers."
+    "description": "Hilsa — Bangladesh's national fish — migrates from the Bay of Bengal up the Ganges-Brahmaputra system. It supports the livelihoods of 2 million fishers.",
+    "nameZh": "鲥鱼"
   },
   {
     "id": "tarpon-gulf",
@@ -406,12 +861,29 @@
     "specCode": 1079,
     "type": "amphidromous",
     "waypoints": [
-      {"lat": 26.0, "lng": -82.0, "label": "Florida (Boca Grande Pass)"},
-      {"lat": 22.0, "lng": -85.0, "label": "Western Cuba"},
-      {"lat": 18.0, "lng": -88.0, "label": "Belize / Yucatan"},
-      {"lat": 10.0, "lng": -62.0, "label": "Trinidad / Venezuela"}
+      {
+        "lat": 26.0,
+        "lng": -82.0,
+        "label": "Florida (Boca Grande Pass)"
+      },
+      {
+        "lat": 22.0,
+        "lng": -85.0,
+        "label": "Western Cuba"
+      },
+      {
+        "lat": 18.0,
+        "lng": -88.0,
+        "label": "Belize / Yucatan"
+      },
+      {
+        "lat": 10.0,
+        "lng": -62.0,
+        "label": "Trinidad / Venezuela"
+      }
     ],
-    "description": "The 'Silver King' — tarpon grow to 2.5m and are the most prized tropical game fish. Boca Grande Pass, Florida sees massive spawning aggregations each summer."
+    "description": "The 'Silver King' — tarpon grow to 2.5m and are the most prized tropical game fish. Boca Grande Pass, Florida sees massive spawning aggregations each summer.",
+    "nameZh": "大西洋大海鲢"
   },
   {
     "id": "sturgeon-beluga",
@@ -420,12 +892,29 @@
     "specCode": 2067,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 40.0, "lng": 52.0, "label": "Southern Caspian Sea"},
-      {"lat": 44.0, "lng": 48.0, "label": "Northern Caspian"},
-      {"lat": 46.5, "lng": 48.5, "label": "Volga River delta"},
-      {"lat": 49.0, "lng": 46.0, "label": "Upper Volga (historical spawning)"}
+      {
+        "lat": 40.0,
+        "lng": 52.0,
+        "label": "Southern Caspian Sea"
+      },
+      {
+        "lat": 44.0,
+        "lng": 48.0,
+        "label": "Northern Caspian"
+      },
+      {
+        "lat": 46.5,
+        "lng": 48.5,
+        "label": "Volga River delta"
+      },
+      {
+        "lat": 49.0,
+        "lng": 46.0,
+        "label": "Upper Volga (historical spawning)"
+      }
     ],
-    "description": "The world's largest freshwater fish (1,500 kg) once migrated 2,000 km up the Volga. Dams have blocked 90% of spawning habitat. Source of beluga caviar — the most expensive food on Earth."
+    "description": "The world's largest freshwater fish (1,500 kg) once migrated 2,000 km up the Volga. Dams have blocked 90% of spawning habitat. Source of beluga caviar — the most expensive food on Earth.",
+    "nameZh": "欧洲鳇"
   },
   {
     "id": "sturgeon-atlantic",
@@ -434,12 +923,29 @@
     "specCode": 2595,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 36.0, "lng": -75.0, "label": "Atlantic coastal waters"},
-      {"lat": 37.5, "lng": -77.0, "label": "James River, Virginia"},
-      {"lat": 40.0, "lng": -74.0, "label": "Hudson River, New York"},
-      {"lat": 43.0, "lng": -70.0, "label": "Kennebec River, Maine"}
+      {
+        "lat": 36.0,
+        "lng": -75.0,
+        "label": "Atlantic coastal waters"
+      },
+      {
+        "lat": 37.5,
+        "lng": -77.0,
+        "label": "James River, Virginia"
+      },
+      {
+        "lat": 40.0,
+        "lng": -74.0,
+        "label": "Hudson River, New York"
+      },
+      {
+        "lat": 43.0,
+        "lng": -70.0,
+        "label": "Kennebec River, Maine"
+      }
     ],
-    "description": "Atlantic sturgeon can reach 4.5m and live 60+ years. Once the basis of a huge caviar industry, they are now critically endangered. They migrate between rivers and coastal ocean."
+    "description": "Atlantic sturgeon can reach 4.5m and live 60+ years. Once the basis of a huge caviar industry, they are now critically endangered. They migrate between rivers and coastal ocean.",
+    "nameZh": "大西洋鲟"
   },
   {
     "id": "sturgeon-chinese",
@@ -448,12 +954,29 @@
     "specCode": 8736,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 30.0, "lng": 123.0, "label": "East China Sea"},
-      {"lat": 31.2, "lng": 121.5, "label": "Yangtze estuary (Shanghai)"},
-      {"lat": 30.5, "lng": 114.0, "label": "Wuhan"},
-      {"lat": 30.8, "lng": 111.0, "label": "Gezhouba Dam (current limit)"}
+      {
+        "lat": 30.0,
+        "lng": 123.0,
+        "label": "East China Sea"
+      },
+      {
+        "lat": 31.2,
+        "lng": 121.5,
+        "label": "Yangtze estuary (Shanghai)"
+      },
+      {
+        "lat": 30.5,
+        "lng": 114.0,
+        "label": "Wuhan"
+      },
+      {
+        "lat": 30.8,
+        "lng": 111.0,
+        "label": "Gezhouba Dam (current limit)"
+      }
     ],
-    "description": "The Chinese sturgeon once migrated 3,000 km up the Yangtze. The Gezhouba Dam (1981) blocked access to historical spawning grounds. Functionally extinct in the wild."
+    "description": "The Chinese sturgeon once migrated 3,000 km up the Yangtze. The Gezhouba Dam (1981) blocked access to historical spawning grounds. Functionally extinct in the wild.",
+    "nameZh": "中华鲟"
   },
   {
     "id": "mekong-catfish",
@@ -462,12 +985,29 @@
     "specCode": 14472,
     "type": "potamodromous",
     "waypoints": [
-      {"lat": 11.5, "lng": 105.0, "label": "Tonle Sap / Mekong Delta"},
-      {"lat": 15.0, "lng": 105.5, "label": "Central Mekong"},
-      {"lat": 18.0, "lng": 103.0, "label": "Laos / Thailand border"},
-      {"lat": 20.5, "lng": 100.0, "label": "Golden Triangle (spawning)"}
+      {
+        "lat": 11.5,
+        "lng": 105.0,
+        "label": "Tonle Sap / Mekong Delta"
+      },
+      {
+        "lat": 15.0,
+        "lng": 105.5,
+        "label": "Central Mekong"
+      },
+      {
+        "lat": 18.0,
+        "lng": 103.0,
+        "label": "Laos / Thailand border"
+      },
+      {
+        "lat": 20.5,
+        "lng": 100.0,
+        "label": "Golden Triangle (spawning)"
+      }
     ],
-    "description": "The world's largest freshwater catfish (300 kg) migrates up the Mekong to spawn. Critically endangered — fewer than 100 adults remain. Threatened by mainstream dams."
+    "description": "The world's largest freshwater catfish (300 kg) migrates up the Mekong to spawn. Critically endangered — fewer than 100 adults remain. Threatened by mainstream dams.",
+    "nameZh": "湄公河巨鲶"
   },
   {
     "id": "mahseer-himalayan",
@@ -476,11 +1016,24 @@
     "specCode": 9194,
     "type": "potamodromous",
     "waypoints": [
-      {"lat": 28.0, "lng": 84.0, "label": "Terai lowland rivers (winter)"},
-      {"lat": 29.5, "lng": 83.5, "label": "Mid-hill rivers"},
-      {"lat": 30.5, "lng": 79.5, "label": "Upper Ganges tributaries (spawning)"}
+      {
+        "lat": 28.0,
+        "lng": 84.0,
+        "label": "Terai lowland rivers (winter)"
+      },
+      {
+        "lat": 29.5,
+        "lng": 83.5,
+        "label": "Mid-hill rivers"
+      },
+      {
+        "lat": 30.5,
+        "lng": 79.5,
+        "label": "Upper Ganges tributaries (spawning)"
+      }
     ],
-    "description": "The 'Tiger of the River' — golden mahseer migrate upstream in Himalayan rivers to spawn in cool, fast-flowing headwaters during the monsoon season."
+    "description": "The 'Tiger of the River' — golden mahseer migrate upstream in Himalayan rivers to spawn in cool, fast-flowing headwaters during the monsoon season.",
+    "nameZh": "金马哈鱼"
   },
   {
     "id": "arapaima",
@@ -489,9 +1042,21 @@
     "specCode": 2076,
     "type": "potamodromous",
     "waypoints": [
-      {"lat": -3.0, "lng": -60.0, "label": "Amazon floodplain lakes (dry season)"},
-      {"lat": -2.0, "lng": -55.0, "label": "Flooded forest / várzea (wet season)"},
-      {"lat": -1.0, "lng": -52.0, "label": "Lower Amazon tributaries"}
+      {
+        "lat": -3.0,
+        "lng": -60.0,
+        "label": "Amazon floodplain lakes (dry season)"
+      },
+      {
+        "lat": -2.0,
+        "lng": -55.0,
+        "label": "Flooded forest / várzea (wet season)"
+      },
+      {
+        "lat": -1.0,
+        "lng": -52.0,
+        "label": "Lower Amazon tributaries"
+      }
     ],
     "description": "The world's largest scaled freshwater fish (3m, 200 kg). Arapaima migrate between deep river channels and flooded forest with the seasonal Amazon floods. They breathe air."
   },
@@ -502,10 +1067,26 @@
     "specCode": 862,
     "type": "amphidromous",
     "waypoints": [
-      {"lat": 25.0, "lng": -85.0, "label": "Gulf of Mexico"},
-      {"lat": 29.0, "lng": -89.5, "label": "Mississippi River mouth"},
-      {"lat": 32.0, "lng": -91.0, "label": "Vicksburg, Mississippi"},
-      {"lat": 36.5, "lng": -89.5, "label": "Illinois (recorded 1,100 km upriver)"}
+      {
+        "lat": 25.0,
+        "lng": -85.0,
+        "label": "Gulf of Mexico"
+      },
+      {
+        "lat": 29.0,
+        "lng": -89.5,
+        "label": "Mississippi River mouth"
+      },
+      {
+        "lat": 32.0,
+        "lng": -91.0,
+        "label": "Vicksburg, Mississippi"
+      },
+      {
+        "lat": 36.5,
+        "lng": -89.5,
+        "label": "Illinois (recorded 1,100 km upriver)"
+      }
     ],
     "description": "Bull sharks can tolerate fresh water and have been found 1,100 km up the Mississippi River, and in Lake Nicaragua. The only shark that regularly enters rivers."
   },
@@ -516,11 +1097,24 @@
     "specCode": 348,
     "type": "catadromous",
     "waypoints": [
-      {"lat": -13.0, "lng": 131.0, "label": "Freshwater billabongs (adults)"},
-      {"lat": -12.5, "lng": 131.5, "label": "Estuaries (maturation)"},
-      {"lat": -12.0, "lng": 132.0, "label": "Coastal spawning (salt water)"}
+      {
+        "lat": -13.0,
+        "lng": 131.0,
+        "label": "Freshwater billabongs (adults)"
+      },
+      {
+        "lat": -12.5,
+        "lng": 131.5,
+        "label": "Estuaries (maturation)"
+      },
+      {
+        "lat": -12.0,
+        "lng": 132.0,
+        "label": "Coastal spawning (salt water)"
+      }
     ],
-    "description": "Barramundi are catadromous and sequential hermaphrodites — they start as males in fresh water and change to females when they reach the sea. Australia's most iconic game fish."
+    "description": "Barramundi are catadromous and sequential hermaphrodites — they start as males in fresh water and change to females when they reach the sea. Australia's most iconic game fish.",
+    "nameZh": "尖吻鲈"
   },
   {
     "id": "capelin-iceland",
@@ -529,12 +1123,29 @@
     "specCode": 237,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 72.0, "lng": 20.0, "label": "Barents Sea (feeding)"},
-      {"lat": 68.0, "lng": 35.0, "label": "Murman coast"},
-      {"lat": 70.0, "lng": 30.0, "label": "Northern Norway (spawning)"},
-      {"lat": 66.0, "lng": -20.0, "label": "Iceland beaches (spawning)"}
+      {
+        "lat": 72.0,
+        "lng": 20.0,
+        "label": "Barents Sea (feeding)"
+      },
+      {
+        "lat": 68.0,
+        "lng": 35.0,
+        "label": "Murman coast"
+      },
+      {
+        "lat": 70.0,
+        "lng": 30.0,
+        "label": "Northern Norway (spawning)"
+      },
+      {
+        "lat": 66.0,
+        "lng": -20.0,
+        "label": "Iceland beaches (spawning)"
+      }
     ],
-    "description": "Capelin are a keystone Arctic forage fish. They spawn on beaches — rolling ashore in masses. They are the primary prey of Atlantic cod, whales, and seabirds."
+    "description": "Capelin are a keystone Arctic forage fish. They spawn on beaches — rolling ashore in masses. They are the primary prey of Atlantic cod, whales, and seabirds.",
+    "nameZh": "毛鳞鱼"
   },
   {
     "id": "arctic-char",
@@ -543,11 +1154,24 @@
     "specCode": 246,
     "type": "anadromous",
     "waypoints": [
-      {"lat": 72.0, "lng": -80.0, "label": "Arctic Ocean coast (feeding)"},
-      {"lat": 69.0, "lng": -78.0, "label": "Baffin Island rivers"},
-      {"lat": 66.0, "lng": -70.0, "label": "Northern Quebec lakes (overwintering)"}
+      {
+        "lat": 72.0,
+        "lng": -80.0,
+        "label": "Arctic Ocean coast (feeding)"
+      },
+      {
+        "lat": 69.0,
+        "lng": -78.0,
+        "label": "Baffin Island rivers"
+      },
+      {
+        "lat": 66.0,
+        "lng": -70.0,
+        "label": "Northern Quebec lakes (overwintering)"
+      }
     ],
-    "description": "The world's northernmost freshwater fish. Arctic char migrate between sea and freshwater lakes, spending winters under ice. They come in spectacular color morphs."
+    "description": "The world's northernmost freshwater fish. Arctic char migrate between sea and freshwater lakes, spending winters under ice. They come in spectacular color morphs.",
+    "nameZh": "北极红点鲑"
   },
   {
     "id": "dorado-parana",
@@ -556,12 +1180,29 @@
     "specCode": 12288,
     "type": "potamodromous",
     "waypoints": [
-      {"lat": -34.0, "lng": -58.5, "label": "Río de la Plata estuary"},
-      {"lat": -30.0, "lng": -59.0, "label": "Middle Paraná"},
-      {"lat": -27.0, "lng": -55.0, "label": "Upper Paraná (spawning)"},
-      {"lat": -25.5, "lng": -54.5, "label": "Iguazú Falls (barrier)"}
+      {
+        "lat": -34.0,
+        "lng": -58.5,
+        "label": "Río de la Plata estuary"
+      },
+      {
+        "lat": -30.0,
+        "lng": -59.0,
+        "label": "Middle Paraná"
+      },
+      {
+        "lat": -27.0,
+        "lng": -55.0,
+        "label": "Upper Paraná (spawning)"
+      },
+      {
+        "lat": -25.5,
+        "lng": -54.5,
+        "label": "Iguazú Falls (barrier)"
+      }
     ],
-    "description": "South America's most prized freshwater game fish migrates up the Paraná system to spawn. Called 'the river tiger' for its golden color and aggressive strikes."
+    "description": "South America's most prized freshwater game fish migrates up the Paraná system to spawn. Called 'the river tiger' for its golden color and aggressive strikes.",
+    "nameZh": "巴西金鲑"
   },
   {
     "id": "milkfish-indo-pacific",
@@ -570,11 +1211,24 @@
     "specCode": 80,
     "type": "amphidromous",
     "waypoints": [
-      {"lat": 10.0, "lng": 122.0, "label": "Philippine coastal lagoons (aquaculture)"},
-      {"lat": 5.0, "lng": 125.0, "label": "Celebes Sea"},
-      {"lat": 0.0, "lng": 120.0, "label": "Coral reef spawning grounds"}
+      {
+        "lat": 10.0,
+        "lng": 122.0,
+        "label": "Philippine coastal lagoons (aquaculture)"
+      },
+      {
+        "lat": 5.0,
+        "lng": 125.0,
+        "label": "Celebes Sea"
+      },
+      {
+        "lat": 0.0,
+        "lng": 120.0,
+        "label": "Coral reef spawning grounds"
+      }
     ],
-    "description": "Milkfish — 'bangus' in the Philippines — migrate between coastal lagoons and offshore reefs to spawn. The most important aquaculture fish in Southeast Asia."
+    "description": "Milkfish — 'bangus' in the Philippines — migrate between coastal lagoons and offshore reefs to spawn. The most important aquaculture fish in Southeast Asia.",
+    "nameZh": "虱目鱼"
   },
   {
     "id": "taimen-siberia",
@@ -583,11 +1237,24 @@
     "specCode": 4521,
     "type": "potamodromous",
     "waypoints": [
-      {"lat": 49.0, "lng": 100.0, "label": "Tuul River (winter pools)"},
-      {"lat": 50.5, "lng": 99.0, "label": "Selenge River system"},
-      {"lat": 51.5, "lng": 101.0, "label": "Headwater tributaries (spawning)"}
+      {
+        "lat": 49.0,
+        "lng": 100.0,
+        "label": "Tuul River (winter pools)"
+      },
+      {
+        "lat": 50.5,
+        "lng": 99.0,
+        "label": "Selenge River system"
+      },
+      {
+        "lat": 51.5,
+        "lng": 101.0,
+        "label": "Headwater tributaries (spawning)"
+      }
     ],
-    "description": "The world's largest salmonid (2m, 100 kg). Taimen migrate within Siberian and Mongolian rivers to spawn in cold headwater streams. Called the 'river wolf'."
+    "description": "The world's largest salmonid (2m, 100 kg). Taimen migrate within Siberian and Mongolian rivers to spawn in cold headwater streams. Called the 'river wolf'.",
+    "nameZh": "哲罗鲑"
   },
   {
     "id": "paddlefish-mississippi",
@@ -596,11 +1263,24 @@
     "specCode": 2670,
     "type": "potamodromous",
     "waypoints": [
-      {"lat": 35.0, "lng": -90.0, "label": "Mississippi River reservoirs (feeding)"},
-      {"lat": 37.0, "lng": -89.0, "label": "Ohio River confluence"},
-      {"lat": 38.5, "lng": -91.0, "label": "Missouri River gravel bars (spawning)"}
+      {
+        "lat": 35.0,
+        "lng": -90.0,
+        "label": "Mississippi River reservoirs (feeding)"
+      },
+      {
+        "lat": 37.0,
+        "lng": -89.0,
+        "label": "Ohio River confluence"
+      },
+      {
+        "lat": 38.5,
+        "lng": -91.0,
+        "label": "Missouri River gravel bars (spawning)"
+      }
     ],
-    "description": "A living fossil — paddlefish have existed for 125 million years. They filter-feed on plankton using their paddle-shaped rostrum and need free-flowing rivers to spawn."
+    "description": "A living fossil — paddlefish have existed for 125 million years. They filter-feed on plankton using their paddle-shaped rostrum and need free-flowing rivers to spawn.",
+    "nameZh": "匙吻鲟"
   },
   {
     "id": "coelacanth",
@@ -609,9 +1289,21 @@
     "specCode": 2060,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -12.2, "lng": 44.3, "label": "Grande Comore (main population)"},
-      {"lat": -11.5, "lng": 43.3, "label": "Mohéli deep caves"},
-      {"lat": -32.5, "lng": 29.5, "label": "Sodwana Bay, South Africa (second population)"}
+      {
+        "lat": -12.2,
+        "lng": 44.3,
+        "label": "Grande Comore (main population)"
+      },
+      {
+        "lat": -11.5,
+        "lng": 43.3,
+        "label": "Mohéli deep caves"
+      },
+      {
+        "lat": -32.5,
+        "lng": 29.5,
+        "label": "Sodwana Bay, South Africa (second population)"
+      }
     ],
     "description": "A 'living fossil' — coelacanths were thought extinct for 65 million years until one was caught in 1938. They live in deep volcanic caves at 150-700m depth. Fewer than 500 remain."
   },
@@ -622,9 +1314,21 @@
     "specCode": 4592,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 0.0, "lng": 130.0, "label": "Raja Ampat home reefs"},
-      {"lat": -5.0, "lng": 120.0, "label": "Banda Sea spawning aggregations"},
-      {"lat": 5.0, "lng": 118.0, "label": "Sulu Sea"}
+      {
+        "lat": 0.0,
+        "lng": 130.0,
+        "label": "Raja Ampat home reefs"
+      },
+      {
+        "lat": -5.0,
+        "lng": 120.0,
+        "label": "Banda Sea spawning aggregations"
+      },
+      {
+        "lat": 5.0,
+        "lng": 118.0,
+        "label": "Sulu Sea"
+      }
     ],
     "description": "The largest reef fish (2.3m, 190 kg). Napoleon wrasse form spawning aggregations at reef promontories during full moons. Critically endangered due to live reef fish trade."
   },
@@ -635,10 +1339,26 @@
     "specCode": 1732,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 35.0, "lng": -5.0, "label": "Strait of Gibraltar"},
-      {"lat": 42.0, "lng": -10.0, "label": "Portuguese coast"},
-      {"lat": 50.0, "lng": -5.0, "label": "Celtic Sea / English Channel"},
-      {"lat": 58.0, "lng": 0.0, "label": "North Sea (summer)"}
+      {
+        "lat": 35.0,
+        "lng": -5.0,
+        "label": "Strait of Gibraltar"
+      },
+      {
+        "lat": 42.0,
+        "lng": -10.0,
+        "label": "Portuguese coast"
+      },
+      {
+        "lat": 50.0,
+        "lng": -5.0,
+        "label": "Celtic Sea / English Channel"
+      },
+      {
+        "lat": 58.0,
+        "lng": 0.0,
+        "label": "North Sea (summer)"
+      }
     ],
     "description": "The world's heaviest bony fish (2,300 kg) migrates with ocean fronts and jellyfish blooms. They bask at the surface to warm up after deep dives to 600m."
   },
@@ -649,12 +1369,29 @@
     "specCode": 6,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 18.0, "lng": -68.0, "label": "Caribbean spawning grounds"},
-      {"lat": 25.0, "lng": -78.0, "label": "Bahamas / Florida Straits"},
-      {"lat": 32.0, "lng": -75.0, "label": "Gulf Stream (northward migration)"},
-      {"lat": 38.0, "lng": -72.0, "label": "Mid-Atlantic Bight (summer feeding)"}
+      {
+        "lat": 18.0,
+        "lng": -68.0,
+        "label": "Caribbean spawning grounds"
+      },
+      {
+        "lat": 25.0,
+        "lng": -78.0,
+        "label": "Bahamas / Florida Straits"
+      },
+      {
+        "lat": 32.0,
+        "lng": -75.0,
+        "label": "Gulf Stream (northward migration)"
+      },
+      {
+        "lat": 38.0,
+        "lng": -72.0,
+        "label": "Mid-Atlantic Bight (summer feeding)"
+      }
     ],
-    "description": "Mahi-mahi ('strong-strong' in Hawaiian) ride the Gulf Stream north each summer, following sargassum weed lines and flying fish. The fastest-growing large pelagic fish — reaching 1m in one year."
+    "description": "Mahi-mahi ('strong-strong' in Hawaiian) ride the Gulf Stream north each summer, following sargassum weed lines and flying fish. The fastest-growing large pelagic fish — reaching 1m in one year.",
+    "nameZh": "鬼头刀（鲯鳅）"
   },
   {
     "id": "blue-marlin-atlantic",
@@ -663,13 +1400,34 @@
     "specCode": 216,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": 18.0, "lng": -65.0, "label": "Caribbean (winter spawning)"},
-      {"lat": 30.0, "lng": -50.0, "label": "Central Atlantic"},
-      {"lat": 15.0, "lng": -25.0, "label": "Cape Verde Islands"},
-      {"lat": 5.0, "lng": 0.0, "label": "Gulf of Guinea"},
-      {"lat": 25.0, "lng": -70.0, "label": "Bahamas return"}
+      {
+        "lat": 18.0,
+        "lng": -65.0,
+        "label": "Caribbean (winter spawning)"
+      },
+      {
+        "lat": 30.0,
+        "lng": -50.0,
+        "label": "Central Atlantic"
+      },
+      {
+        "lat": 15.0,
+        "lng": -25.0,
+        "label": "Cape Verde Islands"
+      },
+      {
+        "lat": 5.0,
+        "lng": 0.0,
+        "label": "Gulf of Guinea"
+      },
+      {
+        "lat": 25.0,
+        "lng": -70.0,
+        "label": "Bahamas return"
+      }
     ],
-    "description": "Blue marlin — the largest billfish at 4.5m and 900 kg — cross the entire Atlantic. Satellite tags show individual fish traveling 15,000 km in a single year, following warm currents and prey."
+    "description": "Blue marlin — the largest billfish at 4.5m and 900 kg — cross the entire Atlantic. Satellite tags show individual fish traveling 15,000 km in a single year, following warm currents and prey.",
+    "nameZh": "蓝枪鱼"
   },
   {
     "id": "bonefish-caribbean",
@@ -678,12 +1436,29 @@
     "specCode": 228,
     "type": "amphidromous",
     "waypoints": [
-      {"lat": 25.0, "lng": -78.0, "label": "Bahamas flats (feeding)"},
-      {"lat": 24.5, "lng": -77.5, "label": "Tongue of the Ocean (deep spawning)"},
-      {"lat": 26.5, "lng": -79.0, "label": "Biscayne Bay, Florida"},
-      {"lat": 18.5, "lng": -88.0, "label": "Belize flats"}
+      {
+        "lat": 25.0,
+        "lng": -78.0,
+        "label": "Bahamas flats (feeding)"
+      },
+      {
+        "lat": 24.5,
+        "lng": -77.5,
+        "label": "Tongue of the Ocean (deep spawning)"
+      },
+      {
+        "lat": 26.5,
+        "lng": -79.0,
+        "label": "Biscayne Bay, Florida"
+      },
+      {
+        "lat": 18.5,
+        "lng": -88.0,
+        "label": "Belize flats"
+      }
     ],
-    "description": "The 'grey ghost' — bonefish feed on shallow flats by day and migrate to deep oceanic channels at night to spawn. The most prized saltwater fly-fishing species. Their spawning was only filmed for the first time in 2018."
+    "description": "The 'grey ghost' — bonefish feed on shallow flats by day and migrate to deep oceanic channels at night to spawn. The most prized saltwater fly-fishing species. Their spawning was only filmed for the first time in 2018.",
+    "nameZh": "北梭鱼"
   },
   {
     "id": "patagonian-toothfish",
@@ -692,12 +1467,29 @@
     "specCode": 467,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -45.0, "lng": -65.0, "label": "Patagonian shelf (juveniles)"},
-      {"lat": -50.0, "lng": -55.0, "label": "Falkland Islands"},
-      {"lat": -54.0, "lng": -40.0, "label": "South Georgia (adults)"},
-      {"lat": -55.0, "lng": 70.0, "label": "Kerguelen Plateau"}
+      {
+        "lat": -45.0,
+        "lng": -65.0,
+        "label": "Patagonian shelf (juveniles)"
+      },
+      {
+        "lat": -50.0,
+        "lng": -55.0,
+        "label": "Falkland Islands"
+      },
+      {
+        "lat": -54.0,
+        "lng": -40.0,
+        "label": "South Georgia (adults)"
+      },
+      {
+        "lat": -55.0,
+        "lng": 70.0,
+        "label": "Kerguelen Plateau"
+      }
     ],
-    "description": "Marketed as 'Chilean sea bass'. Adults live at 1,000-2,000m depth in near-freezing water. Juveniles drift eastward on the Antarctic Circumpolar Current from South America to sub-Antarctic islands. Can live 50+ years."
+    "description": "Marketed as 'Chilean sea bass'. Adults live at 1,000-2,000m depth in near-freezing water. Juveniles drift eastward on the Antarctic Circumpolar Current from South America to sub-Antarctic islands. Can live 50+ years.",
+    "nameZh": "小鳞犬牙南极鱼"
   },
   {
     "id": "antarctic-toothfish",
@@ -706,10 +1498,26 @@
     "specCode": 7039,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -72.0, "lng": 175.0, "label": "Ross Sea continental shelf"},
-      {"lat": -68.0, "lng": 170.0, "label": "Ross Sea slope (spawning)"},
-      {"lat": -65.0, "lng": -180.0, "label": "Pacific Antarctic Ridge"},
-      {"lat": -60.0, "lng": 160.0, "label": "Sub-Antarctic dispersal"}
+      {
+        "lat": -72.0,
+        "lng": 175.0,
+        "label": "Ross Sea continental shelf"
+      },
+      {
+        "lat": -68.0,
+        "lng": 170.0,
+        "label": "Ross Sea slope (spawning)"
+      },
+      {
+        "lat": -65.0,
+        "lng": -180.0,
+        "label": "Pacific Antarctic Ridge"
+      },
+      {
+        "lat": -60.0,
+        "lng": 160.0,
+        "label": "Sub-Antarctic dispersal"
+      }
     ],
     "description": "The top fish predator of the Antarctic. Grows to 2m and produces antifreeze glycoproteins to survive -2°C water. Migrates vertically — juveniles in shallow water, adults down to 2,200m."
   },
@@ -720,11 +1528,24 @@
     "specCode": 474,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -54.0, "lng": -36.0, "label": "South Georgia shelf"},
-      {"lat": -53.0, "lng": -40.0, "label": "Shag Rocks"},
-      {"lat": -55.0, "lng": -35.0, "label": "Deep shelf spawning grounds"}
+      {
+        "lat": -54.0,
+        "lng": -36.0,
+        "label": "South Georgia shelf"
+      },
+      {
+        "lat": -53.0,
+        "lng": -40.0,
+        "label": "Shag Rocks"
+      },
+      {
+        "lat": -55.0,
+        "lng": -35.0,
+        "label": "Deep shelf spawning grounds"
+      }
     ],
-    "description": "Icefish have transparent blood — no hemoglobin. They absorb oxygen directly through their skin. The only vertebrates without red blood cells. Migrate between shelf feeding grounds and deeper spawning areas."
+    "description": "Icefish have transparent blood — no hemoglobin. They absorb oxygen directly through their skin. The only vertebrates without red blood cells. Migrate between shelf feeding grounds and deeper spawning areas.",
+    "nameZh": "南极银鱼"
   },
   {
     "id": "marbled-rockcod",
@@ -733,11 +1554,24 @@
     "specCode": 468,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -54.0, "lng": -37.0, "label": "South Georgia (main population)"},
-      {"lat": -49.0, "lng": 70.0, "label": "Kerguelen Islands"},
-      {"lat": -53.0, "lng": 73.0, "label": "Heard Island"}
+      {
+        "lat": -54.0,
+        "lng": -37.0,
+        "label": "South Georgia (main population)"
+      },
+      {
+        "lat": -49.0,
+        "lng": 70.0,
+        "label": "Kerguelen Islands"
+      },
+      {
+        "lat": -53.0,
+        "lng": 73.0,
+        "label": "Heard Island"
+      }
     ],
-    "description": "Once the most abundant fish at South Georgia — Soviet fleets took 500,000 tonnes in 1969-70, collapsing the population in two seasons. Still recovering 50 years later. Migrates between shallow kelp forests and deeper spawning areas."
+    "description": "Once the most abundant fish at South Georgia — Soviet fleets took 500,000 tonnes in 1969-70, collapsing the population in two seasons. Still recovering 50 years later. Migrates between shallow kelp forests and deeper spawning areas.",
+    "nameZh": "罗斯海南极鱼"
   },
   {
     "id": "porbeagle-southern",
@@ -746,12 +1580,29 @@
     "specCode": 88,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -42.0, "lng": 170.0, "label": "New Zealand shelf"},
-      {"lat": -48.0, "lng": -175.0, "label": "South Pacific"},
-      {"lat": -50.0, "lng": -75.0, "label": "Chilean coast"},
-      {"lat": -45.0, "lng": -60.0, "label": "Patagonian shelf"}
+      {
+        "lat": -42.0,
+        "lng": 170.0,
+        "label": "New Zealand shelf"
+      },
+      {
+        "lat": -48.0,
+        "lng": -175.0,
+        "label": "South Pacific"
+      },
+      {
+        "lat": -50.0,
+        "lng": -75.0,
+        "label": "Chilean coast"
+      },
+      {
+        "lat": -45.0,
+        "lng": -60.0,
+        "label": "Patagonian shelf"
+      }
     ],
-    "description": "Porbeagles are warm-blooded sharks that thrive in cold water. The southern population circles the Southern Ocean, tracking squid and fish prey along the sub-Antarctic front."
+    "description": "Porbeagles are warm-blooded sharks that thrive in cold water. The southern population circles the Southern Ocean, tracking squid and fish prey along the sub-Antarctic front.",
+    "nameZh": "鼠鲨"
   },
   {
     "id": "spiny-dogfish-southern",
@@ -760,12 +1611,29 @@
     "specCode": 139,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -35.0, "lng": 175.0, "label": "New Zealand east coast"},
-      {"lat": -42.0, "lng": 170.0, "label": "Cook Strait"},
-      {"lat": -45.0, "lng": 168.0, "label": "Fiordland"},
-      {"lat": -40.0, "lng": 148.0, "label": "Tasmania"}
+      {
+        "lat": -35.0,
+        "lng": 175.0,
+        "label": "New Zealand east coast"
+      },
+      {
+        "lat": -42.0,
+        "lng": 170.0,
+        "label": "Cook Strait"
+      },
+      {
+        "lat": -45.0,
+        "lng": 168.0,
+        "label": "Fiordland"
+      },
+      {
+        "lat": -40.0,
+        "lng": 148.0,
+        "label": "Tasmania"
+      }
     ],
-    "description": "The most abundant shark species worldwide. Southern populations migrate between New Zealand and Tasmania. They can live 100+ years — the longest-lived shark species."
+    "description": "The most abundant shark species worldwide. Southern populations migrate between New Zealand and Tasmania. They can live 100+ years — the longest-lived shark species.",
+    "nameZh": "白斑角鲨"
   },
   {
     "id": "tope-shark",
@@ -774,11 +1642,24 @@
     "specCode": 4642,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -35.0, "lng": 175.0, "label": "New Zealand coast"},
-      {"lat": -40.0, "lng": 150.0, "label": "Bass Strait, Australia"},
-      {"lat": -35.0, "lng": 138.0, "label": "South Australia (pupping)"}
+      {
+        "lat": -35.0,
+        "lng": 175.0,
+        "label": "New Zealand coast"
+      },
+      {
+        "lat": -40.0,
+        "lng": 150.0,
+        "label": "Bass Strait, Australia"
+      },
+      {
+        "lat": -35.0,
+        "lng": 138.0,
+        "label": "South Australia (pupping)"
+      }
     ],
-    "description": "Tope sharks make trans-Tasman crossings between New Zealand and Australia. Females migrate to specific pupping grounds — satellite tags show they return to the same bays each year."
+    "description": "Tope sharks make trans-Tasman crossings between New Zealand and Australia. Females migrate to specific pupping grounds — satellite tags show they return to the same bays each year.",
+    "nameZh": "灰星鲨"
   },
   {
     "id": "nz-longfin-eel",
@@ -787,11 +1668,24 @@
     "specCode": 11878,
     "type": "catadromous",
     "waypoints": [
-      {"lat": -43.0, "lng": 172.0, "label": "South Island rivers"},
-      {"lat": -38.0, "lng": 176.0, "label": "North Island rivers"},
-      {"lat": -25.0, "lng": 175.0, "label": "Tropical South Pacific (spawning)"}
+      {
+        "lat": -43.0,
+        "lng": 172.0,
+        "label": "South Island rivers"
+      },
+      {
+        "lat": -38.0,
+        "lng": 176.0,
+        "label": "North Island rivers"
+      },
+      {
+        "lat": -25.0,
+        "lng": 175.0,
+        "label": "Tropical South Pacific (spawning)"
+      }
     ],
-    "description": "Endemic to New Zealand. Longfin eels can live 100+ years in rivers before making a one-way spawning migration to the deep tropical Pacific. The oldest recorded was 106 years old. They never return."
+    "description": "Endemic to New Zealand. Longfin eels can live 100+ years in rivers before making a one-way spawning migration to the deep tropical Pacific. The oldest recorded was 106 years old. They never return.",
+    "nameZh": "新西兰长鳍鳗"
   },
   {
     "id": "shortfin-eel-australasia",
@@ -800,11 +1694,24 @@
     "specCode": 297,
     "type": "catadromous",
     "waypoints": [
-      {"lat": -37.0, "lng": 145.0, "label": "Victorian rivers, Australia"},
-      {"lat": -38.0, "lng": 176.0, "label": "New Zealand rivers"},
-      {"lat": -20.0, "lng": 165.0, "label": "New Caledonia Trench (spawning)"}
+      {
+        "lat": -37.0,
+        "lng": 145.0,
+        "label": "Victorian rivers, Australia"
+      },
+      {
+        "lat": -38.0,
+        "lng": 176.0,
+        "label": "New Zealand rivers"
+      },
+      {
+        "lat": -20.0,
+        "lng": 165.0,
+        "label": "New Caledonia Trench (spawning)"
+      }
     ],
-    "description": "Australasian short-finned eels migrate from rivers in Australia and New Zealand to spawn in deep ocean trenches near New Caledonia. Glass eels then drift back on ocean currents over 1-2 years."
+    "description": "Australasian short-finned eels migrate from rivers in Australia and New Zealand to spawn in deep ocean trenches near New Caledonia. Glass eels then drift back on ocean currents over 1-2 years.",
+    "nameZh": "澳洲鳗鲡"
   },
   {
     "id": "skipjack-south-pacific",
@@ -813,12 +1720,29 @@
     "specCode": 107,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -5.0, "lng": 155.0, "label": "Solomon Islands (equatorial feeding)"},
-      {"lat": -15.0, "lng": 170.0, "label": "Fiji / Tonga"},
-      {"lat": -25.0, "lng": -170.0, "label": "Cook Islands"},
-      {"lat": -30.0, "lng": -150.0, "label": "French Polynesia (southern limit)"}
+      {
+        "lat": -5.0,
+        "lng": 155.0,
+        "label": "Solomon Islands (equatorial feeding)"
+      },
+      {
+        "lat": -15.0,
+        "lng": 170.0,
+        "label": "Fiji / Tonga"
+      },
+      {
+        "lat": -25.0,
+        "lng": -170.0,
+        "label": "Cook Islands"
+      },
+      {
+        "lat": -30.0,
+        "lng": -150.0,
+        "label": "French Polynesia (southern limit)"
+      }
     ],
-    "description": "The world's most commercially caught tuna. South Pacific skipjack follow warm currents and baitfish schools. They must swim continuously to breathe — they never stop moving."
+    "description": "The world's most commercially caught tuna. South Pacific skipjack follow warm currents and baitfish schools. They must swim continuously to breathe — they never stop moving.",
+    "nameZh": "鲣鱼"
   },
   {
     "id": "yellowtail-kingfish",
@@ -827,12 +1751,29 @@
     "specCode": 382,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -33.0, "lng": 152.0, "label": "Sydney, NSW (summer)"},
-      {"lat": -37.0, "lng": 150.0, "label": "Bass Strait"},
-      {"lat": -42.0, "lng": 148.0, "label": "Tasmania"},
-      {"lat": -35.0, "lng": 175.0, "label": "New Zealand (separate population)"}
+      {
+        "lat": -33.0,
+        "lng": 152.0,
+        "label": "Sydney, NSW (summer)"
+      },
+      {
+        "lat": -37.0,
+        "lng": 150.0,
+        "label": "Bass Strait"
+      },
+      {
+        "lat": -42.0,
+        "lng": 148.0,
+        "label": "Tasmania"
+      },
+      {
+        "lat": -35.0,
+        "lng": 175.0,
+        "label": "New Zealand (separate population)"
+      }
     ],
-    "description": "A powerful pelagic predator prized by anglers. Australian populations migrate south with warming summer waters. New Zealand and Australian populations are genetically distinct."
+    "description": "A powerful pelagic predator prized by anglers. Australian populations migrate south with warming summer waters. New Zealand and Australian populations are genetically distinct.",
+    "nameZh": "黄尾鰤"
   },
   {
     "id": "australian-salmon",
@@ -841,12 +1782,29 @@
     "specCode": 5048,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -33.0, "lng": 152.0, "label": "NSW coast (spawning)"},
-      {"lat": -38.0, "lng": 145.0, "label": "Port Phillip Bay (juveniles)"},
-      {"lat": -42.0, "lng": 148.0, "label": "Tasmania"},
-      {"lat": -35.0, "lng": 138.0, "label": "South Australia (adults return east)"}
+      {
+        "lat": -33.0,
+        "lng": 152.0,
+        "label": "NSW coast (spawning)"
+      },
+      {
+        "lat": -38.0,
+        "lng": 145.0,
+        "label": "Port Phillip Bay (juveniles)"
+      },
+      {
+        "lat": -42.0,
+        "lng": 148.0,
+        "label": "Tasmania"
+      },
+      {
+        "lat": -35.0,
+        "lng": 138.0,
+        "label": "South Australia (adults return east)"
+      }
     ],
-    "description": "Not a true salmon — unrelated to Salmonidae. Adults spawn off NSW, larvae drift west on the East Australian Current to Victoria and Tasmania, then adults migrate back east. A uniquely Australian migration loop."
+    "description": "Not a true salmon — unrelated to Salmonidae. Adults spawn off NSW, larvae drift west on the East Australian Current to Victoria and Tasmania, then adults migrate back east. A uniquely Australian migration loop.",
+    "nameZh": "澳洲鲑鱼"
   },
   {
     "id": "snoek",
@@ -855,12 +1813,29 @@
     "specCode": 489,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -34.0, "lng": 18.0, "label": "Cape Town, South Africa"},
-      {"lat": -40.0, "lng": 50.0, "label": "Southern Indian Ocean"},
-      {"lat": -42.0, "lng": 148.0, "label": "Tasmania"},
-      {"lat": -45.0, "lng": 170.0, "label": "New Zealand"}
+      {
+        "lat": -34.0,
+        "lng": 18.0,
+        "label": "Cape Town, South Africa"
+      },
+      {
+        "lat": -40.0,
+        "lng": 50.0,
+        "label": "Southern Indian Ocean"
+      },
+      {
+        "lat": -42.0,
+        "lng": 148.0,
+        "label": "Tasmania"
+      },
+      {
+        "lat": -45.0,
+        "lng": 170.0,
+        "label": "New Zealand"
+      }
     ],
-    "description": "Snoek are found right around the Southern Ocean. South African snoek migrate inshore in huge schools during winter — a cultural event in Cape Town. The same species occurs off Australia, NZ, and South America."
+    "description": "Snoek are found right around the Southern Ocean. South African snoek migrate inshore in huge schools during winter — a cultural event in Cape Town. The same species occurs off Australia, NZ, and South America.",
+    "nameZh": "蛇鲭"
   },
   {
     "id": "hoki",
@@ -869,12 +1844,29 @@
     "specCode": 1825,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -42.0, "lng": 175.0, "label": "Cook Strait Canyon (spawning)"},
-      {"lat": -45.0, "lng": 167.0, "label": "West Coast South Island"},
-      {"lat": -50.0, "lng": 165.0, "label": "Sub-Antarctic (feeding)"},
-      {"lat": -48.0, "lng": 170.0, "label": "Chatham Rise (feeding)"}
+      {
+        "lat": -42.0,
+        "lng": 175.0,
+        "label": "Cook Strait Canyon (spawning)"
+      },
+      {
+        "lat": -45.0,
+        "lng": 167.0,
+        "label": "West Coast South Island"
+      },
+      {
+        "lat": -50.0,
+        "lng": 165.0,
+        "label": "Sub-Antarctic (feeding)"
+      },
+      {
+        "lat": -48.0,
+        "lng": 170.0,
+        "label": "Chatham Rise (feeding)"
+      }
     ],
-    "description": "New Zealand's largest fishery by volume. Hoki aggregate in deep canyons (600-900m) off Cook Strait to spawn in winter, then disperse across the Chatham Rise and sub-Antarctic waters to feed."
+    "description": "New Zealand's largest fishery by volume. Hoki aggregate in deep canyons (600-900m) off Cook Strait to spawn in winter, then disperse across the Chatham Rise and sub-Antarctic waters to feed.",
+    "nameZh": "新西兰鳕鱼"
   },
   {
     "id": "orange-roughy",
@@ -883,11 +1875,24 @@
     "specCode": 334,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -42.0, "lng": 170.0, "label": "Chatham Rise seamounts (NZ)"},
-      {"lat": -44.0, "lng": 148.0, "label": "Tasmanian seamounts"},
-      {"lat": -38.0, "lng": 150.0, "label": "NSW continental slope"}
+      {
+        "lat": -42.0,
+        "lng": 170.0,
+        "label": "Chatham Rise seamounts (NZ)"
+      },
+      {
+        "lat": -44.0,
+        "lng": 148.0,
+        "label": "Tasmanian seamounts"
+      },
+      {
+        "lat": -38.0,
+        "lng": 150.0,
+        "label": "NSW continental slope"
+      }
     ],
-    "description": "Orange roughy live 150+ years and don't reproduce until age 30. They aggregate over seamounts at 800-1,500m depth. Overfished globally in the 1980s-90s because their slow reproduction couldn't keep up."
+    "description": "Orange roughy live 150+ years and don't reproduce until age 30. They aggregate over seamounts at 800-1,500m depth. Overfished globally in the 1980s-90s because their slow reproduction couldn't keep up.",
+    "nameZh": "橘棘鲷"
   },
   {
     "id": "pink-ling",
@@ -896,11 +1901,24 @@
     "specCode": 482,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -38.0, "lng": 150.0, "label": "Bass Strait"},
-      {"lat": -42.0, "lng": 148.0, "label": "Tasmania west coast"},
-      {"lat": -45.0, "lng": 168.0, "label": "New Zealand (Fiordland)"}
+      {
+        "lat": -38.0,
+        "lng": 150.0,
+        "label": "Bass Strait"
+      },
+      {
+        "lat": -42.0,
+        "lng": 148.0,
+        "label": "Tasmania west coast"
+      },
+      {
+        "lat": -45.0,
+        "lng": 168.0,
+        "label": "New Zealand (Fiordland)"
+      }
     ],
-    "description": "A deep-water species (200-800m) found across the southern Australian and New Zealand shelf. Migrates to specific spawning grounds in deep canyons. An important commercial species managed jointly by Australia and NZ."
+    "description": "A deep-water species (200-800m) found across the southern Australian and New Zealand shelf. Migrates to specific spawning grounds in deep canyons. An important commercial species managed jointly by Australia and NZ.",
+    "nameZh": "粉红鳕鱼"
   },
   {
     "id": "opah-south-pacific",
@@ -909,10 +1927,26 @@
     "specCode": 1072,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -25.0, "lng": -110.0, "label": "Eastern South Pacific"},
-      {"lat": -30.0, "lng": -160.0, "label": "Central South Pacific"},
-      {"lat": -35.0, "lng": 175.0, "label": "New Zealand waters"},
-      {"lat": -30.0, "lng": 155.0, "label": "Tasman Sea"}
+      {
+        "lat": -25.0,
+        "lng": -110.0,
+        "label": "Eastern South Pacific"
+      },
+      {
+        "lat": -30.0,
+        "lng": -160.0,
+        "label": "Central South Pacific"
+      },
+      {
+        "lat": -35.0,
+        "lng": 175.0,
+        "label": "New Zealand waters"
+      },
+      {
+        "lat": -30.0,
+        "lng": 155.0,
+        "label": "Tasman Sea"
+      }
     ],
     "description": "The only truly warm-blooded fish — opah heat their entire body 5°C above water temperature using specialized blood vessels in their gills. This lets them hunt at 200-400m depth where prey is sluggish from cold."
   },
@@ -923,12 +1957,29 @@
     "specCode": 7579,
     "type": "amphidromous",
     "waypoints": [
-      {"lat": -43.0, "lng": 170.0, "label": "West Coast rivers (spawning)"},
-      {"lat": -44.0, "lng": 168.0, "label": "Coastal estuaries"},
-      {"lat": -42.0, "lng": 172.0, "label": "Ocean (larval phase, 6 months)"},
-      {"lat": -41.0, "lng": 174.0, "label": "River mouths (return as whitebait)"}
+      {
+        "lat": -43.0,
+        "lng": 170.0,
+        "label": "West Coast rivers (spawning)"
+      },
+      {
+        "lat": -44.0,
+        "lng": 168.0,
+        "label": "Coastal estuaries"
+      },
+      {
+        "lat": -42.0,
+        "lng": 172.0,
+        "label": "Ocean (larval phase, 6 months)"
+      },
+      {
+        "lat": -41.0,
+        "lng": 174.0,
+        "label": "River mouths (return as whitebait)"
+      }
     ],
-    "description": "New Zealand's iconic whitebait fishery. Adults spawn on riverbank vegetation during high tides. Eggs hatch when flooded, larvae wash to sea, grow for 6 months, then return as transparent 'whitebait' — a national delicacy."
+    "description": "New Zealand's iconic whitebait fishery. Adults spawn on riverbank vegetation during high tides. Eggs hatch when flooded, larvae wash to sea, grow for 6 months, then return as transparent 'whitebait' — a national delicacy.",
+    "nameZh": "斑纹银汉鱼"
   },
   {
     "id": "antarctic-silverfish",
@@ -937,11 +1988,24 @@
     "specCode": 472,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -75.0, "lng": 170.0, "label": "Ross Sea under ice shelf"},
-      {"lat": -72.0, "lng": 175.0, "label": "Terra Nova Bay"},
-      {"lat": -70.0, "lng": -175.0, "label": "Ross Sea pelagic zone"}
+      {
+        "lat": -75.0,
+        "lng": 170.0,
+        "label": "Ross Sea under ice shelf"
+      },
+      {
+        "lat": -72.0,
+        "lng": 175.0,
+        "label": "Terra Nova Bay"
+      },
+      {
+        "lat": -70.0,
+        "lng": -175.0,
+        "label": "Ross Sea pelagic zone"
+      }
     ],
-    "description": "The only truly pelagic fish in Antarctic coastal waters. Silverfish are the 'krill of fish' — the critical link between plankton and penguins, seals, and whales. They spawn under sea ice at -1.9°C."
+    "description": "The only truly pelagic fish in Antarctic coastal waters. Silverfish are the 'krill of fish' — the critical link between plankton and penguins, seals, and whales. They spawn under sea ice at -1.9°C.",
+    "nameZh": "南极银鱼"
   },
   {
     "id": "lanternfish-southern",
@@ -950,12 +2014,29 @@
     "specCode": 6985,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -50.0, "lng": -60.0, "label": "Scotia Sea (day: 300-800m depth)"},
-      {"lat": -48.0, "lng": 0.0, "label": "South Atlantic"},
-      {"lat": -52.0, "lng": 60.0, "label": "Southern Indian Ocean"},
-      {"lat": -50.0, "lng": 170.0, "label": "New Zealand sub-Antarctic"}
+      {
+        "lat": -50.0,
+        "lng": -60.0,
+        "label": "Scotia Sea (day: 300-800m depth)"
+      },
+      {
+        "lat": -48.0,
+        "lng": 0.0,
+        "label": "South Atlantic"
+      },
+      {
+        "lat": -52.0,
+        "lng": 60.0,
+        "label": "Southern Indian Ocean"
+      },
+      {
+        "lat": -50.0,
+        "lng": 170.0,
+        "label": "New Zealand sub-Antarctic"
+      }
     ],
-    "description": "Lanternfish make the largest animal migration on Earth — every night, billions rise from 300-800m to the surface to feed, then descend at dawn. They are the most abundant fish in the deep ocean by biomass."
+    "description": "Lanternfish make the largest animal migration on Earth — every night, billions rise from 300-800m to the surface to feed, then descend at dawn. They are the most abundant fish in the deep ocean by biomass.",
+    "nameZh": "灯笼鱼"
   },
   {
     "id": "herring-chilean",
@@ -964,12 +2045,29 @@
     "specCode": 5097,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -35.0, "lng": -73.0, "label": "Chilean coast (spawning)"},
-      {"lat": -38.0, "lng": -90.0, "label": "Open Southeast Pacific"},
-      {"lat": -40.0, "lng": -120.0, "label": "Mid-South Pacific (feeding)"},
-      {"lat": -45.0, "lng": 175.0, "label": "New Zealand (western limit)"}
+      {
+        "lat": -35.0,
+        "lng": -73.0,
+        "label": "Chilean coast (spawning)"
+      },
+      {
+        "lat": -38.0,
+        "lng": -90.0,
+        "label": "Open Southeast Pacific"
+      },
+      {
+        "lat": -40.0,
+        "lng": -120.0,
+        "label": "Mid-South Pacific (feeding)"
+      },
+      {
+        "lat": -45.0,
+        "lng": 175.0,
+        "label": "New Zealand (western limit)"
+      }
     ],
-    "description": "Chilean jack mackerel migrate across the entire South Pacific — from Chile to New Zealand, 10,000 km. Once one of the world's largest fisheries at 5 million tonnes/year. Now heavily depleted."
+    "description": "Chilean jack mackerel migrate across the entire South Pacific — from Chile to New Zealand, 10,000 km. Once one of the world's largest fisheries at 5 million tonnes/year. Now heavily depleted.",
+    "nameZh": "智利竹荚鱼"
   },
   {
     "id": "anchovy-peruvian",
@@ -978,10 +2076,26 @@
     "specCode": 1504,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -5.0, "lng": -82.0, "label": "Northern Peru (spawning)"},
-      {"lat": -12.0, "lng": -78.0, "label": "Central Peru upwelling"},
-      {"lat": -18.0, "lng": -72.0, "label": "Southern Peru / Northern Chile"},
-      {"lat": -25.0, "lng": -72.0, "label": "Chilean coast"}
+      {
+        "lat": -5.0,
+        "lng": -82.0,
+        "label": "Northern Peru (spawning)"
+      },
+      {
+        "lat": -12.0,
+        "lng": -78.0,
+        "label": "Central Peru upwelling"
+      },
+      {
+        "lat": -18.0,
+        "lng": -72.0,
+        "label": "Southern Peru / Northern Chile"
+      },
+      {
+        "lat": -25.0,
+        "lng": -72.0,
+        "label": "Chilean coast"
+      }
     ],
     "description": "The most caught fish in history — up to 13 million tonnes in a single year. Anchoveta follow the cold, nutrient-rich Humboldt Current along South America's Pacific coast. El Niño events cause population crashes."
   },
@@ -992,12 +2106,29 @@
     "specCode": 1477,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -32.0, "lng": 115.0, "label": "Western Australia (spawning)"},
-      {"lat": -35.0, "lng": 137.0, "label": "Great Australian Bight"},
-      {"lat": -38.0, "lng": 145.0, "label": "Bass Strait"},
-      {"lat": -33.0, "lng": 152.0, "label": "NSW coast"}
+      {
+        "lat": -32.0,
+        "lng": 115.0,
+        "label": "Western Australia (spawning)"
+      },
+      {
+        "lat": -35.0,
+        "lng": 137.0,
+        "label": "Great Australian Bight"
+      },
+      {
+        "lat": -38.0,
+        "lng": 145.0,
+        "label": "Bass Strait"
+      },
+      {
+        "lat": -33.0,
+        "lng": 152.0,
+        "label": "NSW coast"
+      }
     ],
-    "description": "Same species as the South African sardine run but in Australian waters. Suffered two mysterious mass die-off events in 1995 and 1998 that killed billions of fish along thousands of kilometers of coastline."
+    "description": "Same species as the South African sardine run but in Australian waters. Suffered two mysterious mass die-off events in 1995 and 1998 that killed billions of fish along thousands of kilometers of coastline.",
+    "nameZh": "南非沙丁鱼"
   },
   {
     "id": "starry-skate-antarctic",
@@ -1006,11 +2137,24 @@
     "specCode": 6953,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -54.0, "lng": -36.0, "label": "South Georgia shelf (200-800m)"},
-      {"lat": -56.0, "lng": -30.0, "label": "South Sandwich Islands"},
-      {"lat": -60.0, "lng": -50.0, "label": "Antarctic Peninsula shelf"}
+      {
+        "lat": -54.0,
+        "lng": -36.0,
+        "label": "South Georgia shelf (200-800m)"
+      },
+      {
+        "lat": -56.0,
+        "lng": -30.0,
+        "label": "South Sandwich Islands"
+      },
+      {
+        "lat": -60.0,
+        "lng": -50.0,
+        "label": "Antarctic Peninsula shelf"
+      }
     ],
-    "description": "One of the deepest-dwelling skates in Antarctic waters. Lays large egg cases ('mermaid's purses') on the seafloor at 200-800m. Embryos take 2+ years to develop in near-freezing water — the longest egg incubation of any skate."
+    "description": "One of the deepest-dwelling skates in Antarctic waters. Lays large egg cases ('mermaid's purses') on the seafloor at 200-800m. Embryos take 2+ years to develop in near-freezing water — the longest egg incubation of any skate.",
+    "nameZh": "南乔治亚鳐"
   },
   {
     "id": "australian-herring",
@@ -1019,12 +2163,29 @@
     "specCode": 392,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -35.0, "lng": 118.0, "label": "Albany, WA (spawning)"},
-      {"lat": -34.0, "lng": 122.0, "label": "Esperance"},
-      {"lat": -32.0, "lng": 115.0, "label": "Perth coast (juveniles)"},
-      {"lat": -28.0, "lng": 114.0, "label": "Geraldton (northern limit)"}
+      {
+        "lat": -35.0,
+        "lng": 118.0,
+        "label": "Albany, WA (spawning)"
+      },
+      {
+        "lat": -34.0,
+        "lng": 122.0,
+        "label": "Esperance"
+      },
+      {
+        "lat": -32.0,
+        "lng": 115.0,
+        "label": "Perth coast (juveniles)"
+      },
+      {
+        "lat": -28.0,
+        "lng": 114.0,
+        "label": "Geraldton (northern limit)"
+      }
     ],
-    "description": "Not a true herring — endemic to Australia. Spawns in the south, larvae drift north on the Leeuwin Current along the Western Australian coast. Adults migrate back south to spawn. The most popular recreational fish in WA."
+    "description": "Not a true herring — endemic to Australia. Spawns in the south, larvae drift north on the Leeuwin Current along the Western Australian coast. Adults migrate back south to spawn. The most popular recreational fish in WA.",
+    "nameZh": "澳洲鲱鲑"
   },
   {
     "id": "blue-warehou",
@@ -1033,11 +2194,24 @@
     "specCode": 501,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -38.0, "lng": 148.0, "label": "Eastern Bass Strait (spawning)"},
-      {"lat": -42.0, "lng": 147.0, "label": "Tasmania east coast"},
-      {"lat": -43.0, "lng": 170.0, "label": "New Zealand west coast"}
+      {
+        "lat": -38.0,
+        "lng": 148.0,
+        "label": "Eastern Bass Strait (spawning)"
+      },
+      {
+        "lat": -42.0,
+        "lng": 147.0,
+        "label": "Tasmania east coast"
+      },
+      {
+        "lat": -43.0,
+        "lng": 170.0,
+        "label": "New Zealand west coast"
+      }
     ],
-    "description": "A prized table fish that migrates between Australian and New Zealand waters. Severely overfished in the 1990s — the Australian fishery was closed. Populations remain depleted, with very slow recovery."
+    "description": "A prized table fish that migrates between Australian and New Zealand waters. Severely overfished in the 1990s — the Australian fishery was closed. Populations remain depleted, with very slow recovery.",
+    "nameZh": "蓝仓鲹"
   },
   {
     "id": "elephant-fish",
@@ -1046,11 +2220,24 @@
     "specCode": 4722,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -40.0, "lng": 174.0, "label": "Cook Strait, NZ (deep water)"},
-      {"lat": -43.0, "lng": 172.0, "label": "Canterbury coast (shallow spawning)"},
-      {"lat": -38.0, "lng": 145.0, "label": "Port Phillip Bay, Australia"}
+      {
+        "lat": -40.0,
+        "lng": 174.0,
+        "label": "Cook Strait, NZ (deep water)"
+      },
+      {
+        "lat": -43.0,
+        "lng": 172.0,
+        "label": "Canterbury coast (shallow spawning)"
+      },
+      {
+        "lat": -38.0,
+        "lng": 145.0,
+        "label": "Port Phillip Bay, Australia"
+      }
     ],
-    "description": "A chimaera — a living fossil related to sharks but with a bizarre plough-shaped snout used to detect prey in sand. Migrates from deep water (200m) to shallow bays to lay spiral-shaped egg cases."
+    "description": "A chimaera — a living fossil related to sharks but with a bizarre plough-shaped snout used to detect prey in sand. Migrates from deep water (200m) to shallow bays to lay spiral-shaped egg cases.",
+    "nameZh": "象鲛"
   },
   {
     "id": "broadnose-sevengill",
@@ -1059,12 +2246,29 @@
     "specCode": 2531,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -38.0, "lng": 145.0, "label": "Port Phillip Bay (pupping)"},
-      {"lat": -42.0, "lng": 148.0, "label": "Tasmania"},
-      {"lat": -41.0, "lng": 174.0, "label": "Wellington, New Zealand"},
-      {"lat": -34.0, "lng": 18.0, "label": "False Bay, South Africa"}
+      {
+        "lat": -38.0,
+        "lng": 145.0,
+        "label": "Port Phillip Bay (pupping)"
+      },
+      {
+        "lat": -42.0,
+        "lng": 148.0,
+        "label": "Tasmania"
+      },
+      {
+        "lat": -41.0,
+        "lng": 174.0,
+        "label": "Wellington, New Zealand"
+      },
+      {
+        "lat": -34.0,
+        "lng": 18.0,
+        "label": "False Bay, South Africa"
+      }
     ],
-    "description": "One of the most primitive living sharks — seven gill slits instead of the usual five. Females migrate to shallow bays to give birth. Top predator in temperate southern waters, known to hunt other sharks."
+    "description": "One of the most primitive living sharks — seven gill slits instead of the usual five. Females migrate to shallow bays to give birth. Top predator in temperate southern waters, known to hunt other sharks.",
+    "nameZh": "扁头七鳃鲨"
   },
   {
     "id": "blackfin-icefish",
@@ -1073,11 +2277,24 @@
     "specCode": 473,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -62.0, "lng": -58.0, "label": "South Shetland Islands"},
-      {"lat": -64.0, "lng": -62.0, "label": "Antarctic Peninsula shelf"},
-      {"lat": -54.0, "lng": -36.0, "label": "South Georgia (northern limit)"}
+      {
+        "lat": -62.0,
+        "lng": -58.0,
+        "label": "South Shetland Islands"
+      },
+      {
+        "lat": -64.0,
+        "lng": -62.0,
+        "label": "Antarctic Peninsula shelf"
+      },
+      {
+        "lat": -54.0,
+        "lng": -36.0,
+        "label": "South Georgia (northern limit)"
+      }
     ],
-    "description": "Like all icefish, has no hemoglobin — clear blood. The largest icefish species at 75cm. Guards its nest of 10,000+ eggs on the seafloor for months. One of the few Antarctic fish directly observed nesting — a colony of 60 million nests was discovered in 2022."
+    "description": "Like all icefish, has no hemoglobin — clear blood. The largest icefish species at 75cm. Guards its nest of 10,000+ eggs on the seafloor for months. One of the few Antarctic fish directly observed nesting — a colony of 60 million nests was discovered in 2022.",
+    "nameZh": "鳄冰鱼"
   },
   {
     "id": "southern-blue-whiting",
@@ -1086,11 +2303,63 @@
     "specCode": 320,
     "type": "oceanodromous",
     "waypoints": [
-      {"lat": -48.0, "lng": 166.0, "label": "Bounty Platform (spawning)"},
-      {"lat": -50.0, "lng": 167.0, "label": "Campbell Plateau"},
-      {"lat": -52.0, "lng": 170.0, "label": "Sub-Antarctic feeding grounds"},
-      {"lat": -55.0, "lng": -65.0, "label": "Patagonian shelf (separate stock)"}
+      {
+        "lat": -48.0,
+        "lng": 166.0,
+        "label": "Bounty Platform (spawning)"
+      },
+      {
+        "lat": -50.0,
+        "lng": 167.0,
+        "label": "Campbell Plateau"
+      },
+      {
+        "lat": -52.0,
+        "lng": 170.0,
+        "label": "Sub-Antarctic feeding grounds"
+      },
+      {
+        "lat": -55.0,
+        "lng": -65.0,
+        "label": "Patagonian shelf (separate stock)"
+      }
     ],
-    "description": "Forms massive spawning aggregations on the Bounty Platform south of New Zealand — one of the most concentrated spawning events in the Southern Ocean. A separate stock exists off the Falkland Islands. Key prey for sperm whales."
+    "description": "Forms massive spawning aggregations on the Bounty Platform south of New Zealand — one of the most concentrated spawning events in the Southern Ocean. A separate stock exists off the Falkland Islands. Key prey for sperm whales.",
+    "nameZh": "南方蓝鳕"
+  },
+  {
+    "id": "puget-sound-salmon",
+    "name": "Puget Sound Salmon — Seattle",
+    "species": "Oncorhynchus tshawytscha",
+    "specCode": 244,
+    "type": "anadromous",
+    "waypoints": [
+      {
+        "lat": 48.5,
+        "lng": -130.0,
+        "label": "北太平洋觅食海域"
+      },
+      {
+        "lat": 48.4,
+        "lng": -124.6,
+        "label": "胡安·德·富卡海峡入口"
+      },
+      {
+        "lat": 48.2,
+        "lng": -123.0,
+        "label": "圣胡安群岛"
+      },
+      {
+        "lat": 47.6,
+        "lng": -122.3,
+        "label": "西雅图普吉特湾"
+      },
+      {
+        "lat": 47.5,
+        "lng": -121.8,
+        "label": "锡达河产卵地"
+      }
+    ],
+    "description": "奇努克鲑鱼从北太平洋洄游至西雅图普吉特湾，经锡达河到达上游产卵地。这是太平洋西北地区最著名的鲑鱼洄游路线之一。"
   }
 ]
