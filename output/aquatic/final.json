@@ -6688,6 +6688,24 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
+      },
+      {
+        "name": "贝加尔湖利斯特维扬卡",
+        "country": "",
+        "lat": 52.0,
+        "lng": 104.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "shore"
+      },
+      {
+        "name": "贝加尔湖奥利洪岛",
+        "country": "",
+        "lat": 53.2,
+        "lng": 107.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "shore"
       }
     ],
     "display": {
@@ -6738,6 +6756,24 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
+      },
+      {
+        "name": "亚马逊河马瑙斯",
+        "country": "",
+        "lat": -3.1,
+        "lng": -60.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "shore"
+      },
+      {
+        "name": "亚马逊河特费",
+        "country": "",
+        "lat": -3.35,
+        "lng": -64.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "shore"
       }
     ],
     "display": {
@@ -6787,6 +6823,24 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "aquarium"
+      },
+      {
+        "name": "亚马逊河流域",
+        "country": "",
+        "lat": -3.3,
+        "lng": -59.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "shore"
+      },
+      {
+        "name": "奥里诺科河，委内瑞拉",
+        "country": "",
+        "lat": 8.3,
+        "lng": -62.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "shore"
       }
     ],
     "display": {
@@ -6835,6 +6889,15 @@
         "lng": -62.65,
         "season": "year-round",
         "reliability": "medium",
+        "activity": "shore"
+      },
+      {
+        "name": "亚马逊河马瑙斯段",
+        "country": "",
+        "lat": -3.0,
+        "lng": -60.0,
+        "season": "全年",
+        "reliability": "high",
         "activity": "shore"
       }
     ],
@@ -7029,6 +7092,15 @@
         "lat": 12.0,
         "lng": 37.33,
         "season": "year-round",
+        "reliability": "high",
+        "activity": "shore"
+      },
+      {
+        "name": "尼罗河，埃及",
+        "country": "",
+        "lat": 30.0,
+        "lng": 31.2,
+        "season": "全年",
         "reliability": "high",
         "activity": "shore"
       }
@@ -11505,6 +11577,168 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 24.5,
+        "lng": 36.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 20.5,
+        "lng": 38.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 15.5,
+        "lng": 41.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 22.0,
+        "lng": 38.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -11549,6 +11783,186 @@
         "lat": 27.7,
         "lng": 34.3,
         "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": 4.2,
+        "lng": 73.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -4.5,
+        "lng": 55.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -12.3,
+        "lng": 44.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -9.4,
+        "lng": 46.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -3.5,
+        "lng": 40.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 24.5,
+        "lng": 36.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 20.5,
+        "lng": 38.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 15.5,
+        "lng": 41.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 22.0,
+        "lng": 38.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
         "reliability": "high",
         "activity": "diving"
       }
@@ -11624,6 +12038,231 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": 4.2,
+        "lng": 73.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -4.5,
+        "lng": 55.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -12.3,
+        "lng": 44.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -9.4,
+        "lng": 46.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -3.5,
+        "lng": 40.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 18.2,
+        "lng": -87.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 21.5,
+        "lng": -86.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 18.5,
+        "lng": -64.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 12.2,
+        "lng": -68.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 17.0,
+        "lng": -61.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 22.4,
+        "lng": -79.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 19.5,
+        "lng": -78.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 10.5,
+        "lng": -75.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -11659,6 +12298,240 @@
         "lat": 20.4,
         "lng": -87.0,
         "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 21.5,
+        "lng": -86.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 18.5,
+        "lng": -64.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 12.2,
+        "lng": -68.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 17.0,
+        "lng": -61.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 22.4,
+        "lng": -79.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 19.5,
+        "lng": -78.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 10.5,
+        "lng": -75.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
         "reliability": "high",
         "activity": "diving"
       }
@@ -11725,6 +12598,159 @@
         "season": "Mar-Jun",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -14.3,
+        "lng": -170.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -21.2,
+        "lng": -159.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 13.4,
+        "lng": 144.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -8.5,
+        "lng": 160.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -11771,6 +12797,186 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 24.5,
+        "lng": 36.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 20.5,
+        "lng": 38.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 15.5,
+        "lng": 41.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 22.0,
+        "lng": 38.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -14.3,
+        "lng": -170.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -21.2,
+        "lng": -159.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 13.4,
+        "lng": 144.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -8.5,
+        "lng": 160.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -11806,6 +13012,222 @@
         "lat": 20.4,
         "lng": -87.0,
         "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -14.3,
+        "lng": -170.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -21.2,
+        "lng": -159.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 13.4,
+        "lng": 144.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -8.5,
+        "lng": 160.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
         "reliability": "high",
         "activity": "diving"
       }
@@ -11872,6 +13294,195 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 24.5,
+        "lng": 36.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 20.5,
+        "lng": 38.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 15.5,
+        "lng": 41.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 22.0,
+        "lng": 38.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -14.3,
+        "lng": -170.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -21.2,
+        "lng": -159.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 13.4,
+        "lng": 144.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -8.5,
+        "lng": 160.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -4.5,
+        "lng": 55.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -12.3,
+        "lng": 44.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -9.4,
+        "lng": 46.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -3.5,
+        "lng": 40.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -11907,6 +13518,168 @@
         "lat": 20.4,
         "lng": -87.0,
         "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": 4.2,
+        "lng": 73.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -4.5,
+        "lng": 55.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -12.3,
+        "lng": 44.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -9.4,
+        "lng": 46.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -3.5,
+        "lng": 40.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
         "reliability": "high",
         "activity": "diving"
       }
@@ -11973,6 +13746,195 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -14.3,
+        "lng": -170.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -21.2,
+        "lng": -159.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 13.4,
+        "lng": 144.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -8.5,
+        "lng": 160.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -12026,6 +13988,213 @@
         "lat": -17.8,
         "lng": 177.9,
         "season": "year-round",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -4.5,
+        "lng": 55.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -12.3,
+        "lng": 44.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -9.4,
+        "lng": 46.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -3.5,
+        "lng": 40.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -0.5,
+        "lng": 130.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 8.9,
+        "lng": 119.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
         "reliability": "high",
         "activity": "diving"
       }
@@ -12092,6 +14261,186 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 21.5,
+        "lng": -86.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 18.5,
+        "lng": -64.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 12.2,
+        "lng": -68.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 17.0,
+        "lng": -61.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 22.4,
+        "lng": -79.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 19.5,
+        "lng": -78.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "加勒比海",
+        "country": "",
+        "lat": 10.5,
+        "lng": -75.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -10.5,
+        "lng": 143.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -12.3,
+        "lng": 144.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -14.8,
+        "lng": 145.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -16.5,
+        "lng": 146.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -18.3,
+        "lng": 147.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -20.1,
+        "lng": 149.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -22.0,
+        "lng": 151.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "大堡礁",
+        "country": "",
+        "lat": -23.5,
+        "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -12147,6 +14496,141 @@
         "season": "year-round",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": 4.2,
+        "lng": 73.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -4.5,
+        "lng": 55.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -12.3,
+        "lng": 44.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -9.4,
+        "lng": 46.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "印度洋",
+        "country": "",
+        "lat": -3.5,
+        "lng": 40.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 27.7,
+        "lng": 34.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 24.5,
+        "lng": 36.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 20.5,
+        "lng": 38.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 15.5,
+        "lng": 41.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "红海",
+        "country": "",
+        "lat": 22.0,
+        "lng": 38.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -12200,6 +14684,159 @@
         "lat": 8.9,
         "lng": 119.9,
         "season": "Mar-Jun",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 7.5,
+        "lng": 134.6,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -17.8,
+        "lng": 177.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -14.3,
+        "lng": -170.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -21.2,
+        "lng": -159.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": 13.4,
+        "lng": 144.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "太平洋岛屿",
+        "country": "",
+        "lat": -8.5,
+        "lng": 160.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 20.6,
+        "lng": -156.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 21.3,
+        "lng": -157.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "夏威夷",
+        "country": "",
+        "lat": 19.5,
+        "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -5.5,
+        "lng": 134.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 7.5,
+        "lng": 124.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -8.5,
+        "lng": 119.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 2.0,
+        "lng": 128.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": 5.5,
+        "lng": 120.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "珊瑚三角区",
+        "country": "",
+        "lat": -1.5,
+        "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 26.3,
+        "lng": 127.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "冲绳",
+        "country": "",
+        "lat": 24.5,
+        "lng": 124.0,
+        "season": "全年",
         "reliability": "high",
         "activity": "diving"
       }
