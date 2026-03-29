@@ -3381,7 +3381,7 @@
     },
     "viewingSpots": [
       {
-        "name": "Lantau岛，Hong Kong",
+        "name": "大屿山，香港",
         "country": "HK",
         "lat": 22.29,
         "lng": 113.87,
@@ -3399,7 +3399,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Xiamen，中国",
+        "name": "厦门，中国",
         "country": "CN",
         "lat": 24.48,
         "lng": 118.09,
@@ -3408,7 +3408,7 @@
         "activity": "whale_watching"
       },
       {
-        "name": "Zhanjiang，中国",
+        "name": "湛江，中国",
         "country": "CN",
         "lat": 21.27,
         "lng": 110.36,
@@ -11739,6 +11739,123 @@
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -11962,6 +12079,123 @@
         "country": "",
         "lat": -23.5,
         "lng": 152.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
@@ -12263,6 +12497,123 @@
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -12534,6 +12885,123 @@
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -12748,6 +13216,123 @@
         "country": "",
         "lat": -1.5,
         "lng": 136.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
@@ -12974,6 +13559,123 @@
         "country": "",
         "lat": -8.5,
         "lng": 160.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
@@ -13230,6 +13932,123 @@
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -13483,6 +14302,123 @@
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -13679,6 +14615,123 @@
         "country": "",
         "lat": 24.5,
         "lng": 124.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
@@ -13932,6 +14985,123 @@
         "country": "",
         "lat": 19.5,
         "lng": -155.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
@@ -14197,6 +15367,123 @@
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -14441,6 +15728,123 @@
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
       }
     ]
   },
@@ -14628,6 +16032,123 @@
         "country": "",
         "lat": 22.0,
         "lng": 38.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
@@ -14836,6 +16357,123 @@
         "country": "",
         "lat": 24.5,
         "lng": 124.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "海南三亚珊瑚礁",
+        "country": "",
+        "lat": 18.2,
+        "lng": 109.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "西沙群岛",
+        "country": "",
+        "lat": 16.5,
+        "lng": 112.0,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "南沙群岛",
+        "country": "",
+        "lat": 10.0,
+        "lng": 114.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾垦丁",
+        "country": "",
+        "lat": 21.9,
+        "lng": 120.8,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾绿岛",
+        "country": "",
+        "lat": 22.7,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "台湾兰屿",
+        "country": "",
+        "lat": 22.0,
+        "lng": 121.5,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "广东徐闻珊瑚礁",
+        "country": "",
+        "lat": 20.3,
+        "lng": 109.9,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "涠洲岛，广西",
+        "country": "",
+        "lat": 21.1,
+        "lng": 109.1,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "东沙环礁",
+        "country": "",
+        "lat": 20.7,
+        "lng": 116.7,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "香港海下湾",
+        "country": "",
+        "lat": 22.5,
+        "lng": 114.3,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "八重山群岛，日本",
+        "country": "",
+        "lat": 24.3,
+        "lng": 124.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "小笠原群岛，日本",
+        "country": "",
+        "lat": 27.1,
+        "lng": 142.2,
+        "season": "全年",
+        "reliability": "high",
+        "activity": "diving"
+      },
+      {
+        "name": "济州岛，韩国",
+        "country": "",
+        "lat": 33.2,
+        "lng": 126.5,
         "season": "全年",
         "reliability": "high",
         "activity": "diving"
