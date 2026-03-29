@@ -10953,7 +10953,7 @@
       }
     ],
     "display": {
-      "color": "#8B7355",
+      "color": "#ffaa44",
       "animation": "hovering",
       "scale": "medium"
     },
@@ -10994,7 +10994,7 @@
       }
     ],
     "display": {
-      "color": "#C4A882",
+      "color": "#ff44dd",
       "animation": "hovering",
       "scale": "small"
     },
@@ -11043,7 +11043,7 @@
       }
     ],
     "display": {
-      "color": "#9B59B6",
+      "color": "#ff44dd",
       "animation": "drifting",
       "scale": "medium"
     },
@@ -11083,7 +11083,7 @@
       }
     ],
     "display": {
-      "color": "#DAA520",
+      "color": "#ffaa44",
       "animation": "hovering",
       "scale": "medium"
     },
@@ -11294,7 +11294,7 @@
       }
     ],
     "display": {
-      "color": "#CC0000",
+      "color": "#ff3366",
       "animation": "hovering",
       "scale": "small"
     },
@@ -11342,7 +11342,7 @@
       }
     ],
     "display": {
-      "color": "#C19A6B",
+      "color": "#00ff88",
       "animation": "hovering",
       "scale": "large"
     },
@@ -11537,7 +11537,7 @@
     "scientificName": "Acropora cervicornis",
     "sprite": "sp-staghorn_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#00ff88",
       "animation": "static",
       "scale": "medium"
     },
@@ -11871,7 +11871,7 @@
     "scientificName": "Diploria labyrinthiformis",
     "sprite": "sp-brain_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ffaa44",
       "animation": "static",
       "scale": "medium"
     },
@@ -12214,7 +12214,7 @@
     "scientificName": "Acropora hyacinthus",
     "sprite": "sp-table_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#44ccff",
       "animation": "static",
       "scale": "medium"
     },
@@ -12629,7 +12629,7 @@
     "scientificName": "Acropora palmata",
     "sprite": "sp-elkhorn_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#00ff88",
       "animation": "static",
       "scale": "medium"
     },
@@ -13017,7 +13017,7 @@
     "scientificName": "Gorgonia ventalina",
     "sprite": "sp-fan_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ff44dd",
       "animation": "static",
       "scale": "medium"
     },
@@ -13351,7 +13351,7 @@
     "scientificName": "Millepora alcicornis",
     "sprite": "sp-fire_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ffaa44",
       "animation": "static",
       "scale": "medium"
     },
@@ -13694,7 +13694,7 @@
     "scientificName": "Dendrogyra cylindrus",
     "sprite": "sp-pillar_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#44ccff",
       "animation": "static",
       "scale": "medium"
     },
@@ -14064,7 +14064,7 @@
     "scientificName": "Fungia fungites",
     "sprite": "sp-mushroom_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ff44dd",
       "animation": "static",
       "scale": "medium"
     },
@@ -14434,7 +14434,7 @@
     "scientificName": "Orbicella faveolata",
     "sprite": "sp-star_coral.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#00ff88",
       "animation": "static",
       "scale": "medium"
     },
@@ -14750,7 +14750,7 @@
     "scientificName": "Heteractis magnifica",
     "sprite": "sp-sea_anemone.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ff44dd",
       "animation": "static",
       "scale": "medium"
     },
@@ -15120,7 +15120,7 @@
     "scientificName": "Entacmaea quadricolor",
     "sprite": "sp-bubble_tip_anemone.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ffaa44",
       "animation": "static",
       "scale": "medium"
     },
@@ -15499,7 +15499,7 @@
     "scientificName": "Xestospongia testudinaria",
     "sprite": "sp-barrel_sponge.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#44ccff",
       "animation": "static",
       "scale": "medium"
     },
@@ -15860,7 +15860,7 @@
     "scientificName": "Aplysina fistularis",
     "sprite": "sp-tube_sponge.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ccff00",
       "animation": "static",
       "scale": "medium"
     },
@@ -16167,7 +16167,7 @@
     "scientificName": "Gorgonia flabellum",
     "sprite": "sp-gorgonia_ventalina.png",
     "display": {
-      "color": "#FF6B6B",
+      "color": "#ff44dd",
       "animation": "static",
       "scale": "medium"
     },
