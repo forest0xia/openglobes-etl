@@ -27,7 +27,8 @@
         "label": "Norwegian rivers (spawning)"
       }
     ],
-    "description": "Atlantic salmon feed in cold North Atlantic waters off Greenland and return to natal rivers in Scotland, Norway, and Iceland to spawn."
+    "description": "Atlantic salmon feed in cold North Atlantic waters off Greenland and return to natal rivers in Scotland, Norway, and Iceland to spawn.",
+    "descriptionZh": "大西洋鲑鱼在格陵兰海域觅食，然后洄游至苏格兰、挪威和冰岛的河流产卵。"
   },
   {
     "id": "atlantic-salmon-na",
@@ -57,7 +58,8 @@
         "label": "Maine rivers (spawning)"
       }
     ],
-    "description": "North American Atlantic salmon migrate from Greenland feeding grounds to rivers in Maine, New Brunswick, and Nova Scotia."
+    "description": "North American Atlantic salmon migrate from Greenland feeding grounds to rivers in Maine, New Brunswick, and Nova Scotia.",
+    "descriptionZh": "北美大西洋鲑鱼从格陵兰觅食海域洄游至缅因州、新不伦瑞克和新斯科舍的河流。"
   },
   {
     "id": "chinook-columbia",
@@ -87,7 +89,8 @@
         "label": "Idaho spawning tributaries"
       }
     ],
-    "description": "Chinook salmon travel over 1,400 km from the Pacific Ocean up the Columbia River, past 8 dams, to spawn in Idaho headwaters."
+    "description": "Chinook salmon travel over 1,400 km from the Pacific Ocean up the Columbia River, past 8 dams, to spawn in Idaho headwaters.",
+    "descriptionZh": "奇努克鲑鱼从太平洋洄游1400多公里，经过哥伦比亚河8座大坝，到达爱达荷州源头产卵。"
   },
   {
     "id": "sockeye-bristol-bay",
@@ -113,7 +116,8 @@
       }
     ],
     "description": "The world's largest sockeye run — 30-60 million fish return annually to Bristol Bay, Alaska. The fishery is worth $1.5 billion.",
-    "nameZh": "红鲑鱼"
+    "nameZh": "红鲑鱼",
+    "descriptionZh": "红鲑鱼的洄游路线。"
   },
   {
     "id": "pink-salmon-pacific",
@@ -139,7 +143,8 @@
       }
     ],
     "description": "Pink salmon have the shortest life cycle of Pacific salmon — exactly 2 years, ocean-to-river-to-ocean.",
-    "nameZh": "粉红鲑鱼"
+    "nameZh": "粉红鲑鱼",
+    "descriptionZh": "粉红鲑鱼的洄游路线。"
   },
   {
     "id": "chum-salmon-yukon",
@@ -170,7 +175,8 @@
       }
     ],
     "description": "Chum salmon travel up to 3,200 km up the Yukon River — one of the longest freshwater salmon migrations in the world.",
-    "nameZh": "狗鲑鱼"
+    "nameZh": "狗鲑鱼",
+    "descriptionZh": "狗鲑鱼的洄游路线。"
   },
   {
     "id": "european-eel",
@@ -200,7 +206,8 @@
         "label": "Sargasso Sea (spawning)"
       }
     ],
-    "description": "European eels make a 5,000-6,000 km one-way journey to the Sargasso Sea to spawn. Larvae drift back on the Gulf Stream over 1-3 years. One of nature's great mysteries."
+    "description": "European eels make a 5,000-6,000 km one-way journey to the Sargasso Sea to spawn. Larvae drift back on the Gulf Stream over 1-3 years. One of nature's great mysteries.",
+    "descriptionZh": "欧洲鳗鲡在马尾藻海出生，幼体随墨西哥湾流漂至欧洲河流，15-30年后再返回产卵。"
   },
   {
     "id": "american-eel",
@@ -226,7 +233,8 @@
       }
     ],
     "description": "Like their European cousins, American eels migrate to the Sargasso Sea to spawn, but travel a shorter distance (~2,000 km).",
-    "nameZh": "美洲鳗鲡"
+    "nameZh": "美洲鳗鲡",
+    "descriptionZh": "美洲鳗鲡是唯一在海洋产卵但在淡水中生活的北美鱼类，洄游距离超过4000公里。"
   },
   {
     "id": "japanese-eel",
@@ -252,7 +260,8 @@
       }
     ],
     "description": "Japanese eels migrate 2,000+ km to seamounts near the Mariana Islands to spawn. The spawning site was only confirmed in 2009.",
-    "nameZh": "日本鳗鲡"
+    "nameZh": "日本鳗鲡",
+    "descriptionZh": "日本鳗鲡在西马里亚纳海脊深海产卵，幼体随北赤道洋流漂至东亚河流。"
   },
   {
     "id": "bluefin-tuna-atlantic",
@@ -287,7 +296,8 @@
         "label": "Mediterranean (spawning)"
       }
     ],
-    "description": "Atlantic bluefin tuna cross the entire Atlantic Ocean, up to 10,000 km. Two stocks (Western and Eastern) mix in the mid-Atlantic. They can reach 680 kg and swim at 70 km/h."
+    "description": "Atlantic bluefin tuna cross the entire Atlantic Ocean, up to 10,000 km. Two stocks (Western and Eastern) mix in the mid-Atlantic. They can reach 680 kg and swim at 70 km/h.",
+    "descriptionZh": "Thunnus thynnus的洄游路线。"
   },
   {
     "id": "bluefin-tuna-pacific",
@@ -318,7 +328,8 @@
       }
     ],
     "description": "Pacific bluefin tuna spawn near Japan, cross the entire Pacific to feed off California as juveniles, then return to Japan to spawn — a 12,000 km circuit.",
-    "nameZh": "太平洋蓝鳍金枪鱼"
+    "nameZh": "太平洋蓝鳍金枪鱼",
+    "descriptionZh": "太平洋蓝鳍金枪鱼的洄游路线。"
   },
   {
     "id": "southern-bluefin",
@@ -349,7 +360,8 @@
       }
     ],
     "description": "Southern bluefin tuna migrate vast distances through the Southern Ocean. They only spawn in the warm waters south of Java, Indonesia.",
-    "nameZh": "南方蓝鳍金枪鱼"
+    "nameZh": "南方蓝鳍金枪鱼",
+    "descriptionZh": "南方蓝鳍金枪鱼的洄游路线。"
   },
   {
     "id": "yellowfin-tuna",
@@ -375,7 +387,8 @@
       }
     ],
     "description": "Yellowfin tuna follow warm currents and prey concentrations across tropical oceans. They associate with dolphins in the Eastern Pacific.",
-    "nameZh": "黄鳍金枪鱼"
+    "nameZh": "黄鳍金枪鱼",
+    "descriptionZh": "黄鳍金枪鱼的洄游路线。"
   },
   {
     "id": "albacore-north-pacific",
@@ -406,7 +419,8 @@
       }
     ],
     "description": "North Pacific albacore complete a transpacific migration following the Kuroshio and California Current systems.",
-    "nameZh": "长鳍金枪鱼"
+    "nameZh": "长鳍金枪鱼",
+    "descriptionZh": "长鳍金枪鱼的洄游路线。"
   },
   {
     "id": "sardine-run",
@@ -437,7 +451,8 @@
       }
     ],
     "description": "Billions of sardines migrate north along the South African coast each winter. Called 'the greatest shoal on Earth' — visible from space and attracting sharks, dolphins, whales, and diving birds.",
-    "nameZh": "南非沙丁鱼"
+    "nameZh": "南非沙丁鱼",
+    "descriptionZh": "南非沙丁鱼的洄游路线。"
   },
   {
     "id": "herring-north-sea",
@@ -467,7 +482,8 @@
         "label": "Shetland (spawning)"
       }
     ],
-    "description": "North Sea herring migrate in enormous schools between feeding and spawning grounds. They were the basis of the medieval Hanseatic League's wealth."
+    "description": "North Sea herring migrate in enormous schools between feeding and spawning grounds. They were the basis of the medieval Hanseatic League's wealth.",
+    "descriptionZh": "Clupea harengus的洄游路线。"
   },
   {
     "id": "whale-shark-global",
@@ -497,7 +513,8 @@
         "label": "Bali / Indonesian waters"
       }
     ],
-    "description": "Whale sharks — the world's largest fish at up to 18m — aggregate at Ningaloo Reef each autumn to feed on coral spawn, then disperse across the Indian Ocean."
+    "description": "Whale sharks — the world's largest fish at up to 18m — aggregate at Ningaloo Reef each autumn to feed on coral spawn, then disperse across the Indian Ocean.",
+    "descriptionZh": "Rhincodon typus的洄游路线。"
   },
   {
     "id": "whale-shark-gulf",
@@ -522,7 +539,8 @@
         "label": "Caribbean dispersal"
       }
     ],
-    "description": "The world's largest known whale shark aggregation occurs off Isla Mujeres, Mexico, with 400+ individuals feeding on tuna spawn each summer."
+    "description": "The world's largest known whale shark aggregation occurs off Isla Mujeres, Mexico, with 400+ individuals feeding on tuna spawn each summer.",
+    "descriptionZh": "Rhincodon typus的洄游路线。"
   },
   {
     "id": "great-white-shark",
@@ -552,7 +570,8 @@
         "label": "South Australia"
       }
     ],
-    "description": "Great white sharks migrate 10,000+ km between South Africa and Australia. Satellite tagging revealed this route, nicknamed the 'shark highway'."
+    "description": "Great white sharks migrate 10,000+ km between South Africa and Australia. Satellite tagging revealed this route, nicknamed the 'shark highway'.",
+    "descriptionZh": "Carcharodon carcharias的洄游路线。"
   },
   {
     "id": "great-white-cafe",
@@ -582,7 +601,8 @@
         "label": "Guadalupe Island, Mexico"
       }
     ],
-    "description": "California great whites migrate to a mysterious mid-Pacific area called the 'White Shark Café' where they make deep V-shaped dives — possibly foraging or mating."
+    "description": "California great whites migrate to a mysterious mid-Pacific area called the 'White Shark Café' where they make deep V-shaped dives — possibly foraging or mating.",
+    "descriptionZh": "Carcharodon carcharias的洄游路线。"
   },
   {
     "id": "blue-shark-atlantic",
@@ -617,7 +637,8 @@
         "label": "Sargasso Sea return"
       }
     ],
-    "description": "Blue sharks make a clockwise circuit of the entire North Atlantic, riding the Gulf Stream east and returning on the Canary Current. The most migratory shark species."
+    "description": "Blue sharks make a clockwise circuit of the entire North Atlantic, riding the Gulf Stream east and returning on the Canary Current. The most migratory shark species.",
+    "descriptionZh": "Prionace glauca的洄游路线。"
   },
   {
     "id": "mako-shark",
@@ -648,7 +669,8 @@
       }
     ],
     "description": "Shortfin makos — the fastest sharks at 70 km/h — cross the Atlantic following warm-water prey. They dive to 800m+ depth.",
-    "nameZh": "尖吻鲭鲨"
+    "nameZh": "尖吻鲭鲨",
+    "descriptionZh": "尖吻鲭鲨的洄游路线。"
   },
   {
     "id": "hammerhead-cocos",
@@ -679,7 +701,8 @@
       }
     ],
     "description": "Scalloped hammerheads migrate between Cocos, Galápagos, and Malpelo — underwater mountains forming a 'shark triangle'. Schools of 500+ gather at seamounts.",
-    "nameZh": "路氏双髻鲨"
+    "nameZh": "路氏双髻鲨",
+    "descriptionZh": "路氏双髻鲨的洄游路线。"
   },
   {
     "id": "basking-shark",
@@ -704,7 +727,8 @@
         "label": "Morocco / deep Atlantic (winter)"
       }
     ],
-    "description": "The world's second-largest fish (12m) migrates between surface plankton blooms in summer and deep water in winter. They can dive to 1,000m."
+    "description": "The world's second-largest fish (12m) migrates between surface plankton blooms in summer and deep water in winter. They can dive to 1,000m.",
+    "descriptionZh": "Cetorhinus maximus的洄游路线。"
   },
   {
     "id": "manta-ray-indonesia",
@@ -729,7 +753,8 @@
         "label": "Raja Ampat, Papua"
       }
     ],
-    "description": "Giant manta rays — 7m wingspan — follow plankton blooms through Indonesia's nutrient-rich straits. Raja Ampat hosts the world's largest known manta population."
+    "description": "Giant manta rays — 7m wingspan — follow plankton blooms through Indonesia's nutrient-rich straits. Raja Ampat hosts the world's largest known manta population.",
+    "descriptionZh": "Mobula birostris的洄游路线。"
   },
   {
     "id": "swordfish-atlantic",
@@ -759,7 +784,8 @@
         "label": "Azores"
       }
     ],
-    "description": "Swordfish migrate from tropical spawning grounds to cold, productive waters at high latitudes. They can dive to 2,800m and tolerate near-freezing temperatures by heating their brains."
+    "description": "Swordfish migrate from tropical spawning grounds to cold, productive waters at high latitudes. They can dive to 2,800m and tolerate near-freezing temperatures by heating their brains.",
+    "descriptionZh": "Xiphias gladius的洄游路线。"
   },
   {
     "id": "striped-bass",
@@ -790,7 +816,8 @@
       }
     ],
     "description": "Striped bass spawn in the Chesapeake Bay and Hudson River, then migrate north along the coast to New England each summer. The most prized game fish on the US East Coast.",
-    "nameZh": "条纹鲈鱼"
+    "nameZh": "条纹鲈鱼",
+    "descriptionZh": "条纹鲈鱼的洄游路线。"
   },
   {
     "id": "american-shad",
@@ -821,7 +848,8 @@
       }
     ],
     "description": "American shad once supported the largest fishery on the US East Coast. George Washington relied on shad runs to feed the Continental Army at Valley Forge.",
-    "nameZh": "美洲西鲱"
+    "nameZh": "美洲西鲱",
+    "descriptionZh": "美洲西鲱的洄游路线。"
   },
   {
     "id": "hilsa-ganges",
@@ -852,7 +880,8 @@
       }
     ],
     "description": "Hilsa — Bangladesh's national fish — migrates from the Bay of Bengal up the Ganges-Brahmaputra system. It supports the livelihoods of 2 million fishers.",
-    "nameZh": "鲥鱼"
+    "nameZh": "鲥鱼",
+    "descriptionZh": "鲥鱼的洄游路线。"
   },
   {
     "id": "tarpon-gulf",
@@ -883,7 +912,8 @@
       }
     ],
     "description": "The 'Silver King' — tarpon grow to 2.5m and are the most prized tropical game fish. Boca Grande Pass, Florida sees massive spawning aggregations each summer.",
-    "nameZh": "大西洋大海鲢"
+    "nameZh": "大西洋大海鲢",
+    "descriptionZh": "大西洋大海鲢的洄游路线。"
   },
   {
     "id": "sturgeon-beluga",
@@ -914,7 +944,8 @@
       }
     ],
     "description": "The world's largest freshwater fish (1,500 kg) once migrated 2,000 km up the Volga. Dams have blocked 90% of spawning habitat. Source of beluga caviar — the most expensive food on Earth.",
-    "nameZh": "欧洲鳇"
+    "nameZh": "欧洲鳇",
+    "descriptionZh": "欧洲鳇的洄游路线。"
   },
   {
     "id": "sturgeon-atlantic",
@@ -945,7 +976,8 @@
       }
     ],
     "description": "Atlantic sturgeon can reach 4.5m and live 60+ years. Once the basis of a huge caviar industry, they are now critically endangered. They migrate between rivers and coastal ocean.",
-    "nameZh": "大西洋鲟"
+    "nameZh": "大西洋鲟",
+    "descriptionZh": "大西洋鲟的洄游路线。"
   },
   {
     "id": "sturgeon-chinese",
@@ -976,7 +1008,8 @@
       }
     ],
     "description": "The Chinese sturgeon once migrated 3,000 km up the Yangtze. The Gezhouba Dam (1981) blocked access to historical spawning grounds. Functionally extinct in the wild.",
-    "nameZh": "中华鲟"
+    "nameZh": "中华鲟",
+    "descriptionZh": "中华鲟的洄游路线。"
   },
   {
     "id": "mekong-catfish",
@@ -1007,7 +1040,8 @@
       }
     ],
     "description": "The world's largest freshwater catfish (300 kg) migrates up the Mekong to spawn. Critically endangered — fewer than 100 adults remain. Threatened by mainstream dams.",
-    "nameZh": "湄公河巨鲶"
+    "nameZh": "湄公河巨鲶",
+    "descriptionZh": "湄公河巨鲶的洄游路线。"
   },
   {
     "id": "mahseer-himalayan",
@@ -1033,7 +1067,8 @@
       }
     ],
     "description": "The 'Tiger of the River' — golden mahseer migrate upstream in Himalayan rivers to spawn in cool, fast-flowing headwaters during the monsoon season.",
-    "nameZh": "金马哈鱼"
+    "nameZh": "金马哈鱼",
+    "descriptionZh": "金马哈鱼的洄游路线。"
   },
   {
     "id": "arapaima",
@@ -1058,7 +1093,8 @@
         "label": "Lower Amazon tributaries"
       }
     ],
-    "description": "The world's largest scaled freshwater fish (3m, 200 kg). Arapaima migrate between deep river channels and flooded forest with the seasonal Amazon floods. They breathe air."
+    "description": "The world's largest scaled freshwater fish (3m, 200 kg). Arapaima migrate between deep river channels and flooded forest with the seasonal Amazon floods. They breathe air.",
+    "descriptionZh": "Arapaima gigas的洄游路线。"
   },
   {
     "id": "bull-shark-rivers",
@@ -1088,7 +1124,8 @@
         "label": "Illinois (recorded 1,100 km upriver)"
       }
     ],
-    "description": "Bull sharks can tolerate fresh water and have been found 1,100 km up the Mississippi River, and in Lake Nicaragua. The only shark that regularly enters rivers."
+    "description": "Bull sharks can tolerate fresh water and have been found 1,100 km up the Mississippi River, and in Lake Nicaragua. The only shark that regularly enters rivers.",
+    "descriptionZh": "Carcharhinus leucas的洄游路线。"
   },
   {
     "id": "barramundi",
@@ -1114,7 +1151,8 @@
       }
     ],
     "description": "Barramundi are catadromous and sequential hermaphrodites — they start as males in fresh water and change to females when they reach the sea. Australia's most iconic game fish.",
-    "nameZh": "尖吻鲈"
+    "nameZh": "尖吻鲈",
+    "descriptionZh": "尖吻鲈的洄游路线。"
   },
   {
     "id": "capelin-iceland",
@@ -1145,7 +1183,8 @@
       }
     ],
     "description": "Capelin are a keystone Arctic forage fish. They spawn on beaches — rolling ashore in masses. They are the primary prey of Atlantic cod, whales, and seabirds.",
-    "nameZh": "毛鳞鱼"
+    "nameZh": "毛鳞鱼",
+    "descriptionZh": "毛鳞鱼的洄游路线。"
   },
   {
     "id": "arctic-char",
@@ -1171,7 +1210,8 @@
       }
     ],
     "description": "The world's northernmost freshwater fish. Arctic char migrate between sea and freshwater lakes, spending winters under ice. They come in spectacular color morphs.",
-    "nameZh": "北极红点鲑"
+    "nameZh": "北极红点鲑",
+    "descriptionZh": "北极红点鲑的洄游路线。"
   },
   {
     "id": "dorado-parana",
@@ -1202,7 +1242,8 @@
       }
     ],
     "description": "South America's most prized freshwater game fish migrates up the Paraná system to spawn. Called 'the river tiger' for its golden color and aggressive strikes.",
-    "nameZh": "巴西金鲑"
+    "nameZh": "巴西金鲑",
+    "descriptionZh": "巴西金鲑的洄游路线。"
   },
   {
     "id": "milkfish-indo-pacific",
@@ -1228,7 +1269,8 @@
       }
     ],
     "description": "Milkfish — 'bangus' in the Philippines — migrate between coastal lagoons and offshore reefs to spawn. The most important aquaculture fish in Southeast Asia.",
-    "nameZh": "虱目鱼"
+    "nameZh": "虱目鱼",
+    "descriptionZh": "虱目鱼的洄游路线。"
   },
   {
     "id": "taimen-siberia",
@@ -1254,7 +1296,8 @@
       }
     ],
     "description": "The world's largest salmonid (2m, 100 kg). Taimen migrate within Siberian and Mongolian rivers to spawn in cold headwater streams. Called the 'river wolf'.",
-    "nameZh": "哲罗鲑"
+    "nameZh": "哲罗鲑",
+    "descriptionZh": "哲罗鲑的洄游路线。"
   },
   {
     "id": "paddlefish-mississippi",
@@ -1280,7 +1323,8 @@
       }
     ],
     "description": "A living fossil — paddlefish have existed for 125 million years. They filter-feed on plankton using their paddle-shaped rostrum and need free-flowing rivers to spawn.",
-    "nameZh": "匙吻鲟"
+    "nameZh": "匙吻鲟",
+    "descriptionZh": "匙吻鲟的洄游路线。"
   },
   {
     "id": "coelacanth",
@@ -1305,7 +1349,8 @@
         "label": "Sodwana Bay, South Africa (second population)"
       }
     ],
-    "description": "A 'living fossil' — coelacanths were thought extinct for 65 million years until one was caught in 1938. They live in deep volcanic caves at 150-700m depth. Fewer than 500 remain."
+    "description": "A 'living fossil' — coelacanths were thought extinct for 65 million years until one was caught in 1938. They live in deep volcanic caves at 150-700m depth. Fewer than 500 remain.",
+    "descriptionZh": "Latimeria chalumnae的洄游路线。"
   },
   {
     "id": "napoleon-wrasse",
@@ -1330,7 +1375,8 @@
         "label": "Sulu Sea"
       }
     ],
-    "description": "The largest reef fish (2.3m, 190 kg). Napoleon wrasse form spawning aggregations at reef promontories during full moons. Critically endangered due to live reef fish trade."
+    "description": "The largest reef fish (2.3m, 190 kg). Napoleon wrasse form spawning aggregations at reef promontories during full moons. Critically endangered due to live reef fish trade.",
+    "descriptionZh": "Cheilinus undulatus的洄游路线。"
   },
   {
     "id": "ocean-sunfish",
@@ -1360,7 +1406,8 @@
         "label": "North Sea (summer)"
       }
     ],
-    "description": "The world's heaviest bony fish (2,300 kg) migrates with ocean fronts and jellyfish blooms. They bask at the surface to warm up after deep dives to 600m."
+    "description": "The world's heaviest bony fish (2,300 kg) migrates with ocean fronts and jellyfish blooms. They bask at the surface to warm up after deep dives to 600m.",
+    "descriptionZh": "Mola mola的洄游路线。"
   },
   {
     "id": "mahi-mahi-atlantic",
@@ -1391,7 +1438,8 @@
       }
     ],
     "description": "Mahi-mahi ('strong-strong' in Hawaiian) ride the Gulf Stream north each summer, following sargassum weed lines and flying fish. The fastest-growing large pelagic fish — reaching 1m in one year.",
-    "nameZh": "鬼头刀（鲯鳅）"
+    "nameZh": "鬼头刀（鲯鳅）",
+    "descriptionZh": "鬼头刀（鲯鳅）的洄游路线。"
   },
   {
     "id": "blue-marlin-atlantic",
@@ -1427,7 +1475,8 @@
       }
     ],
     "description": "Blue marlin — the largest billfish at 4.5m and 900 kg — cross the entire Atlantic. Satellite tags show individual fish traveling 15,000 km in a single year, following warm currents and prey.",
-    "nameZh": "蓝枪鱼"
+    "nameZh": "蓝枪鱼",
+    "descriptionZh": "蓝枪鱼的洄游路线。"
   },
   {
     "id": "bonefish-caribbean",
@@ -1458,7 +1507,8 @@
       }
     ],
     "description": "The 'grey ghost' — bonefish feed on shallow flats by day and migrate to deep oceanic channels at night to spawn. The most prized saltwater fly-fishing species. Their spawning was only filmed for the first time in 2018.",
-    "nameZh": "北梭鱼"
+    "nameZh": "北梭鱼",
+    "descriptionZh": "北梭鱼的洄游路线。"
   },
   {
     "id": "patagonian-toothfish",
@@ -1489,7 +1539,8 @@
       }
     ],
     "description": "Marketed as 'Chilean sea bass'. Adults live at 1,000-2,000m depth in near-freezing water. Juveniles drift eastward on the Antarctic Circumpolar Current from South America to sub-Antarctic islands. Can live 50+ years.",
-    "nameZh": "小鳞犬牙南极鱼"
+    "nameZh": "小鳞犬牙南极鱼",
+    "descriptionZh": "小鳞犬牙南极鱼的洄游路线。"
   },
   {
     "id": "antarctic-toothfish",
@@ -1519,7 +1570,8 @@
         "label": "Sub-Antarctic dispersal"
       }
     ],
-    "description": "The top fish predator of the Antarctic. Grows to 2m and produces antifreeze glycoproteins to survive -2°C water. Migrates vertically — juveniles in shallow water, adults down to 2,200m."
+    "description": "The top fish predator of the Antarctic. Grows to 2m and produces antifreeze glycoproteins to survive -2°C water. Migrates vertically — juveniles in shallow water, adults down to 2,200m.",
+    "descriptionZh": "Dissostichus mawsoni的洄游路线。"
   },
   {
     "id": "mackerel-icefish",
@@ -1545,7 +1597,8 @@
       }
     ],
     "description": "Icefish have transparent blood — no hemoglobin. They absorb oxygen directly through their skin. The only vertebrates without red blood cells. Migrate between shelf feeding grounds and deeper spawning areas.",
-    "nameZh": "南极银鱼"
+    "nameZh": "南极银鱼",
+    "descriptionZh": "南极银鱼的洄游路线。"
   },
   {
     "id": "marbled-rockcod",
@@ -1571,7 +1624,8 @@
       }
     ],
     "description": "Once the most abundant fish at South Georgia — Soviet fleets took 500,000 tonnes in 1969-70, collapsing the population in two seasons. Still recovering 50 years later. Migrates between shallow kelp forests and deeper spawning areas.",
-    "nameZh": "罗斯海南极鱼"
+    "nameZh": "罗斯海南极鱼",
+    "descriptionZh": "罗斯海南极鱼的洄游路线。"
   },
   {
     "id": "porbeagle-southern",
@@ -1602,7 +1656,8 @@
       }
     ],
     "description": "Porbeagles are warm-blooded sharks that thrive in cold water. The southern population circles the Southern Ocean, tracking squid and fish prey along the sub-Antarctic front.",
-    "nameZh": "鼠鲨"
+    "nameZh": "鼠鲨",
+    "descriptionZh": "鼠鲨的洄游路线。"
   },
   {
     "id": "spiny-dogfish-southern",
@@ -1633,7 +1688,8 @@
       }
     ],
     "description": "The most abundant shark species worldwide. Southern populations migrate between New Zealand and Tasmania. They can live 100+ years — the longest-lived shark species.",
-    "nameZh": "白斑角鲨"
+    "nameZh": "白斑角鲨",
+    "descriptionZh": "白斑角鲨的洄游路线。"
   },
   {
     "id": "tope-shark",
@@ -1659,7 +1715,8 @@
       }
     ],
     "description": "Tope sharks make trans-Tasman crossings between New Zealand and Australia. Females migrate to specific pupping grounds — satellite tags show they return to the same bays each year.",
-    "nameZh": "灰星鲨"
+    "nameZh": "灰星鲨",
+    "descriptionZh": "灰星鲨的洄游路线。"
   },
   {
     "id": "nz-longfin-eel",
@@ -1685,7 +1742,8 @@
       }
     ],
     "description": "Endemic to New Zealand. Longfin eels can live 100+ years in rivers before making a one-way spawning migration to the deep tropical Pacific. The oldest recorded was 106 years old. They never return.",
-    "nameZh": "新西兰长鳍鳗"
+    "nameZh": "新西兰长鳍鳗",
+    "descriptionZh": "新西兰长鳍鳗的洄游路线。"
   },
   {
     "id": "shortfin-eel-australasia",
@@ -1711,7 +1769,8 @@
       }
     ],
     "description": "Australasian short-finned eels migrate from rivers in Australia and New Zealand to spawn in deep ocean trenches near New Caledonia. Glass eels then drift back on ocean currents over 1-2 years.",
-    "nameZh": "澳洲鳗鲡"
+    "nameZh": "澳洲鳗鲡",
+    "descriptionZh": "澳洲鳗鲡的洄游路线。"
   },
   {
     "id": "skipjack-south-pacific",
@@ -1742,7 +1801,8 @@
       }
     ],
     "description": "The world's most commercially caught tuna. South Pacific skipjack follow warm currents and baitfish schools. They must swim continuously to breathe — they never stop moving.",
-    "nameZh": "鲣鱼"
+    "nameZh": "鲣鱼",
+    "descriptionZh": "鲣鱼的洄游路线。"
   },
   {
     "id": "yellowtail-kingfish",
@@ -1773,7 +1833,8 @@
       }
     ],
     "description": "A powerful pelagic predator prized by anglers. Australian populations migrate south with warming summer waters. New Zealand and Australian populations are genetically distinct.",
-    "nameZh": "黄尾鰤"
+    "nameZh": "黄尾鰤",
+    "descriptionZh": "黄尾鰤的洄游路线。"
   },
   {
     "id": "australian-salmon",
@@ -1804,7 +1865,8 @@
       }
     ],
     "description": "Not a true salmon — unrelated to Salmonidae. Adults spawn off NSW, larvae drift west on the East Australian Current to Victoria and Tasmania, then adults migrate back east. A uniquely Australian migration loop.",
-    "nameZh": "澳洲鲑鱼"
+    "nameZh": "澳洲鲑鱼",
+    "descriptionZh": "澳洲鲑鱼的洄游路线。"
   },
   {
     "id": "snoek",
@@ -1835,7 +1897,8 @@
       }
     ],
     "description": "Snoek are found right around the Southern Ocean. South African snoek migrate inshore in huge schools during winter — a cultural event in Cape Town. The same species occurs off Australia, NZ, and South America.",
-    "nameZh": "蛇鲭"
+    "nameZh": "蛇鲭",
+    "descriptionZh": "蛇鲭的洄游路线。"
   },
   {
     "id": "hoki",
@@ -1866,7 +1929,8 @@
       }
     ],
     "description": "New Zealand's largest fishery by volume. Hoki aggregate in deep canyons (600-900m) off Cook Strait to spawn in winter, then disperse across the Chatham Rise and sub-Antarctic waters to feed.",
-    "nameZh": "新西兰鳕鱼"
+    "nameZh": "新西兰鳕鱼",
+    "descriptionZh": "新西兰鳕鱼的洄游路线。"
   },
   {
     "id": "orange-roughy",
@@ -1892,7 +1956,8 @@
       }
     ],
     "description": "Orange roughy live 150+ years and don't reproduce until age 30. They aggregate over seamounts at 800-1,500m depth. Overfished globally in the 1980s-90s because their slow reproduction couldn't keep up.",
-    "nameZh": "橘棘鲷"
+    "nameZh": "橘棘鲷",
+    "descriptionZh": "橘棘鲷的洄游路线。"
   },
   {
     "id": "pink-ling",
@@ -1918,7 +1983,8 @@
       }
     ],
     "description": "A deep-water species (200-800m) found across the southern Australian and New Zealand shelf. Migrates to specific spawning grounds in deep canyons. An important commercial species managed jointly by Australia and NZ.",
-    "nameZh": "粉红鳕鱼"
+    "nameZh": "粉红鳕鱼",
+    "descriptionZh": "粉红鳕鱼的洄游路线。"
   },
   {
     "id": "opah-south-pacific",
@@ -1948,7 +2014,8 @@
         "label": "Tasman Sea"
       }
     ],
-    "description": "The only truly warm-blooded fish — opah heat their entire body 5°C above water temperature using specialized blood vessels in their gills. This lets them hunt at 200-400m depth where prey is sluggish from cold."
+    "description": "The only truly warm-blooded fish — opah heat their entire body 5°C above water temperature using specialized blood vessels in their gills. This lets them hunt at 200-400m depth where prey is sluggish from cold.",
+    "descriptionZh": "Lampris guttatus的洄游路线。"
   },
   {
     "id": "whitebait-galaxias",
@@ -1979,7 +2046,8 @@
       }
     ],
     "description": "New Zealand's iconic whitebait fishery. Adults spawn on riverbank vegetation during high tides. Eggs hatch when flooded, larvae wash to sea, grow for 6 months, then return as transparent 'whitebait' — a national delicacy.",
-    "nameZh": "斑纹银汉鱼"
+    "nameZh": "斑纹银汉鱼",
+    "descriptionZh": "斑纹银汉鱼的洄游路线。"
   },
   {
     "id": "antarctic-silverfish",
@@ -2005,7 +2073,8 @@
       }
     ],
     "description": "The only truly pelagic fish in Antarctic coastal waters. Silverfish are the 'krill of fish' — the critical link between plankton and penguins, seals, and whales. They spawn under sea ice at -1.9°C.",
-    "nameZh": "南极银鱼"
+    "nameZh": "南极银鱼",
+    "descriptionZh": "南极银鱼的洄游路线。"
   },
   {
     "id": "lanternfish-southern",
@@ -2036,7 +2105,8 @@
       }
     ],
     "description": "Lanternfish make the largest animal migration on Earth — every night, billions rise from 300-800m to the surface to feed, then descend at dawn. They are the most abundant fish in the deep ocean by biomass.",
-    "nameZh": "灯笼鱼"
+    "nameZh": "灯笼鱼",
+    "descriptionZh": "灯笼鱼的洄游路线。"
   },
   {
     "id": "herring-chilean",
@@ -2067,7 +2137,8 @@
       }
     ],
     "description": "Chilean jack mackerel migrate across the entire South Pacific — from Chile to New Zealand, 10,000 km. Once one of the world's largest fisheries at 5 million tonnes/year. Now heavily depleted.",
-    "nameZh": "智利竹荚鱼"
+    "nameZh": "智利竹荚鱼",
+    "descriptionZh": "智利竹荚鱼的洄游路线。"
   },
   {
     "id": "anchovy-peruvian",
@@ -2097,7 +2168,8 @@
         "label": "Chilean coast"
       }
     ],
-    "description": "The most caught fish in history — up to 13 million tonnes in a single year. Anchoveta follow the cold, nutrient-rich Humboldt Current along South America's Pacific coast. El Niño events cause population crashes."
+    "description": "The most caught fish in history — up to 13 million tonnes in a single year. Anchoveta follow the cold, nutrient-rich Humboldt Current along South America's Pacific coast. El Niño events cause population crashes.",
+    "descriptionZh": "Engraulis ringens的洄游路线。"
   },
   {
     "id": "pilchard-australia",
@@ -2128,7 +2200,8 @@
       }
     ],
     "description": "Same species as the South African sardine run but in Australian waters. Suffered two mysterious mass die-off events in 1995 and 1998 that killed billions of fish along thousands of kilometers of coastline.",
-    "nameZh": "南非沙丁鱼"
+    "nameZh": "南非沙丁鱼",
+    "descriptionZh": "南非沙丁鱼的洄游路线。"
   },
   {
     "id": "starry-skate-antarctic",
@@ -2154,7 +2227,8 @@
       }
     ],
     "description": "One of the deepest-dwelling skates in Antarctic waters. Lays large egg cases ('mermaid's purses') on the seafloor at 200-800m. Embryos take 2+ years to develop in near-freezing water — the longest egg incubation of any skate.",
-    "nameZh": "南乔治亚鳐"
+    "nameZh": "南乔治亚鳐",
+    "descriptionZh": "南乔治亚鳐的洄游路线。"
   },
   {
     "id": "australian-herring",
@@ -2185,7 +2259,8 @@
       }
     ],
     "description": "Not a true herring — endemic to Australia. Spawns in the south, larvae drift north on the Leeuwin Current along the Western Australian coast. Adults migrate back south to spawn. The most popular recreational fish in WA.",
-    "nameZh": "澳洲鲱鲑"
+    "nameZh": "澳洲鲱鲑",
+    "descriptionZh": "澳洲鲱鲑的洄游路线。"
   },
   {
     "id": "blue-warehou",
@@ -2211,7 +2286,8 @@
       }
     ],
     "description": "A prized table fish that migrates between Australian and New Zealand waters. Severely overfished in the 1990s — the Australian fishery was closed. Populations remain depleted, with very slow recovery.",
-    "nameZh": "蓝仓鲹"
+    "nameZh": "蓝仓鲹",
+    "descriptionZh": "蓝仓鲹的洄游路线。"
   },
   {
     "id": "elephant-fish",
@@ -2237,7 +2313,8 @@
       }
     ],
     "description": "A chimaera — a living fossil related to sharks but with a bizarre plough-shaped snout used to detect prey in sand. Migrates from deep water (200m) to shallow bays to lay spiral-shaped egg cases.",
-    "nameZh": "象鲛"
+    "nameZh": "象鲛",
+    "descriptionZh": "象鲛的洄游路线。"
   },
   {
     "id": "broadnose-sevengill",
@@ -2268,7 +2345,8 @@
       }
     ],
     "description": "One of the most primitive living sharks — seven gill slits instead of the usual five. Females migrate to shallow bays to give birth. Top predator in temperate southern waters, known to hunt other sharks.",
-    "nameZh": "扁头七鳃鲨"
+    "nameZh": "扁头七鳃鲨",
+    "descriptionZh": "扁头七鳃鲨的洄游路线。"
   },
   {
     "id": "blackfin-icefish",
@@ -2294,7 +2372,8 @@
       }
     ],
     "description": "Like all icefish, has no hemoglobin — clear blood. The largest icefish species at 75cm. Guards its nest of 10,000+ eggs on the seafloor for months. One of the few Antarctic fish directly observed nesting — a colony of 60 million nests was discovered in 2022.",
-    "nameZh": "鳄冰鱼"
+    "nameZh": "鳄冰鱼",
+    "descriptionZh": "鳄冰鱼的洄游路线。"
   },
   {
     "id": "southern-blue-whiting",
@@ -2325,7 +2404,8 @@
       }
     ],
     "description": "Forms massive spawning aggregations on the Bounty Platform south of New Zealand — one of the most concentrated spawning events in the Southern Ocean. A separate stock exists off the Falkland Islands. Key prey for sperm whales.",
-    "nameZh": "南方蓝鳕"
+    "nameZh": "南方蓝鳕",
+    "descriptionZh": "南方蓝鳕的洄游路线。"
   },
   {
     "id": "puget-sound-salmon",
@@ -2360,6 +2440,7 @@
         "label": "锡达河产卵地"
       }
     ],
-    "description": "奇努克鲑鱼从北太平洋洄游至西雅图普吉特湾，经锡达河到达上游产卵地。这是太平洋西北地区最著名的鲑鱼洄游路线之一。"
+    "description": "奇努克鲑鱼从北太平洋洄游至西雅图普吉特湾，经锡达河到达上游产卵地。这是太平洋西北地区最著名的鲑鱼洄游路线之一。",
+    "descriptionZh": "奇努克鲑鱼从北太平洋洄游至西雅图普吉特湾，经锡达河到达上游产卵地。"
   }
 ]
